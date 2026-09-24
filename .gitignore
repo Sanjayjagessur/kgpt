@@ -1,0 +1,28 @@
+# env files (keep .env.example committed)
+.env
+.env*.local
+
+# Claude Code personal settings
+.claude/settings.local.json
+
+# dependencies / build output
+node_modules/
+.next/
+out/
+build/
+*.tsbuildinfo
+next-env.d.ts
+
+# Vercel / Supabase local state
+.vercel
+supabase/.temp/
+
+# Playwright
+test-results/
+playwright-report/
+.playwright-mcp/
+
+# misc
+.DS_Store
+Thumbs.db
+npm-debug.log*
