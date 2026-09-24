@@ -1,0 +1,3245 @@
+{
+  "subject": "french",
+  "grades": {
+    "7": {
+      "units": [
+        {
+          "title": {
+            "en": "Introducing yourself and others",
+            "fr": "Se présenter et présenter les autres",
+            "mfe": "Prezant twa ek prezant lezot"
+          },
+          "summary": {
+            "en": "Students learn to greet people, introduce themselves and their family, and ask simple personal questions in French.",
+            "fr": "Les élèves apprennent à saluer, se présenter, présenter leur famille et poser des questions personnelles simples en français.",
+            "mfe": "Bann elev aprann salie dimounn, prezant zot lekor ek zot fami, ek poz kestion personel senp an franse."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Greetings and introducing yourself",
+                "fr": "Salutations et se présenter",
+                "mfe": "Salitasion ek prezant twa"
+              },
+              "objectives": [
+                "Greet people appropriately in French",
+                "Introduce yourself using basic phrases",
+                "Spell your name using the French alphabet"
+              ]
+            },
+            {
+              "title": {
+                "en": "Talking about family members",
+                "fr": "Parler des membres de la famille",
+                "mfe": "Koz lor manb fami"
+              },
+              "objectives": [
+                "Name close family members in French",
+                "Use possessive adjectives (mon, ma, mes)",
+                "Describe simple family relationships"
+              ]
+            },
+            {
+              "title": {
+                "en": "Describing personality and appearance",
+                "fr": "Décrire la personnalité et l'apparence",
+                "mfe": "Dekrir personalite ek laparans"
+              },
+              "objectives": [
+                "Use common adjectives to describe personality",
+                "Apply adjective agreement with nouns",
+                "Describe a person's appearance simply"
+              ]
+            },
+            {
+              "title": {
+                "en": "Asking and answering simple questions",
+                "fr": "Poser et répondre à des questions simples",
+                "mfe": "Poz ek reponn kestion senp"
+              },
+              "objectives": [
+                "Form basic questions using est-ce que",
+                "Ask about someone's name, age and nationality",
+                "Respond to simple personal questions"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Daily life and routines",
+            "fr": "La vie quotidienne",
+            "mfe": "Lavi toulezour"
+          },
+          "summary": {
+            "en": "Students learn to tell the time, describe daily routines, and talk about days, months and their school timetable.",
+            "fr": "Les élèves apprennent à dire l'heure, décrire leur routine quotidienne et parler des jours, des mois et de leur emploi du temps scolaire.",
+            "mfe": "Bann elev aprann dir ler, dekrir zot rutin toulezour, ek koz lor bann zour, mwa ek zot orer lekol."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Telling the time in French",
+                "fr": "Dire l'heure en français",
+                "mfe": "Dir ler an franse"
+              },
+              "objectives": [
+                "Ask and tell the time in French",
+                "Use time expressions correctly",
+                "Distinguish between formal and informal time"
+              ]
+            },
+            {
+              "title": {
+                "en": "Days, months and dates",
+                "fr": "Les jours, les mois et les dates",
+                "mfe": "Bann zour, mwa ek dat"
+              },
+              "objectives": [
+                "Name the days of the week and months of the year",
+                "Say and write dates in French",
+                "Talk about important dates"
+              ]
+            },
+            {
+              "title": {
+                "en": "My daily routine",
+                "fr": "Ma routine quotidienne",
+                "mfe": "Mo rutin toulezour"
+              },
+              "objectives": [
+                "Use reflexive verbs to describe routines",
+                "Sequence daily activities using time connectors",
+                "Describe a typical school day"
+              ]
+            },
+            {
+              "title": {
+                "en": "My school timetable",
+                "fr": "Mon emploi du temps scolaire",
+                "mfe": "Mo orer lekol"
+              },
+              "objectives": [
+                "Name school subjects in French",
+                "Describe a weekly timetable",
+                "Talk about likes and dislikes regarding subjects"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "My home, school and town",
+            "fr": "Ma maison, mon école et ma ville",
+            "mfe": "Mo lakaz, mo lekol ek mo lavil"
+          },
+          "summary": {
+            "en": "Students describe their house, school and town or village using prepositions of place and simple descriptive vocabulary.",
+            "fr": "Les élèves décrivent leur maison, leur école et leur ville ou village en utilisant des prépositions de lieu et un vocabulaire descriptif simple.",
+            "mfe": "Bann elev dekrir zot lakaz, zot lekol ek zot lavil ouswa vilaz an servi prepozision plas ek vokabiler deskriptif senp."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Describing my house",
+                "fr": "Décrire ma maison",
+                "mfe": "Dekrir mo lakaz"
+              },
+              "objectives": [
+                "Name rooms and furniture in French",
+                "Use prepositions of place",
+                "Describe where objects are located"
+              ]
+            },
+            {
+              "title": {
+                "en": "Describing my school",
+                "fr": "Décrire mon école",
+                "mfe": "Dekrir mo lekol"
+              },
+              "objectives": [
+                "Name school buildings and facilities",
+                "Describe daily school life",
+                "Use adjectives to describe places"
+              ]
+            },
+            {
+              "title": {
+                "en": "My town or village",
+                "fr": "Ma ville ou mon village",
+                "mfe": "Mo lavil ouswa mo vilaz"
+              },
+              "objectives": [
+                "Name places found in a town or village",
+                "Describe location using prepositions",
+                "Give simple directions"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Building basic grammar",
+            "fr": "Construire les bases grammaticales",
+            "mfe": "Batir bann baz gramater"
+          },
+          "summary": {
+            "en": "Students strengthen foundations in gender, articles, present tense verbs and adjective agreement essential for building sentences.",
+            "fr": "Les élèves renforcent les bases sur le genre, les articles, le présent des verbes et l'accord des adjectifs, essentiels pour construire des phrases.",
+            "mfe": "Bann elev ranforsi baz lor zanr, artik, prezan bann verb ek akor adzektif, ki neseser pou konstrir fraz."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Nouns, gender and articles",
+                "fr": "Les noms, le genre et les articles",
+                "mfe": "Nom, zanr ek artik"
+              },
+              "objectives": [
+                "Identify masculine and feminine nouns",
+                "Use definite and indefinite articles correctly",
+                "Form plural nouns"
+              ]
+            },
+            {
+              "title": {
+                "en": "Present tense of regular verbs",
+                "fr": "Le présent des verbes réguliers",
+                "mfe": "Prezan bann verb regilie"
+              },
+              "objectives": [
+                "Conjugate -er verbs in the present tense",
+                "Conjugate -ir and -re verbs in the present tense",
+                "Use present tense verbs in simple sentences"
+              ]
+            },
+            {
+              "title": {
+                "en": "Common irregular verbs",
+                "fr": "Les verbes irréguliers courants",
+                "mfe": "Bann verb irregilie kouran"
+              },
+              "objectives": [
+                "Conjugate être, avoir, aller and faire in the present tense",
+                "Use these verbs in everyday expressions",
+                "Apply irregular verbs in short dialogues"
+              ]
+            },
+            {
+              "title": {
+                "en": "Adjective agreement",
+                "fr": "L'accord des adjectifs",
+                "mfe": "Akor bann adzektif"
+              },
+              "objectives": [
+                "Apply gender and number agreement to adjectives",
+                "Position adjectives correctly in sentences",
+                "Describe people and objects using adjectives"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Reading and understanding texts",
+            "fr": "Lire et comprendre des textes",
+            "mfe": "Lir ek konpran bann text"
+          },
+          "summary": {
+            "en": "Students develop reading strategies to understand simple French texts, instructions and short stories.",
+            "fr": "Les élèves développent des stratégies de lecture pour comprendre des textes simples, des consignes et de courtes histoires en français.",
+            "mfe": "Bann elev devlop bann stratezi lektir pou konpran text senp, lord ek ti zistwar an franse."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Reading simple texts",
+                "fr": "Lire des textes simples",
+                "mfe": "Lir text senp"
+              },
+              "objectives": [
+                "Identify main ideas in a short text",
+                "Use context to guess unknown words",
+                "Answer comprehension questions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Understanding instructions and signs",
+                "fr": "Comprendre les consignes et les panneaux",
+                "mfe": "Konpran lord ek pano"
+              },
+              "objectives": [
+                "Recognise common instructions and classroom commands",
+                "Interpret public signs and notices",
+                "Follow written directions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Building vocabulary through reading",
+                "fr": "Enrichir son vocabulaire par la lecture",
+                "mfe": "Agrandi vokabiler par lektir"
+              },
+              "objectives": [
+                "Use a dictionary to find word meanings",
+                "Group words by theme",
+                "Apply new vocabulary in sentences"
+              ]
+            },
+            {
+              "title": {
+                "en": "Reading short stories",
+                "fr": "Lire de courtes histoires",
+                "mfe": "Lir ti zistwar"
+              },
+              "objectives": [
+                "Summarise a short story in simple French",
+                "Identify characters and setting",
+                "Express a simple opinion about a story"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Writing simple texts",
+            "fr": "Écrire des textes simples",
+            "mfe": "Ekrir text senp"
+          },
+          "summary": {
+            "en": "Students practise writing short descriptions, messages and texts about their interests while correcting common mistakes.",
+            "fr": "Les élèves s'entraînent à écrire de courtes descriptions, des messages et des textes sur leurs intérêts tout en corrigeant les erreurs courantes.",
+            "mfe": "Bann elev pratik ekrir ti deskripsion, mesaz ek text lor zot lintere pandan ki zot korize bann erer kouran."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Writing a short description",
+                "fr": "Écrire une courte description",
+                "mfe": "Ekrir enn ti deskripsion"
+              },
+              "objectives": [
+                "Describe a person, place or object in short sentences",
+                "Use adjectives and connectors effectively",
+                "Organise ideas logically"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing a simple message or letter",
+                "fr": "Écrire un message ou une lettre simple",
+                "mfe": "Ekrir enn mesaz ouswa let senp"
+              },
+              "objectives": [
+                "Use appropriate greetings and closings",
+                "Write a short informal message",
+                "Structure a simple letter"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing about hobbies and interests",
+                "fr": "Écrire sur ses loisirs et intérêts",
+                "mfe": "Ekrir lor lwazir ek lintere"
+              },
+              "objectives": [
+                "Use vocabulary related to hobbies",
+                "Express likes and dislikes in writing",
+                "Write a short paragraph about free time"
+              ]
+            },
+            {
+              "title": {
+                "en": "Checking and correcting your writing",
+                "fr": "Vérifier et corriger son texte",
+                "mfe": "Verifie ek korize to text"
+              },
+              "objectives": [
+                "Identify common spelling and grammar errors",
+                "Use a checklist to review written work",
+                "Improve a text through self-correction"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "French and francophone culture",
+            "fr": "Le français et la culture francophone",
+            "mfe": "Franse ek kiltir frankofon"
+          },
+          "summary": {
+            "en": "Students explore the role of French in Mauritius and discover francophone countries, festivals and songs.",
+            "fr": "Les élèves explorent le rôle du français à Maurice et découvrent des pays francophones, des fêtes et des chansons.",
+            "mfe": "Bann elev explor rol franse dan Moris ek dekouver bann pei frankofon, fet ek sante."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "French in Mauritius",
+                "fr": "Le français à Maurice",
+                "mfe": "Franse dan Moris"
+              },
+              "objectives": [
+                "Describe the place of French among Mauritian languages",
+                "Identify situations where French is used",
+                "Discuss French media in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Festivals and traditions",
+                "fr": "Fêtes et traditions",
+                "mfe": "Fet ek tradision"
+              },
+              "objectives": [
+                "Name festivals celebrated in Mauritius and francophone countries",
+                "Describe traditions using simple French",
+                "Compare celebrations across cultures"
+              ]
+            },
+            {
+              "title": {
+                "en": "Discovering francophone countries",
+                "fr": "Découvrir les pays francophones",
+                "mfe": "Dekouver bann pei frankofon"
+              },
+              "objectives": [
+                "Locate francophone countries on a map",
+                "Name a few facts about francophone countries",
+                "Compare Mauritius with another francophone country"
+              ]
+            },
+            {
+              "title": {
+                "en": "Songs and rhymes in French",
+                "fr": "Chansons et comptines en français",
+                "mfe": "Sante ek komptin an franse"
+              },
+              "objectives": [
+                "Learn vocabulary through a French song or rhyme",
+                "Practise pronunciation and rhythm",
+                "Perform a short song or rhyme"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "8": {
+      "units": [
+        {
+          "title": {
+            "en": "Me, my family and friends",
+            "fr": "Moi, ma famille et mes amis",
+            "mfe": "Mwa, mo fami ek mo bann kamarad"
+          },
+          "summary": {
+            "en": "Students revise and extend self-introduction skills, describe family members and friends using adjectives and possessive forms, and talk about feelings and personality.",
+            "fr": "Les élèves révisent et approfondissent les compétences de présentation personnelle, décrivent les membres de leur famille et leurs amis à l'aide d'adjectifs et de possessifs, et parlent de leurs sentiments et de leur personnalité.",
+            "mfe": "Bann elev revize ek devlop zot kapasite pou prezant zot, dekrir zot fami ek kamarad avek adzektif ek posesif, ek koz lor santiman ek karakter."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Presenting yourself in detail",
+                "fr": "Se présenter en détail",
+                "mfe": "Prezant ou-mem an detay"
+              },
+              "objectives": [
+                "Describe personal details such as age, nationality and origin",
+                "Use adjectives to describe personality traits",
+                "Ask and answer personal questions in French"
+              ]
+            },
+            {
+              "title": {
+                "en": "Describing your family",
+                "fr": "Décrire sa famille",
+                "mfe": "Dekrir so fami"
+              },
+              "objectives": [
+                "Name extended family members in French",
+                "Use possessive adjectives correctly",
+                "Describe family relationships and roles"
+              ]
+            },
+            {
+              "title": {
+                "en": "Talking about your friends",
+                "fr": "Parler de ses amis",
+                "mfe": "Koz lor so bann kamarad"
+              },
+              "objectives": [
+                "Describe a friend's physical appearance and personality",
+                "Compare two people using comparative forms",
+                "Use adjectives with correct agreement"
+              ]
+            },
+            {
+              "title": {
+                "en": "Expressing emotions and feelings",
+                "fr": "Exprimer ses émotions et sentiments",
+                "mfe": "Eksprim so santiman ek lemosion"
+              },
+              "objectives": [
+                "Use the verb être with emotion adjectives",
+                "Describe changes in mood",
+                "Ask others how they feel"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "School life in Mauritius",
+            "fr": "La vie scolaire à Maurice",
+            "mfe": "Lavi lekol dan Moris"
+          },
+          "summary": {
+            "en": "Students learn vocabulary for school subjects, timetables and daily routines, and express preferences and opinions about school life.",
+            "fr": "Les élèves apprennent le vocabulaire des matières scolaires, des emplois du temps et des routines quotidiennes, et expriment leurs préférences et opinions sur la vie scolaire.",
+            "mfe": "Bann elev aprann vokabiler bann matyer lekol, orer ek larout toulezour, ek eksprim zot preferans ek lopinyon lor lavi lekol."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "School subjects and timetables",
+                "fr": "Les matières et l'emploi du temps",
+                "mfe": "Bann matyer ek lorer"
+              },
+              "objectives": [
+                "Name school subjects in French",
+                "Read and describe a weekly timetable",
+                "Ask about class schedules"
+              ]
+            },
+            {
+              "title": {
+                "en": "Daily school routine",
+                "fr": "La routine scolaire quotidienne",
+                "mfe": "Larout lekol toulezour"
+              },
+              "objectives": [
+                "Describe a typical school day using time expressions",
+                "Use reflexive verbs related to daily routine",
+                "Sequence daily activities using time connectors"
+              ]
+            },
+            {
+              "title": {
+                "en": "Expressing school preferences",
+                "fr": "Exprimer ses préférences scolaires",
+                "mfe": "Eksprim so preferans lekol"
+              },
+              "objectives": [
+                "Express likes and dislikes about subjects",
+                "Justify opinions using simple connectors",
+                "Compare subjects using comparative expressions"
+              ]
+            },
+            {
+              "title": {
+                "en": "School rules and instructions",
+                "fr": "Le règlement de l'école",
+                "mfe": "Reglemant lekol"
+              },
+              "objectives": [
+                "Understand common classroom instructions",
+                "Use the imperative to give simple commands",
+                "Discuss school rules and their importance"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Home and neighbourhood",
+            "fr": "La maison et le quartier",
+            "mfe": "Lakaz ek katye"
+          },
+          "summary": {
+            "en": "Students describe their house, rooms and furniture, and talk about their neighbourhood, giving simple directions.",
+            "fr": "Les élèves décrivent leur maison, les pièces et les meubles, et parlent de leur quartier en donnant des indications simples.",
+            "mfe": "Bann elev dekrir zot lakaz, sanm ek meb, ek koz lor zot katye ek donn direksyon senp."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Describing your house",
+                "fr": "Décrire sa maison",
+                "mfe": "Dekrir so lakaz"
+              },
+              "objectives": [
+                "Describe the type and size of a house",
+                "Use prepositions of place to locate rooms",
+                "Describe features of a house using adjectives"
+              ]
+            },
+            {
+              "title": {
+                "en": "Rooms and furniture",
+                "fr": "Les pièces et le mobilier",
+                "mfe": "Sanm ek meb"
+              },
+              "objectives": [
+                "Name rooms and furniture items",
+                "Describe the location of objects in a room",
+                "Use vocabulary related to household items"
+              ]
+            },
+            {
+              "title": {
+                "en": "The neighbourhood and directions",
+                "fr": "Le quartier et les directions",
+                "mfe": "Katye ek direksyon"
+              },
+              "objectives": [
+                "Name places found in a neighbourhood",
+                "Give and follow simple directions",
+                "Ask for directions politely"
+              ]
+            },
+            {
+              "title": {
+                "en": "Comparing houses and homes",
+                "fr": "Comparer les maisons",
+                "mfe": "Konpar bann lakaz"
+              },
+              "objectives": [
+                "Compare two houses using comparative structures",
+                "Describe advantages and disadvantages of different homes",
+                "Express preferences about types of housing"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Leisure and free time",
+            "fr": "Les loisirs et le temps libre",
+            "mfe": "Lwazir ek letan lib"
+          },
+          "summary": {
+            "en": "Students explore vocabulary for leisure activities, sports and family outings, and express personal preferences for hobbies.",
+            "fr": "Les élèves explorent le vocabulaire des loisirs, du sport et des sorties familiales, et expriment leurs préférences personnelles pour les passe-temps.",
+            "mfe": "Bann elev explor vokabiler lwazir, sport ek sorti an fami, ek eksprim zot preferans personel pou pas-tan."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Leisure activities",
+                "fr": "Les activités de loisirs",
+                "mfe": "Aktivite lwazir"
+              },
+              "objectives": [
+                "Name common leisure activities in French",
+                "Use the verb faire with activities",
+                "Describe frequency of activities using time expressions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sport in Mauritius",
+                "fr": "Le sport à Maurice",
+                "mfe": "Sport dan Moris"
+              },
+              "objectives": [
+                "Name popular sports played in Mauritius",
+                "Describe sporting habits and preferences",
+                "Talk about a favourite sports team or athlete"
+              ]
+            },
+            {
+              "title": {
+                "en": "Family outings",
+                "fr": "Les sorties en famille",
+                "mfe": "Sorti an fami"
+              },
+              "objectives": [
+                "Describe typical family outings in Mauritius",
+                "Use vocabulary for places visited during outings",
+                "Narrate a recent outing using simple past markers"
+              ]
+            },
+            {
+              "title": {
+                "en": "Talking about favourite hobbies",
+                "fr": "Parler de ses passe-temps préférés",
+                "mfe": "Koz lor so pas-tan prefere"
+              },
+              "objectives": [
+                "Describe a favourite hobby in detail",
+                "Explain reasons for liking an activity",
+                "Ask classmates about their hobbies"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Mauritian food and meals",
+            "fr": "La nourriture mauricienne et les repas",
+            "mfe": "Manze morisien ek repa"
+          },
+          "summary": {
+            "en": "Students learn vocabulary for food, shopping and dining, and explore traditional Mauritian dishes while practising ordering food in French.",
+            "fr": "Les élèves apprennent le vocabulaire de la nourriture, des courses et des repas, et découvrent des plats traditionnels mauriciens tout en pratiquant la commande de repas en français.",
+            "mfe": "Bann elev aprann vokabiler manze, kourses ek repa, ek dekouver bann pla tradisionel morisien pandan zot pratik komann manze an franse."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Food and meals",
+                "fr": "Les aliments et les repas",
+                "mfe": "Manze ek repa"
+              },
+              "objectives": [
+                "Name common foods and meals in French",
+                "Describe daily meal habits",
+                "Use partitive articles with food items"
+              ]
+            },
+            {
+              "title": {
+                "en": "Shopping at the market",
+                "fr": "Faire les courses au marché",
+                "mfe": "Fer kourses dan bazar"
+              },
+              "objectives": [
+                "Use vocabulary for shopping and quantities",
+                "Ask for and give prices",
+                "Role-play a shopping conversation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Ordering at a restaurant",
+                "fr": "Commander au restaurant",
+                "mfe": "Komann dan resto"
+              },
+              "objectives": [
+                "Use polite expressions to order food",
+                "Understand a simple restaurant menu",
+                "Role-play ordering a meal"
+              ]
+            },
+            {
+              "title": {
+                "en": "Traditional Mauritian recipes",
+                "fr": "Les recettes traditionnelles mauriciennes",
+                "mfe": "Resep tradisionel morisien"
+              },
+              "objectives": [
+                "Describe steps of a simple traditional recipe",
+                "Use imperative forms for instructions",
+                "Discuss cultural food traditions in Mauritius"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Talking about the past",
+            "fr": "Raconter au passé",
+            "mfe": "Rakont dan lepase"
+          },
+          "summary": {
+            "en": "Students are introduced to the passé composé to narrate past events using both avoir and être auxiliaries, building simple stories.",
+            "fr": "Les élèves découvrent le passé composé pour raconter des événements passés avec les auxiliaires avoir et être, en construisant de petits récits.",
+            "mfe": "Bann elev aprann passé composé pou rakont bann levennman lepase avek oksilyer avoir ek être, an konstrir ti resi."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Introducing the passé composé with avoir",
+                "fr": "Introduction au passé composé avec avoir",
+                "mfe": "Introdiksyon passé composé avek avoir"
+              },
+              "objectives": [
+                "Form the passé composé with avoir for regular verbs",
+                "Recognise past participle endings",
+                "Use the passé composé in simple sentences"
+              ]
+            },
+            {
+              "title": {
+                "en": "The passé composé with être",
+                "fr": "Le passé composé avec être",
+                "mfe": "Passé composé avek être"
+              },
+              "objectives": [
+                "Identify verbs that use être as auxiliary",
+                "Apply agreement rules for past participles with être",
+                "Construct sentences describing movement in the past"
+              ]
+            },
+            {
+              "title": {
+                "en": "Narrating a past event",
+                "fr": "Raconter un événement passé",
+                "mfe": "Rakont enn levennman lepase"
+              },
+              "objectives": [
+                "Sequence past events using time connectors",
+                "Combine avoir and être verbs in a narrative",
+                "Describe a personal past experience orally"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing a short story",
+                "fr": "Écrire un petit récit",
+                "mfe": "Ekrir enn ti resi"
+              },
+              "objectives": [
+                "Write a short narrative using the passé composé",
+                "Use appropriate connectors to link ideas",
+                "Proofread text for correct verb agreement"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "The body and health",
+            "fr": "Le corps et la santé",
+            "mfe": "Lekor ek lasante"
+          },
+          "summary": {
+            "en": "Students learn parts of the body, health vocabulary, and how to describe illnesses and give advice on healthy habits.",
+            "fr": "Les élèves apprennent les parties du corps, le vocabulaire de la santé, et comment décrire des maladies et donner des conseils sur des habitudes saines.",
+            "mfe": "Bann elev aprann parti lekor, vokabiler lasante, ek kouma pou dekrir maladi ek donn konsey lor bann labitid sen."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Parts of the body",
+                "fr": "Les parties du corps",
+                "mfe": "Parti lekor"
+              },
+              "objectives": [
+                "Name parts of the body in French",
+                "Describe physical pain using avoir mal à",
+                "Use body vocabulary in simple sentences"
+              ]
+            },
+            {
+              "title": {
+                "en": "At the doctor's",
+                "fr": "Chez le médecin",
+                "mfe": "Kot dokter"
+              },
+              "objectives": [
+                "Describe symptoms of common illnesses",
+                "Role-play a visit to the doctor",
+                "Understand basic medical advice in French"
+              ]
+            },
+            {
+              "title": {
+                "en": "Healthy habits",
+                "fr": "Les habitudes saines",
+                "mfe": "Bann labitid sen"
+              },
+              "objectives": [
+                "Describe healthy lifestyle habits",
+                "Use the imperative to give health recommendations",
+                "Discuss the importance of diet and exercise"
+              ]
+            },
+            {
+              "title": {
+                "en": "Giving health advice",
+                "fr": "Donner des conseils de santé",
+                "mfe": "Donn konsey lasante"
+              },
+              "objectives": [
+                "Use modal expressions to give advice",
+                "Formulate suggestions using il faut and devoir",
+                "Write a short health advice text"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "The environment in Mauritius",
+            "fr": "L'environnement à Maurice",
+            "mfe": "Lanvironnman dan Moris"
+          },
+          "summary": {
+            "en": "Students explore Mauritian flora and fauna, environmental protection, recycling and key environmental challenges facing the island.",
+            "fr": "Les élèves explorent la faune et la flore mauriciennes, la protection de l'environnement, le recyclage et les principaux défis environnementaux de l'île.",
+            "mfe": "Bann elev explor lafon ek laflor morisien, proteksyon lanvironnman, resiklaz ek bann defi lanvironnman prinsipal lil Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Flora and fauna of Mauritius",
+                "fr": "La faune et la flore de Maurice",
+                "mfe": "Lafon ek laflor Moris"
+              },
+              "objectives": [
+                "Name native plants and animals of Mauritius",
+                "Describe habitats using simple vocabulary",
+                "Discuss the importance of biodiversity"
+              ]
+            },
+            {
+              "title": {
+                "en": "Protecting the environment",
+                "fr": "Protéger l'environnement",
+                "mfe": "Protez lanvironnman"
+              },
+              "objectives": [
+                "Discuss ways to protect the environment",
+                "Use vocabulary related to conservation",
+                "Express opinions on environmental responsibility"
+              ]
+            },
+            {
+              "title": {
+                "en": "Recycling and waste",
+                "fr": "Le recyclage et les déchets",
+                "mfe": "Resiklaz ek dese"
+              },
+              "objectives": [
+                "Name types of waste and recycling categories",
+                "Describe recycling practices in Mauritius",
+                "Suggest ways to reduce waste at school"
+              ]
+            },
+            {
+              "title": {
+                "en": "Environmental challenges",
+                "fr": "Les problèmes environnementaux",
+                "mfe": "Problem lanvironnman"
+              },
+              "objectives": [
+                "Identify key environmental problems affecting Mauritius",
+                "Discuss causes and consequences of pollution",
+                "Propose simple solutions to environmental issues"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "units": [
+        {
+          "title": {
+            "en": "Daily life and routines",
+            "fr": "La vie quotidienne et les habitudes",
+            "mfe": "Lavi toulezour ek bann labitid"
+          },
+          "summary": {
+            "en": "Students revise and extend vocabulary and structures for describing daily routines, household chores and free time, while consolidating the present tense and reflexive verbs.",
+            "fr": "Les élèves révisent et enrichissent le vocabulaire et les structures pour décrire la routine quotidienne, les tâches ménagères et le temps libre, tout en consolidant le présent et les verbes pronominaux.",
+            "mfe": "Bann elev revize ek agrandi vokabiler ek striktir pou dekrir rotinn toulezour, bann tas manaz ek letan lib, anmemtan konsolid prezan ek verb pronominal."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "My daily routine",
+                "fr": "Ma routine quotidienne",
+                "mfe": "Mo rotinn toulezour"
+              },
+              "objectives": [
+                "Describe a typical day using reflexive verbs in the present tense",
+                "Use time expressions to sequence daily activities",
+                "Ask and answer questions about routines"
+              ]
+            },
+            {
+              "title": {
+                "en": "Household chores and responsibilities",
+                "fr": "Les tâches ménagères et les responsabilités",
+                "mfe": "Bann tas manaz ek responsabilite"
+              },
+              "objectives": [
+                "Name common household chores in French",
+                "Express obligation using devoir and il faut",
+                "Discuss sharing of chores at home"
+              ]
+            },
+            {
+              "title": {
+                "en": "Free time and hobbies",
+                "fr": "Le temps libre et les loisirs",
+                "mfe": "Letan lib ek bann loazir"
+              },
+              "objectives": [
+                "Talk about leisure activities using aimer, adorer, détester",
+                "Use frequency adverbs to describe habits",
+                "Compare hobbies with a partner"
+              ]
+            },
+            {
+              "title": {
+                "en": "Making plans with friends",
+                "fr": "Organiser des sorties avec des amis",
+                "mfe": "Organiz sorti ar bann kamarad"
+              },
+              "objectives": [
+                "Propose and accept or refuse an invitation",
+                "Use aller + infinitive for near future plans",
+                "Write a short dialogue arranging an outing"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "School life and future plans",
+            "fr": "La vie scolaire et les projets d'avenir",
+            "mfe": "Lavi lekol ek bann proze pou lavenir"
+          },
+          "summary": {
+            "en": "This unit explores school subjects, opinions about learning and initial expressions of future ambitions, introducing the simple future tense.",
+            "fr": "Cette unité explore les matières scolaires, les opinions sur l'apprentissage et les premières expressions des ambitions futures, avec l'introduction du futur simple.",
+            "mfe": "Sa lini-la explor bann matyer lekol, opinion lor letid ek premye ekspresyon lor bann anbisyon pou lavenir, avek lentrodiksyon fitir sinp."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Talking about school subjects",
+                "fr": "Parler des matières scolaires",
+                "mfe": "Koz lor bann matyer lekol"
+              },
+              "objectives": [
+                "Name school subjects and give opinions with adjectives",
+                "Justify preferences using parce que",
+                "Compare timetables with classmates"
+              ]
+            },
+            {
+              "title": {
+                "en": "Rules and life at school",
+                "fr": "Le règlement et la vie à l'école",
+                "mfe": "Reglman ek lavi dan lekol"
+              },
+              "objectives": [
+                "Express school rules using il faut and il est interdit de",
+                "Describe a typical school day",
+                "Discuss respect for rules in a Mauritian school context"
+              ]
+            },
+            {
+              "title": {
+                "en": "My future career",
+                "fr": "Mon futur métier",
+                "mfe": "Mo metie fitir"
+              },
+              "objectives": [
+                "Introduce the simple future tense with regular verbs",
+                "Talk about future career ambitions",
+                "Ask a classmate about their future plans"
+              ]
+            },
+            {
+              "title": {
+                "en": "Studying abroad or locally",
+                "fr": "Étudier à l'étranger ou localement",
+                "mfe": "Etidye a letranze ouswa lokalman"
+              },
+              "objectives": [
+                "Give reasons for choosing further studies",
+                "Use comparatives to weigh options",
+                "Write a short paragraph about future study plans"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Travel and transport in Mauritius",
+            "fr": "Les voyages et les transports à Maurice",
+            "mfe": "Vwayaz ek transpor dan Moris"
+          },
+          "summary": {
+            "en": "Students learn to describe journeys, means of transport and past travel experiences using the passé composé.",
+            "fr": "Les élèves apprennent à décrire des voyages, des moyens de transport et des expériences passées à l'aide du passé composé.",
+            "mfe": "Bann elev aprann dekrir vwayaz, bann mwayen transpor ek eksperyans pase servi pase kompoze."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Means of transport",
+                "fr": "Les moyens de transport",
+                "mfe": "Bann mwayen transpor"
+              },
+              "objectives": [
+                "Name different means of transport used in Mauritius",
+                "Express preferences for transport with reasons",
+                "Give directions using prepositions of place"
+              ]
+            },
+            {
+              "title": {
+                "en": "A memorable journey",
+                "fr": "Un voyage mémorable",
+                "mfe": "Enn vwayaz memorab"
+              },
+              "objectives": [
+                "Form the passé composé with avoir and être",
+                "Narrate a past trip or excursion",
+                "Sequence past events using time connectors"
+              ]
+            },
+            {
+              "title": {
+                "en": "Planning a school excursion",
+                "fr": "Organiser une excursion scolaire",
+                "mfe": "Organiz enn ekskirsyon lekol"
+              },
+              "objectives": [
+                "Discuss logistics of an excursion using future tense",
+                "Write an itinerary for a class trip",
+                "Give advice on what to bring"
+              ]
+            },
+            {
+              "title": {
+                "en": "Buying tickets and asking for help",
+                "fr": "Acheter des billets et demander de l'aide",
+                "mfe": "Aste tikke ek demann led"
+              },
+              "objectives": [
+                "Use polite expressions to ask for help while travelling",
+                "Role-play buying a bus or plane ticket",
+                "Understand simple travel announcements in French"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Health and wellbeing",
+            "fr": "La santé et le bien-être",
+            "mfe": "Lasante ek byennet"
+          },
+          "summary": {
+            "en": "This unit covers body parts, illnesses, healthy habits and giving advice, reinforcing the imperative mood.",
+            "fr": "Cette unité aborde les parties du corps, les maladies, les habitudes saines et les conseils, en renforçant l'impératif.",
+            "mfe": "Sa lini-la kouver bann parti lekor, maladi, bann bon labitid ek konsey, pou ranforsi lenperatif."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Parts of the body and illnesses",
+                "fr": "Les parties du corps et les maladies",
+                "mfe": "Bann parti lekor ek maladi"
+              },
+              "objectives": [
+                "Name parts of the body in French",
+                "Describe common symptoms and illnesses",
+                "Understand simple dialogues at the doctor's"
+              ]
+            },
+            {
+              "title": {
+                "en": "At the doctor's",
+                "fr": "Chez le médecin",
+                "mfe": "Kot dokter"
+              },
+              "objectives": [
+                "Role-play a visit to the doctor",
+                "Use il faut and imperative to give health advice",
+                "Ask questions about symptoms"
+              ]
+            },
+            {
+              "title": {
+                "en": "Healthy eating habits",
+                "fr": "Les habitudes alimentaires saines",
+                "mfe": "Bann labitid manze ki bon pou lasante"
+              },
+              "objectives": [
+                "Discuss food groups and balanced diet",
+                "Give advice on healthy eating using the imperative",
+                "Compare local Mauritian dishes for their nutritional value"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sport and exercise",
+                "fr": "Le sport et l'exercice",
+                "mfe": "Espor ek lexersis"
+              },
+              "objectives": [
+                "Talk about sports practised in Mauritius",
+                "Express frequency of physical activity",
+                "Encourage a friend to exercise using the imperative"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Media and technology",
+            "fr": "Les médias et la technologie",
+            "mfe": "Bann medya ek teknolozi"
+          },
+          "summary": {
+            "en": "Students explore vocabulary related to digital devices, social media and communication, developing skills to express opinions and give simple arguments.",
+            "fr": "Les élèves explorent le vocabulaire lié aux appareils numériques, aux réseaux sociaux et à la communication, tout en développant des compétences pour exprimer des opinions et de simples arguments.",
+            "mfe": "Bann elev explor vokabiler lye ar aparey dizital, rezo sosyal ek kominikasyon, anmemtan devlop konpetans pou expriman opinyon ek bann senp lardiman."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Digital devices and everyday use",
+                "fr": "Les appareils numériques et leur usage quotidien",
+                "mfe": "Aparey dizital ek zot lizaz toulezour"
+              },
+              "objectives": [
+                "Name common digital devices in French",
+                "Describe how often technology is used",
+                "Discuss advantages of technology in daily life"
+              ]
+            },
+            {
+              "title": {
+                "en": "Social media and friendship",
+                "fr": "Les réseaux sociaux et l'amitié",
+                "mfe": "Rezo sosyal ek lamitye"
+              },
+              "objectives": [
+                "Discuss the role of social media in staying connected",
+                "Give simple opinions using je pense que and à mon avis",
+                "Debate the pros and cons of social media use"
+              ]
+            },
+            {
+              "title": {
+                "en": "Staying safe online",
+                "fr": "Rester en sécurité en ligne",
+                "mfe": "Rest an sekirite lor internet"
+              },
+              "objectives": [
+                "Discuss online safety rules",
+                "Use il ne faut pas to express prohibitions",
+                "Write tips for safe internet use"
+              ]
+            },
+            {
+              "title": {
+                "en": "French media: TV, radio and press",
+                "fr": "Les médias francophones : télé, radio et presse",
+                "mfe": "Medya frankofonn: televizyon, radio ek lapres"
+              },
+              "objectives": [
+                "Identify types of French-language media available in Mauritius",
+                "Summarise a short news item in simple French",
+                "Compare Mauritian and French media habits"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Environment and nature in Mauritius",
+            "fr": "L'environnement et la nature à Maurice",
+            "mfe": "Lanvironnman ek lanatir dan Moris"
+          },
+          "summary": {
+            "en": "This unit focuses on environmental vocabulary, protecting nature and local ecosystems, encouraging students to express opinions and simple solutions.",
+            "fr": "Cette unité met l'accent sur le vocabulaire environnemental, la protection de la nature et des écosystèmes locaux, en encourageant les élèves à exprimer des opinions et des solutions simples.",
+            "mfe": "Sa lini-la met lakse lor vokabiler lanvironnman, proteksyon lanatir ek ekosistenm lokal, pou ankouraz bann elev expriman opinyon ek bann solisyon senp."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Mauritius's natural landscapes",
+                "fr": "Les paysages naturels de Maurice",
+                "mfe": "Bann peyzaz natirel Moris"
+              },
+              "objectives": [
+                "Describe natural landscapes using adjectives",
+                "Name local flora and fauna in French",
+                "Express appreciation for nature"
+              ]
+            },
+            {
+              "title": {
+                "en": "Protecting the environment",
+                "fr": "Protéger l'environnement",
+                "mfe": "Protez lanvironnman"
+              },
+              "objectives": [
+                "Discuss environmental problems such as pollution and deforestation",
+                "Propose simple solutions using on pourrait and on devrait",
+                "Use the conditional in a basic form"
+              ]
+            },
+            {
+              "title": {
+                "en": "Recycling and waste management",
+                "fr": "Le recyclage et la gestion des déchets",
+                "mfe": "Rekiklaz ek zesyon dese"
+              },
+              "objectives": [
+                "Name types of waste and recycling practices",
+                "Discuss recycling habits at home and school",
+                "Design a poster promoting recycling"
+              ]
+            },
+            {
+              "title": {
+                "en": "Climate change and its effects",
+                "fr": "Le changement climatique et ses effets",
+                "mfe": "Sanzman klimatik ek so lefe"
+              },
+              "objectives": [
+                "Understand simple texts about climate change",
+                "Discuss effects of climate change on Mauritius",
+                "Express concern and hope using simple structures"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Mauritian culture and traditions",
+            "fr": "La culture et les traditions mauriciennes",
+            "mfe": "Kiltir ek tradisyon morisyen"
+          },
+          "summary": {
+            "en": "Students describe festivals, food and traditions of Mauritius's diverse communities, building descriptive and narrative skills in French.",
+            "fr": "Les élèves décrivent les fêtes, la nourriture et les traditions des diverses communautés de Maurice, en développant des compétences descriptives et narratives en français.",
+            "mfe": "Bann elev dekrir fet, manze ek tradisyon bann diferan kominote Moris, pou devlop konpetans deskriptif ek naratif an franse."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Festivals of Mauritius",
+                "fr": "Les fêtes à Maurice",
+                "mfe": "Bann fet dan Moris"
+              },
+              "objectives": [
+                "Name major festivals celebrated in Mauritius",
+                "Describe festival customs using present tense",
+                "Compare festival traditions across communities respectfully"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mauritian cuisine",
+                "fr": "La cuisine mauricienne",
+                "mfe": "Lakwizinn morisyen"
+              },
+              "objectives": [
+                "Describe traditional Mauritian dishes in French",
+                "Give a simple recipe using imperative forms",
+                "Discuss favourite local foods"
+              ]
+            },
+            {
+              "title": {
+                "en": "Music and dance traditions",
+                "fr": "La musique et les traditions de danse",
+                "mfe": "Lamizik ek tradisyon danse"
+              },
+              "objectives": [
+                "Describe traditional Mauritian music such as séga",
+                "Talk about cultural events and performances",
+                "Express feelings about music and dance"
+              ]
+            },
+            {
+              "title": {
+                "en": "Multiculturalism and unity",
+                "fr": "Le multiculturalisme et l'unité",
+                "mfe": "Miltikilturalism ek linite"
+              },
+              "objectives": [
+                "Discuss the value of living in a multicultural society",
+                "Use connectors to compare and contrast traditions",
+                "Write a short paragraph on unity in diversity"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Grammar in action and written expression",
+            "fr": "La grammaire en action et l'expression écrite",
+            "mfe": "Gramer an aksyon ek lekspresyon ekrit"
+          },
+          "summary": {
+            "en": "This consolidation unit strengthens key grammar points from the year, including relative pronouns and past tenses, while developing writing skills for short compositions.",
+            "fr": "Cette unité de consolidation renforce les principaux points de grammaire de l'année, y compris les pronoms relatifs et les temps du passé, tout en développant les compétences rédactionnelles pour de courtes rédactions.",
+            "mfe": "Sa lini konsolidasyon-la ranforsi bann pwin gramer prinsipal lane-la, ki inklir pronom relatif ek tan pase, anmemtan devlop konpetans ekri pou bann kout redaksyon."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Relative pronouns qui and que",
+                "fr": "Les pronoms relatifs qui et que",
+                "mfe": "Pronom relatif qui ek que"
+              },
+              "objectives": [
+                "Understand the use of qui and que in sentences",
+                "Combine two simple sentences using relative pronouns",
+                "Practise with Mauritian everyday examples"
+              ]
+            },
+            {
+              "title": {
+                "en": "Passé composé versus imparfait",
+                "fr": "Le passé composé et l'imparfait",
+                "mfe": "Pase kompoze ek lenparfe"
+              },
+              "objectives": [
+                "Distinguish uses of passé composé and imparfait",
+                "Narrate a past event combining both tenses",
+                "Correct common errors in past tense usage"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing a short narrative",
+                "fr": "Rédiger un court récit",
+                "mfe": "Ekrir enn ti resi"
+              },
+              "objectives": [
+                "Plan a short narrative with a beginning, middle and end",
+                "Use connectors to structure a story",
+                "Write and proofread a short composition"
+              ]
+            },
+            {
+              "title": {
+                "en": "Giving opinions in writing",
+                "fr": "Exprimer son opinion à l'écrit",
+                "mfe": "Expriman opinyon dan lekrityir"
+              },
+              "objectives": [
+                "Use expressions of opinion in written French",
+                "Support opinions with simple reasons and examples",
+                "Write a short opinion paragraph on a familiar topic"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "units": [
+        {
+          "title": {
+            "en": "Myself and my family",
+            "fr": "Moi et ma famille",
+            "mfe": "Mwa ek mo fami"
+          },
+          "summary": {
+            "en": "Students learn to describe themselves, their family members and relationships using appropriate vocabulary and grammar structures in French.",
+            "fr": "Les élèves apprennent à se décrire, à décrire leur famille et leurs relations à l'aide d'un vocabulaire et de structures grammaticales appropriés en français.",
+            "mfe": "Bann elev aprann dekrir zot, zot fami ek relasion zot avek bann bon vokabiler ek striktir gramatikal an franse."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Introducing yourself",
+                "fr": "Se présenter",
+                "mfe": "Prezant twa"
+              },
+              "objectives": [
+                "Use verbs être and avoir to describe personal details",
+                "Ask and answer questions about name, age and nationality",
+                "Apply correct adjective agreement when describing oneself"
+              ]
+            },
+            {
+              "title": {
+                "en": "My family members",
+                "fr": "Les membres de ma famille",
+                "mfe": "Bann manb mo fami"
+              },
+              "objectives": [
+                "Name immediate and extended family members in French",
+                "Use possessive adjectives correctly",
+                "Describe family relationships in short sentences"
+              ]
+            },
+            {
+              "title": {
+                "en": "Describing physical appearance",
+                "fr": "Décrire l'apparence physique",
+                "mfe": "Dekrir laparans fizik"
+              },
+              "objectives": [
+                "Use adjectives to describe hair, eyes and build",
+                "Form questions to ask about someone's appearance",
+                "Compare two people using comparatives"
+              ]
+            },
+            {
+              "title": {
+                "en": "Personality and character",
+                "fr": "La personnalité et le caractère",
+                "mfe": "Personalite ek karakter"
+              },
+              "objectives": [
+                "List common personality adjectives in French",
+                "Use intensifiers such as très and assez",
+                "Write a short paragraph describing a family member's character"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "School life",
+            "fr": "La vie scolaire",
+            "mfe": "Lavi lekol"
+          },
+          "summary": {
+            "en": "This unit focuses on vocabulary and expressions related to school subjects, daily routines and the school environment in Mauritius.",
+            "fr": "Cette unité porte sur le vocabulaire et les expressions liés aux matières scolaires, à la routine quotidienne et à l'environnement scolaire à Maurice.",
+            "mfe": "Sa linite-la konsantre lor vokabiler ek expresion ki relye ar bann matier lekol, rutinn toulezour ek lanvironnman lekol Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "School subjects and timetable",
+                "fr": "Les matières et l'emploi du temps",
+                "mfe": "Bann matier ek program lekol"
+              },
+              "objectives": [
+                "Name common school subjects in French",
+                "Talk about a weekly timetable using days and times",
+                "Express preferences using aimer and préférer"
+              ]
+            },
+            {
+              "title": {
+                "en": "Daily school routine",
+                "fr": "La routine scolaire quotidienne",
+                "mfe": "Rutinn toulezour lekol"
+              },
+              "objectives": [
+                "Use reflexive verbs to describe a daily routine",
+                "Sequence actions using time expressions",
+                "Describe a typical school day in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "The school environment",
+                "fr": "L'environnement scolaire",
+                "mfe": "Lanvironnman lekol"
+              },
+              "objectives": [
+                "Name school facilities and classroom objects",
+                "Give simple instructions using the imperative",
+                "Describe rules and regulations at school"
+              ]
+            },
+            {
+              "title": {
+                "en": "Talking about teachers and classmates",
+                "fr": "Parler des professeurs et des camarades",
+                "mfe": "Koz lor profeser ek kamarad"
+              },
+              "objectives": [
+                "Describe relationships with teachers and classmates",
+                "Use adjectives to express opinions about school life",
+                "Write a short text about a favourite subject and teacher"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "At home",
+            "fr": "Chez moi",
+            "mfe": "Kot mwa"
+          },
+          "summary": {
+            "en": "Students explore vocabulary for describing homes, rooms and household activities, reflecting the diversity of housing in Mauritius.",
+            "fr": "Les élèves explorent le vocabulaire pour décrire les maisons, les pièces et les activités domestiques, reflétant la diversité du logement à Maurice.",
+            "mfe": "Bann elev explor vokabiler pou dekrir lakaz, lasal ek aktivite domestik, ki reflet diversite lozman Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Describing your house",
+                "fr": "Décrire sa maison",
+                "mfe": "Dekrir so lakaz"
+              },
+              "objectives": [
+                "Name rooms and parts of a house in French",
+                "Use prepositions of place to describe layout",
+                "Describe types of housing found in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Household chores",
+                "fr": "Les tâches ménagères",
+                "mfe": "Bann travay lakaz"
+              },
+              "objectives": [
+                "Name common household chores",
+                "Use the near future tense to talk about planned chores",
+                "Discuss sharing of chores within a family"
+              ]
+            },
+            {
+              "title": {
+                "en": "My neighbourhood",
+                "fr": "Mon quartier",
+                "mfe": "Mo katie"
+              },
+              "objectives": [
+                "Describe a neighbourhood using appropriate vocabulary",
+                "Give directions using prepositions and imperatives",
+                "Compare urban and rural areas in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Meals at home",
+                "fr": "Les repas à la maison",
+                "mfe": "Bann repa dan lakaz"
+              },
+              "objectives": [
+                "Name meals and typical Mauritian dishes in French",
+                "Use partitive articles correctly",
+                "Describe a family meal routine"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Leisure and free time",
+            "fr": "Les loisirs et le temps libre",
+            "mfe": "Bann loisir ek letan lib"
+          },
+          "summary": {
+            "en": "This unit covers vocabulary and structures for talking about hobbies, sports and entertainment popular among Mauritian teenagers.",
+            "fr": "Cette unité couvre le vocabulaire et les structures pour parler des loisirs, des sports et des divertissements populaires chez les adolescents mauriciens.",
+            "mfe": "Sa linite-la kouver vokabiler ek striktir pou koz lor loisir, sport ek divertisman ki popiler kot bann zenn Morisien."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Talking about hobbies",
+                "fr": "Parler de ses loisirs",
+                "mfe": "Koz lor so bann loisir"
+              },
+              "objectives": [
+                "Name common hobbies and activities in French",
+                "Use faire de and jouer à correctly",
+                "Express likes and dislikes about hobbies"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sports in Mauritius",
+                "fr": "Le sport à Maurice",
+                "mfe": "Sport dan Moris"
+              },
+              "objectives": [
+                "Name popular sports played in Mauritius",
+                "Describe frequency of activities using adverbs of time",
+                "Talk about a favourite sports team or event"
+              ]
+            },
+            {
+              "title": {
+                "en": "Music, film and entertainment",
+                "fr": "La musique, le cinéma et les divertissements",
+                "mfe": "Lamizik, sinema ek divertisman"
+              },
+              "objectives": [
+                "Discuss preferences for music and films",
+                "Use the conditional to make polite suggestions",
+                "Describe a recent entertainment outing"
+              ]
+            },
+            {
+              "title": {
+                "en": "Planning a weekend outing",
+                "fr": "Organiser une sortie le week-end",
+                "mfe": "Planifie enn sorti wikenn"
+              },
+              "objectives": [
+                "Use the future tense to plan an outing",
+                "Suggest and negotiate activities with friends",
+                "Write an informal invitation in French"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Travel and holidays",
+            "fr": "Voyages et vacances",
+            "mfe": "Vwayaz ek vakans"
+          },
+          "summary": {
+            "en": "Students learn vocabulary and grammar to describe travel experiences, holiday destinations and transport, using Mauritius and abroad as contexts.",
+            "fr": "Les élèves apprennent le vocabulaire et la grammaire pour décrire des expériences de voyage, des destinations de vacances et les transports, en utilisant Maurice et l'étranger comme contextes.",
+            "mfe": "Bann elev aprann vokabiler ek gramer pou dekrir lexperyans vwayaz, destinasion vakans ek transport, servi Moris ek let pei kouma kontex."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Means of transport",
+                "fr": "Les moyens de transport",
+                "mfe": "Bann mwayin transport"
+              },
+              "objectives": [
+                "Name different means of transport in French",
+                "Use prendre and aller correctly with transport",
+                "Describe how you travel to school or work"
+              ]
+            },
+            {
+              "title": {
+                "en": "Talking about past holidays",
+                "fr": "Parler de vacances passées",
+                "mfe": "Koz lor vakans lipase"
+              },
+              "objectives": [
+                "Use the passé composé to narrate past events",
+                "Describe a memorable holiday in Mauritius or abroad",
+                "Sequence events using time connectors"
+              ]
+            },
+            {
+              "title": {
+                "en": "Booking accommodation",
+                "fr": "Réserver un hébergement",
+                "mfe": "Reserv enn lozman"
+              },
+              "objectives": [
+                "Use vocabulary related to hotels and accommodation",
+                "Role-play a booking conversation",
+                "Ask and answer questions about facilities and prices"
+              ]
+            },
+            {
+              "title": {
+                "en": "Describing a dream destination",
+                "fr": "Décrire une destination de rêve",
+                "mfe": "Dekrir enn destinasion rev"
+              },
+              "objectives": [
+                "Use the conditional to express wishes",
+                "Describe an ideal holiday destination",
+                "Justify choices using simple connectors"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Health and wellbeing",
+            "fr": "Santé et bien-être",
+            "mfe": "Lasante ek byennet"
+          },
+          "summary": {
+            "en": "This unit introduces vocabulary and structures for discussing health, illness and healthy lifestyles relevant to teenagers.",
+            "fr": "Cette unité introduit le vocabulaire et les structures pour discuter de la santé, des maladies et des modes de vie sains, pertinents pour les adolescents.",
+            "mfe": "Sa linite-la introdir vokabiler ek striktir pou diskit lasante, maladi ek mod vi ki en bon sante, ki relevan pou bann zenn."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Parts of the body and illness",
+                "fr": "Les parties du corps et la maladie",
+                "mfe": "Bann parti lekor ek maladi"
+              },
+              "objectives": [
+                "Name parts of the body in French",
+                "Express pain and symptoms using avoir mal à",
+                "Role-play a visit to the doctor"
+              ]
+            },
+            {
+              "title": {
+                "en": "Healthy eating habits",
+                "fr": "Les habitudes alimentaires saines",
+                "mfe": "Bann labitid manze en bon sante"
+              },
+              "objectives": [
+                "Discuss healthy and unhealthy foods",
+                "Use il faut and devoir to give advice",
+                "Describe a balanced daily diet"
+              ]
+            },
+            {
+              "title": {
+                "en": "Exercise and lifestyle",
+                "fr": "L'exercice et le mode de vie",
+                "mfe": "Lexersis ek mod vi"
+              },
+              "objectives": [
+                "Talk about physical activity habits",
+                "Use adverbs of frequency correctly",
+                "Give advice for a healthy lifestyle"
+              ]
+            },
+            {
+              "title": {
+                "en": "Stress and mental wellbeing",
+                "fr": "Le stress et le bien-être mental",
+                "mfe": "Stress ek byennet mantal"
+              },
+              "objectives": [
+                "Discuss causes and effects of stress among teenagers",
+                "Express feelings using reflexive verbs",
+                "Suggest strategies to manage stress"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Environment and society",
+            "fr": "L'environnement et la société",
+            "mfe": "Lanvironnman ek lasosiete"
+          },
+          "summary": {
+            "en": "Students explore environmental issues and social topics affecting Mauritius, developing vocabulary to discuss problems and solutions.",
+            "fr": "Les élèves explorent les questions environnementales et sociales touchant Maurice, développant un vocabulaire pour discuter des problèmes et des solutions.",
+            "mfe": "Bann elev explor problem lanvironnman ek sosial ki afekte Moris, devlop vokabiler pou diskit problem ek solision."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Protecting the environment",
+                "fr": "Protéger l'environnement",
+                "mfe": "Protez lanvironnman"
+              },
+              "objectives": [
+                "Name environmental problems such as pollution and deforestation",
+                "Use the subjunctive after il faut que",
+                "Discuss ways to protect the environment in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Climate and weather",
+                "fr": "Le climat et la météo",
+                "mfe": "Klima ek meteo"
+              },
+              "objectives": [
+                "Describe weather conditions in French",
+                "Use impersonal expressions with il fait",
+                "Discuss climate change impacts on island life"
+              ]
+            },
+            {
+              "title": {
+                "en": "Social issues in Mauritius",
+                "fr": "Les questions sociales à Maurice",
+                "mfe": "Bann problem sosial dan Moris"
+              },
+              "objectives": [
+                "Discuss issues such as inequality and unemployment",
+                "Use expressions of opinion such as je pense que",
+                "Present a simple argument on a social issue"
+              ]
+            },
+            {
+              "title": {
+                "en": "Community and volunteering",
+                "fr": "La communauté et le bénévolat",
+                "mfe": "Kominote ek volonteria"
+              },
+              "objectives": [
+                "Talk about community projects and volunteering",
+                "Use the passé composé and imparfait together",
+                "Describe a personal volunteering experience"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "The world of work",
+            "fr": "Le monde du travail",
+            "mfe": "Lemond travay"
+          },
+          "summary": {
+            "en": "This unit prepares students to discuss jobs, career aspirations and work experience, building vocabulary useful for future examinations.",
+            "fr": "Cette unité prépare les élèves à discuter des métiers, des aspirations professionnelles et de l'expérience de travail, en développant un vocabulaire utile pour les examens futurs.",
+            "mfe": "Sa linite-la prepar bann elev pou diskit metie, aspirasion karyer ek lexperyans travay, devlop vokabiler itil pou bann lexame fitir."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Jobs and professions",
+                "fr": "Les métiers et les professions",
+                "mfe": "Bann metie ek profesion"
+              },
+              "objectives": [
+                "Name common jobs and professions in French",
+                "Describe what a job involves using simple sentences",
+                "Discuss gender agreement for professions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Talking about career plans",
+                "fr": "Parler de ses projets professionnels",
+                "mfe": "Koz lor plan karyer"
+              },
+              "objectives": [
+                "Use the future tense to talk about career plans",
+                "Express ambitions using vouloir and espérer",
+                "Justify a career choice with simple reasons"
+              ]
+            },
+            {
+              "title": {
+                "en": "Work experience and part-time jobs",
+                "fr": "L'expérience professionnelle et les petits boulots",
+                "mfe": "Lexperyans travay ek pti travay"
+              },
+              "objectives": [
+                "Describe a work experience or part-time job",
+                "Use the passé composé to narrate past work tasks",
+                "Discuss advantages and disadvantages of part-time work for students"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing a simple job application",
+                "fr": "Rédiger une simple lettre de candidature",
+                "mfe": "Ekrir enn sinp let candidatir"
+              },
+              "objectives": [
+                "Identify the structure of a formal letter in French",
+                "Use formal register and polite expressions",
+                "Write a short job application letter"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "11": {
+      "units": [
+        {
+          "title": {
+            "en": "Daily life and family",
+            "fr": "La vie quotidienne et la famille",
+            "mfe": "Lavi tou lezour ek fami"
+          },
+          "summary": {
+            "en": "Revise and extend vocabulary and structures for describing routines, family relationships and home life in preparation for the O Level exam.",
+            "fr": "Réviser et approfondir le vocabulaire et les structures pour décrire les routines, les relations familiales et la vie à la maison en préparation à l'examen O Level.",
+            "mfe": "Revize ek amelior vokabiler ek striktir pou dekrir rutin, relasion familial ek lavi lakaz pou prepar lexame O Level."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Describing daily routines",
+                "fr": "Décrire les routines quotidiennes",
+                "mfe": "Dekrir rutin toulezour"
+              },
+              "objectives": [
+                "Use reflexive verbs correctly in the present tense",
+                "Sequence daily activities using time expressions",
+                "Write a short paragraph describing a typical day"
+              ]
+            },
+            {
+              "title": {
+                "en": "Family relationships and roles",
+                "fr": "Les relations et rôles familiaux",
+                "mfe": "Relasion ek rol dan fami"
+              },
+              "objectives": [
+                "Describe family members and their roles using appropriate vocabulary",
+                "Compare family structures across Mauritian communities",
+                "Use possessive adjectives accurately"
+              ]
+            },
+            {
+              "title": {
+                "en": "Household chores and responsibilities",
+                "fr": "Les tâches ménagères et les responsabilités",
+                "mfe": "Travay lakaz ek responsabilite"
+              },
+              "objectives": [
+                "Discuss the sharing of chores at home",
+                "Use the near future tense to plan tasks",
+                "Express opinions about fairness in household duties"
+              ]
+            },
+            {
+              "title": {
+                "en": "Celebrations and family traditions",
+                "fr": "Les célébrations et traditions familiales",
+                "mfe": "Fet ek tradision familial"
+              },
+              "objectives": [
+                "Describe festivals celebrated by Mauritian families",
+                "Use the perfect tense to narrate past celebrations",
+                "Compare traditions across cultures respectfully"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "School and future plans",
+            "fr": "L'école et les projets d'avenir",
+            "mfe": "Lekol ek plan pou lavenir"
+          },
+          "summary": {
+            "en": "Explore vocabulary and grammar for discussing school life, subjects, examinations and career ambitions.",
+            "fr": "Explorer le vocabulaire et la grammaire pour parler de la vie scolaire, des matières, des examens et des projets professionnels.",
+            "mfe": "Explor vokabiler ek gramer pou koz lor lavi lekol, matier, lexame ek plan pou karyer."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "School subjects and timetables",
+                "fr": "Les matières scolaires et l'emploi du temps",
+                "mfe": "Matier lekol ek program letan"
+              },
+              "objectives": [
+                "Name and discuss preferred school subjects",
+                "Describe a school timetable using time vocabulary",
+                "Justify subject preferences with reasons"
+              ]
+            },
+            {
+              "title": {
+                "en": "Exams and study habits",
+                "fr": "Les examens et les habitudes d'étude",
+                "mfe": "Lexame ek labitid pou etidye"
+              },
+              "objectives": [
+                "Describe examination preparation strategies",
+                "Use the conditional to give advice",
+                "Discuss stress and time management before exams"
+              ]
+            },
+            {
+              "title": {
+                "en": "Careers and ambitions",
+                "fr": "Les métiers et les ambitions",
+                "mfe": "Metie ek anbision"
+              },
+              "objectives": [
+                "Name common professions in French",
+                "Express future plans using the future tense",
+                "Discuss factors influencing career choice"
+              ]
+            },
+            {
+              "title": {
+                "en": "Life after secondary school",
+                "fr": "La vie après le secondaire",
+                "mfe": "Lavi apre lekol segonder"
+              },
+              "objectives": [
+                "Compare options such as further study or work",
+                "Use the conditional to discuss hypothetical plans",
+                "Write a short text about personal aspirations"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Leisure activities and media",
+            "fr": "Les loisirs et les médias",
+            "mfe": "Loazir ek medya"
+          },
+          "summary": {
+            "en": "Develop the ability to talk about hobbies, sports, music, cinema and the role of media in daily life.",
+            "fr": "Développer la capacité à parler des loisirs, du sport, de la musique, du cinéma et du rôle des médias dans la vie quotidienne.",
+            "mfe": "Devlop kapasite pou koz lor loazir, sport, mizik, sinema ek rol medya dan lavi toulezour."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Sports and hobbies",
+                "fr": "Le sport et les loisirs",
+                "mfe": "Sport ek loazir"
+              },
+              "objectives": [
+                "Describe sports and hobbies popular in Mauritius",
+                "Use adverbs of frequency correctly",
+                "Give opinions on the benefits of physical activity"
+              ]
+            },
+            {
+              "title": {
+                "en": "Music, cinema and entertainment",
+                "fr": "La musique, le cinéma et le divertissement",
+                "mfe": "Mizik, sinema ek divertisman"
+              },
+              "objectives": [
+                "Discuss preferences in music and film",
+                "Use comparative structures to compare entertainment options",
+                "Write a short review of a film or song"
+              ]
+            },
+            {
+              "title": {
+                "en": "Social media and technology",
+                "fr": "Les réseaux sociaux et la technologie",
+                "mfe": "Rezo sosial ek teknolozi"
+              },
+              "objectives": [
+                "Discuss the role of social media among young people",
+                "Express advantages and disadvantages using appropriate connectors",
+                "Use the subjunctive after expressions of opinion"
+              ]
+            },
+            {
+              "title": {
+                "en": "Reading and the press",
+                "fr": "La lecture et la presse",
+                "mfe": "Lekti ek lapres"
+              },
+              "objectives": [
+                "Discuss reading habits and preferences",
+                "Summarise a short newspaper article",
+                "Identify key information in journalistic texts"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Travel and holidays",
+            "fr": "Les voyages et les vacances",
+            "mfe": "Vwayaz ek vakans"
+          },
+          "summary": {
+            "en": "Learn to describe travel experiences, holiday plans and tourism, with a focus on Mauritius and abroad.",
+            "fr": "Apprendre à décrire des expériences de voyage, des projets de vacances et le tourisme, avec un accent sur Maurice et l'étranger.",
+            "mfe": "Aprann dekrir lexperyans vwayaz, plan vakans ek tourism, avek lafok lor Moris ek let pei."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Planning a holiday",
+                "fr": "Organiser des vacances",
+                "mfe": "Organiz vakans"
+              },
+              "objectives": [
+                "Use future tense to describe holiday plans",
+                "Discuss types of accommodation and transport",
+                "Ask and answer questions about travel preferences"
+              ]
+            },
+            {
+              "title": {
+                "en": "Describing past trips",
+                "fr": "Décrire des voyages passés",
+                "mfe": "Dekrir vwayaz dan lepase"
+              },
+              "objectives": [
+                "Narrate a past holiday using the perfect and imperfect tenses",
+                "Describe places visited using descriptive adjectives",
+                "Sequence events using time connectors"
+              ]
+            },
+            {
+              "title": {
+                "en": "Tourism in Mauritius",
+                "fr": "Le tourisme à Maurice",
+                "mfe": "Tourism dan Moris"
+              },
+              "objectives": [
+                "Describe tourist attractions in Mauritius",
+                "Discuss the impact of tourism on the island",
+                "Use superlatives to describe places"
+              ]
+            },
+            {
+              "title": {
+                "en": "Dealing with travel problems",
+                "fr": "Gérer les problèmes de voyage",
+                "mfe": "Zer problem vwayaz"
+              },
+              "objectives": [
+                "Describe common travel problems and solutions",
+                "Use the imperative to give instructions",
+                "Role-play a conversation at an airport or hotel"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Health and wellbeing",
+            "fr": "La santé et le bien-être",
+            "mfe": "Lasante ek byennet"
+          },
+          "summary": {
+            "en": "Study vocabulary and structures for discussing health, illness, healthy lifestyles and visits to the doctor.",
+            "fr": "Étudier le vocabulaire et les structures pour parler de la santé, des maladies, des modes de vie sains et des visites chez le médecin.",
+            "mfe": "Etidye vokabiler ek striktir pou koz lor lasante, maladi, mod lavi ki bon pou lasante ek vizit kot dokter."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Parts of the body and illness",
+                "fr": "Les parties du corps et les maladies",
+                "mfe": "Parti lekor ek maladi"
+              },
+              "objectives": [
+                "Name parts of the body accurately",
+                "Describe common symptoms and illnesses",
+                "Use the expression avoir mal à correctly"
+              ]
+            },
+            {
+              "title": {
+                "en": "Visiting the doctor",
+                "fr": "La visite chez le médecin",
+                "mfe": "Vizit kot dokter"
+              },
+              "objectives": [
+                "Role-play a dialogue at the doctor's office",
+                "Give and follow medical advice using the imperative",
+                "Use modal verbs to express obligation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Healthy eating and lifestyle",
+                "fr": "L'alimentation saine et le mode de vie",
+                "mfe": "Manze en sante ek mod lavi"
+              },
+              "objectives": [
+                "Discuss balanced diets and food choices",
+                "Compare eating habits across cultures in Mauritius",
+                "Give advice on maintaining a healthy lifestyle"
+              ]
+            },
+            {
+              "title": {
+                "en": "Stress and mental wellbeing",
+                "fr": "Le stress et le bien-être mental",
+                "mfe": "Estres ek byennet mantal"
+              },
+              "objectives": [
+                "Discuss causes of stress among teenagers",
+                "Suggest strategies for managing stress",
+                "Use the subjunctive after expressions of necessity"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Environment and the wider world",
+            "fr": "L'environnement et le monde",
+            "mfe": "Lanvironnman ek lemond"
+          },
+          "summary": {
+            "en": "Examine environmental issues, weather, nature and global concerns relevant to Mauritius and beyond.",
+            "fr": "Examiner les问题 environnementales, la météo, la nature et les préoccupations mondiales pertinentes à Maurice et au-delà.",
+            "mfe": "Examinn problem lanvironnman, lameteo, lanatir ek problem mondial ki konsern Moris ek lezot pei."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Weather and climate",
+                "fr": "Le temps et le climat",
+                "mfe": "Letan ek klima"
+              },
+              "objectives": [
+                "Describe weather conditions using appropriate vocabulary",
+                "Discuss seasonal changes in Mauritius",
+                "Use impersonal expressions with il fait and il y a"
+              ]
+            },
+            {
+              "title": {
+                "en": "Protecting the environment",
+                "fr": "Protéger l'environnement",
+                "mfe": "Proteze lanvironnman"
+              },
+              "objectives": [
+                "Discuss environmental problems such as pollution and deforestation",
+                "Suggest solutions using the subjunctive after il faut que",
+                "Describe personal actions to protect nature"
+              ]
+            },
+            {
+              "title": {
+                "en": "Natural disasters and climate change",
+                "fr": "Les catastrophes naturelles et le changement climatique",
+                "mfe": "Katastrof natirel ek sanzman klima"
+              },
+              "objectives": [
+                "Discuss cyclones and their impact on Mauritius",
+                "Use the passive voice to describe events",
+                "Express concern using appropriate expressions of emotion"
+              ]
+            },
+            {
+              "title": {
+                "en": "Global issues and cooperation",
+                "fr": "Les enjeux mondiaux et la coopération",
+                "mfe": "Problem mondial ek koperasion"
+              },
+              "objectives": [
+                "Discuss global issues such as poverty and inequality",
+                "Express opinions on international cooperation",
+                "Practise structuring an argumentative paragraph"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Exam skills for written and oral French",
+            "fr": "Techniques d'examen pour l'écrit et l'oral",
+            "mfe": "Teknik lexame pou lekritir ek loral"
+          },
+          "summary": {
+            "en": "Consolidate exam techniques for the O Level French paper, including writing, listening, reading and speaking tasks.",
+            "fr": "Consolider les techniques d'examen pour l'épreuve de français O Level, y compris la rédaction, la compréhension orale, la lecture et l'expression orale.",
+            "mfe": "Konsolid teknik lexame pou papie franse O Level, ki inklir lekritir, konpreansion oral, lekti ek lexpresion oral."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Structuring written compositions",
+                "fr": "Structurer une rédaction",
+                "mfe": "Striktir enn redaksion"
+              },
+              "objectives": [
+                "Plan a composition with a clear introduction, body and conclusion",
+                "Use a range of connectors to link ideas",
+                "Apply appropriate register for different writing tasks"
+              ]
+            },
+            {
+              "title": {
+                "en": "Listening comprehension strategies",
+                "fr": "Stratégies de compréhension orale",
+                "mfe": "Estrateji konpreansion oral"
+              },
+              "objectives": [
+                "Identify key information while listening to recordings",
+                "Practise note-taking techniques during listening tasks",
+                "Answer comprehension questions accurately"
+              ]
+            },
+            {
+              "title": {
+                "en": "Reading comprehension techniques",
+                "fr": "Techniques de compréhension écrite",
+                "mfe": "Teknik konpreansion ekri"
+              },
+              "objectives": [
+                "Skim and scan texts for specific information",
+                "Infer meaning of unfamiliar words from context",
+                "Answer comprehension questions in full sentences"
+              ]
+            },
+            {
+              "title": {
+                "en": "Oral exam preparation",
+                "fr": "Préparation à l'épreuve orale",
+                "mfe": "Preparasion pou lepev oral"
+              },
+              "objectives": [
+                "Practise answering questions on a given topic fluently",
+                "Use appropriate intonation and pronunciation",
+                "Develop strategies to extend answers with justification"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "12": {
+      "units": [
+        {
+          "title": {
+            "en": "Media and communication today",
+            "fr": "Les médias et la communication aujourd'hui",
+            "mfe": "Bann medya ek kominikasyon zordi"
+          },
+          "summary": {
+            "en": "Students explore how newspapers, television, radio and social media shape opinion in Mauritius and the francophone world, while building vocabulary and argumentation skills for AS Level French.",
+            "fr": "Les élèves étudient comment la presse, la télévision, la radio et les réseaux sociaux influencent l'opinion à Maurice et dans le monde francophone, tout en développant vocabulaire et argumentation pour le niveau AS.",
+            "mfe": "Bann etidyan gete kouma lagazet, televizyon, radio ek rezo sosyal influans lopinyon dan Moris ek dan lemond frankofonn, anmemtan devlop vokabiler ek ladres pou diskite pou nivo AS."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "The role of the press in Mauritius",
+                "fr": "Le rôle de la presse à Maurice",
+                "mfe": "Rol lapres dan Moris"
+              },
+              "objectives": [
+                "Identify key French-language newspapers in Mauritius",
+                "Analyse the purpose of different press articles",
+                "Extract main ideas from a journalistic text"
+              ]
+            },
+            {
+              "title": {
+                "en": "Television and radio influence",
+                "fr": "L'influence de la télévision et de la radio",
+                "mfe": "Lenflians televizyon ek radio"
+              },
+              "objectives": [
+                "Compare broadcast media formats",
+                "Discuss the impact of media on public opinion",
+                "Use appropriate vocabulary to describe media consumption"
+              ]
+            },
+            {
+              "title": {
+                "en": "Social media and young people",
+                "fr": "Les réseaux sociaux et les jeunes",
+                "mfe": "Rezo sosyal ek bann zenn"
+              },
+              "objectives": [
+                "Debate the benefits and risks of social media",
+                "Present arguments using connectors of opinion",
+                "Write a short structured opinion paragraph"
+              ]
+            },
+            {
+              "title": {
+                "en": "Advertising and persuasion techniques",
+                "fr": "La publicité et les techniques de persuasion",
+                "mfe": "Piblisite ek teknik persyazyon"
+              },
+              "objectives": [
+                "Recognise persuasive language in advertisements",
+                "Evaluate the ethics of advertising strategies",
+                "Create a short persuasive text"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Family and society in Mauritius",
+            "fr": "La famille et la société à Maurice",
+            "mfe": "Fami ek lasosyete dan Moris"
+          },
+          "summary": {
+            "en": "This unit examines evolving family structures, intergenerational relationships and social change in multicultural Mauritius, developing descriptive and comparative writing skills.",
+            "fr": "Cette unité examine l'évolution des structures familiales, les relations intergénérationnelles et les changements sociaux dans la société multiculturelle mauricienne, en développant des compétences descriptives et comparatives.",
+            "mfe": "Sa lini-la examinn kouma striktir fami pe sanze, relasyon ant zenerasyon ek sanzman sosyal dan sosyete miltikiltirel Moris, anmemtan devlop ladres pou dekrir ek konpare."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Changing family structures",
+                "fr": "L'évolution de la structure familiale",
+                "mfe": "Levolisyon striktir fami"
+              },
+              "objectives": [
+                "Describe traditional and modern family models",
+                "Compare family life across generations",
+                "Use comparative structures in French"
+              ]
+            },
+            {
+              "title": {
+                "en": "Relationships between generations",
+                "fr": "Les relations entre générations",
+                "mfe": "Relasyon ant zenerasyon"
+              },
+              "objectives": [
+                "Discuss conflicts and understanding between generations",
+                "Interpret opinions expressed in a dialogue",
+                "Practise expressing agreement and disagreement"
+              ]
+            },
+            {
+              "title": {
+                "en": "Gender roles and equality",
+                "fr": "Les rôles de genre et l'égalité",
+                "mfe": "Rol zanfan-fam ek zanfan-zom ek legalite"
+              },
+              "objectives": [
+                "Analyse gender roles in Mauritian society",
+                "Discuss equality issues using nuanced vocabulary",
+                "Construct balanced arguments on social topics"
+              ]
+            },
+            {
+              "title": {
+                "en": "Multiculturalism and social cohesion",
+                "fr": "Le multiculturalisme et la cohésion sociale",
+                "mfe": "Miltikiltiralism ek koezyon sosyal"
+              },
+              "objectives": [
+                "Explain features of Mauritius's multicultural society",
+                "Discuss challenges to social cohesion",
+                "Write a reflective paragraph on cultural diversity"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Education and the future of youth",
+            "fr": "L'éducation et l'avenir des jeunes",
+            "mfe": "Ledikasyon ek lavenir bann zenn"
+          },
+          "summary": {
+            "en": "Students discuss the education system, career choices and challenges facing young people, practising formal essay writing and structured argumentation.",
+            "fr": "Les élèves discutent du système éducatif, des choix de carrière et des défis rencontrés par les jeunes, en s'exerçant à la rédaction d'essais formels et à l'argumentation structurée.",
+            "mfe": "Bann etidyan diskit lor sistem ledikasyon, swa karyer ek defi ki bann zenn pe fer fas, anmemtan pratike ekrir dissertasyon formel ek ladres pou diskite."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "The Mauritian education system",
+                "fr": "Le système éducatif mauricien",
+                "mfe": "Sistem ledikasyon Morisyen"
+              },
+              "objectives": [
+                "Describe stages of education in Mauritius",
+                "Compare local and francophone education systems",
+                "Use formal register appropriately"
+              ]
+            },
+            {
+              "title": {
+                "en": "Choosing a career path",
+                "fr": "Choisir une carrière",
+                "mfe": "Swazir enn karyer"
+              },
+              "objectives": [
+                "Discuss factors influencing career choice",
+                "Present personal aspirations using future tense",
+                "Practise expressing hypothesis with the conditional"
+              ]
+            },
+            {
+              "title": {
+                "en": "Challenges facing young people",
+                "fr": "Les défis auxquels font face les jeunes",
+                "mfe": "Bann defi ki bann zenn fer fas"
+              },
+              "objectives": [
+                "Identify social and economic challenges for youth",
+                "Analyse causes and consequences",
+                "Structure an argumentative essay plan"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing a formal essay",
+                "fr": "Rédiger une dissertation formelle",
+                "mfe": "Ekrir enn dissertasyon formel"
+              },
+              "objectives": [
+                "Apply essay structure: introduction, development, conclusion",
+                "Use linking words for coherence",
+                "Draft and revise a formal essay"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Environment and sustainable development",
+            "fr": "L'environnement et le développement durable",
+            "mfe": "Lanvironnman ek devlopman diirab"
+          },
+          "summary": {
+            "en": "This unit covers environmental issues in Mauritius and globally, including climate change, conservation and sustainability, while building descriptive and persuasive language skills.",
+            "fr": "Cette unité traite des questions environnementales à Maurice et dans le monde, notamment le changement climatique, la conservation et la durabilité, tout en développant un langage descriptif et persuasif.",
+            "mfe": "Sa lini-la kouver bann size lanvironnman dan Moris ek dan lemond, ki inklir sanzman klimatik, konsservasyon ek diirabilite, anmemtan devlop langaz deskriptif ek persuasif."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Climate change and its effects",
+                "fr": "Le changement climatique et ses effets",
+                "mfe": "Sanzman klimatik ek so lefe"
+              },
+              "objectives": [
+                "Explain causes of climate change",
+                "Describe effects on Mauritius as an island state",
+                "Use conditional structures to discuss consequences"
+              ]
+            },
+            {
+              "title": {
+                "en": "Protecting biodiversity",
+                "fr": "Protéger la biodiversité",
+                "mfe": "Proteze biodiversite"
+              },
+              "objectives": [
+                "Discuss endangered species in Mauritius",
+                "Explain conservation initiatives",
+                "Use subjunctive mood to express necessity"
+              ]
+            },
+            {
+              "title": {
+                "en": "Waste management and recycling",
+                "fr": "La gestion des déchets et le recyclage",
+                "mfe": "Gesyon dese ek rekiklaz"
+              },
+              "objectives": [
+                "Describe local waste management practices",
+                "Propose solutions for reducing waste",
+                "Write a persuasive letter to authorities"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sustainable tourism",
+                "fr": "Le tourisme durable",
+                "mfe": "Tourism diirab"
+              },
+              "objectives": [
+                "Evaluate the impact of tourism on the environment",
+                "Discuss sustainable tourism practices",
+                "Present a balanced argument orally"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Arts, culture and heritage",
+            "fr": "Les arts, la culture et le patrimoine",
+            "mfe": "Lar, kiltir ek patrimwann"
+          },
+          "summary": {
+            "en": "Students explore Mauritian and francophone cultural heritage, literature, music and cinema, developing analytical and expressive language skills.",
+            "fr": "Les élèves explorent le patrimoine culturel mauricien et francophone, la littérature, la musique et le cinéma, en développant des compétences linguistiques analytiques et expressives.",
+            "mfe": "Bann etidyan explor patrimwann kiltirel Morisyen ek frankofonn, literatir, mizik ek sinema, anmemtan devlop ladres langaz analitik ek ekspresif."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Mauritian cultural heritage",
+                "fr": "Le patrimoine culturel mauricien",
+                "mfe": "Patrimwann kiltirel Morisyen"
+              },
+              "objectives": [
+                "Describe key elements of Mauritian heritage",
+                "Discuss the importance of preserving culture",
+                "Use past tenses to narrate historical events"
+              ]
+            },
+            {
+              "title": {
+                "en": "Francophone literature and authors",
+                "fr": "La littérature francophone et ses auteurs",
+                "mfe": "Literatir frankofonn ek bann oter"
+              },
+              "objectives": [
+                "Identify major francophone authors",
+                "Analyse an extract from a francophone text",
+                "Express literary opinions with justification"
+              ]
+            },
+            {
+              "title": {
+                "en": "Music and cultural identity",
+                "fr": "La musique et l'identité culturelle",
+                "mfe": "Mizik ek lidantite kiltirel"
+              },
+              "objectives": [
+                "Discuss the role of music in Mauritian identity",
+                "Compare musical genres and traditions",
+                "Describe personal cultural experiences"
+              ]
+            },
+            {
+              "title": {
+                "en": "Cinema and audiovisual arts",
+                "fr": "Le cinéma et les arts audiovisuels",
+                "mfe": "Sinema ek lar odyoviziyel"
+              },
+              "objectives": [
+                "Analyse a francophone film synopsis",
+                "Discuss themes represented in cinema",
+                "Write a film review in French"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Technology and its impact on society",
+            "fr": "La technologie et son impact sur la société",
+            "mfe": "Teknolozi ek so lenpak lor lasosyete"
+          },
+          "summary": {
+            "en": "This unit examines the influence of digital technology on communication, work and daily life, developing skills in analysis and formal debate.",
+            "fr": "Cette unité examine l'influence de la technologie numérique sur la communication, le travail et la vie quotidienne, en développant des compétences d'analyse et de débat formel.",
+            "mfe": "Sa lini-la examinn lenfliyans teknolozi dizital lor kominikasyon, travay ek lavi toulezour, anmemtan devlop ladres analiz ek deba formel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Digital communication tools",
+                "fr": "Les outils de communication numérique",
+                "mfe": "Zouti kominikasyon dizital"
+              },
+              "objectives": [
+                "Describe common digital communication tools",
+                "Discuss changes in interpersonal communication",
+                "Use present and past tenses accurately"
+              ]
+            },
+            {
+              "title": {
+                "en": "Technology in the workplace",
+                "fr": "La technologie au travail",
+                "mfe": "Teknolozi dan travay"
+              },
+              "objectives": [
+                "Discuss automation and its effects on jobs",
+                "Compare traditional and modern work practices",
+                "Present arguments for and against technological change"
+              ]
+            },
+            {
+              "title": {
+                "en": "Artificial intelligence and ethics",
+                "fr": "L'intelligence artificielle et l'éthique",
+                "mfe": "Lentelizans artifisyel ek letik"
+              },
+              "objectives": [
+                "Explain basic concepts of artificial intelligence",
+                "Discuss ethical concerns related to AI",
+                "Debate using formal register and nuance"
+              ]
+            },
+            {
+              "title": {
+                "en": "Technology and daily life",
+                "fr": "La technologie et la vie quotidienne",
+                "mfe": "Teknolozi ek lavi toulezour"
+              },
+              "objectives": [
+                "Describe how technology shapes daily routines",
+                "Discuss dependency on digital devices",
+                "Write a reflective essay on technology's role"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Advanced writing and translation skills",
+            "fr": "Techniques avancées de rédaction et de traduction",
+            "mfe": "Teknik avanse pou ekrir ek tradiksyon"
+          },
+          "summary": {
+            "en": "Students refine summary writing, argumentative essays and translation techniques required for AS Level French assessments, focusing on precision and register.",
+            "fr": "Les élèves perfectionnent la rédaction de résumés, la dissertation argumentative et les techniques de traduction requises pour les évaluations de niveau AS, en mettant l'accent sur la précision et le registre.",
+            "mfe": "Bann etidyan ranforsi ekrir rezime, dissertasyon argimantatif ek teknik tradiksyon ki bizin pou levaliyasyon nivo AS, ek fokis lor presizyon ek rezis."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Summarising a text effectively",
+                "fr": "Résumer un texte efficacement",
+                "mfe": "Rezime enn text byen"
+              },
+              "objectives": [
+                "Identify essential information in a text",
+                "Condense ideas while maintaining meaning",
+                "Respect word limits and register in a summary"
+              ]
+            },
+            {
+              "title": {
+                "en": "Structuring an argumentative essay",
+                "fr": "Structurer une dissertation argumentative",
+                "mfe": "Striktir enn dissertasyon argimantatif"
+              },
+              "objectives": [
+                "Organise arguments logically for and against a topic",
+                "Use appropriate linking expressions",
+                "Write a balanced conclusion"
+              ]
+            },
+            {
+              "title": {
+                "en": "Translation techniques English to French",
+                "fr": "Techniques de traduction anglais-français",
+                "mfe": "Teknik tradiksyon angle-franse"
+              },
+              "objectives": [
+                "Apply strategies for accurate translation",
+                "Avoid common translation pitfalls",
+                "Translate a short passage with correct register"
+              ]
+            },
+            {
+              "title": {
+                "en": "Revising grammar for accuracy",
+                "fr": "Réviser la grammaire pour plus de précision",
+                "mfe": "Revize gramer pou plis presizyon"
+              },
+              "objectives": [
+                "Review complex tenses and moods",
+                "Correct common grammatical errors",
+                "Apply grammar rules in extended writing"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "13": {
+      "units": [
+        {
+          "title": {
+            "en": "Environmental challenges in the francophone world",
+            "fr": "Les enjeux environnementaux dans le monde francophone",
+            "mfe": "Bann problem lanvironnman dan lemond frankofonn"
+          },
+          "summary": {
+            "en": "Students explore environmental issues such as climate change, pollution and sustainable development through authentic French texts, building advanced vocabulary and argumentative skills.",
+            "fr": "Les élèves explorent des questions environnementales telles que le changement climatique, la pollution et le développement durable à travers des textes authentiques en français, tout en développant un vocabulaire avancé et des compétences argumentatives.",
+            "mfe": "Bann elev explor problem lanvironnman kouma sanzman klima, polision ek devlopman diirab atraver bann text otantik an franse, pandan ki zot devlop vokabiler avanse ek konpetans pou argimante."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Climate change and its impacts",
+                "fr": "Le changement climatique et ses impacts",
+                "mfe": "Sanzman klima ek so bann lefe"
+              },
+              "objectives": [
+                "Identify key vocabulary related to climate change",
+                "Analyse a French article on environmental impact",
+                "Summarise arguments presented in a text"
+              ]
+            },
+            {
+              "title": {
+                "en": "Pollution and urban life",
+                "fr": "La pollution et la vie urbaine",
+                "mfe": "Polision ek lavi iben"
+              },
+              "objectives": [
+                "Discuss causes and consequences of pollution",
+                "Use complex sentence structures to describe cause and effect",
+                "Compare urban environmental policies in France and Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sustainable development initiatives",
+                "fr": "Les initiatives de développement durable",
+                "mfe": "Bann inisiativ devlopman diirab"
+              },
+              "objectives": [
+                "Describe examples of sustainable projects in francophone countries",
+                "Practice using the conditional to propose solutions",
+                "Write a paragraph proposing an environmental initiative"
+              ]
+            },
+            {
+              "title": {
+                "en": "Debating environmental policy",
+                "fr": "Débattre des politiques environnementales",
+                "mfe": "Debat lor politik lanvironnman"
+              },
+              "objectives": [
+                "Construct a balanced argument on an environmental topic",
+                "Use connectors of opposition and concession",
+                "Participate in a structured oral debate"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Immigration and integration in France",
+            "fr": "L'immigration et l'intégration en France",
+            "mfe": "Limigrasion ek integrasion an Frans"
+          },
+          "summary": {
+            "en": "This unit examines the history and contemporary experience of immigration and cultural integration in France, developing critical reading and discussion skills.",
+            "fr": "Cette unité examine l'histoire et l'expérience contemporaine de l'immigration et de l'intégration culturelle en France, en développant des compétences de lecture critique et de discussion.",
+            "mfe": "Sa linite-la examinn l'istwar ek lexperyans aktyel limigrasion ek integrasion kiltirel an Frans, pandan ki devlop konpetans lekti kritik ek diskision."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "A brief history of immigration in France",
+                "fr": "Une brève histoire de l'immigration en France",
+                "mfe": "Enn ti-istwar limigrasion an Frans"
+              },
+              "objectives": [
+                "Outline key waves of immigration to France",
+                "Extract factual information from a historical text",
+                "Sequence events using appropriate time connectors"
+              ]
+            },
+            {
+              "title": {
+                "en": "Challenges of cultural integration",
+                "fr": "Les défis de l'intégration culturelle",
+                "mfe": "Bann defi integrasion kiltirel"
+              },
+              "objectives": [
+                "Discuss challenges faced by immigrant communities",
+                "Use subjunctive mood to express opinion and doubt",
+                "Interpret personal testimonies from francophone media"
+              ]
+            },
+            {
+              "title": {
+                "en": "Multiculturalism: France and Mauritius compared",
+                "fr": "Le multiculturalisme : la France et Maurice comparées",
+                "mfe": "Multikiltiralism: Frans ek Moris konpare"
+              },
+              "objectives": [
+                "Compare multicultural policies of two societies",
+                "Structure a comparative essay",
+                "Use comparative and superlative structures accurately"
+              ]
+            },
+            {
+              "title": {
+                "en": "Identity and belonging",
+                "fr": "L'identité et l'appartenance",
+                "mfe": "Ledantite ek santiman apartenans"
+              },
+              "objectives": [
+                "Analyse literary or media extracts on identity",
+                "Express personal viewpoints on belonging",
+                "Prepare a short oral presentation on identity"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "The world of work and the economy",
+            "fr": "Le monde du travail et l'économie",
+            "mfe": "Lemond travay ek lekonomi"
+          },
+          "summary": {
+            "en": "Students study employment trends, economic issues and career pathways in francophone contexts, refining formal writing and presentation skills.",
+            "fr": "Les élèves étudient les tendances de l'emploi, les questions économiques et les parcours professionnels dans des contextes francophones, en perfectionnant leurs compétences en écriture formelle et en présentation.",
+            "mfe": "Bann elev etidie tandans lanplwa, problem lekonomi ek shemin karyer dan bann kontex frankofonn, pandan ki zot ranforsi zot konpetans lekritir formel ek prezantasion."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Employment trends and unemployment",
+                "fr": "Les tendances de l'emploi et le chômage",
+                "mfe": "Tandans lanplwa ek somaz"
+              },
+              "objectives": [
+                "Interpret statistics and graphs on employment",
+                "Discuss causes of unemployment using appropriate vocabulary",
+                "Write a structured paragraph analysing data"
+              ]
+            },
+            {
+              "title": {
+                "en": "New technologies and the changing workplace",
+                "fr": "Les nouvelles technologies et le monde du travail en mutation",
+                "mfe": "Bann nouvo teknolozi ek travay ki pe sanze"
+              },
+              "objectives": [
+                "Describe the impact of technology on jobs",
+                "Use future and conditional tenses to speculate",
+                "Debate advantages and disadvantages of remote work"
+              ]
+            },
+            {
+              "title": {
+                "en": "Entrepreneurship in the francophone world",
+                "fr": "L'entrepreneuriat dans le monde francophone",
+                "mfe": "Lespri antreprener dan lemond frankofonn"
+              },
+              "objectives": [
+                "Analyse a case study of a francophone entrepreneur",
+                "Use narrative past tenses to recount success stories",
+                "Prepare an oral presentation on entrepreneurship"
+              ]
+            },
+            {
+              "title": {
+                "en": "Preparing a formal letter of application",
+                "fr": "Rédiger une lettre de motivation formelle",
+                "mfe": "Ekrir enn let motivasion formel"
+              },
+              "objectives": [
+                "Identify features of formal register in French",
+                "Structure a letter of application correctly",
+                "Write a coherent and persuasive cover letter"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Francophone culture and media",
+            "fr": "La culture et les médias francophones",
+            "mfe": "Kiltir ek media frankofonn"
+          },
+          "summary": {
+            "en": "This unit explores francophone cinema, music, press and digital media, developing analytical and comparative skills through authentic materials.",
+            "fr": "Cette unité explore le cinéma, la musique, la presse et les médias numériques francophones, en développant des compétences analytiques et comparatives à travers des supports authentiques.",
+            "mfe": "Sa linite-la explor sinema, mizik, lapres ek media dizital frankofonn, pandan ki devlop konpetans analitik ek konparativ atraver bann materyo otantik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "French cinema past and present",
+                "fr": "Le cinéma français d'hier et d'aujourd'hui",
+                "mfe": "Sinema franse ier ek zordi"
+              },
+              "objectives": [
+                "Identify key movements in French cinema history",
+                "Analyse a film extract or trailer",
+                "Write a short film review"
+              ]
+            },
+            {
+              "title": {
+                "en": "The influence of French-language music",
+                "fr": "L'influence de la musique francophone",
+                "mfe": "Linflians mizik frankofonn"
+              },
+              "objectives": [
+                "Discuss the role of music in francophone identity",
+                "Analyse song lyrics for meaning and style",
+                "Present a favourite francophone artist orally"
+              ]
+            },
+            {
+              "title": {
+                "en": "Press and news media in France",
+                "fr": "La presse et les médias d'information en France",
+                "mfe": "Lapres ek media linformasion an Frans"
+              },
+              "objectives": [
+                "Compare different types of French media",
+                "Summarise a news article accurately",
+                "Evaluate bias and perspective in reporting"
+              ]
+            },
+            {
+              "title": {
+                "en": "Social media and digital communication",
+                "fr": "Les réseaux sociaux et la communication numérique",
+                "mfe": "Rezo sosial ek komunikasion dizital"
+              },
+              "objectives": [
+                "Discuss the impact of social media on society",
+                "Use informal versus formal register appropriately",
+                "Debate the benefits and risks of digital communication"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Studying a literary text",
+            "fr": "Étude d'une œuvre littéraire",
+            "mfe": "Letid enn liv literer"
+          },
+          "summary": {
+            "en": "Students undertake an in-depth study of a prescribed francophone literary text, analysing themes, characters and style for the A Level examination.",
+            "fr": "Les élèves entreprennent une étude approfondie d'une œuvre littéraire francophone au programme, en analysant les thèmes, les personnages et le style pour l'examen de niveau avancé.",
+            "mfe": "Bann elev fer enn letid apronfondi lor enn liv literer frankofonn ki dan programm, pandan ki analiz tem, personaz ek stail pou lexame A Level."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Introduction to the text and its context",
+                "fr": "Introduction au texte et à son contexte",
+                "mfe": "Introdiksion ar text ek so kontex"
+              },
+              "objectives": [
+                "Identify the historical and social context of the text",
+                "Summarise the plot or main structure",
+                "Take structured notes for revision"
+              ]
+            },
+            {
+              "title": {
+                "en": "Character analysis",
+                "fr": "L'analyse des personnages",
+                "mfe": "Analiz bann personaz"
+              },
+              "objectives": [
+                "Analyse the development of key characters",
+                "Support analysis with quotations from the text",
+                "Discuss relationships between characters"
+              ]
+            },
+            {
+              "title": {
+                "en": "Themes and symbolism",
+                "fr": "Les thèmes et le symbolisme",
+                "mfe": "Bann tem ek senbolism"
+              },
+              "objectives": [
+                "Identify major themes in the text",
+                "Interpret symbolic elements and their significance",
+                "Compare themes with other works or contexts"
+              ]
+            },
+            {
+              "title": {
+                "en": "Preparing a literary essay",
+                "fr": "Préparer une dissertation littéraire",
+                "mfe": "Prepar enn disertasion literer"
+              },
+              "objectives": [
+                "Plan a structured literary essay",
+                "Use appropriate literary vocabulary and register",
+                "Write a coherent argument supported by evidence"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Advanced grammar and translation",
+            "fr": "Grammaire avancée et traduction",
+            "mfe": "Gramer avanse ek tradiksion"
+          },
+          "summary": {
+            "en": "This unit consolidates advanced grammatical structures and develops translation techniques between French and English for examination success.",
+            "fr": "Cette unité consolide les structures grammaticales avancées et développe des techniques de traduction entre le français et l'anglais pour réussir l'examen.",
+            "mfe": "Sa linite-la konsolid bann striktir gramatikal avanse ek devlop teknik tradiksion ant franse ek angle pou reisi lexame."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Mastering the subjunctive mood",
+                "fr": "Maîtriser le subjonctif",
+                "mfe": "Mestriz sibzonktif"
+              },
+              "objectives": [
+                "Recognise contexts requiring the subjunctive",
+                "Form and use the subjunctive accurately",
+                "Apply the subjunctive in written expression"
+              ]
+            },
+            {
+              "title": {
+                "en": "Complex sentence structures and connectors",
+                "fr": "Les structures de phrases complexes et les connecteurs",
+                "mfe": "Striktir fraz konplex ek konektor"
+              },
+              "objectives": [
+                "Use a range of logical connectors accurately",
+                "Construct complex sentences with subordinate clauses",
+                "Edit written work for grammatical accuracy"
+              ]
+            },
+            {
+              "title": {
+                "en": "Techniques for translating into French",
+                "fr": "Techniques de traduction vers le français",
+                "mfe": "Teknik pou tradir an franse"
+              },
+              "objectives": [
+                "Apply strategies for translating idiomatic expressions",
+                "Translate a short English passage into French",
+                "Review common translation errors"
+              ]
+            },
+            {
+              "title": {
+                "en": "Techniques for translating into English",
+                "fr": "Techniques de traduction vers l'anglais",
+                "mfe": "Teknik pou tradir an angle"
+              },
+              "objectives": [
+                "Translate a French passage into fluent English",
+                "Maintain register and meaning during translation",
+                "Self-correct using a translation checklist"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Examination preparation and oral skills",
+            "fr": "Préparation à l'examen et compétences orales",
+            "mfe": "Preparasion lexame ek konpetans oral"
+          },
+          "summary": {
+            "en": "Students consolidate essay writing, listening and speaking skills through timed practice and feedback to prepare confidently for the A Level examination.",
+            "fr": "Les élèves consolident leurs compétences en rédaction, en compréhension orale et en expression orale grâce à des exercices chronométrés et des retours, afin de se préparer avec confiance à l'examen de niveau avancé.",
+            "mfe": "Bann elev konsolid zot konpetans lekritir, konpreansion oral ek expresion oral atraver bann lexersis kronometre ek fidbak, pou prepar zot ar konfians pou lexame A Level."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Structuring an argumentative essay",
+                "fr": "Structurer une dissertation argumentative",
+                "mfe": "Striktir enn disertasion argimantatif"
+              },
+              "objectives": [
+                "Plan an essay with a clear thesis and structure",
+                "Use varied sentence openings and transitions",
+                "Write a timed essay under exam conditions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Listening comprehension strategies",
+                "fr": "Stratégies de compréhension orale",
+                "mfe": "Estrateji konpreansion oral"
+              },
+              "objectives": [
+                "Apply strategies to understand authentic audio texts",
+                "Answer comprehension questions accurately",
+                "Identify key information and tone in recordings"
+              ]
+            },
+            {
+              "title": {
+                "en": "Preparing for the oral examination",
+                "fr": "Se préparer à l'épreuve orale",
+                "mfe": "Prepar pou lepev oral"
+              },
+              "objectives": [
+                "Structure responses for typical oral exam questions",
+                "Practice fluent spontaneous speech on familiar topics",
+                "Use appropriate register and pronunciation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Reviewing past examination papers",
+                "fr": "Réviser les sujets d'examens antérieurs",
+                "mfe": "Revize bann lepev lexame lepase"
+              },
+              "objectives": [
+                "Analyse mark schemes to understand examiner expectations",
+                "Identify personal strengths and areas for improvement",
+                "Complete a full past paper under timed conditions"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

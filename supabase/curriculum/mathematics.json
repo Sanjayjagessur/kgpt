@@ -1,0 +1,3433 @@
+{
+  "subject": "mathematics",
+  "grades": {
+    "7": {
+      "units": [
+        {
+          "title": {
+            "en": "Integers and the number system",
+            "fr": "Les nombres entiers et le système numérique",
+            "mfe": "Nonb antie ek sistem nimerik"
+          },
+          "summary": {
+            "en": "Revise and extend understanding of integers, their operations, and key number properties like HCF and LCM.",
+            "fr": "Réviser et approfondir la compréhension des nombres entiers, de leurs opérations et des propriétés clés comme le PGCD et le PPCM.",
+            "mfe": "Revize ek agrandi konpreansyon lor nonb antie, zot operasyon, ek proprieté kle kouma HCF ek LCM."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Understanding integers",
+                "fr": "Comprendre les nombres entiers",
+                "mfe": "Konpran nonb antie"
+              },
+              "objectives": [
+                "Identify positive and negative integers on a number line",
+                "Compare and order integers",
+                "Explain real-life uses of negative numbers"
+              ]
+            },
+            {
+              "title": {
+                "en": "Operations with integers",
+                "fr": "Opérations avec les nombres entiers",
+                "mfe": "Operasyon avek nonb antie"
+              },
+              "objectives": [
+                "Add and subtract integers using a number line",
+                "Multiply and divide integers correctly",
+                "Apply integer operations to solve simple problems"
+              ]
+            },
+            {
+              "title": {
+                "en": "HCF and LCM",
+                "fr": "PGCD et PPCM",
+                "mfe": "HCF ek LCM"
+              },
+              "objectives": [
+                "Find the HCF of two or more numbers",
+                "Find the LCM of two or more numbers",
+                "Use HCF and LCM to solve word problems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Number properties revision",
+                "fr": "Révision des propriétés des nombres",
+                "mfe": "Revizyon proprieté nonb"
+              },
+              "objectives": [
+                "Classify numbers as prime, composite, odd or even",
+                "Apply divisibility rules",
+                "Recognise square and cube numbers"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Fractions, decimals and percentages",
+            "fr": "Fractions, décimales et pourcentages",
+            "mfe": "Fraksyon, desimal ek poursantaz"
+          },
+          "summary": {
+            "en": "Develop skills in operating with fractions and decimals and converting between fractions, decimals and percentages.",
+            "fr": "Développer des compétences pour manipuler les fractions et les décimales et pour convertir entre fractions, décimales et pourcentages.",
+            "mfe": "Devlop konpetans pou manipile fraksyon ek desimal ek konverti ant fraksyon, desimal ek poursantaz."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Operations with fractions",
+                "fr": "Opérations avec les fractions",
+                "mfe": "Operasyon avek fraksyon"
+              },
+              "objectives": [
+                "Add and subtract fractions with different denominators",
+                "Multiply and divide fractions",
+                "Simplify fraction answers to lowest terms"
+              ]
+            },
+            {
+              "title": {
+                "en": "Operations with decimals",
+                "fr": "Opérations avec les décimales",
+                "mfe": "Operasyon avek desimal"
+              },
+              "objectives": [
+                "Add, subtract, multiply and divide decimals",
+                "Round decimals to a given number of places",
+                "Apply decimal operations in money contexts"
+              ]
+            },
+            {
+              "title": {
+                "en": "Converting fractions, decimals and percentages",
+                "fr": "Convertir fractions, décimales et pourcentages",
+                "mfe": "Konverti fraksyon, desimal ek poursantaz"
+              },
+              "objectives": [
+                "Convert fractions to decimals and percentages",
+                "Convert decimals and percentages back to fractions",
+                "Order values given in different forms"
+              ]
+            },
+            {
+              "title": {
+                "en": "Percentage applications",
+                "fr": "Applications des pourcentages",
+                "mfe": "Aplikasyon poursantaz"
+              },
+              "objectives": [
+                "Calculate a percentage of a quantity",
+                "Find percentage increase and decrease",
+                "Solve real-life problems involving discounts and profit"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Ratio, rate and proportion",
+            "fr": "Rapport, taux et proportion",
+            "mfe": "Ratio, to ek proporsyon"
+          },
+          "summary": {
+            "en": "Understand and apply ratio, rate and direct proportion to solve everyday problems.",
+            "fr": "Comprendre et appliquer le rapport, le taux et la proportion directe pour résoudre des problèmes du quotidien.",
+            "mfe": "Konpran ek aplik ratio, to ek proporsyon direk pou rezoud problem toulezour."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Understanding ratio",
+                "fr": "Comprendre le rapport",
+                "mfe": "Konpran ratio"
+              },
+              "objectives": [
+                "Express a relationship as a ratio",
+                "Simplify ratios to their simplest form",
+                "Compare quantities using ratios"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sharing in a given ratio",
+                "fr": "Partager selon un rapport donné",
+                "mfe": "Partaz dapre en ratio done"
+              },
+              "objectives": [
+                "Divide a quantity into parts using a given ratio",
+                "Solve problems involving sharing money or objects",
+                "Check ratio calculations for accuracy"
+              ]
+            },
+            {
+              "title": {
+                "en": "Direct proportion",
+                "fr": "Proportion directe",
+                "mfe": "Proporsyon direk"
+              },
+              "objectives": [
+                "Recognise directly proportional relationships",
+                "Solve problems using the unitary method",
+                "Interpret proportional graphs"
+              ]
+            },
+            {
+              "title": {
+                "en": "Rate and speed",
+                "fr": "Taux et vitesse",
+                "mfe": "To ek vites"
+              },
+              "objectives": [
+                "Calculate rates such as speed and price per unit",
+                "Solve simple speed, distance and time problems",
+                "Compare rates to find better value"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Algebraic expressions and equations",
+            "fr": "Expressions et équations algébriques",
+            "mfe": "Ekspresyon ek ekwasyon algebrik"
+          },
+          "summary": {
+            "en": "Introduce algebraic notation, simplify expressions, and solve simple linear equations.",
+            "fr": "Introduire la notation algébrique, simplifier des expressions et résoudre des équations linéaires simples.",
+            "mfe": "Introdir notasyon algebrik, simplifie ekspresyon ek rezoud ekwasyon lineer senp."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Introduction to algebra",
+                "fr": "Introduction à l'algèbre",
+                "mfe": "Introdiksyon a lalzebr"
+              },
+              "objectives": [
+                "Use letters to represent unknown numbers",
+                "Write simple algebraic expressions from word statements",
+                "Evaluate expressions by substitution"
+              ]
+            },
+            {
+              "title": {
+                "en": "Simplifying expressions",
+                "fr": "Simplifier des expressions",
+                "mfe": "Simplifie ekspresyon"
+              },
+              "objectives": [
+                "Collect like terms in an expression",
+                "Expand simple brackets",
+                "Simplify expressions with multiple terms"
+              ]
+            },
+            {
+              "title": {
+                "en": "Solving simple equations",
+                "fr": "Résoudre des équations simples",
+                "mfe": "Rezoud ekwasyon senp"
+              },
+              "objectives": [
+                "Solve one-step linear equations",
+                "Solve two-step linear equations",
+                "Check solutions by substitution"
+              ]
+            },
+            {
+              "title": {
+                "en": "Forming and solving word problems",
+                "fr": "Formuler et résoudre des problèmes",
+                "mfe": "Formil ek rezoud problem an mo"
+              },
+              "objectives": [
+                "Translate word problems into algebraic equations",
+                "Solve the equations formed",
+                "Interpret the solution in context"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Lines, angles and triangles",
+            "fr": "Lignes, angles et triangles",
+            "mfe": "Lign, angle ek triangle"
+          },
+          "summary": {
+            "en": "Explore properties of angles, lines and triangles and construct simple geometric figures.",
+            "fr": "Explorer les propriétés des angles, des lignes et des triangles et construire des figures géométriques simples.",
+            "mfe": "Explor proprieté angle, lign ek triangle ek konstrir figir zeometrik senp."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Types of angles",
+                "fr": "Types d'angles",
+                "mfe": "Tip angle"
+              },
+              "objectives": [
+                "Identify acute, right, obtuse and reflex angles",
+                "Measure angles using a protractor",
+                "Estimate the size of angles"
+              ]
+            },
+            {
+              "title": {
+                "en": "Angle properties of lines",
+                "fr": "Propriétés des angles avec les lignes",
+                "mfe": "Proprieté angle avek lign"
+              },
+              "objectives": [
+                "Identify angles on a straight line and around a point",
+                "Recognise vertically opposite angles",
+                "Calculate unknown angles using angle rules"
+              ]
+            },
+            {
+              "title": {
+                "en": "Properties of triangles",
+                "fr": "Propriétés des triangles",
+                "mfe": "Proprieté triangle"
+              },
+              "objectives": [
+                "Classify triangles by sides and angles",
+                "Apply the angle sum property of triangles",
+                "Solve for missing angles in triangles"
+              ]
+            },
+            {
+              "title": {
+                "en": "Constructing triangles",
+                "fr": "Construire des triangles",
+                "mfe": "Konstrir triangle"
+              },
+              "objectives": [
+                "Construct triangles using a ruler and protractor",
+                "Construct triangles given side and angle conditions",
+                "Verify constructions by measurement"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Perimeter, area and volume",
+            "fr": "Périmètre, aire et volume",
+            "mfe": "Perimet, size ek volim"
+          },
+          "summary": {
+            "en": "Calculate perimeter and area of plane shapes and volume of simple solids.",
+            "fr": "Calculer le périmètre et l'aire de figures planes et le volume de solides simples.",
+            "mfe": "Kalkil perimet ek size figir plat ek volim solid senp."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Perimeter of polygons",
+                "fr": "Périmètre des polygones",
+                "mfe": "Perimet polygonn"
+              },
+              "objectives": [
+                "Calculate the perimeter of regular and irregular polygons",
+                "Apply perimeter formulas to solve problems",
+                "Solve problems involving fencing or borders"
+              ]
+            },
+            {
+              "title": {
+                "en": "Area of rectangles and triangles",
+                "fr": "Aire des rectangles et triangles",
+                "mfe": "Size rektangl ek triangle"
+              },
+              "objectives": [
+                "Calculate the area of rectangles and squares",
+                "Calculate the area of triangles",
+                "Apply area formulas to real-life contexts"
+              ]
+            },
+            {
+              "title": {
+                "en": "Area of composite shapes",
+                "fr": "Aire des figures composées",
+                "mfe": "Size figir konpoze"
+              },
+              "objectives": [
+                "Break composite shapes into simple shapes",
+                "Calculate the total area of composite shapes",
+                "Solve problems involving irregular land or floor plans"
+              ]
+            },
+            {
+              "title": {
+                "en": "Volume of cubes and cuboids",
+                "fr": "Volume des cubes et pavés droits",
+                "mfe": "Volim kib ek kiboid"
+              },
+              "objectives": [
+                "Calculate the volume of cubes and cuboids",
+                "Apply volume formulas to solve problems",
+                "Convert between units of volume"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Data handling and statistics",
+            "fr": "Traitement des données et statistiques",
+            "mfe": "Zesyon done ek statistik"
+          },
+          "summary": {
+            "en": "Collect, organise, represent and interpret data using tables, charts and simple statistical measures.",
+            "fr": "Collecter, organiser, représenter et interpréter des données à l'aide de tableaux, graphiques et mesures statistiques simples.",
+            "mfe": "Kolekte, organiz, reprezant ek entrprete done avek tablo, grafik ek mezir statistik senp."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Collecting and organising data",
+                "fr": "Collecter et organiser les données",
+                "mfe": "Kolekte ek organiz done"
+              },
+              "objectives": [
+                "Design simple data collection sheets",
+                "Organise data into frequency tables",
+                "Distinguish between types of data"
+              ]
+            },
+            {
+              "title": {
+                "en": "Bar charts and pie charts",
+                "fr": "Diagrammes en barres et circulaires",
+                "mfe": "Grafik baton ek grafik sirkilaire"
+              },
+              "objectives": [
+                "Draw bar charts from data",
+                "Draw pie charts from data",
+                "Interpret information from bar and pie charts"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mean, median and mode",
+                "fr": "Moyenne, médiane et mode",
+                "mfe": "Moyenn, medyann ek mod"
+              },
+              "objectives": [
+                "Calculate the mean of a data set",
+                "Find the median and mode of a data set",
+                "Choose an appropriate average for a situation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Interpreting data",
+                "fr": "Interpréter les données",
+                "mfe": "Entrprete done"
+              },
+              "objectives": [
+                "Draw conclusions from graphs and tables",
+                "Identify trends and patterns in data",
+                "Discuss the reliability of data sources"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Symmetry and transformations",
+            "fr": "Symétrie et transformations",
+            "mfe": "Simetri ek transformasyon"
+          },
+          "summary": {
+            "en": "Investigate line and rotational symmetry and apply simple geometric transformations.",
+            "fr": "Étudier la symétrie axiale et rotationnelle et appliquer des transformations géométriques simples.",
+            "mfe": "Envestig simetri lign ek rotasyonnel ek aplik transformasyon zeometrik senp."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Line symmetry",
+                "fr": "Symétrie axiale",
+                "mfe": "Simetri lign"
+              },
+              "objectives": [
+                "Identify lines of symmetry in shapes",
+                "Draw lines of symmetry accurately",
+                "Complete symmetrical figures"
+              ]
+            },
+            {
+              "title": {
+                "en": "Rotational symmetry",
+                "fr": "Symétrie de rotation",
+                "mfe": "Simetri rotasyonnel"
+              },
+              "objectives": [
+                "Identify shapes with rotational symmetry",
+                "Determine the order of rotational symmetry",
+                "Compare line and rotational symmetry"
+              ]
+            },
+            {
+              "title": {
+                "en": "Translation and reflection",
+                "fr": "Translation et réflexion",
+                "mfe": "Translasyon ek reflekyson"
+              },
+              "objectives": [
+                "Translate shapes on a grid",
+                "Reflect shapes in a given line",
+                "Describe transformations using correct vocabulary"
+              ]
+            },
+            {
+              "title": {
+                "en": "Tessellations",
+                "fr": "Pavages",
+                "mfe": "Tesalasyon"
+              },
+              "objectives": [
+                "Recognise shapes that tessellate",
+                "Create simple tessellating patterns",
+                "Relate tessellations to Mauritian art and design"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "8": {
+      "units": [
+        {
+          "title": {
+            "en": "Rational numbers",
+            "fr": "Les nombres rationnels",
+            "mfe": "Nomb rasionel"
+          },
+          "summary": {
+            "en": "Explore the set of rational numbers, their properties and how to represent and operate with them.",
+            "fr": "Explorer l'ensemble des nombres rationnels, leurs propriétés et comment les représenter et effectuer des opérations avec eux.",
+            "mfe": "Explor lansanb nomb rasionel, zot propriete ek kouma pou reprezant ek fer operasion ar zot."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Understanding rational numbers",
+                "fr": "Comprendre les nombres rationnels",
+                "mfe": "Konpran nomb rasionel"
+              },
+              "objectives": [
+                "Define a rational number",
+                "Identify rational numbers among given numbers",
+                "Compare and order rational numbers"
+              ]
+            },
+            {
+              "title": {
+                "en": "Operations on rational numbers",
+                "fr": "Opérations sur les nombres rationnels",
+                "mfe": "Operasion lor nomb rasionel"
+              },
+              "objectives": [
+                "Add and subtract rational numbers",
+                "Multiply and divide rational numbers",
+                "Solve problems involving rational numbers"
+              ]
+            },
+            {
+              "title": {
+                "en": "Properties of rational numbers",
+                "fr": "Propriétés des nombres rationnels",
+                "mfe": "Propriete nomb rasionel"
+              },
+              "objectives": [
+                "State closure, commutative and associative properties",
+                "Verify distributive property with examples",
+                "Identify additive and multiplicative identities"
+              ]
+            },
+            {
+              "title": {
+                "en": "Representing rational numbers on a number line",
+                "fr": "Représenter les nombres rationnels sur une droite numérique",
+                "mfe": "Reprezant nomb rasionel lor enn drwat nimerik"
+              },
+              "objectives": [
+                "Plot rational numbers on a number line",
+                "Find rational numbers between two given numbers",
+                "Use the number line to compare values"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Powers and exponents",
+            "fr": "Puissances et exposants",
+            "mfe": "Pwisans ek expozan"
+          },
+          "summary": {
+            "en": "Learn the laws of exponents and apply them to squares, cubes and scientific notation.",
+            "fr": "Apprendre les lois des exposants et les appliquer aux carrés, cubes et à la notation scientifique.",
+            "mfe": "Aprann lalwa expozan ek servi zot pou karre, kib ek notasion syantifik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Laws of exponents",
+                "fr": "Lois des exposants",
+                "mfe": "Lalwa expozan"
+              },
+              "objectives": [
+                "State the laws of exponents",
+                "Simplify expressions using laws of exponents",
+                "Solve problems with negative and zero exponents"
+              ]
+            },
+            {
+              "title": {
+                "en": "Squares and square roots",
+                "fr": "Carrés et racines carrées",
+                "mfe": "Karre ek rasinn karre"
+              },
+              "objectives": [
+                "Identify perfect squares",
+                "Find square roots by prime factorisation",
+                "Estimate square roots of non-perfect squares"
+              ]
+            },
+            {
+              "title": {
+                "en": "Cubes and cube roots",
+                "fr": "Cubes et racines cubiques",
+                "mfe": "Kib ek rasinn kib"
+              },
+              "objectives": [
+                "Identify perfect cubes",
+                "Find cube roots by prime factorisation",
+                "Apply cubes and cube roots to solve problems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Scientific notation",
+                "fr": "Notation scientifique",
+                "mfe": "Notasion syantifik"
+              },
+              "objectives": [
+                "Express large and small numbers in scientific notation",
+                "Convert numbers between standard and scientific form",
+                "Perform simple calculations using scientific notation"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Algebraic expressions and identities",
+            "fr": "Expressions et identités algébriques",
+            "mfe": "Ekspresion ek idantite algebrik"
+          },
+          "summary": {
+            "en": "Manipulate algebraic expressions and use standard identities to factorise expressions.",
+            "fr": "Manipuler des expressions algébriques et utiliser des identités standards pour factoriser des expressions.",
+            "mfe": "Manipile ekspresion algebrik ek servi idantite standar pou faktoriz ekspresion."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Adding and subtracting expressions",
+                "fr": "Addition et soustraction d'expressions",
+                "mfe": "Adision ek soustraksion ekspresion"
+              },
+              "objectives": [
+                "Identify like and unlike terms",
+                "Add algebraic expressions",
+                "Subtract algebraic expressions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Multiplying algebraic expressions",
+                "fr": "Multiplication d'expressions algébriques",
+                "mfe": "Miltipliye ekspresion algebrik"
+              },
+              "objectives": [
+                "Multiply a monomial by a polynomial",
+                "Multiply two binomials",
+                "Simplify products of algebraic expressions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Standard algebraic identities",
+                "fr": "Identités algébriques standards",
+                "mfe": "Idantite algebrik standar"
+              },
+              "objectives": [
+                "State common algebraic identities",
+                "Apply identities to expand expressions",
+                "Verify identities using numerical examples"
+              ]
+            },
+            {
+              "title": {
+                "en": "Factorisation using identities",
+                "fr": "Factorisation à l'aide d'identités",
+                "mfe": "Faktorizasion ar idantite"
+              },
+              "objectives": [
+                "Factorise expressions using standard identities",
+                "Factorise by taking out common factors",
+                "Solve problems requiring factorisation"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Linear equations in one variable",
+            "fr": "Équations linéaires à une variable",
+            "mfe": "Ekwasion lineer enn variab"
+          },
+          "summary": {
+            "en": "Solve linear equations and apply them to real-life word problems.",
+            "fr": "Résoudre des équations linéaires et les appliquer à des problèmes concrets.",
+            "mfe": "Rezoud ekwasion lineer ek servi zot dan problem lavi tou-le-zour."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Solving linear equations",
+                "fr": "Résoudre des équations linéaires",
+                "mfe": "Rezoud ekwasion lineer"
+              },
+              "objectives": [
+                "Solve equations with variables on one side",
+                "Solve equations with variables on both sides",
+                "Check solutions by substitution"
+              ]
+            },
+            {
+              "title": {
+                "en": "Equations with fractions",
+                "fr": "Équations avec fractions",
+                "mfe": "Ekwasion ar fraksion"
+              },
+              "objectives": [
+                "Clear fractions from equations",
+                "Solve equations involving fractional coefficients",
+                "Verify solutions of fractional equations"
+              ]
+            },
+            {
+              "title": {
+                "en": "Word problems using linear equations",
+                "fr": "Problèmes avec équations linéaires",
+                "mfe": "Problem ar ekwasion lineer"
+              },
+              "objectives": [
+                "Translate word problems into equations",
+                "Solve age and number based problems",
+                "Interpret solutions in context"
+              ]
+            },
+            {
+              "title": {
+                "en": "Applications in real life",
+                "fr": "Applications dans la vie réelle",
+                "mfe": "Aplikasion dan lavi reel"
+              },
+              "objectives": [
+                "Apply linear equations to money and measurement problems",
+                "Solve problems related to speed, distance and time",
+                "Present solutions clearly with working steps"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Ratio, proportion and percentage",
+            "fr": "Rapport, proportion et pourcentage",
+            "mfe": "Rasio, proporsion ek poursantaz"
+          },
+          "summary": {
+            "en": "Apply ratio, proportion and percentage to solve problems including profit, loss and interest.",
+            "fr": "Appliquer le rapport, la proportion et le pourcentage pour résoudre des problèmes incluant profit, perte et intérêt.",
+            "mfe": "Servi rasio, proporsion ek poursantaz pou rezoud problem ki gagn profi, pert ek interet."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Ratio and proportion",
+                "fr": "Rapport et proportion",
+                "mfe": "Rasio ek proporsion"
+              },
+              "objectives": [
+                "Simplify ratios",
+                "Solve problems using direct proportion",
+                "Solve problems using inverse proportion"
+              ]
+            },
+            {
+              "title": {
+                "en": "Percentage increase and decrease",
+                "fr": "Augmentation et diminution en pourcentage",
+                "mfe": "Ogmantasion ek diminision an poursantaz"
+              },
+              "objectives": [
+                "Calculate percentage increase and decrease",
+                "Convert between fractions, decimals and percentages",
+                "Solve real-life percentage problems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Profit, loss and discount",
+                "fr": "Profit, perte et remise",
+                "mfe": "Profi, pert ek rediksion"
+              },
+              "objectives": [
+                "Calculate profit and loss percentage",
+                "Calculate discount and selling price",
+                "Solve shop-related word problems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Simple interest",
+                "fr": "Intérêt simple",
+                "mfe": "Interet senp"
+              },
+              "objectives": [
+                "State the formula for simple interest",
+                "Calculate simple interest for given periods",
+                "Solve problems involving principal, rate and time"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Understanding geometry",
+            "fr": "Comprendre la géométrie",
+            "mfe": "Konpran zeometri"
+          },
+          "summary": {
+            "en": "Study properties of angles, triangles, quadrilaterals and congruence of shapes.",
+            "fr": "Étudier les propriétés des angles, triangles, quadrilatères et la congruence des figures.",
+            "mfe": "Etidye propriete lang, triyang, katrilater ek konguans form."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Angles and parallel lines",
+                "fr": "Angles et droites parallèles",
+                "mfe": "Lang ek lign paralel"
+              },
+              "objectives": [
+                "Identify pairs of angles formed by a transversal",
+                "Apply properties of parallel lines",
+                "Solve problems using angle relationships"
+              ]
+            },
+            {
+              "title": {
+                "en": "Properties of triangles",
+                "fr": "Propriétés des triangles",
+                "mfe": "Propriete triyang"
+              },
+              "objectives": [
+                "State the angle sum property of a triangle",
+                "Apply the exterior angle property",
+                "Classify triangles by sides and angles"
+              ]
+            },
+            {
+              "title": {
+                "en": "Quadrilaterals",
+                "fr": "Quadrilatères",
+                "mfe": "Katrilater"
+              },
+              "objectives": [
+                "Identify types of quadrilaterals",
+                "State properties of parallelograms",
+                "Solve problems using angle sum of quadrilaterals"
+              ]
+            },
+            {
+              "title": {
+                "en": "Congruence of triangles",
+                "fr": "Congruence des triangles",
+                "mfe": "Konguans triyang"
+              },
+              "objectives": [
+                "State conditions for congruence of triangles",
+                "Identify congruent triangles using SSS, SAS, ASA and RHS",
+                "Apply congruence to solve geometric problems"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Mensuration",
+            "fr": "Mesures et calculs de surfaces et volumes",
+            "mfe": "Mezirasyon"
+          },
+          "summary": {
+            "en": "Calculate area, surface area and volume of common two- and three-dimensional shapes.",
+            "fr": "Calculer l'aire, l'aire de surface et le volume de figures courantes en deux et trois dimensions.",
+            "mfe": "Kalkile lersaf, lersaf sirfas ek volim form komen an de ek trwa dimansion."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Area of quadrilaterals",
+                "fr": "Aire des quadrilatères",
+                "mfe": "Lersaf katrilater"
+              },
+              "objectives": [
+                "Calculate area of a trapezium",
+                "Calculate area of a rhombus",
+                "Solve composite area problems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Surface area of solids",
+                "fr": "Aire de surface des solides",
+                "mfe": "Lersaf sirfas solid"
+              },
+              "objectives": [
+                "Calculate surface area of a cube and cuboid",
+                "Calculate surface area of a cylinder",
+                "Apply formulas to real objects"
+              ]
+            },
+            {
+              "title": {
+                "en": "Volume of solids",
+                "fr": "Volume des solides",
+                "mfe": "Volim solid"
+              },
+              "objectives": [
+                "Calculate volume of a cube and cuboid",
+                "Calculate volume of a cylinder",
+                "Convert between units of volume"
+              ]
+            },
+            {
+              "title": {
+                "en": "Practical applications of mensuration",
+                "fr": "Applications pratiques des mesures",
+                "mfe": "Aplikasion pratik mezirasyon"
+              },
+              "objectives": [
+                "Solve real-life problems involving area and volume",
+                "Estimate quantities such as paint or water needed",
+                "Present solutions with correct units"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Data handling and coordinate graphs",
+            "fr": "Traitement des données et graphiques de coordonnées",
+            "mfe": "Tretman done ek grafik kordone"
+          },
+          "summary": {
+            "en": "Organise and represent data graphically, explore basic probability and introduce the coordinate plane.",
+            "fr": "Organiser et représenter des données graphiquement, découvrir les probabilités de base et introduire le plan de coordonnées.",
+            "mfe": "Organiz ek reprezant done an grafik, dekouver probabilite debaz ek introdir plan kordone."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Organising data",
+                "fr": "Organiser les données",
+                "mfe": "Organiz done"
+              },
+              "objectives": [
+                "Collect and tabulate data",
+                "Construct frequency distribution tables",
+                "Calculate mean, median and mode"
+              ]
+            },
+            {
+              "title": {
+                "en": "Bar graphs and pie charts",
+                "fr": "Diagrammes en bâtons et circulaires",
+                "mfe": "Grafik baton ek dyagram sirkiler"
+              },
+              "objectives": [
+                "Draw and interpret bar graphs",
+                "Draw and interpret pie charts",
+                "Choose appropriate graphs for given data"
+              ]
+            },
+            {
+              "title": {
+                "en": "Introduction to probability",
+                "fr": "Introduction aux probabilités",
+                "mfe": "Introdiksion probabilite"
+              },
+              "objectives": [
+                "Define probability of a simple event",
+                "Calculate probability using sample space",
+                "Solve simple probability problems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Introduction to the coordinate plane",
+                "fr": "Introduction au plan de coordonnées",
+                "mfe": "Introdiksion plan kordone"
+              },
+              "objectives": [
+                "Plot points on the coordinate plane",
+                "Identify coordinates of given points",
+                "Recognise the four quadrants"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "units": [
+        {
+          "title": {
+            "en": "Directed numbers and indices",
+            "fr": "Nombres relatifs et indices",
+            "mfe": "Nomb relatif ek lindis"
+          },
+          "summary": {
+            "en": "Consolidate operations on directed numbers and extend to laws of indices, including negative and zero powers, preparing for algebraic manipulation.",
+            "fr": "Consolider les opérations sur les nombres relatifs et étendre aux lois des indices, y compris les puissances négatives et nulles, en préparation à la manipulation algébrique.",
+            "mfe": "Konsolide operasyon lor nomb relatif ek etann lor lalwa lindis, инkli pwisans negatif ek zero, pou prepar manipilasyon aljebrik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Operations with directed numbers",
+                "fr": "Opérations avec les nombres relatifs",
+                "mfe": "Operasyon avek nomb relatif"
+              },
+              "objectives": [
+                "Add and subtract positive and negative numbers",
+                "Multiply and divide directed numbers",
+                "Apply order of operations with directed numbers"
+              ]
+            },
+            {
+              "title": {
+                "en": "Laws of indices",
+                "fr": "Lois des indices",
+                "mfe": "Lalwa lindis"
+              },
+              "objectives": [
+                "State and apply the multiplication and division laws of indices",
+                "Simplify expressions using laws of indices",
+                "Solve simple problems involving powers"
+              ]
+            },
+            {
+              "title": {
+                "en": "Zero and negative indices",
+                "fr": "Indices nuls et négatifs",
+                "mfe": "Lindis zero ek negatif"
+              },
+              "objectives": [
+                "Define zero index and negative index",
+                "Evaluate expressions with zero and negative indices",
+                "Convert between negative index form and fractions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Standard form",
+                "fr": "Notation scientifique",
+                "mfe": "Form standar"
+              },
+              "objectives": [
+                "Write large and small numbers in standard form",
+                "Convert between standard form and ordinary form",
+                "Perform calculations using standard form"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Algebraic expressions and formulae",
+            "fr": "Expressions algébriques et formules",
+            "mfe": "Ekspresyon aljebrik ek formil"
+          },
+          "summary": {
+            "en": "Develop skills in expanding, factorising and manipulating algebraic expressions, and using formulae in real-life contexts.",
+            "fr": "Développer les compétences en développement, factorisation et manipulation d'expressions algébriques, et l'utilisation de formules dans des contextes réels.",
+            "mfe": "Devlop konpetans pou developman, faktorizasyon ek manipilasyon ekspresyon aljebrik, ek servi formil dan lavi kotidyen."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Expanding brackets",
+                "fr": "Développement des expressions",
+                "mfe": "Devlopman parantez"
+              },
+              "objectives": [
+                "Expand single and double brackets",
+                "Simplify expressions after expansion",
+                "Apply expansion to word problems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Factorising expressions",
+                "fr": "Factorisation des expressions",
+                "mfe": "Faktorizasyon ekspresyon"
+              },
+              "objectives": [
+                "Factorise using common factors",
+                "Factorise simple quadratic expressions",
+                "Check factorisation by expansion"
+              ]
+            },
+            {
+              "title": {
+                "en": "Algebraic fractions",
+                "fr": "Fractions algébriques",
+                "mfe": "Fraksyon aljebrik"
+              },
+              "objectives": [
+                "Simplify algebraic fractions",
+                "Add and subtract algebraic fractions",
+                "Multiply and divide algebraic fractions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Substitution and formulae",
+                "fr": "Substitution et formules",
+                "mfe": "Sibstitisyon ek formil"
+              },
+              "objectives": [
+                "Substitute values into formulae",
+                "Change the subject of a formula",
+                "Apply formulae to solve practical problems"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Linear equations and inequalities",
+            "fr": "Équations et inéquations linéaires",
+            "mfe": "Ekwasyon ek inegalite lineer"
+          },
+          "summary": {
+            "en": "Solve linear equations and inequalities, including simultaneous equations, and apply them to model real-world situations.",
+            "fr": "Résoudre des équations et inéquations linéaires, y compris des équations simultanées, et les appliquer à des situations réelles.",
+            "mfe": "Rezoud ekwasyon ek inegalite lineer, inkli ekwasyon similtane, ek aplik zot pou modelis sitiasyon reel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Solving linear equations",
+                "fr": "Résolution d'équations linéaires",
+                "mfe": "Rezolisyon ekwasyon lineer"
+              },
+              "objectives": [
+                "Solve linear equations with one unknown",
+                "Solve equations involving brackets and fractions",
+                "Check solutions by substitution"
+              ]
+            },
+            {
+              "title": {
+                "en": "Simultaneous linear equations",
+                "fr": "Équations simultanées linéaires",
+                "mfe": "Ekwasyon similtane lineer"
+              },
+              "objectives": [
+                "Solve simultaneous equations by substitution",
+                "Solve simultaneous equations by elimination",
+                "Apply simultaneous equations to word problems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Linear inequalities",
+                "fr": "Inéquations linéaires",
+                "mfe": "Inegalite lineer"
+              },
+              "objectives": [
+                "Solve linear inequalities in one variable",
+                "Represent solutions on a number line",
+                "Solve word problems using inequalities"
+              ]
+            },
+            {
+              "title": {
+                "en": "Forming equations from problems",
+                "fr": "Formuler des équations à partir de problèmes",
+                "mfe": "Form ekwasyon apartir problem"
+              },
+              "objectives": [
+                "Translate word problems into equations",
+                "Solve real-life problems using equations",
+                "Interpret solutions in context"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Ratio, rate and proportion",
+            "fr": "Rapport, taux et proportion",
+            "mfe": "Rapor, to ek proporsyon"
+          },
+          "summary": {
+            "en": "Apply ratio, proportion and rate concepts to solve problems involving sharing, scaling, speed and direct and inverse variation.",
+            "fr": "Appliquer les concepts de rapport, proportion et taux pour résoudre des problèmes de partage, d'échelle, de vitesse et de variation directe et inverse.",
+            "mfe": "Aplik konsep rapor, proporsyon ek to pou rezoud problem partaz, lesel, vites ek varyasyon direk ek envers."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Ratio and sharing",
+                "fr": "Rapport et partage",
+                "mfe": "Rapor ek partaz"
+              },
+              "objectives": [
+                "Simplify and compare ratios",
+                "Divide quantities in a given ratio",
+                "Solve ratio problems in real contexts"
+              ]
+            },
+            {
+              "title": {
+                "en": "Direct and inverse proportion",
+                "fr": "Proportion directe et inverse",
+                "mfe": "Proporsyon direk ek envers"
+              },
+              "objectives": [
+                "Identify direct and inverse proportion",
+                "Solve problems using direct proportion",
+                "Solve problems using inverse proportion"
+              ]
+            },
+            {
+              "title": {
+                "en": "Rates and speed",
+                "fr": "Taux et vitesse",
+                "mfe": "To ek vites"
+              },
+              "objectives": [
+                "Calculate speed, distance and time",
+                "Solve problems involving average speed",
+                "Apply rate concepts to density and cost"
+              ]
+            },
+            {
+              "title": {
+                "en": "Scale drawings and maps",
+                "fr": "Dessins à l'échelle et cartes",
+                "mfe": "Desen a lesel ek kart"
+              },
+              "objectives": [
+                "Interpret scale on maps and drawings",
+                "Calculate actual distances from scale drawings",
+                "Construct simple scale drawings"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Mensuration",
+            "fr": "Mesures géométriques",
+            "mfe": "Mezirasyon"
+          },
+          "summary": {
+            "en": "Calculate perimeter, area and volume of plane and solid shapes, including composite figures relevant to everyday objects.",
+            "fr": "Calculer le périmètre, l'aire et le volume de figures planes et solides, y compris des figures composées liées à des objets quotidiens.",
+            "mfe": "Kalkil perimet, lezirans ek volim figir plat ek solid, inkli figir konpoze ki relate ar zafer toulezour."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Area of plane shapes",
+                "fr": "Aire des figures planes",
+                "mfe": "Lezirans figir plat"
+              },
+              "objectives": [
+                "Calculate area of triangles, parallelograms and trapeziums",
+                "Calculate area of circles",
+                "Solve problems involving composite plane shapes"
+              ]
+            },
+            {
+              "title": {
+                "en": "Perimeter and circumference",
+                "fr": "Périmètre et circonférence",
+                "mfe": "Perimet ek sirkonferans"
+              },
+              "objectives": [
+                "Calculate perimeter of composite shapes",
+                "Calculate circumference of circles",
+                "Solve problems combining perimeter and area"
+              ]
+            },
+            {
+              "title": {
+                "en": "Volume and surface area of solids",
+                "fr": "Volume et aire d'un solide",
+                "mfe": "Volim ek lezirans solid"
+              },
+              "objectives": [
+                "Calculate volume of prisms and cylinders",
+                "Calculate surface area of prisms and cylinders",
+                "Solve real-life problems involving solids"
+              ]
+            },
+            {
+              "title": {
+                "en": "Volume of pyramids and cones",
+                "fr": "Volume des pyramides et cônes",
+                "mfe": "Volim piramid ek kon"
+              },
+              "objectives": [
+                "Calculate volume of pyramids",
+                "Calculate volume of cones and spheres",
+                "Apply volume formulae to composite solids"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Coordinate geometry and graphs",
+            "fr": "Géométrie analytique et graphiques",
+            "mfe": "Zeometri koordone ek grafik"
+          },
+          "summary": {
+            "en": "Plot and interpret linear graphs, calculate gradients and distances, and use graphs to represent real-life relationships.",
+            "fr": "Tracer et interpréter des graphiques linéaires, calculer des pentes et des distances, et utiliser des graphiques pour représenter des relations réelles.",
+            "mfe": "Trase ek interprete grafik lineer, kalkil gradyan ek distans, ek servi grafik pou reprezant relasyon dan lavi reel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Plotting linear graphs",
+                "fr": "Tracer des graphiques linéaires",
+                "mfe": "Trase grafik lineer"
+              },
+              "objectives": [
+                "Plot points and draw straight-line graphs",
+                "Identify the equation of a line from a graph",
+                "Interpret intercepts on a graph"
+              ]
+            },
+            {
+              "title": {
+                "en": "Gradient of a line",
+                "fr": "Pente d'une droite",
+                "mfe": "Gradyan enn drwat"
+              },
+              "objectives": [
+                "Calculate the gradient between two points",
+                "Interpret gradient as rate of change",
+                "Relate gradient and intercept to the equation y=mx+c"
+              ]
+            },
+            {
+              "title": {
+                "en": "Distance between points",
+                "fr": "Distance entre deux points",
+                "mfe": "Distans ant de pwen"
+              },
+              "objectives": [
+                "Calculate distance between two coordinates",
+                "Find the midpoint of a line segment",
+                "Apply coordinate methods to simple problems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Graphs in real-life contexts",
+                "fr": "Graphiques dans des contextes réels",
+                "mfe": "Grafik dan sitiasyon reel"
+              },
+              "objectives": [
+                "Interpret travel and conversion graphs",
+                "Draw graphs to represent real situations",
+                "Extract information from graphs to solve problems"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Similarity, congruence and Pythagoras",
+            "fr": "Similitude, congruence et Pythagore",
+            "mfe": "Similarite, konigrians ek Pitagor"
+          },
+          "summary": {
+            "en": "Explore properties of similar and congruent figures and apply the Pythagoras theorem to solve geometric problems.",
+            "fr": "Explorer les propriétés des figures semblables et congruentes et appliquer le théorème de Pythagore pour résoudre des problèmes géométriques.",
+            "mfe": "Explor propriete figir similer ek konigrian ek aplik teorem Pitagor pou rezoud problem zeometrik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Congruent triangles",
+                "fr": "Triangles congruents",
+                "mfe": "Triangl konigrian"
+              },
+              "objectives": [
+                "Identify conditions for congruent triangles",
+                "Prove triangles congruent using SSS, SAS, ASA",
+                "Apply congruence to solve problems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Similar figures",
+                "fr": "Figures semblables",
+                "mfe": "Figir similer"
+              },
+              "objectives": [
+                "Identify similar shapes and their properties",
+                "Calculate missing sides using scale factor",
+                "Solve problems involving similar triangles"
+              ]
+            },
+            {
+              "title": {
+                "en": "Pythagoras' theorem",
+                "fr": "Théorème de Pythagore",
+                "mfe": "Teorem Pitagor"
+              },
+              "objectives": [
+                "State and prove Pythagoras' theorem",
+                "Calculate the hypotenuse and other sides",
+                "Apply Pythagoras' theorem to real-life problems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Applications of Pythagoras",
+                "fr": "Applications du théorème de Pythagore",
+                "mfe": "Aplikasyon Teorem Pitagor"
+              },
+              "objectives": [
+                "Solve problems involving heights and distances",
+                "Apply Pythagoras' theorem in coordinate geometry",
+                "Solve three-dimensional problems using Pythagoras"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Statistics and probability",
+            "fr": "Statistiques et probabilités",
+            "mfe": "Estatistik ek probabilite"
+          },
+          "summary": {
+            "en": "Collect, represent and interpret data using appropriate diagrams, and calculate simple probabilities of events.",
+            "fr": "Collecter, représenter et interpréter des données à l'aide de diagrammes appropriés, et calculer des probabilités simples d'événements.",
+            "mfe": "Kolekte, reprezante ek interprete done avek diagram apropriye, ek kalkil probabilite senp bann levennman."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Organising and representing data",
+                "fr": "Organiser et représenter les données",
+                "mfe": "Organiz ek reprezant done"
+              },
+              "objectives": [
+                "Construct frequency tables from raw data",
+                "Draw bar charts, pie charts and histograms",
+                "Choose appropriate diagrams for given data"
+              ]
+            },
+            {
+              "title": {
+                "en": "Measures of central tendency",
+                "fr": "Mesures de tendance centrale",
+                "mfe": "Mezir tandans santral"
+              },
+              "objectives": [
+                "Calculate mean, median and mode from data",
+                "Compare data sets using averages",
+                "Interpret measures of central tendency in context"
+              ]
+            },
+            {
+              "title": {
+                "en": "Measures of spread",
+                "fr": "Mesures de dispersion",
+                "mfe": "Mezir dispersyon"
+              },
+              "objectives": [
+                "Calculate the range of a data set",
+                "Interpret spread of data in comparisons",
+                "Use measures of spread to describe data sets"
+              ]
+            },
+            {
+              "title": {
+                "en": "Introduction to probability",
+                "fr": "Introduction aux probabilités",
+                "mfe": "Entrodiksyon ar probabilite"
+              },
+              "objectives": [
+                "Define probability as a measure of likelihood",
+                "Calculate probability of simple events",
+                "Apply probability to real-life situations such as games"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "units": [
+        {
+          "title": {
+            "en": "Numbers and number systems",
+            "fr": "Les nombres et systèmes numériques",
+            "mfe": "Nombres ek sistem nimerik"
+          },
+          "summary": {
+            "en": "Revise and extend number concepts including sets, indices, standard form and ratio, building a strong foundation for O Level Mathematics.",
+            "fr": "Réviser et approfondir les concepts numériques incluant les ensembles, les indices, la notation scientifique et les rapports, pour une base solide en mathématiques O Level.",
+            "mfe": "Revize ek devlope konsep nimerik ki inklir sets, indis, notasyon syantifik ek rasyo, pou bati enn baz solid pou Matematik O Level."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Sets and Venn diagrams",
+                "fr": "Ensembles et diagrammes de Venn",
+                "mfe": "Sets ek diagram Venn"
+              },
+              "objectives": [
+                "Define set notation and terminology",
+                "Represent sets using Venn diagrams",
+                "Solve problems involving union and intersection of sets"
+              ]
+            },
+            {
+              "title": {
+                "en": "Indices and laws of indices",
+                "fr": "Indices et lois des indices",
+                "mfe": "Indis ek lalwa indis"
+              },
+              "objectives": [
+                "Apply laws of positive, negative and zero indices",
+                "Simplify expressions using index laws",
+                "Solve equations involving indices"
+              ]
+            },
+            {
+              "title": {
+                "en": "Standard form",
+                "fr": "Notation scientifique",
+                "mfe": "Notasyon syantifik"
+              },
+              "objectives": [
+                "Convert numbers to and from standard form",
+                "Perform calculations in standard form",
+                "Apply standard form to real-life contexts"
+              ]
+            },
+            {
+              "title": {
+                "en": "Ratio, rate and proportion",
+                "fr": "Rapport, taux et proportion",
+                "mfe": "Rasyo, to ek proporsyon"
+              },
+              "objectives": [
+                "Solve problems involving ratio and proportion",
+                "Apply direct and inverse proportion",
+                "Calculate rates in practical situations"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Algebraic manipulation",
+            "fr": "Manipulation algébrique",
+            "mfe": "Manipilasyon aljebrik"
+          },
+          "summary": {
+            "en": "Develop fluency in expanding, factorising and simplifying algebraic expressions including fractions.",
+            "fr": "Développer la maîtrise du développement, de la factorisation et de la simplification des expressions algébriques, y compris les fractions.",
+            "mfe": "Devlope ladres pou devlop, faktoriz ek simplifye ekspresyon aljebrik, inklir fraksyon."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Expanding brackets",
+                "fr": "Développement des parenthèses",
+                "mfe": "Devlopman parantez"
+              },
+              "objectives": [
+                "Expand single and double brackets",
+                "Simplify expressions after expansion",
+                "Apply expansion to solve problems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Factorisation techniques",
+                "fr": "Techniques de factorisation",
+                "mfe": "Teknik faktorizasyon"
+              },
+              "objectives": [
+                "Factorise using common factors",
+                "Factorise quadratic expressions",
+                "Factorise by grouping"
+              ]
+            },
+            {
+              "title": {
+                "en": "Algebraic fractions",
+                "fr": "Fractions algébriques",
+                "mfe": "Fraksyon aljebrik"
+              },
+              "objectives": [
+                "Simplify algebraic fractions",
+                "Add and subtract algebraic fractions",
+                "Multiply and divide algebraic fractions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Changing the subject of a formula",
+                "fr": "Changer le sujet d'une formule",
+                "mfe": "Sanz sizet enn formil"
+              },
+              "objectives": [
+                "Rearrange formulae to change the subject",
+                "Apply subject changes to solve problems",
+                "Handle formulae with powers and roots"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Equations and inequalities",
+            "fr": "Équations et inéquations",
+            "mfe": "Ekwasyon ek inegalite"
+          },
+          "summary": {
+            "en": "Solve linear, simultaneous and quadratic equations, and represent inequalities graphically and algebraically.",
+            "fr": "Résoudre des équations linéaires, simultanées et quadratiques, et représenter des inéquations graphiquement et algébriquement.",
+            "mfe": "Rezourd ekwasyon linyer, similtane ek kadratik, ek reprezant inegalite grafikman ek aljebrikman."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Linear equations",
+                "fr": "Équations linéaires",
+                "mfe": "Ekwasyon linyer"
+              },
+              "objectives": [
+                "Solve linear equations with one unknown",
+                "Solve equations involving brackets and fractions",
+                "Apply linear equations to word problems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Simultaneous equations",
+                "fr": "Équations simultanées",
+                "mfe": "Ekwasyon similtane"
+              },
+              "objectives": [
+                "Solve simultaneous equations by substitution",
+                "Solve simultaneous equations by elimination",
+                "Apply simultaneous equations to real contexts"
+              ]
+            },
+            {
+              "title": {
+                "en": "Quadratic equations",
+                "fr": "Équations quadratiques",
+                "mfe": "Ekwasyon kadratik"
+              },
+              "objectives": [
+                "Solve quadratic equations by factorisation",
+                "Solve quadratic equations using the formula",
+                "Solve quadratic equations by completing the square"
+              ]
+            },
+            {
+              "title": {
+                "en": "Linear inequalities",
+                "fr": "Inéquations linéaires",
+                "mfe": "Inegalite linyer"
+              },
+              "objectives": [
+                "Solve linear inequalities algebraically",
+                "Represent inequalities on a number line",
+                "Solve problems involving inequalities"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Functions and graphs",
+            "fr": "Fonctions et graphiques",
+            "mfe": "Fonksyon ek grafik"
+          },
+          "summary": {
+            "en": "Explore functions, their graphs and applications, including linear, quadratic and other common functions.",
+            "fr": "Explorer les fonctions, leurs graphiques et applications, y compris les fonctions linéaires, quadratiques et autres fonctions courantes.",
+            "mfe": "Explor fonksyon, zot grafik ek aplikasyon, inklir fonksyon linyer, kadratik ek lezot fonksyon komen."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Function notation and mapping",
+                "fr": "Notation fonctionnelle et applications",
+                "mfe": "Notasyon fonksyon ek mapaz"
+              },
+              "objectives": [
+                "Interpret function notation",
+                "Evaluate functions for given values",
+                "Determine domain and range of simple functions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Graphs of linear functions",
+                "fr": "Graphiques des fonctions linéaires",
+                "mfe": "Grafik fonksyon linyer"
+              },
+              "objectives": [
+                "Plot graphs of linear functions",
+                "Determine gradient and intercept from a graph",
+                "Interpret linear graphs in context"
+              ]
+            },
+            {
+              "title": {
+                "en": "Graphs of quadratic functions",
+                "fr": "Graphiques des fonctions quadratiques",
+                "mfe": "Grafik fonksyon kadratik"
+              },
+              "objectives": [
+                "Plot graphs of quadratic functions",
+                "Identify turning points and axis of symmetry",
+                "Use graphs to solve quadratic equations"
+              ]
+            },
+            {
+              "title": {
+                "en": "Graphical solutions of equations",
+                "fr": "Solutions graphiques des équations",
+                "mfe": "Solisyon grafik ekwasyon"
+              },
+              "objectives": [
+                "Solve equations graphically using intersections",
+                "Estimate solutions from graphs",
+                "Interpret graphical solutions in practical problems"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Mensuration",
+            "fr": "Mesures géométriques",
+            "mfe": "Mezirasyon"
+          },
+          "summary": {
+            "en": "Calculate perimeter, area, surface area and volume of plane and solid shapes.",
+            "fr": "Calculer le périmètre, l'aire, la surface et le volume de figures planes et solides.",
+            "mfe": "Kalkil perimet, lezor, sirfas ek volim form plan ek solid."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Area and perimeter of plane shapes",
+                "fr": "Aire et périmètre des figures planes",
+                "mfe": "Lezor ek perimet form plan"
+              },
+              "objectives": [
+                "Calculate area and perimeter of composite shapes",
+                "Apply formulae for circles and sectors",
+                "Solve real-life mensuration problems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Volume and surface area of solids",
+                "fr": "Volume et surface des solides",
+                "mfe": "Volim ek sirfas solid"
+              },
+              "objectives": [
+                "Calculate volume of prisms and cylinders",
+                "Calculate surface area of prisms and cylinders",
+                "Solve problems involving composite solids"
+              ]
+            },
+            {
+              "title": {
+                "en": "Volume and surface area of pyramids, cones and spheres",
+                "fr": "Volume et surface des pyramides, cônes et sphères",
+                "mfe": "Volim ek sirfas piramid, kon ek lasfer"
+              },
+              "objectives": [
+                "Apply formulae for volume of pyramids, cones and spheres",
+                "Apply formulae for surface area of these solids",
+                "Solve composite problems with curved solids"
+              ]
+            },
+            {
+              "title": {
+                "en": "Arc length and sector area",
+                "fr": "Longueur d'arc et aire de secteur",
+                "mfe": "Longer lark ek lezor sekter"
+              },
+              "objectives": [
+                "Calculate arc length of a circle",
+                "Calculate area of a sector",
+                "Apply arc and sector formulae to problems"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Geometry and similarity",
+            "fr": "Géométrie et similarité",
+            "mfe": "Zeometri ek similarite"
+          },
+          "summary": {
+            "en": "Study properties of angles, polygons, similarity and congruence with geometric proofs.",
+            "fr": "Étudier les propriétés des angles, polygones, similarité et congruence avec des démonstrations géométriques.",
+            "mfe": "Etidye propriete lang, poligonn, similarite ek konguans avek demonstrasyon zeometrik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Angle properties of polygons",
+                "fr": "Propriétés angulaires des polygones",
+                "mfe": "Propriete lang poligonn"
+              },
+              "objectives": [
+                "Calculate interior and exterior angles of polygons",
+                "Apply angle sum properties",
+                "Solve problems involving regular polygons"
+              ]
+            },
+            {
+              "title": {
+                "en": "Similarity and congruence",
+                "fr": "Similarité et congruence",
+                "mfe": "Similarite ek konguans"
+              },
+              "objectives": [
+                "Identify similar and congruent shapes",
+                "Use scale factors to find missing lengths",
+                "Prove congruence using standard criteria"
+              ]
+            },
+            {
+              "title": {
+                "en": "Circle theorems",
+                "fr": "Théorèmes du cercle",
+                "mfe": "Teorem serk"
+              },
+              "objectives": [
+                "Apply angle properties in circles",
+                "Use theorems involving chords and tangents",
+                "Solve problems using circle theorems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Constructions and loci",
+                "fr": "Constructions et lieux géométriques",
+                "mfe": "Konstriksyon ek lokis"
+              },
+              "objectives": [
+                "Construct triangles and angle bisectors using compass and ruler",
+                "Construct loci based on given conditions",
+                "Apply loci to solve practical problems"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Trigonometry",
+            "fr": "Trigonométrie",
+            "mfe": "Trigonometri"
+          },
+          "summary": {
+            "en": "Apply trigonometric ratios to solve problems involving right-angled and non-right-angled triangles.",
+            "fr": "Appliquer les rapports trigonométriques pour résoudre des problèmes impliquant des triangles rectangles et non rectangles.",
+            "mfe": "Aplik rasyo trigonometrik pou rezourd problem ki inplik triyang angl drwat ek non-angl drwat."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Trigonometric ratios in right-angled triangles",
+                "fr": "Rapports trigonométriques dans les triangles rectangles",
+                "mfe": "Rasyo trigonometrik dan triyang angl drwat"
+              },
+              "objectives": [
+                "Apply sine, cosine and tangent ratios",
+                "Calculate unknown sides and angles",
+                "Solve real-life problems using right-angled triangles"
+              ]
+            },
+            {
+              "title": {
+                "en": "Angles of elevation and depression",
+                "fr": "Angles d'élévation et de dépression",
+                "mfe": "Lang elevasyon ek depresyon"
+              },
+              "objectives": [
+                "Define angles of elevation and depression",
+                "Solve problems involving elevation and depression",
+                "Apply trigonometry to height and distance problems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sine and cosine rules",
+                "fr": "Règles du sinus et du cosinus",
+                "mfe": "Regle sinis ek kosinis"
+              },
+              "objectives": [
+                "Apply the sine rule to solve triangles",
+                "Apply the cosine rule to solve triangles",
+                "Determine which rule to use in a given problem"
+              ]
+            },
+            {
+              "title": {
+                "en": "Area of a triangle using trigonometry",
+                "fr": "Aire d'un triangle avec la trigonométrie",
+                "mfe": "Lezor enn triyang avek trigonometri"
+              },
+              "objectives": [
+                "Calculate the area of a triangle using trigonometric formula",
+                "Apply the formula to composite shapes",
+                "Solve practical problems involving triangle areas"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Statistics and probability",
+            "fr": "Statistiques et probabilités",
+            "mfe": "Statistik ek probabilite"
+          },
+          "summary": {
+            "en": "Collect, represent and interpret data, and calculate probabilities of single and combined events.",
+            "fr": "Collecter, représenter et interpréter des données, et calculer les probabilités d'événements simples et combinés.",
+            "mfe": "Kolekte, reprezante ek entrprete done, ek kalkil probabilite levennman sinp ek konbine."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Data representation",
+                "fr": "Représentation des données",
+                "mfe": "Reprezantasyon done"
+              },
+              "objectives": [
+                "Construct histograms and frequency polygons",
+                "Interpret cumulative frequency graphs",
+                "Choose appropriate data displays for context"
+              ]
+            },
+            {
+              "title": {
+                "en": "Measures of central tendency and spread",
+                "fr": "Mesures de tendance centrale et de dispersion",
+                "mfe": "Mezir tandans santral ek dispersyon"
+              },
+              "objectives": [
+                "Calculate mean, median and mode from data",
+                "Calculate range and interquartile range",
+                "Compare data sets using these measures"
+              ]
+            },
+            {
+              "title": {
+                "en": "Probability of single events",
+                "fr": "Probabilité d'événements simples",
+                "mfe": "Probabilite levennman sinp"
+              },
+              "objectives": [
+                "Calculate probability of simple events",
+                "Use probability scales appropriately",
+                "Apply probability to everyday contexts in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Probability of combined events",
+                "fr": "Probabilité d'événements combinés",
+                "mfe": "Probabilite levennman konbine"
+              },
+              "objectives": [
+                "Use tree diagrams to calculate probabilities",
+                "Calculate probability of independent and dependent events",
+                "Solve problems involving combined events"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "11": {
+      "units": [
+        {
+          "title": {
+            "en": "Quadratic equations and functions",
+            "fr": "Équations et fonctions quadratiques",
+            "mfe": "Ekwasion ek fonksion kadratik"
+          },
+          "summary": {
+            "en": "Students learn methods to solve quadratic equations and explore the properties and graphs of quadratic functions.",
+            "fr": "Les élèves apprennent des méthodes pour résoudre des équations quadratiques et explorent les propriétés et graphes des fonctions quadratiques.",
+            "mfe": "Bann elev aprann bann metod pou rezourd ekwasion kadratik ek explor bann proprietate ek grafik fonksion kadratik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Solving quadratics by factorisation",
+                "fr": "Résoudre les quadratiques par factorisation",
+                "mfe": "Rezourd kadratik par faktorizasion"
+              },
+              "objectives": [
+                "Factorise quadratic expressions",
+                "Solve quadratic equations by factorisation",
+                "Verify solutions by substitution"
+              ]
+            },
+            {
+              "title": {
+                "en": "The quadratic formula",
+                "fr": "La formule quadratique",
+                "mfe": "Formil kadratik"
+              },
+              "objectives": [
+                "Apply the quadratic formula to solve equations",
+                "Identify the discriminant and interpret its meaning",
+                "Solve real-life problems using quadratic equations"
+              ]
+            },
+            {
+              "title": {
+                "en": "Completing the square",
+                "fr": "Compléter le carré",
+                "mfe": "Konplet kare"
+              },
+              "objectives": [
+                "Rewrite quadratics in completed square form",
+                "Use completed square form to find turning points",
+                "Solve equations using completing the square"
+              ]
+            },
+            {
+              "title": {
+                "en": "Graphs of quadratic functions",
+                "fr": "Graphes des fonctions quadratiques",
+                "mfe": "Grafik fonksion kadratik"
+              },
+              "objectives": [
+                "Sketch graphs of quadratic functions",
+                "Identify roots, turning points and axis of symmetry",
+                "Interpret graphs to solve related equations"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Further algebra",
+            "fr": "Algèbre approfondie",
+            "mfe": "Aljebra avanse"
+          },
+          "summary": {
+            "en": "This unit extends algebraic skills to indices, surds, algebraic fractions and simultaneous equations.",
+            "fr": "Cette unité approfondit les compétences algébriques avec les indices, les racines, les fractions algébriques et les équations simultanées.",
+            "mfe": "Sa linite-la agrandi konpetans aljebrik lor indis, sird, fraksion aljebrik ek ekwasion similtane."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Indices and their laws",
+                "fr": "Indices et leurs lois",
+                "mfe": "Indis ek so bann lwa"
+              },
+              "objectives": [
+                "Apply laws of indices to simplify expressions",
+                "Evaluate expressions with negative and fractional indices",
+                "Solve simple equations involving indices"
+              ]
+            },
+            {
+              "title": {
+                "en": "Surds and simplification",
+                "fr": "Racines et simplification",
+                "mfe": "Sird ek simplifikasion"
+              },
+              "objectives": [
+                "Simplify expressions containing surds",
+                "Rationalise denominators involving surds",
+                "Perform operations with surds"
+              ]
+            },
+            {
+              "title": {
+                "en": "Algebraic fractions",
+                "fr": "Fractions algébriques",
+                "mfe": "Fraksion aljebrik"
+              },
+              "objectives": [
+                "Simplify algebraic fractions",
+                "Add and subtract algebraic fractions",
+                "Solve equations involving algebraic fractions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Simultaneous equations",
+                "fr": "Équations simultanées",
+                "mfe": "Ekwasion similtane"
+              },
+              "objectives": [
+                "Solve simultaneous linear equations algebraically",
+                "Solve simultaneous equations with one linear and one quadratic",
+                "Apply simultaneous equations to word problems"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Circle geometry",
+            "fr": "Géométrie du cercle",
+            "mfe": "Zeometri sertkel"
+          },
+          "summary": {
+            "en": "Students explore angle properties, tangents and chords of circles through geometric theorems.",
+            "fr": "Les élèves explorent les propriétés des angles, les tangentes et les cordes des cercles à travers des théorèmes géométriques.",
+            "mfe": "Bann elev explor proprietate lang, tanzant ek kord sertkel atraver bann teorem zeometrik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Angle properties of circles",
+                "fr": "Propriétés des angles du cercle",
+                "mfe": "Proprietate lang sertkel"
+              },
+              "objectives": [
+                "State and apply angle at centre and circumference theorems",
+                "Solve problems using angle properties of circles",
+                "Justify answers using correct geometric reasoning"
+              ]
+            },
+            {
+              "title": {
+                "en": "Cyclic quadrilaterals",
+                "fr": "Quadrilatères cycliques",
+                "mfe": "Kadrilater siklik"
+              },
+              "objectives": [
+                "Identify properties of cyclic quadrilaterals",
+                "Apply opposite angle properties to solve problems",
+                "Prove simple geometric statements involving cyclic quadrilaterals"
+              ]
+            },
+            {
+              "title": {
+                "en": "Tangents and chords",
+                "fr": "Tangentes et cordes",
+                "mfe": "Tanzant ek kord"
+              },
+              "objectives": [
+                "Apply the tangent-radius property",
+                "Use properties of equal chords and perpendicular bisectors",
+                "Solve problems involving tangents from an external point"
+              ]
+            },
+            {
+              "title": {
+                "en": "Further circle theorems",
+                "fr": "Théorèmes avancés du cercle",
+                "mfe": "Bann teorem sertkel avanse"
+              },
+              "objectives": [
+                "Apply the alternate segment theorem",
+                "Combine multiple circle theorems to solve complex problems",
+                "Present clear geometric proofs"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Trigonometry",
+            "fr": "Trigonométrie",
+            "mfe": "Trigonometri"
+          },
+          "summary": {
+            "en": "This unit develops trigonometric skills using the sine and cosine rules, bearings and three-dimensional problems.",
+            "fr": "Cette unité développe les compétences trigonométriques avec les règles du sinus et du cosinus, les relèvements et les problèmes tridimensionnels.",
+            "mfe": "Sa linite-la devlop konpetans trigonometrik avek regl sinis ek kosinis, bearing ek problem trwa dimansion."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "The sine rule",
+                "fr": "La règle du sinus",
+                "mfe": "Regl sinis"
+              },
+              "objectives": [
+                "Apply the sine rule to find sides and angles",
+                "Solve problems involving non-right-angled triangles",
+                "Recognise when to use the sine rule"
+              ]
+            },
+            {
+              "title": {
+                "en": "The cosine rule",
+                "fr": "La règle du cosinus",
+                "mfe": "Regl kosinis"
+              },
+              "objectives": [
+                "Apply the cosine rule to find sides and angles",
+                "Solve problems combining sine and cosine rules",
+                "Determine the appropriate rule for a given triangle"
+              ]
+            },
+            {
+              "title": {
+                "en": "Bearings and applications",
+                "fr": "Relèvements et applications",
+                "mfe": "Bearing ek so bann aplikasion"
+              },
+              "objectives": [
+                "Calculate and interpret bearings",
+                "Solve navigation problems using bearings and trigonometry",
+                "Apply trigonometric rules to real-life contexts in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Trigonometry in three dimensions",
+                "fr": "Trigonométrie en trois dimensions",
+                "mfe": "Trigonometri trwa dimansion"
+              },
+              "objectives": [
+                "Identify angles between lines and planes in 3D shapes",
+                "Calculate lengths and angles in 3D figures",
+                "Apply trigonometric rules to solve 3D problems"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Vectors",
+            "fr": "Vecteurs",
+            "mfe": "Vekter"
+          },
+          "summary": {
+            "en": "Students learn to represent, manipulate and apply vectors to solve geometric problems.",
+            "fr": "Les élèves apprennent à représenter, manipuler et appliquer des vecteurs pour résoudre des problèmes géométriques.",
+            "mfe": "Bann elev aprann pou reprezant, manipile ek aplik vekter pou rezourd problem zeometrik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Vector notation and representation",
+                "fr": "Notation et représentation des vecteurs",
+                "mfe": "Notasion ek reprezantasion vekter"
+              },
+              "objectives": [
+                "Represent vectors using column and directed line notation",
+                "Describe vectors in terms of magnitude and direction",
+                "Draw vector diagrams accurately"
+              ]
+            },
+            {
+              "title": {
+                "en": "Vector addition and subtraction",
+                "fr": "Addition et soustraction de vecteurs",
+                "mfe": "Adisyon ek soustraksion vekter"
+              },
+              "objectives": [
+                "Add and subtract vectors graphically and algebraically",
+                "Multiply vectors by a scalar",
+                "Solve simple vector equations"
+              ]
+            },
+            {
+              "title": {
+                "en": "Position vectors and magnitude",
+                "fr": "Vecteurs de position et magnitude",
+                "mfe": "Vekter pozision ek magnitid"
+              },
+              "objectives": [
+                "Calculate position vectors of points",
+                "Find the magnitude of a vector",
+                "Determine unit vectors"
+              ]
+            },
+            {
+              "title": {
+                "en": "Applications of vectors",
+                "fr": "Applications des vecteurs",
+                "mfe": "Aplikasion vekter"
+              },
+              "objectives": [
+                "Use vectors to prove geometric properties",
+                "Solve problems involving parallel and collinear vectors",
+                "Apply vectors to real-life contexts such as navigation"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Matrices and transformations",
+            "fr": "Matrices et transformations",
+            "mfe": "Matris ek transformasion"
+          },
+          "summary": {
+            "en": "This unit introduces matrix operations and their use in describing geometric transformations.",
+            "fr": "Cette unité présente les opérations matricielles et leur utilisation pour décrire des transformations géométriques.",
+            "mfe": "Sa linite-la introdir operasion matris ek so lizaz pou dekrir transformasion zeometrik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Matrix operations",
+                "fr": "Opérations matricielles",
+                "mfe": "Operasion matris"
+              },
+              "objectives": [
+                "Add, subtract and multiply matrices",
+                "Determine the order of a matrix",
+                "Solve simple matrix equations"
+              ]
+            },
+            {
+              "title": {
+                "en": "Determinants and inverse matrices",
+                "fr": "Déterminants et matrices inverses",
+                "mfe": "Determinan ek matris invers"
+              },
+              "objectives": [
+                "Calculate the determinant of a 2x2 matrix",
+                "Find the inverse of a 2x2 matrix",
+                "Use inverse matrices to solve simultaneous equations"
+              ]
+            },
+            {
+              "title": {
+                "en": "Transformations using matrices",
+                "fr": "Transformations à l'aide de matrices",
+                "mfe": "Transformasion avek matris"
+              },
+              "objectives": [
+                "Represent reflections and rotations using matrices",
+                "Apply matrices to transform points and shapes",
+                "Identify transformation types from given matrices"
+              ]
+            },
+            {
+              "title": {
+                "en": "Combined transformations",
+                "fr": "Transformations combinées",
+                "mfe": "Transformasion konbine"
+              },
+              "objectives": [
+                "Combine two or more transformations using matrix multiplication",
+                "Determine a single matrix representing combined transformations",
+                "Solve problems involving successive transformations"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Statistics and probability",
+            "fr": "Statistiques et probabilités",
+            "mfe": "Estatistik ek probabilite"
+          },
+          "summary": {
+            "en": "Students analyse data using statistical measures and diagrams, and calculate probabilities of combined events.",
+            "fr": "Les élèves analysent des données à l'aide de mesures et diagrammes statistiques, et calculent les probabilités d'événements combinés.",
+            "mfe": "Bann elev analiz done avek mezir ek diagram estatistik, ek kalkil probabilite levennman konbine."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Measures of central tendency",
+                "fr": "Mesures de tendance centrale",
+                "mfe": "Mezir tandans santral"
+              },
+              "objectives": [
+                "Calculate mean, median and mode from grouped and ungrouped data",
+                "Choose an appropriate measure for a given data set",
+                "Interpret measures of central tendency in context"
+              ]
+            },
+            {
+              "title": {
+                "en": "Measures of dispersion",
+                "fr": "Mesures de dispersion",
+                "mfe": "Mezir dispersion"
+              },
+              "objectives": [
+                "Calculate range and interquartile range",
+                "Determine standard deviation of a data set",
+                "Compare data sets using measures of dispersion"
+              ]
+            },
+            {
+              "title": {
+                "en": "Cumulative frequency and histograms",
+                "fr": "Fréquence cumulée et histogrammes",
+                "mfe": "Frekans kimilativ ek istogram"
+              },
+              "objectives": [
+                "Construct cumulative frequency curves",
+                "Estimate median and quartiles from a cumulative frequency curve",
+                "Draw and interpret histograms with unequal class widths"
+              ]
+            },
+            {
+              "title": {
+                "en": "Probability of combined events",
+                "fr": "Probabilité d'événements combinés",
+                "mfe": "Probabilite levennman konbine"
+              },
+              "objectives": [
+                "Calculate probabilities of combined events using addition and multiplication rules",
+                "Represent outcomes using sample space diagrams",
+                "Distinguish between mutually exclusive and independent events"
+              ]
+            },
+            {
+              "title": {
+                "en": "Tree diagrams and conditional probability",
+                "fr": "Arbres de probabilité et probabilité conditionnelle",
+                "mfe": "Diagram pie ek probabilite kondisionel"
+              },
+              "objectives": [
+                "Construct and use tree diagrams for combined events",
+                "Calculate conditional probabilities",
+                "Solve real-life problems using probability trees"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Introduction to calculus",
+            "fr": "Introduction au calcul différentiel",
+            "mfe": "Introdiksion kalkil diferansiel"
+          },
+          "summary": {
+            "en": "This unit introduces the concept of differentiation and its use to find gradients and rates of change.",
+            "fr": "Cette unité introduit le concept de dérivation et son utilisation pour trouver les pentes et les taux de variation.",
+            "mfe": "Sa linite-la introdir konsep diferansiasion ek so lizaz pou trouv pant ek to sanzman."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Rate of change and gradients",
+                "fr": "Taux de variation et pentes",
+                "mfe": "To sanzman ek pant"
+              },
+              "objectives": [
+                "Explain the concept of gradient as a rate of change",
+                "Estimate gradients from graphs",
+                "Relate gradient to the slope of a curve at a point"
+              ]
+            },
+            {
+              "title": {
+                "en": "Differentiation of polynomials",
+                "fr": "Dérivation des polynômes",
+                "mfe": "Diferansiasion polinom"
+              },
+              "objectives": [
+                "Differentiate simple polynomial functions",
+                "Apply rules of differentiation to find derivatives",
+                "Interpret the derivative as a gradient function"
+              ]
+            },
+            {
+              "title": {
+                "en": "Finding gradients and turning points",
+                "fr": "Trouver les pentes et les points d'inflexion",
+                "mfe": "Trouv pant ek pwin tournan"
+              },
+              "objectives": [
+                "Find the gradient of a curve at a given point",
+                "Determine turning points using differentiation",
+                "Classify turning points as maximum or minimum"
+              ]
+            },
+            {
+              "title": {
+                "en": "Applications of differentiation",
+                "fr": "Applications de la dérivation",
+                "mfe": "Aplikasion diferansiasion"
+              },
+              "objectives": [
+                "Apply differentiation to solve real-life rate of change problems",
+                "Use differentiation to sketch curves",
+                "Solve optimisation problems using calculus"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "12": {
+      "units": [
+        {
+          "title": {
+            "en": "Quadratics",
+            "fr": "Les fonctions quadratiques",
+            "mfe": "Fonksion kadratik"
+          },
+          "summary": {
+            "en": "Explore quadratic functions, completing the square, the discriminant, and solving quadratic equations and inequalities.",
+            "fr": "Explorer les fonctions quadratiques, la forme canonique, le discriminant, et la résolution d'équations et d'inéquations quadratiques.",
+            "mfe": "Explor fonksion kadratik, konplet karé, diskriminan, ek rezourd ekwasyon ek inegalite kadratik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Completing the square",
+                "fr": "Compléter le carré",
+                "mfe": "Konplet karé"
+              },
+              "objectives": [
+                "Rewrite a quadratic expression in completed square form",
+                "Use completed square form to find the minimum or maximum point",
+                "Sketch the graph of a quadratic function using this form"
+              ]
+            },
+            {
+              "title": {
+                "en": "The discriminant and roots",
+                "fr": "Le discriminant et les racines",
+                "mfe": "Diskriminan ek rasin"
+              },
+              "objectives": [
+                "Calculate the discriminant of a quadratic equation",
+                "Determine the nature of roots using the discriminant",
+                "Apply the discriminant to problems involving unknown coefficients"
+              ]
+            },
+            {
+              "title": {
+                "en": "Solving quadratic equations",
+                "fr": "Résoudre des équations quadratiques",
+                "mfe": "Rezourd ekwasyon kadratik"
+              },
+              "objectives": [
+                "Solve quadratic equations by factorising and using the formula",
+                "Solve equations reducible to quadratic form",
+                "Solve simultaneous equations with one linear and one quadratic"
+              ]
+            },
+            {
+              "title": {
+                "en": "Quadratic inequalities",
+                "fr": "Inéquations quadratiques",
+                "mfe": "Inegalite kadratik"
+              },
+              "objectives": [
+                "Solve quadratic inequalities graphically and algebraically",
+                "Represent solution sets on a number line",
+                "Apply quadratic inequalities to real-life problems"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Functions",
+            "fr": "Les fonctions",
+            "mfe": "Fonksion"
+          },
+          "summary": {
+            "en": "Study function notation, domain and range, composite and inverse functions, and transformations of graphs.",
+            "fr": "Étudier la notation des fonctions, le domaine et l'image, les fonctions composées et réciproques, et les transformations de graphes.",
+            "mfe": "Etidye notasyon fonksion, domenn ek rezilta, fonksion konpoze ek invers, ek transformasyon grafik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Domain and range",
+                "fr": "Domaine et image",
+                "mfe": "Domenn ek rezilta"
+              },
+              "objectives": [
+                "Define domain and range of a function",
+                "Determine domain and range from a graph or formula",
+                "Identify whether a relation is a function"
+              ]
+            },
+            {
+              "title": {
+                "en": "Composite functions",
+                "fr": "Fonctions composées",
+                "mfe": "Fonksion konpoze"
+              },
+              "objectives": [
+                "Form composite functions from two given functions",
+                "Evaluate composite functions for given values",
+                "Determine the domain of a composite function"
+              ]
+            },
+            {
+              "title": {
+                "en": "Inverse functions",
+                "fr": "Fonctions réciproques",
+                "mfe": "Fonksion invers"
+              },
+              "objectives": [
+                "Determine whether a function has an inverse",
+                "Find the inverse of a one-to-one function",
+                "Sketch the graph of an inverse function using symmetry"
+              ]
+            },
+            {
+              "title": {
+                "en": "Transformations of graphs",
+                "fr": "Transformations de graphes",
+                "mfe": "Transformasyon grafik"
+              },
+              "objectives": [
+                "Describe translations, stretches and reflections of graphs",
+                "Sketch transformed graphs from a given function",
+                "Combine multiple transformations on one graph"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Coordinate geometry",
+            "fr": "Géométrie analytique",
+            "mfe": "Zeometri kordone"
+          },
+          "summary": {
+            "en": "Apply algebraic methods to lines and circles, including gradients, midpoints, and equations of circles.",
+            "fr": "Appliquer des méthodes algébriques aux droites et cercles, incluant pentes, milieux et équations de cercles.",
+            "mfe": "Aplik metod aljebrik lor lin ek serk, ki inklir gradyan, milye, ek ekwasyon serk."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Lines and gradients",
+                "fr": "Droites et pentes",
+                "mfe": "Lin ek gradyan"
+              },
+              "objectives": [
+                "Find the gradient and midpoint of a line segment",
+                "Determine conditions for parallel and perpendicular lines",
+                "Find the equation of a straight line given information"
+              ]
+            },
+            {
+              "title": {
+                "en": "Equations of circles",
+                "fr": "Équations de cercles",
+                "mfe": "Ekwasyon serk"
+              },
+              "objectives": [
+                "Find the equation of a circle given centre and radius",
+                "Rewrite a circle equation in standard form by completing the square",
+                "Determine the centre and radius from a given equation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Intersections of lines and circles",
+                "fr": "Intersections de droites et cercles",
+                "mfe": "Intersekson lin ek serk"
+              },
+              "objectives": [
+                "Find points of intersection between a line and a circle",
+                "Determine when a line is tangent to a circle",
+                "Solve geometric problems involving circles and lines"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Circular measure",
+            "fr": "Mesure circulaire",
+            "mfe": "Mezir sirkiler"
+          },
+          "summary": {
+            "en": "Work with radian measure to find arc lengths, sector areas, and solve problems involving circular geometry.",
+            "fr": "Utiliser la mesure en radians pour calculer longueurs d'arc, aires de secteurs, et résoudre des problèmes de géométrie circulaire.",
+            "mfe": "Servi mezir an radyan pou trouv longer lark, sirfas sekter, ek rezourd problem zeometri sirkiler."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Radians and degrees",
+                "fr": "Radians et degrés",
+                "mfe": "Radyan ek degre"
+              },
+              "objectives": [
+                "Convert between degrees and radians",
+                "Use radian measure in trigonometric calculations",
+                "Explain why radians are used in advanced mathematics"
+              ]
+            },
+            {
+              "title": {
+                "en": "Arc length and sector area",
+                "fr": "Longueur d'arc et aire de secteur",
+                "mfe": "Longer lark ek sirfas sekter"
+              },
+              "objectives": [
+                "Calculate arc length using radian measure",
+                "Calculate the area of a sector using radian measure",
+                "Solve composite problems involving arcs and sectors"
+              ]
+            },
+            {
+              "title": {
+                "en": "Applications of circular measure",
+                "fr": "Applications de la mesure circulaire",
+                "mfe": "Aplikasyon mezir sirkiler"
+              },
+              "objectives": [
+                "Apply circular measure to real-world contexts such as clock hands or wheels",
+                "Solve problems involving segments of circles",
+                "Combine circular measure with triangle geometry"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Trigonometry",
+            "fr": "Trigonométrie",
+            "mfe": "Trigonometri"
+          },
+          "summary": {
+            "en": "Extend trigonometric knowledge to identities, equations, and graphs of trigonometric functions.",
+            "fr": "Approfondir les connaissances trigonométriques avec identités, équations et graphes de fonctions trigonométriques.",
+            "mfe": "Etann konesans trigonometrik ar sanksyon, ekwasyon, ek grafik fonksion trigonometrik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Graphs of trigonometric functions",
+                "fr": "Graphes des fonctions trigonométriques",
+                "mfe": "Grafik fonksion trigonometrik"
+              },
+              "objectives": [
+                "Sketch graphs of sine, cosine and tangent functions",
+                "Identify amplitude, period and phase shift",
+                "Interpret transformed trigonometric graphs"
+              ]
+            },
+            {
+              "title": {
+                "en": "Trigonometric identities",
+                "fr": "Identités trigonométriques",
+                "mfe": "Identite trigonometrik"
+              },
+              "objectives": [
+                "Use basic trigonometric identities to simplify expressions",
+                "Prove simple trigonometric identities",
+                "Apply identities to solve equations"
+              ]
+            },
+            {
+              "title": {
+                "en": "Solving trigonometric equations",
+                "fr": "Résoudre des équations trigonométriques",
+                "mfe": "Rezourd ekwasyon trigonometrik"
+              },
+              "objectives": [
+                "Solve trigonometric equations within a given interval",
+                "Find all solutions using periodicity",
+                "Apply trigonometric equations to practical problems"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Series",
+            "fr": "Les suites et séries",
+            "mfe": "Siri ek sekans"
+          },
+          "summary": {
+            "en": "Study arithmetic and geometric progressions, series summation, and the binomial expansion.",
+            "fr": "Étudier les progressions arithmétiques et géométriques, la sommation de séries, et le développement du binôme.",
+            "mfe": "Etidye progresyon aritmetik ek zeometrik, somasyon siri, ek devlopman binom."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Arithmetic progressions",
+                "fr": "Progressions arithmétiques",
+                "mfe": "Progresyon aritmetik"
+              },
+              "objectives": [
+                "Identify the terms and common difference of an arithmetic progression",
+                "Find the nth term and sum of an arithmetic progression",
+                "Apply arithmetic progressions to real-life situations"
+              ]
+            },
+            {
+              "title": {
+                "en": "Geometric progressions",
+                "fr": "Progressions géométriques",
+                "mfe": "Progresyon zeometrik"
+              },
+              "objectives": [
+                "Identify the terms and common ratio of a geometric progression",
+                "Find the nth term and sum of a geometric progression",
+                "Determine the sum to infinity of a convergent series"
+              ]
+            },
+            {
+              "title": {
+                "en": "The binomial theorem",
+                "fr": "Le théorème du binôme",
+                "mfe": "Teorem binomyal"
+              },
+              "objectives": [
+                "Expand expressions using the binomial theorem",
+                "Find specific terms or coefficients in a binomial expansion",
+                "Apply the binomial theorem to approximate values"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Differentiation",
+            "fr": "La dérivation",
+            "mfe": "Diferansiasyon"
+          },
+          "summary": {
+            "en": "Develop skills in differentiation to find gradients, tangents, and to analyse rates of change and turning points.",
+            "fr": "Développer les compétences en dérivation pour trouver pentes, tangentes, et analyser taux de variation et points d'inflexion.",
+            "mfe": "Devlop konpetans diferansiasyon pou trouv gradyan, tanzant, ek analiz to sanzman ek pwin tournan."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Introduction to differentiation",
+                "fr": "Introduction à la dérivation",
+                "mfe": "Introdiksyon a diferansiasyon"
+              },
+              "objectives": [
+                "Explain the concept of a derivative as a rate of change",
+                "Differentiate simple polynomial functions",
+                "Find the gradient of a curve at a given point"
+              ]
+            },
+            {
+              "title": {
+                "en": "Tangents and normals",
+                "fr": "Tangentes et normales",
+                "mfe": "Tanzant ek normal"
+              },
+              "objectives": [
+                "Find the equation of a tangent to a curve at a point",
+                "Find the equation of a normal to a curve at a point",
+                "Solve problems involving tangents and normals"
+              ]
+            },
+            {
+              "title": {
+                "en": "Stationary points and curve sketching",
+                "fr": "Points stationnaires et tracé de courbes",
+                "mfe": "Pwin stasyoner ek trase kourb"
+              },
+              "objectives": [
+                "Find stationary points of a function using derivatives",
+                "Classify stationary points as maximum, minimum or point of inflection",
+                "Sketch curves using information from derivatives"
+              ]
+            },
+            {
+              "title": {
+                "en": "Rates of change and optimisation",
+                "fr": "Taux de variation et optimisation",
+                "mfe": "To sanzman ek optimizasyon"
+              },
+              "objectives": [
+                "Apply differentiation to connected rates of change problems",
+                "Solve optimisation problems using calculus",
+                "Interpret results in real-world contexts"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Integration",
+            "fr": "L'intégration",
+            "mfe": "Integrasyon"
+          },
+          "summary": {
+            "en": "Learn integration as the reverse of differentiation and apply it to find areas and solve problems.",
+            "fr": "Apprendre l'intégration comme opération inverse de la dérivation et l'appliquer pour calculer des aires et résoudre des problèmes.",
+            "mfe": "Aprann integrasyon kouma lopozan diferansiasyon ek aplik li pou trouv sirfas ek rezourd problem."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Introduction to integration",
+                "fr": "Introduction à l'intégration",
+                "mfe": "Introdiksyon a integrasyon"
+              },
+              "objectives": [
+                "Explain integration as the reverse process of differentiation",
+                "Find indefinite integrals of simple polynomial functions",
+                "Determine the constant of integration using given conditions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Definite integrals and area",
+                "fr": "Intégrales définies et aires",
+                "mfe": "Integral defini ek sirfas"
+              },
+              "objectives": [
+                "Evaluate definite integrals of polynomial functions",
+                "Use integration to find the area under a curve",
+                "Find the area between a curve and a line"
+              ]
+            },
+            {
+              "title": {
+                "en": "Further techniques of integration",
+                "fr": "Techniques avancées d'intégration",
+                "mfe": "Teknik avanse integrasyon"
+              },
+              "objectives": [
+                "Integrate functions involving simple substitutions",
+                "Apply integration to problems involving volumes of revolution",
+                "Solve practical problems using integration techniques"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "13": {
+      "units": [
+        {
+          "title": {
+            "en": "Algebra and functions",
+            "fr": "Algèbre et fonctions",
+            "mfe": "Aljèb ek fonksion"
+          },
+          "summary": {
+            "en": "Extend algebraic techniques to modulus functions, algebraic fractions and partial fractions, building the toolkit needed for Pure Mathematics 3.",
+            "fr": "Étendre les techniques algébriques aux fonctions modulaires, aux fractions algébriques et aux fractions partielles, développant les outils nécessaires pour Pure Mathematics 3.",
+            "mfe": "Etann bann teknik aljebrik ver fonksion modil, fraksion aljebrik ek fraksion parsyel, pou konstrir zouti neseser pou Pure Mathematics 3."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Modulus functions and equations",
+                "fr": "Fonctions et équations modulaires",
+                "mfe": "Fonksion ek ekwasion modil"
+              },
+              "objectives": [
+                "Sketch graphs of modulus functions",
+                "Solve equations and inequalities involving modulus",
+                "Interpret modulus graphically"
+              ]
+            },
+            {
+              "title": {
+                "en": "Algebraic division and remainder theorem",
+                "fr": "Division algébrique et théorème du reste",
+                "mfe": "Divizion aljebrik ek teorem rès"
+              },
+              "objectives": [
+                "Divide polynomials using long division",
+                "Apply the remainder and factor theorems",
+                "Factorise cubic and quartic expressions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Partial fractions",
+                "fr": "Fractions partielles",
+                "mfe": "Fraksion parsyel"
+              },
+              "objectives": [
+                "Decompose proper fractions into partial fractions",
+                "Handle repeated and quadratic factors",
+                "Apply partial fractions to simplify expressions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Binomial expansion for rational powers",
+                "fr": "Développement binomial pour puissances rationnelles",
+                "mfe": "Devlopman binomial pou pwisans rasionel"
+              },
+              "objectives": [
+                "Expand expressions with negative or fractional indices",
+                "State the range of validity of an expansion",
+                "Use expansions to approximate values"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Logarithmic and exponential functions",
+            "fr": "Fonctions logarithmiques et exponentielles",
+            "mfe": "Fonksion logaritmik ek eksponansyel"
+          },
+          "summary": {
+            "en": "Deepen understanding of exponential and logarithmic functions and use them to model and solve real-world growth and decay problems.",
+            "fr": "Approfondir la compréhension des fonctions exponentielles et logarithmiques et les utiliser pour modéliser des problèmes de croissance et de décroissance.",
+            "mfe": "Apronfondi konpreansyon fonksion eksponansyel ek logaritmik ek servi zot pou modelize problem kwasans ek diminision."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Natural logarithms and exponentials",
+                "fr": "Logarithmes et exponentielles naturels",
+                "mfe": "Logaritm natirel ek eksponansyel"
+              },
+              "objectives": [
+                "Manipulate expressions with e and ln",
+                "Solve equations involving natural logarithms",
+                "Differentiate and integrate exponential functions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Exponential growth and decay models",
+                "fr": "Modèles de croissance et de décroissance exponentielle",
+                "mfe": "Modèl kwasans ek diminision eksponansyel"
+              },
+              "objectives": [
+                "Set up exponential models from data",
+                "Solve problems involving population or radioactive decay",
+                "Interpret rate constants in context"
+              ]
+            },
+            {
+              "title": {
+                "en": "Further logarithmic equations",
+                "fr": "Équations logarithmiques avancées",
+                "mfe": "Ekwasion logaritmik avanse"
+              },
+              "objectives": [
+                "Solve equations combining logarithmic and exponential terms",
+                "Change base of logarithms",
+                "Apply logarithms to Mauritian financial and scientific contexts"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Trigonometry beyond the basics",
+            "fr": "Trigonométrie avancée",
+            "mfe": "Trigonometri avanse"
+          },
+          "summary": {
+            "en": "Explore further trigonometric identities, compound and multiple angle formulae, and their use in solving complex equations.",
+            "fr": "Explorer des identités trigonométriques avancées, les formules d'angles composés et multiples, et leur usage dans la résolution d'équations complexes.",
+            "mfe": "Explor bann idantite trigonometrik avanse, formil pou lang kompoze ek miltip, ek zot servi pou rezoud ekwasion konplex."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Compound and double angle formulae",
+                "fr": "Formules des angles composés et doubles",
+                "mfe": "Formil lang kompoze ek doub"
+              },
+              "objectives": [
+                "Derive compound angle identities",
+                "Apply double angle formulae to simplify expressions",
+                "Solve trigonometric equations using these formulae"
+              ]
+            },
+            {
+              "title": {
+                "en": "Expressing a sinθ + b cosθ in one term",
+                "fr": "Exprimer a sinθ + b cosθ sous une seule forme",
+                "mfe": "Eksprim a sinθ + b cosθ dan enn sel term"
+              },
+              "objectives": [
+                "Rewrite expressions in the form R sin(θ+α)",
+                "Find maximum and minimum values of trigonometric expressions",
+                "Solve equations using the R-form"
+              ]
+            },
+            {
+              "title": {
+                "en": "Further trigonometric identities",
+                "fr": "Identités trigonométriques avancées",
+                "mfe": "Idantite trigonometrik avanse"
+              },
+              "objectives": [
+                "Prove identities using standard results",
+                "Simplify complex trigonometric expressions",
+                "Solve equations involving multiple angles"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Advanced differentiation",
+            "fr": "Dérivation avancée",
+            "mfe": "Diferansiasion avanse"
+          },
+          "summary": {
+            "en": "Extend differentiation techniques to implicit, parametric and further chain-rule applications, applying them to rates of change problems.",
+            "fr": "Étendre les techniques de dérivation aux fonctions implicites, paramétriques et aux applications de la règle de chaîne, appliquées aux taux de variation.",
+            "mfe": "Etann teknik diferansiasion ver fonksion implisit, parametrik ek plis servis reg sène, aplike ar problem to sanzman."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Implicit differentiation",
+                "fr": "Dérivation implicite",
+                "mfe": "Diferansiasion implisit"
+              },
+              "objectives": [
+                "Differentiate implicitly defined relations",
+                "Find gradients of curves given implicitly",
+                "Apply implicit differentiation to tangents and normals"
+              ]
+            },
+            {
+              "title": {
+                "en": "Parametric differentiation",
+                "fr": "Dérivation paramétrique",
+                "mfe": "Diferansiasion parametrik"
+              },
+              "objectives": [
+                "Find dy/dx for parametric equations",
+                "Determine tangents and normals to parametric curves",
+                "Convert between parametric and Cartesian forms"
+              ]
+            },
+            {
+              "title": {
+                "en": "Connected rates of change",
+                "fr": "Taux de variation liés",
+                "mfe": "To sanzman ki konekte"
+              },
+              "objectives": [
+                "Set up equations linking related rates",
+                "Solve practical rate of change problems",
+                "Apply chain rule to connected variables"
+              ]
+            },
+            {
+              "title": {
+                "en": "Applications to curve sketching",
+                "fr": "Applications au tracé de courbes",
+                "mfe": "Aplikasion pou desine kourb"
+              },
+              "objectives": [
+                "Locate stationary points and points of inflection",
+                "Analyse curves defined implicitly or parametrically",
+                "Sketch curves using calculus techniques"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Techniques and applications of integration",
+            "fr": "Techniques et applications de l'intégration",
+            "mfe": "Teknik ek aplikasion integrasion"
+          },
+          "summary": {
+            "en": "Master further integration techniques including substitution and by parts, and apply integration to areas, volumes and differential equations.",
+            "fr": "Maîtriser des techniques d'intégration avancées, notamment la substitution et l'intégration par parties, et les appliquer aux aires, volumes et équations différentielles.",
+            "mfe": "Metrize plis teknik integrasion, kompran sibstitision ek par parti, ek aplik integrasion pou lear, volim ek ekwasion diferansyel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Integration by substitution",
+                "fr": "Intégration par substitution",
+                "mfe": "Integrasion par sibstitision"
+              },
+              "objectives": [
+                "Choose suitable substitutions for integration",
+                "Integrate composite functions",
+                "Apply substitution to definite integrals"
+              ]
+            },
+            {
+              "title": {
+                "en": "Integration by parts",
+                "fr": "Intégration par parties",
+                "mfe": "Integrasion par parti"
+              },
+              "objectives": [
+                "Apply the integration by parts formula",
+                "Integrate products involving ln x and exponentials",
+                "Use repeated integration by parts"
+              ]
+            },
+            {
+              "title": {
+                "en": "Integration using partial fractions",
+                "fr": "Intégration à l'aide de fractions partielles",
+                "mfe": "Integrasion ar fraksion parsyel"
+              },
+              "objectives": [
+                "Integrate rational functions using partial fractions",
+                "Combine techniques to integrate complex expressions",
+                "Evaluate definite integrals of rational functions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Volumes of revolution",
+                "fr": "Volumes de révolution",
+                "mfe": "Volim revolision"
+              },
+              "objectives": [
+                "Derive formulae for volumes generated by rotation",
+                "Calculate volumes about the x and y axes",
+                "Apply volumes of revolution to practical contexts"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Numerical methods and differential equations",
+            "fr": "Méthodes numériques et équations différentielles",
+            "mfe": "Metod nimerik ek ekwasion diferansyel"
+          },
+          "summary": {
+            "en": "Use numerical techniques to locate roots and solve first order differential equations arising from real situations.",
+            "fr": "Utiliser des techniques numériques pour localiser des racines et résoudre des équations différentielles du premier ordre issues de situations réelles.",
+            "mfe": "Servi teknik nimerik pou lokalize rasin ek rezoud ekwasion diferansyel premie order ki sorti dan sitiasion reel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Locating roots numerically",
+                "fr": "Localisation numérique des racines",
+                "mfe": "Lokalizasion nimerik rasin"
+              },
+              "objectives": [
+                "Use sign change methods to locate roots",
+                "Apply iteration formulae to approximate roots",
+                "Assess accuracy of numerical solutions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Iterative methods",
+                "fr": "Méthodes itératives",
+                "mfe": "Metod iteratif"
+              },
+              "objectives": [
+                "Apply the Newton-Raphson method",
+                "Use fixed point iteration",
+                "Compare convergence of different methods"
+              ]
+            },
+            {
+              "title": {
+                "en": "Forming differential equations",
+                "fr": "Formulation d'équations différentielles",
+                "mfe": "Formasion ekwasion diferansyel"
+              },
+              "objectives": [
+                "Translate rate of change situations into differential equations",
+                "Identify variables and constants in models",
+                "Interpret differential equations in context"
+              ]
+            },
+            {
+              "title": {
+                "en": "Solving separable differential equations",
+                "fr": "Résolution d'équations différentielles à variables séparables",
+                "mfe": "Rezourdri ekwasion diferansyel varyab separab"
+              },
+              "objectives": [
+                "Separate variables to solve differential equations",
+                "Apply initial conditions to find particular solutions",
+                "Interpret solutions in real-world contexts"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Vectors in three dimensions",
+            "fr": "Vecteurs en trois dimensions",
+            "mfe": "Vekter dan trwa dimansion"
+          },
+          "summary": {
+            "en": "Extend vector methods to three dimensions, including lines, planes and their intersections, applying vector techniques to geometric problems.",
+            "fr": "Étendre les méthodes vectorielles à trois dimensions, y compris les droites, plans et leurs intersections, en appliquant les techniques vectorielles à des problèmes géométriques.",
+            "mfe": "Etann metod vektoryel ver trwa dimansion, kompran lign, plan ek zot intersaksion, aplik teknik vektoryel pou problem zeometrik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Vector equations of lines",
+                "fr": "Équations vectorielles de droites",
+                "mfe": "Ekwasion vektoryel lign"
+              },
+              "objectives": [
+                "Write vector equations of lines in 3D",
+                "Determine whether lines intersect, are parallel or skew",
+                "Find angles between lines using vectors"
+              ]
+            },
+            {
+              "title": {
+                "en": "Scalar product and angles",
+                "fr": "Produit scalaire et angles",
+                "mfe": "Prodwi skaler ek lang"
+              },
+              "objectives": [
+                "Calculate scalar products of vectors",
+                "Find angles between vectors and lines",
+                "Determine perpendicularity using scalar products"
+              ]
+            },
+            {
+              "title": {
+                "en": "Equations of planes",
+                "fr": "Équations de plans",
+                "mfe": "Ekwasion plan"
+              },
+              "objectives": [
+                "Derive vector and Cartesian equations of planes",
+                "Find the intersection of a line and a plane",
+                "Calculate the angle between a line and a plane"
+              ]
+            },
+            {
+              "title": {
+                "en": "Intersections and distances",
+                "fr": "Intersections et distances",
+                "mfe": "Intersaksion ek distans"
+              },
+              "objectives": [
+                "Find the intersection of two planes",
+                "Calculate the distance from a point to a plane",
+                "Solve composite problems involving lines and planes"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Probability distributions and hypothesis testing",
+            "fr": "Distributions de probabilité et tests d'hypothèses",
+            "mfe": "Distribision probabilite ek test ipotez"
+          },
+          "summary": {
+            "en": "Study the Poisson distribution, sampling and hypothesis testing to draw statistically sound conclusions from data.",
+            "fr": "Étudier la distribution de Poisson, l'échantillonnage et les tests d'hypothèses pour tirer des conclusions statistiquement fondées à partir de données.",
+            "mfe": "Etidie distribision Poisson, esantiyonaz ek test ipotez pou tir konklizion statistikman solid depi done."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "The Poisson distribution",
+                "fr": "La distribution de Poisson",
+                "mfe": "Distribision Poisson"
+              },
+              "objectives": [
+                "Identify situations modelled by a Poisson distribution",
+                "Calculate probabilities using the Poisson formula",
+                "Use tables and calculators for Poisson probabilities"
+              ]
+            },
+            {
+              "title": {
+                "en": "Approximations between distributions",
+                "fr": "Approximations entre distributions",
+                "mfe": "Aproksimasion ant distribision"
+              },
+              "objectives": [
+                "Approximate binomial by Poisson under given conditions",
+                "Approximate Poisson and binomial by normal distribution",
+                "Justify the choice of approximation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sampling and estimation",
+                "fr": "Échantillonnage et estimation",
+                "mfe": "Esantiyonaz ek estimasion"
+              },
+              "objectives": [
+                "Distinguish population and sample statistics",
+                "Calculate unbiased estimates of mean and variance",
+                "Apply the central limit theorem"
+              ]
+            },
+            {
+              "title": {
+                "en": "Hypothesis testing",
+                "fr": "Tests d'hypothèses",
+                "mfe": "Test ipotez"
+              },
+              "objectives": [
+                "State null and alternative hypotheses",
+                "Carry out hypothesis tests for population mean",
+                "Interpret significance levels and conclusions in context"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

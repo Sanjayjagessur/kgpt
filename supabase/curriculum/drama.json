@@ -1,0 +1,2249 @@
+{
+  "subject": "drama",
+  "grades": {
+    "7": {
+      "units": [
+        {
+          "title": {
+            "en": "Introduction to drama",
+            "fr": "Introduction au théâtre",
+            "mfe": "Introdiksion a lar dramatik"
+          },
+          "summary": {
+            "en": "Students explore what drama is, its purpose, and basic classroom conventions for participating safely and respectfully in drama activities.",
+            "fr": "Les élèves explorent ce qu'est le théâtre, son but, et les conventions de base pour participer en toute sécurité et avec respect aux activités théâtrales.",
+            "mfe": "Bann elev explor ki eski drama ete, so bi, ek bann konvansion baz pou partisip an sekirite ek avek respe dan bann aktivite drama."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "What is drama?",
+                "fr": "Qu'est-ce que le théâtre ?",
+                "mfe": "Kisannla drama ete?"
+              },
+              "objectives": [
+                "Define drama and identify its key elements",
+                "Distinguish drama from everyday behaviour",
+                "Discuss where drama can be found in Mauritian life"
+              ]
+            },
+            {
+              "title": {
+                "en": "Rules of the drama space",
+                "fr": "Règles de l'espace théâtral",
+                "mfe": "Regleman lespas drama"
+              },
+              "objectives": [
+                "Explain the importance of trust and safety in drama",
+                "Demonstrate respectful listening during group work",
+                "Follow classroom conventions such as freeze and focus"
+              ]
+            },
+            {
+              "title": {
+                "en": "Warm-up games and energisers",
+                "fr": "Jeux d'échauffement",
+                "mfe": "Bann zwe pou eshofe"
+              },
+              "objectives": [
+                "Perform simple physical and vocal warm-up exercises",
+                "Explain why warm-ups prepare the body and mind",
+                "Participate cooperatively in group energiser games"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Using the voice",
+            "fr": "Utiliser la voix",
+            "mfe": "Servi lavwa"
+          },
+          "summary": {
+            "en": "This unit introduces vocal skills such as projection, pace, pitch and tone, helping students communicate clearly and expressively.",
+            "fr": "Cette unité présente des compétences vocales telles que la projection, le rythme, la hauteur et le ton, aidant les élèves à communiquer clairement.",
+            "mfe": "Sa linite la introdir bann konpetans vokal kouma proteksion son, vites, oter ek ton, ki ed bann elev kominik kler ek expresif."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Projecting your voice",
+                "fr": "Projeter sa voix",
+                "mfe": "Proze lavwa"
+              },
+              "objectives": [
+                "Explain what vocal projection means",
+                "Practise speaking clearly to a large space",
+                "Identify factors affecting audibility"
+              ]
+            },
+            {
+              "title": {
+                "en": "Pace, pitch and tone",
+                "fr": "Rythme, hauteur et ton",
+                "mfe": "Vites, oter ek ton"
+              },
+              "objectives": [
+                "Define pace, pitch and tone in speech",
+                "Experiment with vocal variety to convey emotion",
+                "Recognise how tone changes meaning"
+              ]
+            },
+            {
+              "title": {
+                "en": "Choral speaking",
+                "fr": "Récitation chorale",
+                "mfe": "Rekit an sher"
+              },
+              "objectives": [
+                "Perform a short text as a group using unison and echo",
+                "Coordinate timing and rhythm with peers",
+                "Reflect on group vocal performance"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Body and movement",
+            "fr": "Corps et mouvement",
+            "mfe": "Lekor ek mouvman"
+          },
+          "summary": {
+            "en": "Students learn how posture, gesture and movement communicate character and feeling without words, building physical awareness for performance.",
+            "fr": "Les élèves apprennent comment la posture, le geste et le mouvement communiquent le caractère et les émotions sans mots.",
+            "mfe": "Bann elev aprann kouma postir, zes ek mouvman kominik karakter ek santiman san servi mo."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Body language basics",
+                "fr": "Bases du langage corporel",
+                "mfe": "Baz langaz lekor"
+              },
+              "objectives": [
+                "Identify how posture and gesture convey meaning",
+                "Demonstrate different emotions through stance",
+                "Observe and describe peers' body language"
+              ]
+            },
+            {
+              "title": {
+                "en": "Introduction to mime",
+                "fr": "Introduction au mime",
+                "mfe": "Introdiksion a mim"
+              },
+              "objectives": [
+                "Define mime and its uses in drama",
+                "Create imaginary objects and actions through mime",
+                "Perform a short mime sequence"
+              ]
+            },
+            {
+              "title": {
+                "en": "Movement and space",
+                "fr": "Mouvement et espace",
+                "mfe": "Mouvman ek lespas"
+              },
+              "objectives": [
+                "Explore levels, speed and direction in movement",
+                "Use space effectively to avoid collisions",
+                "Create a short movement sequence in groups"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Role play basics",
+            "fr": "Bases du jeu de rôle",
+            "mfe": "Baz zwe rol"
+          },
+          "summary": {
+            "en": "This unit introduces students to taking on roles, exploring characters different from themselves, and building simple scenes.",
+            "fr": "Cette unité initie les élèves à endosser des rôles, à explorer des personnages différents d'eux-mêmes et à construire des scènes simples.",
+            "mfe": "Sa linite introdir bann elev pou pran rol, explor personaz diferan ar zot ek konstrir bann senn senp."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Stepping into a role",
+                "fr": "Entrer dans un rôle",
+                "mfe": "Rant dan enn rol"
+              },
+              "objectives": [
+                "Explain the concept of role play in drama",
+                "Adopt a simple role using voice and movement",
+                "Reflect on how it feels to play a character"
+              ]
+            },
+            {
+              "title": {
+                "en": "Creating a character",
+                "fr": "Créer un personnage",
+                "mfe": "Kre enn personaz"
+              },
+              "objectives": [
+                "Identify features that build a character such as age, job and personality",
+                "Develop a character profile",
+                "Present a character to the class briefly"
+              ]
+            },
+            {
+              "title": {
+                "en": "Simple role play scenes",
+                "fr": "Scènes simples de jeu de rôle",
+                "mfe": "Bann senn senp zwe rol"
+              },
+              "objectives": [
+                "Collaborate to create a short role play scene",
+                "Use dialogue appropriate to the character",
+                "Give and receive constructive feedback"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Improvisation skills",
+            "fr": "Compétences d'improvisation",
+            "mfe": "Konpetans improvizasion"
+          },
+          "summary": {
+            "en": "Students develop spontaneous performance skills by responding to prompts, building scenes together and thinking creatively under pressure.",
+            "fr": "Les élèves développent des compétences de performance spontanée en répondant à des consignes et en créant des scènes ensemble.",
+            "mfe": "Bann elev devlop konpetans perform spontane par reponn a bann prompt ek kree senn ansam."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "What is improvisation?",
+                "fr": "Qu'est-ce que l'improvisation ?",
+                "mfe": "Kisannla improvizasion ete?"
+              },
+              "objectives": [
+                "Define improvisation and its role in drama",
+                "Practise responding quickly to simple prompts",
+                "Discuss the importance of listening in improvisation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Yes, and... technique",
+                "fr": "Technique du oui, et...",
+                "mfe": "Teknik wi, ek..."
+              },
+              "objectives": [
+                "Explain the yes and rule of improvisation",
+                "Build a scene by accepting and adding ideas",
+                "Avoid blocking a partner's ideas"
+              ]
+            },
+            {
+              "title": {
+                "en": "Improvising with objects",
+                "fr": "Improviser avec des objets",
+                "mfe": "Improviz avek bann obze"
+              },
+              "objectives": [
+                "Use everyday objects imaginatively in a scene",
+                "Create short improvised scenes in pairs",
+                "Evaluate the effectiveness of an improvised scene"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Storytelling through drama",
+            "fr": "Raconter des histoires par le théâtre",
+            "mfe": "Rakont zistwar par drama"
+          },
+          "summary": {
+            "en": "This unit explores how stories, including Mauritian folktales, can be brought to life through dramatic techniques and structure.",
+            "fr": "Cette unité explore comment les histoires, y compris les contes mauriciens, peuvent prendre vie grâce aux techniques théâtrales.",
+            "mfe": "Sa linite explor kouma bann zistwar, ki ensor bann conte morisien, kapav pran lavi atraver bann teknik dramatik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Story structure in drama",
+                "fr": "Structure narrative au théâtre",
+                "mfe": "Striktir zistwar dan drama"
+              },
+              "objectives": [
+                "Identify beginning, middle and end in a story",
+                "Explain how conflict drives a dramatic story",
+                "Sequence events of a familiar story"
+              ]
+            },
+            {
+              "title": {
+                "en": "Dramatising a Mauritian folktale",
+                "fr": "Dramatiser un conte mauricien",
+                "mfe": "Dramatiz enn conte morisien"
+              },
+              "objectives": [
+                "Select key events from a local folktale for performance",
+                "Assign roles and plan a short dramatisation",
+                "Perform a scene based on the folktale"
+              ]
+            },
+            {
+              "title": {
+                "en": "Narration and tableaux",
+                "fr": "Narration et tableaux vivants",
+                "mfe": "Narasion ek tablo vivan"
+              },
+              "objectives": [
+                "Explain the use of narration in storytelling drama",
+                "Create still images called tableaux to represent moments",
+                "Combine narration and tableaux in a short piece"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Elements of drama",
+            "fr": "Éléments du théâtre",
+            "mfe": "Bann element drama"
+          },
+          "summary": {
+            "en": "Students are introduced to key dramatic elements such as tension, contrast and symbol, learning to apply them in simple performances.",
+            "fr": "Les élèves découvrent des éléments dramatiques clés tels que la tension, le contraste et le symbole, et apprennent à les appliquer.",
+            "mfe": "Bann elev aprann bann element dramatik kle kouma tansion, kontras ek senbol, ek aprann aplik zot dan bann perform senp."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Tension and contrast",
+                "fr": "Tension et contraste",
+                "mfe": "Tansion ek kontras"
+              },
+              "objectives": [
+                "Define tension and contrast as dramatic elements",
+                "Identify tension in a short scene",
+                "Create a scene using contrast between characters"
+              ]
+            },
+            {
+              "title": {
+                "en": "Symbol and focus",
+                "fr": "Symbole et concentration",
+                "mfe": "Senbol ek fokis"
+              },
+              "objectives": [
+                "Explain how symbols convey meaning in drama",
+                "Use focus to highlight important action on stage",
+                "Apply symbol and focus in a group exercise"
+              ]
+            },
+            {
+              "title": {
+                "en": "Putting elements together",
+                "fr": "Assembler les éléments",
+                "mfe": "Asanble bann element"
+              },
+              "objectives": [
+                "Combine multiple dramatic elements in a short scene",
+                "Plan a performance using tension, contrast and symbol",
+                "Reflect on the impact of these elements on an audience"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Sharing our performances",
+            "fr": "Partager nos performances",
+            "mfe": "Partaz nou bann perform"
+          },
+          "summary": {
+            "en": "In this culminating unit, students devise and rehearse a short group performance, then present it and reflect on their learning journey.",
+            "fr": "Dans cette unité finale, les élèves créent et répètent une courte performance de groupe, puis la présentent et réfléchissent à leur apprentissage.",
+            "mfe": "Dan sa dernie linite, bann elev devlop ek repete enn ti perform an group, apre prezant li ek refleshi lor zot laprantisaz."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Devising a short scene",
+                "fr": "Créer une courte scène",
+                "mfe": "Devlop enn ti senn"
+              },
+              "objectives": [
+                "Collaborate in groups to devise an original short scene",
+                "Use skills learnt throughout the unit such as mime and improvisation",
+                "Plan roles and responsibilities within the group"
+              ]
+            },
+            {
+              "title": {
+                "en": "Rehearsing for performance",
+                "fr": "Répéter pour la représentation",
+                "mfe": "Repet pou perform"
+              },
+              "objectives": [
+                "Practise a scene with attention to voice and movement",
+                "Give constructive feedback to peers during rehearsal",
+                "Refine a scene based on feedback"
+              ]
+            },
+            {
+              "title": {
+                "en": "Performance day",
+                "fr": "Jour de représentation",
+                "mfe": "Zour perform"
+              },
+              "objectives": [
+                "Perform a devised scene confidently to an audience",
+                "Demonstrate respect and support for peer performers",
+                "Reflect on personal growth as a drama learner"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "8": {
+      "units": [
+        {
+          "title": {
+            "en": "Revisiting drama basics",
+            "fr": "Retour sur les bases du théâtre",
+            "mfe": "Repran bann baz teat"
+          },
+          "summary": {
+            "en": "Students revise key drama vocabulary and warm-up techniques learnt in Grade 7 before building on them with more complex exercises.",
+            "fr": "Les élèves révisent le vocabulaire théâtral clé et les techniques d'échauffement apprises en 7e année avant de les approfondir avec des exercices plus complexes.",
+            "mfe": "Bann elev revize vokabiler teat inportan ek teknik esofman ki zot finn aprann Grade 7 avan zot devlop ar exersis pli konplike."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Recalling drama vocabulary",
+                "fr": "Rappel du vocabulaire théâtral",
+                "mfe": "Rapel vokabiler teat"
+              },
+              "objectives": [
+                "Recall key drama terms such as mime, improvisation and characterisation",
+                "Match terms to short practical examples",
+                "Discuss how these terms were used in earlier work"
+              ]
+            },
+            {
+              "title": {
+                "en": "Warm-up games revisited",
+                "fr": "Retour sur les jeux d'échauffement",
+                "mfe": "Retourn lor bann zwe esofman"
+              },
+              "objectives": [
+                "Lead a group through a familiar warm-up sequence",
+                "Explain the purpose of physical and vocal warm-ups",
+                "Adapt a warm-up game to include a new rule"
+              ]
+            },
+            {
+              "title": {
+                "en": "Building trust and focus",
+                "fr": "Développer la confiance et la concentration",
+                "mfe": "Devlop konfians ek konsantrasion"
+              },
+              "objectives": [
+                "Participate in trust-building exercises safely",
+                "Demonstrate sustained focus during group activity",
+                "Reflect on the importance of ensemble trust in drama"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Exploring characterisation",
+            "fr": "Explorer la caractérisation",
+            "mfe": "Explor karakterizasion"
+          },
+          "summary": {
+            "en": "This unit develops students' ability to create believable characters through physicality, voice and status.",
+            "fr": "Cette unité développe la capacité des élèves à créer des personnages crédibles à travers la corporalité, la voix et le statut.",
+            "mfe": "Sa linite-la devlop kapasite bann elev pou kree personaz kredib atraver lekor, lavwa ek statu."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Building a character's physicality",
+                "fr": "Construire la corporalité d'un personnage",
+                "mfe": "Construir lekor enn personaz"
+              },
+              "objectives": [
+                "Experiment with posture, walk and gesture to show character traits",
+                "Observe and describe physical choices made by peers",
+                "Apply feedback to refine a character's physicality"
+              ]
+            },
+            {
+              "title": {
+                "en": "Voice and character",
+                "fr": "La voix et le personnage",
+                "mfe": "Lavwa ek personaz"
+              },
+              "objectives": [
+                "Vary pitch, pace and tone to suggest different characters",
+                "Perform a short line in three contrasting voices",
+                "Explain how vocal choices affect audience perception"
+              ]
+            },
+            {
+              "title": {
+                "en": "Status and relationships on stage",
+                "fr": "Statut et relations sur scène",
+                "mfe": "Statu ek relasion lor sen"
+              },
+              "objectives": [
+                "Define high and low status through body language",
+                "Improvise a scene showing a shift in status",
+                "Analyse how status affects a scene's meaning"
+              ]
+            },
+            {
+              "title": {
+                "en": "Hot-seating a character",
+                "fr": "La technique de la chaise chaude",
+                "mfe": "Teknik lasez so"
+              },
+              "objectives": [
+                "Prepare background details for an invented character",
+                "Answer questions in role, staying consistent",
+                "Give constructive feedback on peers' role portrayals"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Improvisation techniques",
+            "fr": "Techniques d'improvisation",
+            "mfe": "Teknik improvizasion"
+          },
+          "summary": {
+            "en": "Students practise spontaneous and structured improvisation to build confidence and creative thinking on stage.",
+            "fr": "Les élèves pratiquent l'improvisation spontanée et structurée pour développer la confiance et la pensée créative sur scène.",
+            "mfe": "Bann elev pratik improvizasion spontane ek striktire pou devlop konfians ek panse kreatif lor sen."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Rules of improvisation",
+                "fr": "Les règles de l'improvisation",
+                "mfe": "Regleman improvizasion"
+              },
+              "objectives": [
+                "State the basic rules of successful improvisation",
+                "Practise accepting offers in a short scene",
+                "Identify moments where an offer was blocked"
+              ]
+            },
+            {
+              "title": {
+                "en": "Improvising with objects",
+                "fr": "Improviser avec des objets",
+                "mfe": "Improviz avek bann obze"
+              },
+              "objectives": [
+                "Transform an everyday object into something imaginative",
+                "Build a short scene around an imagined object",
+                "Justify creative choices to the group"
+              ]
+            },
+            {
+              "title": {
+                "en": "Group storytelling improvisation",
+                "fr": "Improvisation collective d'histoires",
+                "mfe": "Improvizasion istwar an group"
+              },
+              "objectives": [
+                "Contribute ideas to build a collective story in role",
+                "Maintain narrative coherence during improvisation",
+                "Reflect on collaboration skills used"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Mauritian stories on stage",
+            "fr": "Histoires mauriciennes sur scène",
+            "mfe": "Zistwar morisien lor sen"
+          },
+          "summary": {
+            "en": "Students explore local legends, folk tales and community stories, adapting them into short dramatic scenes.",
+            "fr": "Les élèves explorent des légendes locales, des contes populaires et des histoires communautaires, en les adaptant en courtes scènes dramatiques.",
+            "mfe": "Bann elev explor bann lezand lokal, kont popiler ek zistwar kominote, adapte zot an ti sen dramatik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Collecting local stories",
+                "fr": "Recueillir des histoires locales",
+                "mfe": "Kolekte zistwar lokal"
+              },
+              "objectives": [
+                "Gather a short folk tale or family story from home",
+                "Summarise the story's key events",
+                "Identify potential characters for dramatisation"
+              ]
+            },
+            {
+              "title": {
+                "en": "From story to scene",
+                "fr": "De l'histoire à la scène",
+                "mfe": "Depi zistwar ver sen"
+              },
+              "objectives": [
+                "Select a key moment from a story to dramatise",
+                "Plan dialogue and actions for the scene",
+                "Assign roles within a small group"
+              ]
+            },
+            {
+              "title": {
+                "en": "Rehearsing a Mauritian tale",
+                "fr": "Répéter un conte mauricien",
+                "mfe": "Repete enn kont morisien"
+              },
+              "objectives": [
+                "Rehearse a scene using blocking and timing",
+                "Incorporate cultural details respectfully into performance",
+                "Give and receive peer feedback during rehearsal"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sharing our stories",
+                "fr": "Partager nos histoires",
+                "mfe": "Partaz nou bann zistwar"
+              },
+              "objectives": [
+                "Perform a rehearsed scene for classmates",
+                "Explain choices made in adapting the story",
+                "Reflect on audience reactions to the performance"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Using space and movement",
+            "fr": "Utiliser l'espace et le mouvement",
+            "mfe": "Servi lespas ek mouvman"
+          },
+          "summary": {
+            "en": "This unit focuses on stage geography, levels and movement to strengthen visual storytelling.",
+            "fr": "Cette unité se concentre sur la géographie de la scène, les niveaux et le mouvement pour renforcer la narration visuelle.",
+            "mfe": "Sa linite-la konsantre lor zeografi lasenn, nivo ek mouvman pou ranforsi rakonte istwar par lizie."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Stage areas and geography",
+                "fr": "Zones de scène et géographie",
+                "mfe": "Zonn lasenn ek zeografi"
+              },
+              "objectives": [
+                "Identify the main areas of a stage",
+                "Move purposefully between stage areas",
+                "Explain why stage position affects audience focus"
+              ]
+            },
+            {
+              "title": {
+                "en": "Levels and stage pictures",
+                "fr": "Niveaux et tableaux scéniques",
+                "mfe": "Nivo ek tablo lor sen"
+              },
+              "objectives": [
+                "Create varied levels using body positions",
+                "Compose a still image representing a theme",
+                "Discuss how levels create visual interest"
+              ]
+            },
+            {
+              "title": {
+                "en": "Movement to express emotion",
+                "fr": "Le mouvement pour exprimer les émotions",
+                "mfe": "Mouvman pou exprim emosion"
+              },
+              "objectives": [
+                "Use movement quality to show different emotions",
+                "Perform a short movement sequence in a group",
+                "Give feedback using appropriate drama vocabulary"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Introduction to scripted drama",
+            "fr": "Introduction au théâtre scénarisé",
+            "mfe": "Introduksion ar teat ekri"
+          },
+          "summary": {
+            "en": "Students learn to read, interpret and perform short scripted extracts, focusing on script conventions.",
+            "fr": "Les élèves apprennent à lire, interpréter et jouer de courts extraits scénarisés, en se concentrant sur les conventions de script.",
+            "mfe": "Bann elev aprann lir, interprete ek zwe ti extre ekri, konsantre lor konvansion skrip."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Reading a play script",
+                "fr": "Lire un script de pièce",
+                "mfe": "Lir enn skrip pies"
+              },
+              "objectives": [
+                "Identify stage directions and dialogue in a script",
+                "Explain the purpose of stage directions",
+                "Read a short extract aloud with expression"
+              ]
+            },
+            {
+              "title": {
+                "en": "Bringing dialogue to life",
+                "fr": "Donner vie au dialogue",
+                "mfe": "Donn lavi dan dialog"
+              },
+              "objectives": [
+                "Interpret a character's intention from dialogue",
+                "Rehearse a short scripted scene in pairs",
+                "Adjust delivery based on director feedback"
+              ]
+            },
+            {
+              "title": {
+                "en": "Blocking a scripted scene",
+                "fr": "Mettre en scène un extrait scénarisé",
+                "mfe": "Blokaz enn sen ekri"
+              },
+              "objectives": [
+                "Plan entrances, exits and movement for a scene",
+                "Follow simple stage directions accurately",
+                "Collaborate with peers to finalise blocking"
+              ]
+            },
+            {
+              "title": {
+                "en": "Performing a script extract",
+                "fr": "Jouer un extrait de script",
+                "mfe": "Zwe enn extre skrip"
+              },
+              "objectives": [
+                "Perform a short scripted extract for an audience",
+                "Stay in character throughout the performance",
+                "Reflect on strengths and areas to improve"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Drama for social awareness",
+            "fr": "Le théâtre pour la sensibilisation sociale",
+            "mfe": "Teat pou konsiantizasion sosial"
+          },
+          "summary": {
+            "en": "Students use drama techniques such as forum theatre and tableaux to explore social issues relevant to their community.",
+            "fr": "Les élèves utilisent des techniques théâtrales telles que le théâtre-forum et les tableaux vivants pour explorer des questions sociales pertinentes pour leur communauté.",
+            "mfe": "Bann elev servi teknik teat kouma teat-forum ek tablivan pou explor bann problem sosial ki konsern zot kominote."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Introducing tableaux",
+                "fr": "Introduction aux tableaux vivants",
+                "mfe": "Introdiksion tablivan"
+              },
+              "objectives": [
+                "Create a frozen image representing a social issue",
+                "Interpret meaning from peers' tableaux",
+                "Explain choices of gesture and positioning"
+              ]
+            },
+            {
+              "title": {
+                "en": "Exploring issues through role",
+                "fr": "Explorer des problèmes à travers le rôle",
+                "mfe": "Explor problem atraver rol"
+              },
+              "objectives": [
+                "Take on a role to explore a social issue respectfully",
+                "Respond in character to questions from peers",
+                "Reflect on different perspectives shown"
+              ]
+            },
+            {
+              "title": {
+                "en": "Introduction to forum theatre",
+                "fr": "Introduction au théâtre-forum",
+                "mfe": "Introdiksion teat-forum"
+              },
+              "objectives": [
+                "Explain the purpose of forum theatre",
+                "Suggest alternative actions during a scene",
+                "Participate respectfully as audience-actors"
+              ]
+            },
+            {
+              "title": {
+                "en": "Presenting a social issue scene",
+                "fr": "Présenter une scène sur un problème social",
+                "mfe": "Prezant enn sen lor problem sosial"
+              },
+              "objectives": [
+                "Devise a short scene addressing a chosen issue",
+                "Perform the scene sensitively for classmates",
+                "Lead a brief discussion following the performance"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "units": [
+        {
+          "title": {
+            "en": "Advanced improvisation techniques",
+            "fr": "Techniques d'improvisation avancées",
+            "mfe": "Teknik improvizasion avanse"
+          },
+          "summary": {
+            "en": "Students build on earlier improvisation skills, learning to sustain longer scenes, respond to unexpected challenges, and work collaboratively to create believable dramatic moments.",
+            "fr": "Les élèves développent leurs compétences antérieures en improvisation, apprenant à maintenir des scènes plus longues, à réagir à des défis inattendus et à collaborer pour créer des moments dramatiques crédibles.",
+            "mfe": "Bann elev devlop zot bann konpetans improvizasion ki zot ti gagne avan, aprann pou maintenir bann sxenn pli long, reponn a bann defi initenn ek travay ansam pou kree bann moman dramatik kredib."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Sustaining longer scenes",
+                "fr": "Maintenir des scènes plus longues",
+                "mfe": "Maintenir bann sxenn pli long"
+              },
+              "objectives": [
+                "Develop a scene beyond its opening idea",
+                "Maintain character consistency over time",
+                "Build a scene with a clear beginning, middle and end"
+              ]
+            },
+            {
+              "title": {
+                "en": "Status and power in improvisation",
+                "fr": "Statut et pouvoir dans l'improvisation",
+                "mfe": "Statu ek pouvwar dan improvizasion"
+              },
+              "objectives": [
+                "Demonstrate high and low status through body and voice",
+                "Shift status during a scene to create tension",
+                "Analyse how status affects relationships on stage"
+              ]
+            },
+            {
+              "title": {
+                "en": "Responding to the unexpected",
+                "fr": "Réagir à l'imprévu",
+                "mfe": "Reponn a bann kitsoz initenn"
+              },
+              "objectives": [
+                "Accept and build on unexpected offers from a partner",
+                "Stay in character when plans change",
+                "Use quick thinking to keep a scene believable"
+              ]
+            },
+            {
+              "title": {
+                "en": "Group improvisation challenges",
+                "fr": "Défis d'improvisation en groupe",
+                "mfe": "Defi improvizasion an group"
+              },
+              "objectives": [
+                "Collaborate with three or more performers in one scene",
+                "Share focus fairly among group members",
+                "Reflect on group dynamics after a performance"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Characterisation and role development",
+            "fr": "Caractérisation et développement de rôle",
+            "mfe": "Karakterizasion ek devlopman rol"
+          },
+          "summary": {
+            "en": "This unit explores how actors build believable characters using physicality, voice, backstory and motivation, moving from simple role play to deeper character study.",
+            "fr": "Cette unité explore comment les acteurs construisent des personnages crédibles en utilisant la physicalité, la voix, l'historique et la motivation, passant du simple jeu de rôle à une étude de personnage plus approfondie.",
+            "mfe": "Sa lini-la explor kouma bann akter konstrir bann personaz kredib par servi lekor, lavwa, listwar ek motivasion, pass depi enn senp role play ver enn letid personaz pli fon."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Building a character's physicality",
+                "fr": "Construire la physicalité d'un personnage",
+                "mfe": "Konstrir lekor enn personaz"
+              },
+              "objectives": [
+                "Use posture, gesture and gait to define a character",
+                "Experiment with physical traits for different ages and roles",
+                "Perform a short walk-in exercise to show character"
+              ]
+            },
+            {
+              "title": {
+                "en": "Voice and character",
+                "fr": "La voix et le personnage",
+                "mfe": "Lavwa ek personaz"
+              },
+              "objectives": [
+                "Adapt pitch, pace and tone to suit a character",
+                "Explore accents and speech patterns respectfully",
+                "Perform a monologue showing vocal characterisation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Backstory and motivation",
+                "fr": "L'histoire personnelle et la motivation",
+                "mfe": "Listwar personel ek motivasion"
+              },
+              "objectives": [
+                "Create a backstory for an assigned character",
+                "Identify a character's wants and needs in a scene",
+                "Justify character choices using backstory details"
+              ]
+            },
+            {
+              "title": {
+                "en": "Hot-seating and character interviews",
+                "fr": "La technique de la chaise chaude",
+                "mfe": "Teknik lisiez so"
+              },
+              "objectives": [
+                "Answer questions in role to deepen character knowledge",
+                "Ask probing questions to explore another character",
+                "Reflect on new insights gained through hot-seating"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Elements and structure of drama",
+            "fr": "Éléments et structure du théâtre",
+            "mfe": "Elema ek striktir teat"
+          },
+          "summary": {
+            "en": "Learners examine the key elements of drama such as tension, contrast, symbol and climax, and how these combine to shape a piece of theatre.",
+            "fr": "Les élèves examinent les éléments clés du théâtre tels que la tension, le contraste, le symbole et le point culminant, et comment ceux-ci se combinent pour façonner une pièce de théâtre.",
+            "mfe": "Bann elev examinn bann elema kle teat kouma tansion, kontras, senbol ek klimaks, ek kouma sa bann la konbine pou form enn pyes teat."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Tension and contrast in drama",
+                "fr": "Tension et contraste dans le théâtre",
+                "mfe": "Tansion ek kontras dan teat"
+              },
+              "objectives": [
+                "Identify tension and contrast in performed scenes",
+                "Create a scene that builds tension gradually",
+                "Use contrast to highlight a dramatic moment"
+              ]
+            },
+            {
+              "title": {
+                "en": "Symbol and metaphor on stage",
+                "fr": "Symbole et métaphore sur scène",
+                "mfe": "Senbol ek metafor lor lasenn"
+              },
+              "objectives": [
+                "Recognise symbolic objects and actions in performance",
+                "Design a symbolic gesture to represent an idea",
+                "Explain the meaning behind a chosen symbol"
+              ]
+            },
+            {
+              "title": {
+                "en": "Building to a climax",
+                "fr": "Construire vers un point culminant",
+                "mfe": "Konstrir ziska enn klimaks"
+              },
+              "objectives": [
+                "Sequence events to build toward a climax",
+                "Identify climax points in a known story",
+                "Perform a scene that reaches a clear climax"
+              ]
+            },
+            {
+              "title": {
+                "en": "Dramatic structure in short plays",
+                "fr": "La structure dramatique dans les courtes pièces",
+                "mfe": "Striktir dramatik dan bann ti pyes"
+              },
+              "objectives": [
+                "Outline exposition, conflict and resolution in a short play",
+                "Compare structures across two different stories",
+                "Create a structure plan for an original scene"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Devising theatre from stimulus",
+            "fr": "Créer du théâtre à partir d'un stimulus",
+            "mfe": "Kree teat apartir enn stimilis"
+          },
+          "summary": {
+            "en": "Students learn the devising process, turning a picture, news story, object or theme into an original piece of theatre through collaborative creation.",
+            "fr": "Les élèves apprennent le processus de création théâtrale, transformant une image, un fait divers, un objet ou un thème en une pièce de théâtre originale grâce à une création collaborative.",
+            "mfe": "Bann elev aprann prosesis kreasion teat, transform enn zimaz, enn lartik nouvel, enn obze ouswa enn tem an enn pyes teat orizinal atraver kreasion kolektiv."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Starting with a stimulus",
+                "fr": "Partir d'un stimulus",
+                "mfe": "Koumans ar enn stimilis"
+              },
+              "objectives": [
+                "Generate ideas from a picture, object or article",
+                "Brainstorm possible scenes from a single stimulus",
+                "Select the strongest idea for development"
+              ]
+            },
+            {
+              "title": {
+                "en": "Shaping a devised scene",
+                "fr": "Façonner une scène créée collectivement",
+                "mfe": "Faconn enn sxenn devlope kolektivman"
+              },
+              "objectives": [
+                "Organise ideas into a sequence of scenes",
+                "Assign roles and responsibilities within a group",
+                "Rehearse a devised scene with clear staging"
+              ]
+            },
+            {
+              "title": {
+                "en": "Using local themes in devised work",
+                "fr": "Utiliser des thèmes locaux dans le travail créé",
+                "mfe": "Servi bann tem lokal dan travay devlope"
+              },
+              "objectives": [
+                "Draw on Mauritian culture or events as inspiration",
+                "Represent diverse perspectives respectfully in a scene",
+                "Discuss the relevance of local themes to audiences"
+              ]
+            },
+            {
+              "title": {
+                "en": "Refining and presenting devised work",
+                "fr": "Affiner et présenter le travail créé",
+                "mfe": "Amelior ek prezant travay devlope"
+              },
+              "objectives": [
+                "Give and receive feedback to improve a scene",
+                "Refine transitions and timing in a devised piece",
+                "Present a finished devised scene to an audience"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Exploring scripts and playwrights",
+            "fr": "Explorer des scripts et des dramaturges",
+            "mfe": "Explor bann skrip ek dramatiz"
+          },
+          "summary": {
+            "en": "This unit introduces reading and interpreting scripts, understanding stage directions, and exploring the work of playwrights from Mauritius and beyond.",
+            "fr": "Cette unité initie à la lecture et à l'interprétation de scripts, à la compréhension des indications scéniques et à l'exploration du travail de dramaturges de Maurice et d'ailleurs.",
+            "mfe": "Sa lini-la introdir lir ek interprete skrip, konpran bann direksion lasenn ek explor travay bann dramatiz depi Moris ek lezot pei."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Reading and interpreting a script",
+                "fr": "Lire et interpréter un script",
+                "mfe": "Lir ek interprete enn skrip"
+              },
+              "objectives": [
+                "Identify stage directions and dialogue in a script",
+                "Interpret a character's intentions from the text",
+                "Read a script extract aloud with expression"
+              ]
+            },
+            {
+              "title": {
+                "en": "Playwrights of Mauritius",
+                "fr": "Dramaturges de Maurice",
+                "mfe": "Dramatiz Moris"
+              },
+              "objectives": [
+                "Identify well-known Mauritian playwrights and their work",
+                "Discuss themes common in local plays",
+                "Compare a local script extract to a foreign one"
+              ]
+            },
+            {
+              "title": {
+                "en": "Bringing a script to life",
+                "fr": "Donner vie à un script",
+                "mfe": "Donn lavi enn skrip"
+              },
+              "objectives": [
+                "Block movement for a short scripted scene",
+                "Make acting choices based on script clues",
+                "Perform a scripted extract with a partner"
+              ]
+            },
+            {
+              "title": {
+                "en": "Comparing script and performance",
+                "fr": "Comparer script et représentation",
+                "mfe": "Konpar skrip ek reprezantasion"
+              },
+              "objectives": [
+                "Compare a written script to a filmed or live performance",
+                "Evaluate directorial choices made in a production",
+                "Justify personal interpretation of a script moment"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Design and technical theatre basics",
+            "fr": "Bases de la conception et de la technique théâtrale",
+            "mfe": "Baz konsepsion ek teknik teat"
+          },
+          "summary": {
+            "en": "Learners explore how set, costume, lighting and sound support storytelling, and try simple design tasks to enhance a performance.",
+            "fr": "Les élèves explorent comment le décor, le costume, l'éclairage et le son soutiennent la narration, et essaient des tâches de conception simples pour améliorer une représentation.",
+            "mfe": "Bann elev explor kouma dekor, kostim, lekleraz ek son sipport rakontaz enn zistwar, ek esey bann tas konsepsion senp pou amelior enn perfomans."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "The role of set and props",
+                "fr": "Le rôle du décor et des accessoires",
+                "mfe": "Rol dekor ek aksesswar"
+              },
+              "objectives": [
+                "Explain how set pieces suggest location and mood",
+                "Design a simple set layout for a scene",
+                "Select props that support character and story"
+              ]
+            },
+            {
+              "title": {
+                "en": "Costume and character",
+                "fr": "Costume et personnage",
+                "mfe": "Kostim ek personaz"
+              },
+              "objectives": [
+                "Identify how costume communicates character traits",
+                "Design a costume idea for a given role",
+                "Discuss costume choices in a Mauritian context"
+              ]
+            },
+            {
+              "title": {
+                "en": "Lighting and mood",
+                "fr": "Éclairage et ambiance",
+                "mfe": "Lekleraz ek lanbians"
+              },
+              "objectives": [
+                "Describe how lighting affects audience emotion",
+                "Suggest lighting choices for different scene moods",
+                "Experiment with basic lighting effects using simple tools"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sound and music in performance",
+                "fr": "Le son et la musique dans la représentation",
+                "mfe": "Son ek mizik dan perfomans"
+              },
+              "objectives": [
+                "Identify how sound effects support a scene",
+                "Select music that fits a scene's atmosphere",
+                "Create a simple soundscape for a short scene"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Physical theatre and movement",
+            "fr": "Théâtre physique et mouvement",
+            "mfe": "Teat fizik ek mouvman"
+          },
+          "summary": {
+            "en": "Students use their bodies expressively to tell stories without relying only on words, exploring mime, ensemble movement and physical storytelling.",
+            "fr": "Les élèves utilisent leur corps de manière expressive pour raconter des histoires sans dépendre uniquement des mots, explorant le mime, le mouvement d'ensemble et la narration physique.",
+            "mfe": "Bann elev servi zot lekor dan enn fason expresif pou rakont zistwar san depann zis lor bann mo, explor mim, mouvman an group ek rakontaz fizik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Introduction to mime",
+                "fr": "Introduction au mime",
+                "mfe": "Introdiksion ar mim"
+              },
+              "objectives": [
+                "Use gesture and expression to convey meaning without words",
+                "Create an object or environment using mime",
+                "Perform a short mime sequence to a small audience"
+              ]
+            },
+            {
+              "title": {
+                "en": "Ensemble movement",
+                "fr": "Mouvement d'ensemble",
+                "mfe": "Mouvman an group"
+              },
+              "objectives": [
+                "Move in synchrony with a group",
+                "Create shapes and formations to represent ideas",
+                "Reflect on the impact of unified group movement"
+              ]
+            },
+            {
+              "title": {
+                "en": "Physical storytelling",
+                "fr": "Narration physique",
+                "mfe": "Rakontaz fizik"
+              },
+              "objectives": [
+                "Tell a short story using only movement and sound",
+                "Sequence physical actions to show narrative progression",
+                "Evaluate the clarity of a physical storytelling piece"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Performance project and evaluation",
+            "fr": "Projet de performance et évaluation",
+            "mfe": "Projet perfomans ek evalyasion"
+          },
+          "summary": {
+            "en": "In this culminating unit, students plan, rehearse and present a final performance piece, then reflect critically on their own and others' work.",
+            "fr": "Dans cette unité finale, les élèves planifient, répètent et présentent une pièce de performance finale, puis réfléchissent de manière critique à leur propre travail et à celui des autres.",
+            "mfe": "Dan sa lini final-la, bann elev planifie, repete ek prezant enn dernie pyes perfomans, apre reflesi dan enn fason kritik lor zot prop travay ek lor travay lezot."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Planning a final performance",
+                "fr": "Planifier une représentation finale",
+                "mfe": "Planifie enn dernie perfomans"
+              },
+              "objectives": [
+                "Choose a theme, script or devised idea for a final piece",
+                "Assign roles and set a rehearsal schedule",
+                "Outline staging, design and technical needs"
+              ]
+            },
+            {
+              "title": {
+                "en": "Rehearsal techniques",
+                "fr": "Techniques de répétition",
+                "mfe": "Teknik repetision"
+              },
+              "objectives": [
+                "Apply feedback to improve a scene during rehearsal",
+                "Run a scene multiple times to build consistency",
+                "Solve staging problems collaboratively"
+              ]
+            },
+            {
+              "title": {
+                "en": "Presenting the final piece",
+                "fr": "Présenter la pièce finale",
+                "mfe": "Prezant dernie pyes"
+              },
+              "objectives": [
+                "Perform a final piece with focus and commitment",
+                "Manage nerves and stay in role during performance",
+                "Support fellow performers during the presentation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Reflecting on performance",
+                "fr": "Réfléchir sur la représentation",
+                "mfe": "Reflesi lor perfomans"
+              },
+              "objectives": [
+                "Evaluate strengths and areas for improvement in own performance",
+                "Give constructive feedback on peers' performances",
+                "Set personal goals for future drama work"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "units": [
+        {
+          "title": {
+            "en": "Foundations of devising drama",
+            "fr": "Fondements de l'improvisation dramatique",
+            "mfe": "Baz pou kre teat"
+          },
+          "summary": {
+            "en": "Students revisit key drama skills from earlier grades and begin exploring the devising process used in IGCSE Drama, learning how stimulus material can generate original performance ideas.",
+            "fr": "Les élèves révisent les compétences théâtrales essentielles des années précédentes et commencent à explorer le processus de création utilisé en théâtre IGCSE, en apprenant comment un stimulus peut générer des idées de performance originales.",
+            "mfe": "Bann elev pas an revi bann konpetans teat baz ki zot fin aprann avan, ek koumans explor prosesis pou kre enn pyes teat kouma dan IGCSE Drama, an aprann kouman enn stimulis kapav donn lide pou performans orizinal."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Recap of drama basics",
+                "fr": "Récapitulatif des bases théâtrales",
+                "mfe": "Rapel bann baz teat"
+              },
+              "objectives": [
+                "Recall key drama conventions learnt in earlier grades",
+                "Demonstrate basic stagecraft vocabulary",
+                "Apply warm-up techniques used in professional rehearsal"
+              ]
+            },
+            {
+              "title": {
+                "en": "Understanding stimulus material",
+                "fr": "Comprendre le matériel stimulus",
+                "mfe": "Konpran materyel stimilis"
+              },
+              "objectives": [
+                "Identify different types of stimulus used to inspire drama",
+                "Analyse a stimulus for dramatic potential",
+                "Generate initial ideas from a given stimulus"
+              ]
+            },
+            {
+              "title": {
+                "en": "Introduction to devising process",
+                "fr": "Introduction au processus de création",
+                "mfe": "Introdiksyon dan prosesis kreasyon"
+              },
+              "objectives": [
+                "Explain the stages of devising a piece of theatre",
+                "Collaborate in small groups to shape ideas",
+                "Reflect on group decision-making during devising"
+              ]
+            },
+            {
+              "title": {
+                "en": "Structuring a devised scene",
+                "fr": "Structurer une scène improvisée",
+                "mfe": "Estriktir enn sennn devlope"
+              },
+              "objectives": [
+                "Sequence dramatic action logically",
+                "Use structure to build tension in a scene",
+                "Evaluate the effectiveness of a scene's structure"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Physical theatre and movement",
+            "fr": "Théâtre physique et mouvement",
+            "mfe": "Teat fizik ek mouvman"
+          },
+          "summary": {
+            "en": "This unit develops students' physical expression through movement-based exercises, exploring how the body communicates character, emotion and narrative on stage.",
+            "fr": "Cette unité développe l'expression physique des élèves à travers des exercices basés sur le mouvement, en explorant comment le corps communique le personnage, l'émotion et le récit sur scène.",
+            "mfe": "Sa linite-la devlop lexpresyon fizik bann elev atraver exersis baze lor mouvman, an explor kouman lekor kominik personaz, santiman ek istwar lor lasenn."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Body as a storytelling tool",
+                "fr": "Le corps comme outil narratif",
+                "mfe": "Lekor kouma zouti pou rakont istwar"
+              },
+              "objectives": [
+                "Use posture and gesture to convey meaning",
+                "Explore levels and space in physical performance",
+                "Discuss how physicality supports narrative"
+              ]
+            },
+            {
+              "title": {
+                "en": "Physical theatre techniques",
+                "fr": "Techniques de théâtre physique",
+                "mfe": "Teknik teat fizik"
+              },
+              "objectives": [
+                "Apply techniques such as mime and choral movement",
+                "Create a short physical sequence in groups",
+                "Evaluate peer physical theatre pieces"
+              ]
+            },
+            {
+              "title": {
+                "en": "Movement and emotion",
+                "fr": "Mouvement et émotion",
+                "mfe": "Mouvman ek santiman"
+              },
+              "objectives": [
+                "Translate emotional states into physical movement",
+                "Experiment with tempo and rhythm in movement",
+                "Reflect on the impact of movement choices on audience"
+              ]
+            },
+            {
+              "title": {
+                "en": "Ensemble physical performance",
+                "fr": "Performance physique d'ensemble",
+                "mfe": "Performans fizik an group"
+              },
+              "objectives": [
+                "Collaborate to create a unified ensemble piece",
+                "Synchronise movement with fellow performers",
+                "Present and critique an ensemble physical piece"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Exploring text through performance",
+            "fr": "Explorer un texte par la performance",
+            "mfe": "Explor enn tex atraver performans"
+          },
+          "summary": {
+            "en": "Students study extracts from set and unseen play scripts, learning to interpret dialogue, subtext and stage directions to bring text to life.",
+            "fr": "Les élèves étudient des extraits de scripts de pièces prescrites et inconnues, apprenant à interpréter le dialogue, le sous-texte et les indications scéniques pour donner vie au texte.",
+            "mfe": "Bann elev etidye bann extre depi pyes teat fikse ek pa'nn fikse, an aprann interprete dyalog, sou-tex ek direksyon lasenn pou donn lavi ar tex."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Reading a play script",
+                "fr": "Lire un script de pièce",
+                "mfe": "Lir enn skript pyes teat"
+              },
+              "objectives": [
+                "Identify structural features of a play script",
+                "Distinguish between dialogue and stage directions",
+                "Discuss the playwright's intentions in a set text"
+              ]
+            },
+            {
+              "title": {
+                "en": "Finding subtext in dialogue",
+                "fr": "Trouver le sous-texte dans le dialogue",
+                "mfe": "Trouv sou-tex dan dyalog"
+              },
+              "objectives": [
+                "Explain the concept of subtext",
+                "Perform a scene emphasising unspoken meaning",
+                "Compare different interpretations of the same line"
+              ]
+            },
+            {
+              "title": {
+                "en": "Interpreting stage directions",
+                "fr": "",
+                "mfe": ""
+              },
+              "objectives": [
+                "Follow written stage directions accurately",
+                "Adapt stage directions to a performance space",
+                "Justify directorial choices when interpreting text"
+              ]
+            },
+            {
+              "title": {
+                "en": "Performing a scripted extract",
+                "fr": "Interpréter un extrait scénarisé",
+                "mfe": "Performe enn extre skripte"
+              },
+              "objectives": [
+                "Rehearse a short scripted extract in pairs",
+                "Apply vocal and physical skills to scripted performance",
+                "Reflect on strengths and areas for improvement"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Characterisation and role-building",
+            "fr": "Caractérisation et construction de rôle",
+            "mfe": "Karakterizasyon ek konstriksyon rol"
+          },
+          "summary": {
+            "en": "This unit focuses on techniques for creating believable characters, including physical, vocal and psychological approaches to role-building.",
+            "fr": "Cette unité se concentre sur les techniques de création de personnages crédibles, y compris les approches physiques, vocales et psychologiques de la construction de rôle.",
+            "mfe": "Sa linite-la konsantre lor teknik pou kre personaz kredib, ki inklir bann laprosh fizik, vokal ek psikolozik pou konstrir rol."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Building a character profile",
+                "fr": "Créer un profil de personnage",
+                "mfe": "Kree enn profil personaz"
+              },
+              "objectives": [
+                "Research background details to build a character",
+                "Identify a character's motivations and objectives",
+                "Create a written character profile"
+              ]
+            },
+            {
+              "title": {
+                "en": "Vocal techniques for character",
+                "fr": "Techniques vocales pour le personnage",
+                "mfe": "Teknik vokal pou personaz"
+              },
+              "objectives": [
+                "Experiment with pitch, pace and tone for character voice",
+                "Apply accent and dialect appropriately",
+                "Evaluate vocal choices in performance"
+              ]
+            },
+            {
+              "title": {
+                "en": "Physical characterisation",
+                "fr": "Caractérisation physique",
+                "mfe": "Karakterizasyon fizik"
+              },
+              "objectives": [
+                "Use posture and movement to define a character",
+                "Differentiate between contrasting characters physically",
+                "Perform a character walk and gesture sequence"
+              ]
+            },
+            {
+              "title": {
+                "en": "Hot-seating and role exploration",
+                "fr": "Interview de personnage et exploration du rôle",
+                "mfe": "Hot-seating ek explorasyon rol"
+              },
+              "objectives": [
+                "Answer improvised questions in role",
+                "Deepen understanding of character through hot-seating",
+                "Reflect on new insights gained about a role"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Design elements in performance",
+            "fr": "Éléments de conception dans la performance",
+            "mfe": "Bann element design dan performans"
+          },
+          "summary": {
+            "en": "Students explore how lighting, sound, costume and set design contribute to the overall meaning and atmosphere of a performance.",
+            "fr": "Les élèves explorent comment l'éclairage, le son, les costumes et la scénographie contribuent au sens global et à l'atmosphère d'une performance.",
+            "mfe": "Bann elev explor kouman lalimyer, son, kostim ek design lasenn kontribye dan sinifikasyon global ek atmosfer enn performans."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Introduction to stage design",
+                "fr": "Introduction à la scénographie",
+                "mfe": "Introdiksyon dan design lasenn"
+              },
+              "objectives": [
+                "Identify key elements of stage design",
+                "Explain how set design supports a play's meaning",
+                "Sketch a simple set design concept"
+              ]
+            },
+            {
+              "title": {
+                "en": "Lighting and mood",
+                "fr": "Éclairage et ambiance",
+                "mfe": "Lalimyer ek lambyans"
+              },
+              "objectives": [
+                "Describe how lighting affects audience perception",
+                "Experiment with lighting choices for a scene",
+                "Justify lighting decisions for a chosen mood"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sound and music in performance",
+                "fr": "Son et musique dans la performance",
+                "mfe": "Son ek mizik dan performans"
+              },
+              "objectives": [
+                "Select sound effects to enhance a scene",
+                "Explore the use of music to build atmosphere",
+                "Evaluate the impact of sound choices"
+              ]
+            },
+            {
+              "title": {
+                "en": "Costume and its meaning",
+                "fr": "Costume et sa signification",
+                "mfe": "Kostim ek so sinifikasyon"
+              },
+              "objectives": [
+                "Analyse how costume conveys character information",
+                "Design a costume concept for a role",
+                "Present costume choices with justification"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Improvisation and scripted work",
+            "fr": "Improvisation et travail scénarisé",
+            "mfe": "Improvizasyon ek travay skripte"
+          },
+          "summary": {
+            "en": "This unit develops confidence in spontaneous performance while linking improvisational skills to structured, scripted drama work.",
+            "fr": "Cette unité développe la confiance dans la performance spontanée tout en reliant les compétences d'improvisation au travail théâtral scénarisé et structuré.",
+            "mfe": "Sa linite-la devlop konfyans dan performans spontane pandan ki li relye konpetans improvizasyon avek travay teat skripte ek striktire."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Rules of improvisation",
+                "fr": "Règles de l'improvisation",
+                "mfe": "Regleman improvizasyon"
+              },
+              "objectives": [
+                "Apply the 'yes and' principle in improvisation",
+                "Build a scene collaboratively without a script",
+                "Reflect on spontaneity and listening skills"
+              ]
+            },
+            {
+              "title": {
+                "en": "Status and relationships in improvisation",
+                "fr": "Statut et relations dans l'improvisation",
+                "mfe": "Statu ek relasyon dan improvizasyon"
+              },
+              "objectives": [
+                "Demonstrate status through physicality and voice",
+                "Explore power dynamics between characters",
+                "Analyse how status affects dramatic tension"
+              ]
+            },
+            {
+              "title": {
+                "en": "From improvisation to script",
+                "fr": "De l'improvisation au script",
+                "mfe": "Depi improvizasyon ver skript"
+              },
+              "objectives": [
+                "Transform an improvised scene into a written script",
+                "Refine dialogue for clarity and impact",
+                "Compare improvised and scripted versions of a scene"
+              ]
+            },
+            {
+              "title": {
+                "en": "Combining scripted and devised work",
+                "fr": "Combiner travail scénarisé et improvisé",
+                "mfe": "Konbinn travay skripte ek devlope"
+              },
+              "objectives": [
+                "Integrate scripted extracts with devised material",
+                "Maintain consistency of character across styles",
+                "Present a combined performance piece"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Preparing and evaluating performance",
+            "fr": "Préparer et évaluer une performance",
+            "mfe": "Prepar ek evalye enn performans"
+          },
+          "summary": {
+            "en": "Students consolidate skills by rehearsing a polished performance piece and learning to critically evaluate their own and others' theatrical work.",
+            "fr": "Les élèves consolident leurs compétences en répétant une performance soignée et en apprenant à évaluer de manière critique leur propre travail théâtral et celui des autres.",
+            "mfe": "Bann elev konsolid zot konpetans an repete enn pyes performans fini bien prepare ek an aprann evalye kritikman zot prop travay teat ek sa lezot osi."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Rehearsal techniques",
+                "fr": "Techniques de répétition",
+                "mfe": "Teknik repetisyon"
+              },
+              "objectives": [
+                "Plan an effective rehearsal schedule",
+                "Use rehearsal notes to improve performance",
+                "Apply feedback constructively during rehearsal"
+              ]
+            },
+            {
+              "title": {
+                "en": "Performing for an audience",
+                "fr": "Se produire devant un public",
+                "mfe": "Performe devan enn lodyans"
+              },
+              "objectives": [
+                "Demonstrate performance skills in front of peers",
+                "Manage nerves and maintain focus while performing",
+                "Adapt performance based on audience response"
+              ]
+            },
+            {
+              "title": {
+                "en": "Evaluating live performance",
+                "fr": "Évaluer une performance en direct",
+                "mfe": "Evalye enn performans an direk"
+              },
+              "objectives": [
+                "Use appropriate drama terminology to evaluate performance",
+                "Identify strengths and areas for development in a piece",
+                "Write a structured evaluation of a performance"
+              ]
+            },
+            {
+              "title": {
+                "en": "Reflecting on the creative process",
+                "fr": "Réfléchir sur le processus créatif",
+                "mfe": "Refleksi lor prosesis kreatif"
+              },
+              "objectives": [
+                "Reflect on personal contribution to a devised piece",
+                "Discuss challenges faced during the creative process",
+                "Set goals for future drama work"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "11": {
+      "units": [
+        {
+          "title": {
+            "en": "Foundations of drama practice",
+            "fr": "Fondements de la pratique théâtrale",
+            "mfe": "Baz lartistik teat"
+          },
+          "summary": {
+            "en": "Students revise key drama skills from earlier grades and build ensemble trust needed for Cambridge IGCSE Drama coursework.",
+            "fr": "Les élèves révisent les compétences théâtrales clés des années précédentes et développent la confiance de groupe nécessaire pour le travail de coursework IGCSE Cambridge.",
+            "mfe": "Bann elev revize bann konpetans teat kle ki zwenn nan bann klas avan e devlop konfyans an group ki neseser pou travay coursework Cambridge IGCSE Drama."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Warm-ups and ensemble building",
+                "fr": "Échauffements et cohésion de groupe",
+                "mfe": "Ekesersiz esofaz ek konstriksyon group"
+              },
+              "objectives": [
+                "Recall vocal and physical warm-up techniques",
+                "Demonstrate trust and cooperation in ensemble exercises",
+                "Apply focus and concentration in group work"
+              ]
+            },
+            {
+              "title": {
+                "en": "Reviewing improvisation skills",
+                "fr": "Révision des compétences d'improvisation",
+                "mfe": "Revize konpetans improvizasyon"
+              },
+              "objectives": [
+                "Recall rules of spontaneous improvisation",
+                "Create short improvised scenes with a partner",
+                "Evaluate strengths and weaknesses in improvised work"
+              ]
+            },
+            {
+              "title": {
+                "en": "Introduction to the IGCSE syllabus",
+                "fr": "Introduction au programme IGCSE",
+                "mfe": "Entrodiksyon programme IGCSE"
+              },
+              "objectives": [
+                "Identify the three assessment components of IGCSE Drama",
+                "Explain the difference between devised and scripted work",
+                "Outline expectations for practical and written coursework"
+              ]
+            },
+            {
+              "title": {
+                "en": "Working collaboratively in groups",
+                "fr": "Travailler en collaboration en groupe",
+                "mfe": "Travay ansam an group"
+              },
+              "objectives": [
+                "Apply negotiation skills within a group task",
+                "Demonstrate active listening during rehearsal",
+                "Reflect on individual contribution to group success"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Devising original drama",
+            "fr": "Créer une pièce originale",
+            "mfe": "Kree enn drama orizinal"
+          },
+          "summary": {
+            "en": "Students learn the devising process, from stimulus to structured performance, developing original material collaboratively.",
+            "fr": "Les élèves apprennent le processus de création, du stimulus à la performance structurée, en développant du matériel original de manière collaborative.",
+            "mfe": "Bann elev aprann proseser kreasyon, depi enn stimulis ziska enn performans strikture, e devlop material orizinal ansam."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Using stimulus material",
+                "fr": "Utiliser un matériel stimulus",
+                "mfe": "Servi materyel stimilis"
+              },
+              "objectives": [
+                "Analyse different types of stimulus (image, text, object)",
+                "Generate ideas from a given stimulus",
+                "Select relevant ideas for further development"
+              ]
+            },
+            {
+              "title": {
+                "en": "Structuring a devised piece",
+                "fr": "Structurer une pièce créée",
+                "mfe": "Striktir enn pyes kree"
+              },
+              "objectives": [
+                "Explain narrative structures used in devised drama",
+                "Sequence scenes to build tension and meaning",
+                "Justify structural choices in a devised piece"
+              ]
+            },
+            {
+              "title": {
+                "en": "Applying dramatic techniques",
+                "fr": "Appliquer des techniques dramatiques",
+                "mfe": "Aplik teknik dramatik"
+              },
+              "objectives": [
+                "Apply techniques such as flashback, tableau and thought-tracking",
+                "Evaluate effectiveness of chosen techniques",
+                "Incorporate techniques into a devised scene"
+              ]
+            },
+            {
+              "title": {
+                "en": "Rehearsing and refining devised work",
+                "fr": "Répéter et affiner le travail créé",
+                "mfe": "Reperer ek amelior travay kree"
+              },
+              "objectives": [
+                "Rehearse devised material with attention to detail",
+                "Give and receive constructive feedback",
+                "Refine performance based on feedback"
+              ]
+            },
+            {
+              "title": {
+                "en": "Reflecting on the devising process",
+                "fr": "Réfléchir sur le processus de création",
+                "mfe": "Reflekte lor proseser kreasyon"
+              },
+              "objectives": [
+                "Document the devising journey in a working log",
+                "Evaluate personal and group contributions",
+                "Identify areas for improvement in future devising"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Exploring performance texts",
+            "fr": "Explorer des textes de performance",
+            "mfe": "Explor bann text performans"
+          },
+          "summary": {
+            "en": "Students study a set play text in depth, exploring character, context and dramatic meaning to prepare for practical exploration.",
+            "fr": "Les élèves étudient en profondeur un texte théâtral au programme, explorant les personnages, le contexte et le sens dramatique pour préparer l'exploration pratique.",
+            "mfe": "Bann elev etidye byin profon enn text pyes ki dan programme, explor personaz, kontex ek sinifikasyon dramatik pou prepar explorasyon praktik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Reading and understanding the set text",
+                "fr": "Lire et comprendre le texte au programme",
+                "mfe": "Lir ek konpran text programme"
+              },
+              "objectives": [
+                "Summarise plot and themes of the set text",
+                "Identify key relationships between characters",
+                "Locate significant moments for practical exploration"
+              ]
+            },
+            {
+              "title": {
+                "en": "Contextualising the playwright's intentions",
+                "fr": "Contextualiser les intentions du dramaturge",
+                "mfe": "Kontextiaz lentansyon lotor pyes"
+              },
+              "objectives": [
+                "Research the historical and social context of the text",
+                "Explain how context influences character motivation",
+                "Discuss the playwright's possible intentions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Exploring character through practical work",
+                "fr": "Explorer les personnages par la pratique",
+                "mfe": "Explor personaz atraver travay praktik"
+              },
+              "objectives": [
+                "Apply hot-seating to develop character understanding",
+                "Experiment with status and relationships physically",
+                "Justify character choices using textual evidence"
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysing key scenes",
+                "fr": "Analyser des scènes clés",
+                "mfe": "Analiz bann sinn kle"
+              },
+              "objectives": [
+                "Break down a key scene into units of action",
+                "Identify dramatic tension within the scene",
+                "Propose staging ideas for the scene"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Characterisation and acting skills",
+            "fr": "Caractérisation et techniques de jeu",
+            "mfe": "Karakterizasyon ek teknik zwe"
+          },
+          "summary": {
+            "en": "Students develop vocal and physical skills to create believable and detailed characters for performance.",
+            "fr": "Les élèves développent des compétences vocales et physiques pour créer des personnages crédibles et détaillés pour la scène.",
+            "mfe": "Bann elev devlop konpetans vokal ek fizik pou kree personaz kredib ek detaye pou performans."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Vocal skills for characterisation",
+                "fr": "Compétences vocales pour la caractérisation",
+                "mfe": "Konpetans vokal pou karakterizasyon"
+              },
+              "objectives": [
+                "Apply pitch, pace and tone to convey character",
+                "Practise projection and clarity of speech",
+                "Evaluate vocal choices in a short extract"
+              ]
+            },
+            {
+              "title": {
+                "en": "Physical skills for characterisation",
+                "fr": "Compétences physiques pour la caractérisation",
+                "mfe": "Konpetans fizik pou karakterizasyon"
+              },
+              "objectives": [
+                "Apply posture, gesture and movement to build character",
+                "Experiment with physicality to show status",
+                "Reflect on physical choices in performance"
+              ]
+            },
+            {
+              "title": {
+                "en": "Building character backstory",
+                "fr": "Construire l'histoire du personnage",
+                "mfe": "Konstrir listwar personaz"
+              },
+              "objectives": [
+                "Create a detailed backstory for a chosen character",
+                "Use backstory to inform performance choices",
+                "Present character backstory to peers for feedback"
+              ]
+            },
+            {
+              "title": {
+                "en": "Interacting with other characters",
+                "fr": "Interagir avec d'autres personnages",
+                "mfe": "Interaz avek lezot personaz"
+              },
+              "objectives": [
+                "Demonstrate listening and reacting in role",
+                "Apply status and relationship dynamics on stage",
+                "Sustain character consistency throughout a scene"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Design and technical theatre",
+            "fr": "Conception et théâtre technique",
+            "mfe": "Konsepsyon ek teknik teat"
+          },
+          "summary": {
+            "en": "Students explore how set, costume, lighting and sound design contribute to dramatic meaning in performance.",
+            "fr": "Les élèves explorent comment le décor, les costumes, l'éclairage et le son contribuent au sens dramatique de la performance.",
+            "mfe": "Bann elev explor kouma deko, kostim, limyer ek son kontribye dan sinifikasyon dramatik enn performans."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Set design for meaning",
+                "fr": "Conception de décor pour le sens",
+                "mfe": "Konsepsyon deko pou sinifikasyon"
+              },
+              "objectives": [
+                "Explain how set design supports narrative and mood",
+                "Sketch a simple set design for a chosen scene",
+                "Justify design choices linked to the text"
+              ]
+            },
+            {
+              "title": {
+                "en": "Costume and character",
+                "fr": "Costume et personnage",
+                "mfe": "Kostim ek personaz"
+              },
+              "objectives": [
+                "Analyse how costume communicates character information",
+                "Propose costume ideas for a specific role",
+                "Evaluate costume choices against period and context"
+              ]
+            },
+            {
+              "title": {
+                "en": "Lighting to create atmosphere",
+                "fr": "L'éclairage pour créer l'atmosphère",
+                "mfe": "Limyer pou kree lanbyans"
+              },
+              "objectives": [
+                "Identify basic lighting states and their effects",
+                "Plan lighting cues for a short scene",
+                "Justify lighting choices in relation to mood"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sound and music in performance",
+                "fr": "Son et musique dans la performance",
+                "mfe": "Son ek mizik dan performans"
+              },
+              "objectives": [
+                "Explain the role of sound effects and music",
+                "Select appropriate sound for a chosen scene",
+                "Evaluate the impact of sound choices on audience"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Monologue and duologue performance",
+            "fr": "Performance de monologue et duologue",
+            "mfe": "Performans monolog ek dyalog"
+          },
+          "summary": {
+            "en": "Students prepare and perform monologues and duologues, applying acting and interpretive skills for individual assessment.",
+            "fr": "Les élèves préparent et interprètent des monologues et duologues, en appliquant des compétences de jeu pour l'évaluation individuelle.",
+            "mfe": "Bann elev prepar ek performans monolog ek dyalog, aplik konpetans zwe pou levaluasyon endividyel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Selecting a monologue",
+                "fr": "Choisir un monologue",
+                "mfe": "Swazir enn monolog"
+              },
+              "objectives": [
+                "Evaluate suitability of extracts for solo performance",
+                "Select a monologue that suits personal strengths",
+                "Justify choice of extract with reference to text"
+              ]
+            },
+            {
+              "title": {
+                "en": "Interpreting a duologue",
+                "fr": "Interpréter un duologue",
+                "mfe": "Interpret enn dyalog"
+              },
+              "objectives": [
+                "Analyse relationship dynamics within a duologue",
+                "Rehearse timing and reaction with a partner",
+                "Adjust performance based on partner feedback"
+              ]
+            },
+            {
+              "title": {
+                "en": "Rehearsal techniques for solo work",
+                "fr": "Techniques de répétition pour le travail solo",
+                "mfe": "Teknik reperer pou travay endividyel"
+              },
+              "objectives": [
+                "Apply self-directed rehearsal strategies",
+                "Record and review own performance for improvement",
+                "Set specific goals for the next rehearsal"
+              ]
+            },
+            {
+              "title": {
+                "en": "Performing and receiving feedback",
+                "fr": "Interpréter et recevoir des retours",
+                "mfe": "Performe ek gagn feedback"
+              },
+              "objectives": [
+                "Perform a monologue or duologue to an audience",
+                "Give constructive feedback to peers",
+                "Reflect on personal performance using feedback received"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Live theatre evaluation",
+            "fr": "Évaluation du théâtre en direct",
+            "mfe": "Levaluasyon teat anrezistrer an direk"
+          },
+          "summary": {
+            "en": "Students learn to critically evaluate live or recorded theatre performances, developing analytical writing skills for the exam.",
+            "fr": "Les élèves apprennent à évaluer de manière critique des performances théâtrales en direct ou enregistrées, développant des compétences d'analyse pour l'examen.",
+            "mfe": "Bann elev aprann evalyer bann performans teat an direk oubyen anrezistre dan enn fason kritik, e devlop konpetans analiz pou lekzame."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Watching theatre analytically",
+                "fr": "Regarder le théâtre de manière analytique",
+                "mfe": "Get teat dan enn fason analitik"
+              },
+              "objectives": [
+                "Identify key elements to observe during a performance",
+                "Take structured notes while watching a performance",
+                "Distinguish between description and analysis"
+              ]
+            },
+            {
+              "title": {
+                "en": "Evaluating acting and direction",
+                "fr": "Évaluer le jeu et la mise en scène",
+                "mfe": "Evalye zwe ek direksyon"
+              },
+              "objectives": [
+                "Assess the effectiveness of actors' performances",
+                "Comment on directorial choices in staging",
+                "Support judgements with specific examples"
+              ]
+            },
+            {
+              "title": {
+                "en": "Evaluating design elements",
+                "fr": "Évaluer les éléments de conception",
+                "mfe": "Evalye bann element konsepsyon"
+              },
+              "objectives": [
+                "Assess how set, costume, lighting and sound contribute to meaning",
+                "Compare design choices to authorial intention",
+                "Write a paragraph evaluating a design element"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing a live theatre review",
+                "fr": "Rédiger une critique de théâtre en direct",
+                "mfe": "Ekrir enn kritik teat an direk"
+              },
+              "objectives": [
+                "Structure a written evaluation of a live performance",
+                "Use appropriate drama terminology accurately",
+                "Draft and revise a live theatre evaluation essay"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Exam preparation and mock practicals",
+            "fr": "Préparation à l'examen et pratiques simulées",
+            "mfe": "Prepar lekzame ek praktik similasyon"
+          },
+          "summary": {
+            "en": "Students consolidate coursework and revise for the written paper through mock practical assessments and exam-style tasks.",
+            "fr": "Les élèves consolident leur travail de coursework et révisent pour l'épreuve écrite grâce à des évaluations pratiques simulées et des exercices type examen.",
+            "mfe": "Bann elev konsolid coursework ek revize pou papye ekri atraver bann levaluasyon praktik similasyon ek bann task style lekzame."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Reviewing coursework portfolio",
+                "fr": "Révision du portfolio de coursework",
+                "mfe": "Revize portfolio coursework"
+              },
+              "objectives": [
+                "Check coursework components against assessment criteria",
+                "Identify gaps or weaknesses in the portfolio",
+                "Plan final improvements before submission"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mock practical performance",
+                "fr": "Performance pratique simulée",
+                "mfe": "Performans praktik similasyon"
+              },
+              "objectives": [
+                "Perform a rehearsed piece under exam-style conditions",
+                "Apply feedback from previous rehearsals",
+                "Self-assess performance against marking criteria"
+              ]
+            },
+            {
+              "title": {
+                "en": "Revising written exam skills",
+                "fr": "Révision des compétences pour l'examen écrit",
+                "mfe": "Revize konpetans pou lekzame ekri"
+              },
+              "objectives": [
+                "Practise answering set text analysis questions",
+                "Apply drama terminology accurately in written answers",
+                "Manage time effectively under exam conditions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Final reflection and goal setting",
+                "fr": "Réflexion finale et fixation d'objectifs",
+                "mfe": "Reflekson final ek fikse lobzektif"
+              },
+              "objectives": [
+                "Reflect on progress across the course",
+                "Identify personal strengths and areas for growth",
+                "Set clear goals for final exam preparation"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

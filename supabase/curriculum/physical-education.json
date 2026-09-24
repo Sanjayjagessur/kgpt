@@ -1,0 +1,3087 @@
+{
+  "subject": "physical-education",
+  "grades": {
+    "7": {
+      "units": [
+        {
+          "title": {
+            "en": "Introduction to physical education",
+            "fr": "Introduction à l'éducation physique",
+            "mfe": "Introdiksion a ledikasion fizik"
+          },
+          "summary": {
+            "en": "Students learn the purpose of physical education, basic safety rules, and how to warm up and cool down properly before physical activity.",
+            "fr": "Les élèves découvrent l'objectif de l'éducation physique, les règles de sécurité de base, et apprennent à s'échauffer et à récupérer correctement avant et après l'activité physique.",
+            "mfe": "Bann elev aprann bi ledikasion fizik, bann regleman sekirite debaz, ek kouma pou fer echofman ek retour o kalm avan ek apre lekzersis fizik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Why we practise physical education",
+                "fr": "Pourquoi pratiquer l'éducation physique",
+                "mfe": "Kifer nou fer ledikasion fizik"
+              },
+              "objectives": [
+                "Explain the benefits of regular physical activity",
+                "Identify how PE contributes to health and wellbeing",
+                "Describe the rules of the PE class"
+              ]
+            },
+            {
+              "title": {
+                "en": "Warming up safely",
+                "fr": "S'échauffer en toute sécurité",
+                "mfe": "Fer echofman an sekirite"
+              },
+              "objectives": [
+                "Demonstrate a basic warm-up routine",
+                "Explain why warming up prevents injury",
+                "Perform dynamic stretches correctly"
+              ]
+            },
+            {
+              "title": {
+                "en": "Cooling down after exercise",
+                "fr": "Récupérer après l'exercice",
+                "mfe": "Retour o kalm apre lekzersis"
+              },
+              "objectives": [
+                "Demonstrate simple cool-down stretches",
+                "Explain the purpose of cooling down",
+                "Recognise signs of overexertion"
+              ]
+            },
+            {
+              "title": {
+                "en": "Wearing proper sports kit",
+                "fr": "Porter une tenue de sport adaptée",
+                "mfe": "Met bon linz sportif"
+              },
+              "objectives": [
+                "List appropriate PE clothing and footwear",
+                "Explain hygiene practices before and after PE",
+                "Identify safety hazards in sportswear"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Fitness components and testing",
+            "fr": "Composantes et tests de la condition physique",
+            "mfe": "Bann eleman ek test kondision fizik"
+          },
+          "summary": {
+            "en": "This unit introduces the main components of physical fitness and simple tests students can use to measure their own fitness levels.",
+            "fr": "Cette unité présente les principales composantes de la condition physique et des tests simples pour mesurer son propre niveau de forme.",
+            "mfe": "Sa linite la introdir bann prensipal eleman kondision fizik ek bann test senp pou mezir prop nivo fitnes."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Understanding fitness components",
+                "fr": "Comprendre les composantes de la forme physique",
+                "mfe": "Konpran bann eleman fitnes"
+              },
+              "objectives": [
+                "Define strength, speed, endurance and flexibility",
+                "Give examples of sports needing each component",
+                "Distinguish health-related from skill-related fitness"
+              ]
+            },
+            {
+              "title": {
+                "en": "Measuring cardiovascular endurance",
+                "fr": "Mesurer l'endurance cardiovasculaire",
+                "mfe": "Mezir landirans kardiovaskiler"
+              },
+              "objectives": [
+                "Perform a simple endurance run test",
+                "Record and interpret personal results",
+                "Explain the importance of a healthy heart"
+              ]
+            },
+            {
+              "title": {
+                "en": "Testing strength and flexibility",
+                "fr": "Tester la force et la souplesse",
+                "mfe": "Test lafors ek souples"
+              },
+              "objectives": [
+                "Perform basic strength and flexibility tests",
+                "Compare results with fitness norms",
+                "Suggest ways to improve weak areas"
+              ]
+            },
+            {
+              "title": {
+                "en": "Setting personal fitness goals",
+                "fr": "Fixer des objectifs de forme personnels",
+                "mfe": "Fixe bann lobzektif fitnes personel"
+              },
+              "objectives": [
+                "Set realistic short-term fitness goals",
+                "Plan simple activities to reach a goal",
+                "Track progress over several weeks"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Athletics fundamentals",
+            "fr": "Fondamentaux de l'athlétisme",
+            "mfe": "Bann fondaman letletis"
+          },
+          "summary": {
+            "en": "Students develop basic running, jumping and throwing techniques used across different athletics events.",
+            "fr": "Les élèves développent les techniques de base de course, saut et lancer utilisées dans différentes épreuves d'athlétisme.",
+            "mfe": "Bann elev devlop bann teknik debaz kouri, sote ek lanse ki servi dan diferan lepev letletis."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Sprinting technique basics",
+                "fr": "Bases de la technique de sprint",
+                "mfe": "Baz teknik kourse vites"
+              },
+              "objectives": [
+                "Demonstrate correct sprint starting position",
+                "Practise arm and leg action while sprinting",
+                "Explain the importance of reaction time"
+              ]
+            },
+            {
+              "title": {
+                "en": "Introduction to long jump",
+                "fr": "Introduction au saut en longueur",
+                "mfe": "Introdiksion o sote longer"
+              },
+              "objectives": [
+                "Demonstrate the approach run and take-off",
+                "Practise landing safely in the sandpit",
+                "Measure and record jump distances"
+              ]
+            },
+            {
+              "title": {
+                "en": "Introduction to throwing events",
+                "fr": "Introduction aux épreuves de lancer",
+                "mfe": "Introdiksion bann lepev lanse"
+              },
+              "objectives": [
+                "Demonstrate safe throwing technique",
+                "Practise a basic shot put or ball throw",
+                "Follow safety rules during throwing activities"
+              ]
+            },
+            {
+              "title": {
+                "en": "Relay running and baton changing",
+                "fr": "Course de relais et passage de témoin",
+                "mfe": "Kourse relev ek sanz baton"
+              },
+              "objectives": [
+                "Demonstrate a smooth baton change",
+                "Work in a team during a relay",
+                "Apply timing and spacing in relay running"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Team games: football and handball",
+            "fr": "Jeux collectifs : football et handball",
+            "mfe": "Zwe lekip: foutbol ek handball"
+          },
+          "summary": {
+            "en": "Students learn basic skills, rules and teamwork strategies in football and handball.",
+            "fr": "Les élèves apprennent les compétences de base, les règles et les stratégies d'équipe au football et au handball.",
+            "mfe": "Bann elev aprann bann konpetans debaz, regleman ek stratezi lekip dan foutbol ek handball."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Football passing and control",
+                "fr": "Passes et contrôle au football",
+                "mfe": "Pas ek kontrol dan foutbol"
+              },
+              "objectives": [
+                "Demonstrate accurate short passing",
+                "Control a moving ball with different body parts",
+                "Apply passing in small-sided games"
+              ]
+            },
+            {
+              "title": {
+                "en": "Football shooting and basic rules",
+                "fr": "Tirs et règles de base au football",
+                "mfe": "Tir ek regleman debaz foutbol"
+              },
+              "objectives": [
+                "Demonstrate a controlled shot on goal",
+                "Explain basic football rules and fouls",
+                "Play a mini football match applying rules"
+              ]
+            },
+            {
+              "title": {
+                "en": "Handball basic skills",
+                "fr": "Compétences de base au handball",
+                "mfe": "Konpetans debaz handball"
+              },
+              "objectives": [
+                "Demonstrate catching and throwing in handball",
+                "Practise dribbling within handball rules",
+                "Apply basic attacking movement"
+              ]
+            },
+            {
+              "title": {
+                "en": "Teamwork and fair play",
+                "fr": "Esprit d'équipe et fair-play",
+                "mfe": "Travay lekip ek fair-play"
+              },
+              "objectives": [
+                "Explain the meaning of fair play",
+                "Cooperate with teammates during a game",
+                "Show respect towards opponents and officials"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Gymnastics and body movement",
+            "fr": "Gymnastique et mouvement corporel",
+            "mfe": "Zimnastik ek mouvman lekor"
+          },
+          "summary": {
+            "en": "This unit builds body control, balance and coordination through simple gymnastic movements and sequences.",
+            "fr": "Cette unité développe le contrôle corporel, l'équilibre et la coordination à travers des mouvements et enchaînements gymniques simples.",
+            "mfe": "Sa linite la devlop kontrol lekor, lekilib ek kordinasion atraver bann mouvman ek sekans zimnastik senp."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Balance and body control",
+                "fr": "Équilibre et contrôle du corps",
+                "mfe": "Lekilib ek kontrol lekor"
+              },
+              "objectives": [
+                "Demonstrate static balance positions",
+                "Hold a balance for a set duration",
+                "Explain the role of core muscles in balance"
+              ]
+            },
+            {
+              "title": {
+                "en": "Rolling and basic tumbling",
+                "fr": "Roulades et bases de l'acrobatie",
+                "mfe": "Roule ek baz tumbling"
+              },
+              "objectives": [
+                "Perform a forward roll safely",
+                "Perform a backward roll with support",
+                "Apply safety awareness during tumbling"
+              ]
+            },
+            {
+              "title": {
+                "en": "Creating a simple sequence",
+                "fr": "Créer un enchaînement simple",
+                "mfe": "Kree enn sekans senp"
+              },
+              "objectives": [
+                "Combine balance and roll into a sequence",
+                "Perform a sequence with a partner",
+                "Give feedback on a partner's sequence"
+              ]
+            },
+            {
+              "title": {
+                "en": "Coordination through rhythmic movement",
+                "fr": "Coordination par le mouvement rythmique",
+                "mfe": "Kordinasion par mouvman ritmik"
+              },
+              "objectives": [
+                "Perform movements in time with music or rhythm",
+                "Demonstrate hand-eye and foot coordination",
+                "Explain the value of rhythm in movement"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Racket sports basics",
+            "fr": "Bases des sports de raquette",
+            "mfe": "Baz bann sport raket"
+          },
+          "summary": {
+            "en": "Students are introduced to badminton and table tennis, focusing on grip, basic strokes and simple rules.",
+            "fr": "Les élèves découvrent le badminton et le tennis de table, en se concentrant sur la prise, les coups de base et les règles simples.",
+            "mfe": "Bann elev dekouver badminton ek tennis de table, konsantre lor lasenn, bann kout debaz ek regleman senp."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Badminton grip and serve",
+                "fr": "Prise et service au badminton",
+                "mfe": "Lasenn ek servis badminton"
+              },
+              "objectives": [
+                "Demonstrate a correct racket grip",
+                "Perform a basic underarm serve",
+                "Explain badminton court boundaries"
+              ]
+            },
+            {
+              "title": {
+                "en": "Badminton basic strokes",
+                "fr": "Coups de base au badminton",
+                "mfe": "Kout debaz badminton"
+              },
+              "objectives": [
+                "Perform a forehand and backhand clear",
+                "Move appropriately around the court",
+                "Rally with a partner using basic strokes"
+              ]
+            },
+            {
+              "title": {
+                "en": "Table tennis fundamentals",
+                "fr": "Fondamentaux du tennis de table",
+                "mfe": "Fondaman tennis de table"
+              },
+              "objectives": [
+                "Demonstrate correct grip and stance",
+                "Perform a basic forehand and backhand shot",
+                "Explain simple table tennis scoring rules"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Traditional and cultural games",
+            "fr": "Jeux traditionnels et culturels",
+            "mfe": "Bann zwe tradisionel ek kiltirel"
+          },
+          "summary": {
+            "en": "Students explore traditional Mauritian games and outdoor activities that promote physical activity and cultural appreciation.",
+            "fr": "Les élèves explorent des jeux traditionnels mauriciens et des activités de plein air qui favorisent l'activité physique et l'appréciation culturelle.",
+            "mfe": "Bann elev explor bann zwe tradisionel morisien ek aktivite deor ki promouvwar lativite fizik ek lapresiasion kiltirel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Traditional Mauritian games",
+                "fr": "Jeux traditionnels mauriciens",
+                "mfe": "Zwe tradisionel morisien"
+              },
+              "objectives": [
+                "Describe the rules of a traditional local game",
+                "Participate actively in a traditional game",
+                "Explain the cultural value of traditional games"
+              ]
+            },
+            {
+              "title": {
+                "en": "Outdoor cooperative activities",
+                "fr": "Activités coopératives en plein air",
+                "mfe": "Aktivite kooperatif deor"
+              },
+              "objectives": [
+                "Work in a group to solve a movement challenge",
+                "Communicate effectively during team activities",
+                "Reflect on the importance of cooperation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Games from Mauritius's communities",
+                "fr": "Jeux issus des communautés mauriciennes",
+                "mfe": "Zwe ki sorti dan bann kominote morisien"
+              },
+              "objectives": [
+                "Identify games from different Mauritian communities",
+                "Compare rules and equipment used",
+                "Play a game respecting its cultural origin"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "8": {
+      "units": [
+        {
+          "title": {
+            "en": "Fitness components and testing",
+            "fr": "Composantes de la condition physique et tests",
+            "mfe": "Bann eleman fitnes ek test"
+          },
+          "summary": {
+            "en": "Students explore the main components of physical fitness and learn simple methods to test and track their own fitness levels.",
+            "fr": "Les élèves explorent les principales composantes de la condition physique et apprennent des méthodes simples pour tester et suivre leur propre niveau de forme.",
+            "mfe": "Bann elev explor bann prensipal eleman fitnes fizik ek aprann bann metod sinp pou teste ek swiv zot prop nivo fitnes."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Understanding physical fitness",
+                "fr": "Comprendre la condition physique",
+                "mfe": "Konpran fitnes fizik"
+              },
+              "objectives": [
+                "Define physical fitness and its importance",
+                "Identify health-related and skill-related components",
+                "Give examples of activities linked to each component"
+              ]
+            },
+            {
+              "title": {
+                "en": "Measuring cardiovascular endurance",
+                "fr": "Mesurer l'endurance cardiovasculaire",
+                "mfe": "Mezir landirans kardyovaskiler"
+              },
+              "objectives": [
+                "Explain what cardiovascular endurance means",
+                "Perform a basic endurance run test",
+                "Record and interpret personal results"
+              ]
+            },
+            {
+              "title": {
+                "en": "Testing strength and flexibility",
+                "fr": "Tester la force et la souplesse",
+                "mfe": "Teste lafors ek fleksibilite"
+              },
+              "objectives": [
+                "Describe simple strength tests such as push-ups",
+                "Perform a sit-and-reach flexibility test",
+                "Compare results with recommended norms"
+              ]
+            },
+            {
+              "title": {
+                "en": "Setting personal fitness goals",
+                "fr": "Fixer des objectifs de forme personnels",
+                "mfe": "Fikse bann obzektif fitnes personel"
+              },
+              "objectives": [
+                "Use test results to identify strengths and weaknesses",
+                "Set realistic short-term fitness goals",
+                "Plan simple activities to improve a chosen component"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Athletics skills development",
+            "fr": "Développement des compétences en athlétisme",
+            "mfe": "Devlopman ladres atletism"
+          },
+          "summary": {
+            "en": "Students develop running, jumping and throwing techniques used in track and field athletics.",
+            "fr": "Les élèves développent des techniques de course, de saut et de lancer utilisées en athlétisme.",
+            "mfe": "Bann elev devlop teknik kouri, sote ek lanse itilize dan atletism."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Sprinting technique basics",
+                "fr": "Bases de la technique de sprint",
+                "mfe": "Baz teknik sprint"
+              },
+              "objectives": [
+                "Explain correct sprint starting position",
+                "Practise arm and leg coordination while sprinting",
+                "Identify common sprinting errors"
+              ]
+            },
+            {
+              "title": {
+                "en": "Long jump fundamentals",
+                "fr": "Fondamentaux du saut en longueur",
+                "mfe": "Bann fondaman long sote"
+              },
+              "objectives": [
+                "Describe the phases of a long jump",
+                "Practise the approach run and take-off",
+                "Land safely using correct technique"
+              ]
+            },
+            {
+              "title": {
+                "en": "Introduction to relay running",
+                "fr": "Introduction à la course de relais",
+                "mfe": "Introdiksyon kour relay"
+              },
+              "objectives": [
+                "Explain the purpose of baton exchange",
+                "Practise passing a baton with a partner",
+                "Understand relay team roles"
+              ]
+            },
+            {
+              "title": {
+                "en": "Basic throwing events",
+                "fr": "Épreuves de lancer de base",
+                "mfe": "Bann levennman lanse debaz"
+              },
+              "objectives": [
+                "Identify different throwing events",
+                "Practise a safe throwing technique",
+                "Apply safety rules during throwing activities"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Football skills and small games",
+            "fr": "Compétences en football et petits jeux",
+            "mfe": "Ladres foutbol ek pti zwe"
+          },
+          "summary": {
+            "en": "Students build ball control, passing and teamwork skills through football drills and modified games.",
+            "fr": "Les élèves développent le contrôle du ballon, les passes et le travail d'équipe grâce à des exercices et jeux modifiés de football.",
+            "mfe": "Bann elev devlop kontrol balon, pas ek travay lekip atraver egzersis ek zwe modifye foutbol."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Ball control and dribbling",
+                "fr": "Contrôle du ballon et dribble",
+                "mfe": "Kontrol balon ek dribl"
+              },
+              "objectives": [
+                "Practise controlling the ball with different body parts",
+                "Perform basic dribbling movements",
+                "Maintain control while moving at speed"
+              ]
+            },
+            {
+              "title": {
+                "en": "Passing and receiving",
+                "fr": "Passes et réception",
+                "mfe": "Pas ek resevwar"
+              },
+              "objectives": [
+                "Demonstrate short passing technique",
+                "Practise receiving a moving ball",
+                "Apply passing skills in a small group activity"
+              ]
+            },
+            {
+              "title": {
+                "en": "Shooting and scoring",
+                "fr": "Tir et marquage de buts",
+                "mfe": "Tir ek marke gol"
+              },
+              "objectives": [
+                "Practise shooting technique towards a target",
+                "Identify factors affecting shot accuracy",
+                "Apply shooting skills in a mini game"
+              ]
+            },
+            {
+              "title": {
+                "en": "Small-sided games and teamwork",
+                "fr": "Jeux réduits et travail d'équipe",
+                "mfe": "Pti zwe ek travay lekip"
+              },
+              "objectives": [
+                "Apply football skills in small-sided games",
+                "Explain basic attacking and defending positions",
+                "Demonstrate fair play and cooperation"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Volleyball fundamentals",
+            "fr": "Fondamentaux du volley-ball",
+            "mfe": "Bann fondaman volebol"
+          },
+          "summary": {
+            "en": "Students learn the basic techniques and rules of volleyball while practising in pairs and small teams.",
+            "fr": "Les élèves apprennent les techniques de base et les règles du volley-ball tout en s'exerçant en binômes et en petites équipes.",
+            "mfe": "Bann elev aprann bann teknik debaz ek regleman volebol pandan zot pratike an per ek an pti lekip."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "The volleyball dig and set",
+                "fr": "La manchette et la touche au volley-ball",
+                "mfe": "Dig ek set dan volebol"
+              },
+              "objectives": [
+                "Demonstrate correct hand position for digging",
+                "Practise setting the ball to a partner",
+                "Identify when to use each technique"
+              ]
+            },
+            {
+              "title": {
+                "en": "Serving techniques",
+                "fr": "Techniques de service",
+                "mfe": "Teknik servis"
+              },
+              "objectives": [
+                "Explain the underarm serve technique",
+                "Practise serving over a net",
+                "Evaluate serve accuracy and consistency"
+              ]
+            },
+            {
+              "title": {
+                "en": "Basic volleyball rules",
+                "fr": "Règles de base du volley-ball",
+                "mfe": "Regleman debaz volebol"
+              },
+              "objectives": [
+                "Explain court dimensions and rotation rules",
+                "Identify common faults during play",
+                "Apply rules correctly in a rally"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mini volleyball matches",
+                "fr": "Mini matchs de volley-ball",
+                "mfe": "Mini match volebol"
+              },
+              "objectives": [
+                "Apply learned skills in a modified game",
+                "Demonstrate teamwork during rallies",
+                "Show respect for opponents and officials"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Gymnastics and body movement",
+            "fr": "Gymnastique et mouvement corporel",
+            "mfe": "Zimnastik ek mouvman lekor"
+          },
+          "summary": {
+            "en": "Students explore balance, flexibility and control through basic gymnastic movements and sequences.",
+            "fr": "Les élèves explorent l'équilibre, la souplesse et le contrôle à travers des mouvements et enchaînements gymniques de base.",
+            "mfe": "Bann elev explor balans, fleksibilite ek kontrol atraver bann mouvman ek sekans zimnastik debaz."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Balance and body control",
+                "fr": "Équilibre et contrôle corporel",
+                "mfe": "Balans ek kontrol lekor"
+              },
+              "objectives": [
+                "Perform simple static balance positions",
+                "Practise dynamic balance movements",
+                "Identify body parts used for stability"
+              ]
+            },
+            {
+              "title": {
+                "en": "Basic rolls and forward movements",
+                "fr": "Roulades de base et mouvements avant",
+                "mfe": "Roulad debaz ek mouvman divan"
+              },
+              "objectives": [
+                "Demonstrate a safe forward roll",
+                "Practise correct landing techniques",
+                "Follow safety guidelines during floor work"
+              ]
+            },
+            {
+              "title": {
+                "en": "Creating a movement sequence",
+                "fr": "Créer un enchaînement de mouvements",
+                "mfe": "Kree enn sekans mouvman"
+              },
+              "objectives": [
+                "Combine balance and roll skills into a sequence",
+                "Practise smooth transitions between movements",
+                "Perform the sequence for peer feedback"
+              ]
+            },
+            {
+              "title": {
+                "en": "Partner and group balances",
+                "fr": "Équilibres en binôme et en groupe",
+                "mfe": "Balans an per ek an group"
+              },
+              "objectives": [
+                "Practise simple partner balance shapes",
+                "Demonstrate trust and communication with a partner",
+                "Apply safety rules in group activities"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Health, nutrition and hygiene",
+            "fr": "Santé, nutrition et hygiène",
+            "mfe": "Lasante, nitrisyon ek ligyenn"
+          },
+          "summary": {
+            "en": "Students learn about healthy eating, hygiene practices and lifestyle choices that support an active life.",
+            "fr": "Les élèves apprennent une alimentation saine, des pratiques d'hygiène et des choix de mode de vie favorisant une vie active.",
+            "mfe": "Bann elev aprann manzer sante, pratik ligyenn ek swa lastil lavi ki soutenir enn lavi aktif."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Balanced diet for active students",
+                "fr": "Alimentation équilibrée pour élèves actifs",
+                "mfe": "Manze ekilibre pou elev aktif"
+              },
+              "objectives": [
+                "Identify food groups needed for energy and recovery",
+                "Explain the role of hydration in exercise",
+                "Plan a simple healthy meal for a sports day"
+              ]
+            },
+            {
+              "title": {
+                "en": "Personal hygiene and exercise",
+                "fr": "Hygiène personnelle et exercice",
+                "mfe": "Ligyenn personel ek exersis"
+              },
+              "objectives": [
+                "Explain why hygiene matters during physical activity",
+                "Describe good hygiene practices before and after exercise",
+                "Identify risks of poor hygiene in sport"
+              ]
+            },
+            {
+              "title": {
+                "en": "Effects of lifestyle choices on health",
+                "fr": "Effets des choix de mode de vie sur la santé",
+                "mfe": "Lefe swa lastil lavi lor lasante"
+              },
+              "objectives": [
+                "Identify positive and negative lifestyle habits",
+                "Explain how sleep and screen time affect performance",
+                "Suggest healthy habits for daily routine"
+              ]
+            },
+            {
+              "title": {
+                "en": "Avoiding common sports injuries",
+                "fr": "Éviter les blessures sportives courantes",
+                "mfe": "Evite blesir sportif komin"
+              },
+              "objectives": [
+                "Identify common causes of injury during activity",
+                "Explain the importance of warm-up and cool-down",
+                "Describe basic injury prevention strategies"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Traditional games and Mauritian culture",
+            "fr": "Jeux traditionnels et culture mauricienne",
+            "mfe": "Zwe tradisyonel ek kiltir morisien"
+          },
+          "summary": {
+            "en": "Students explore traditional Mauritian games and movement activities that reflect the island's cultural diversity.",
+            "fr": "Les élèves découvrent des jeux traditionnels mauriciens et des activités de mouvement reflétant la diversité culturelle de l'île.",
+            "mfe": "Bann elev explor zwe tradisyonel morisien ek aktivite mouvman ki reflet diversite kiltirel lil."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Exploring traditional Mauritian games",
+                "fr": "Découverte des jeux traditionnels mauriciens",
+                "mfe": "Explor zwe tradisyonel morisien"
+              },
+              "objectives": [
+                "Identify traditional games played in Mauritius",
+                "Explain the rules of a chosen traditional game",
+                "Participate respectfully in group play"
+              ]
+            },
+            {
+              "title": {
+                "en": "Movement through Mauritian dance",
+                "fr": "Mouvement à travers la danse mauricienne",
+                "mfe": "Mouvman atraver dans morisien"
+              },
+              "objectives": [
+                "Identify basic steps of a traditional dance style",
+                "Practise rhythm and coordination through dance",
+                "Appreciate cultural diversity through movement"
+              ]
+            },
+            {
+              "title": {
+                "en": "Organising a class games day",
+                "fr": "Organiser une journée de jeux de classe",
+                "mfe": "Organiz enn zourne zwe klas"
+              },
+              "objectives": [
+                "Plan a simple event using traditional games",
+                "Assign roles for organising and officiating",
+                "Demonstrate cooperation and sportsmanship"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "units": [
+        {
+          "title": {
+            "en": "Health-related fitness",
+            "fr": "Condition physique liée à la santé",
+            "mfe": "Bonn fizik pou lasante"
+          },
+          "summary": {
+            "en": "Students explore the components of health-related fitness and learn how regular physical activity contributes to a healthy lifestyle.",
+            "fr": "Les élèves explorent les composantes de la condition physique liée à la santé et apprennent comment l'activité physique régulière contribue à un mode de vie sain.",
+            "mfe": "Bann elev explor bann eleman bonn fizik ki lié ar lasante ek aprann kouma lexersis fizik regilie kontribie dan enn lavi ansante."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Components of fitness",
+                "fr": "Composantes de la condition physique",
+                "mfe": "Bann eleman fizik"
+              },
+              "objectives": [
+                "Define health-related fitness components",
+                "Identify examples of each component in daily activities",
+                "Explain why fitness components matter for overall health"
+              ]
+            },
+            {
+              "title": {
+                "en": "Measuring your fitness level",
+                "fr": "Mesurer son niveau de forme physique",
+                "mfe": "Mezire ou nivo fizik"
+              },
+              "objectives": [
+                "Describe common fitness tests used in schools",
+                "Perform simple fitness assessments safely",
+                "Record and interpret basic fitness results"
+              ]
+            },
+            {
+              "title": {
+                "en": "Principles of training",
+                "fr": "Principes de l'entraînement",
+                "mfe": "Prinsip lantrennman"
+              },
+              "objectives": [
+                "Explain the FITT principle",
+                "Apply overload and progression to a simple plan",
+                "Recognise signs of overtraining"
+              ]
+            },
+            {
+              "title": {
+                "en": "Designing a personal fitness plan",
+                "fr": "Concevoir un plan de remise en forme personnel",
+                "mfe": "Fer ou prop plan fizik"
+              },
+              "objectives": [
+                "Set realistic short-term fitness goals",
+                "Create a weekly activity schedule",
+                "Evaluate progress towards personal goals"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Athletics skills and events",
+            "fr": "Compétences et épreuves d'athlétisme",
+            "mfe": "Konpetans ek lepev atletism"
+          },
+          "summary": {
+            "en": "Students develop technique in track and field events, focusing on running, jumping and throwing skills used in school competitions.",
+            "fr": "Les élèves développent leur technique dans les épreuves d'athlétisme, en se concentrant sur la course, le saut et le lancer utilisés dans les compétitions scolaires.",
+            "mfe": "Bann elev devlop teknik dan lepev atletism, konsantre lor kouri, sote ek lanse ki servi dan konpetision lekol."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Sprinting technique",
+                "fr": "Technique de sprint",
+                "mfe": "Teknik sprint"
+              },
+              "objectives": [
+                "Demonstrate correct starting position for sprints",
+                "Apply arm and leg drive techniques",
+                "Improve reaction time at the start signal"
+              ]
+            },
+            {
+              "title": {
+                "en": "Long jump and high jump basics",
+                "fr": "Bases du saut en longueur et en hauteur",
+                "mfe": "Baz saut longer ek saut oter"
+              },
+              "objectives": [
+                "Perform a basic approach run for jumping events",
+                "Demonstrate correct take-off technique",
+                "Land safely to avoid injury"
+              ]
+            },
+            {
+              "title": {
+                "en": "Throwing events introduction",
+                "fr": "Introduction aux épreuves de lancer",
+                "mfe": "Introdiksion bann lepev lanse"
+              },
+              "objectives": [
+                "Demonstrate safe handling of throwing equipment",
+                "Practise correct grip and release technique",
+                "Explain safety rules for throwing areas"
+              ]
+            },
+            {
+              "title": {
+                "en": "Relay running and baton change",
+                "fr": "Course de relais et passage du témoin",
+                "mfe": "Kouri relev ek pas baton"
+              },
+              "objectives": [
+                "Explain the rules of relay racing",
+                "Practise smooth baton exchange technique",
+                "Work as a team to improve relay time"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Invasion games: football and handball",
+            "fr": "Jeux d'invasion : football et handball",
+            "mfe": "Zwe lekip: football ek handball"
+          },
+          "summary": {
+            "en": "Students build tactical understanding and skills for invasion games, applying attacking and defending strategies in small-sided games.",
+            "fr": "Les élèves développent leur compréhension tactique et leurs compétences pour les jeux d'invasion, en appliquant des stratégies d'attaque et de défense.",
+            "mfe": "Bann elev devlop konpreansion taktik ek konpetans pou zwe lekip, applik strateji atak ek defans dan pti zwe."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Passing and receiving under pressure",
+                "fr": "Passer et recevoir sous pression",
+                "mfe": "Pas ek gagn balon dan presion"
+              },
+              "objectives": [
+                "Perform accurate passing with limited time and space",
+                "Move to create passing options",
+                "Communicate effectively with teammates"
+              ]
+            },
+            {
+              "title": {
+                "en": "Attacking strategies",
+                "fr": "Stratégies d'attaque",
+                "mfe": "Strateji atak"
+              },
+              "objectives": [
+                "Explain the concept of creating space",
+                "Apply simple attacking patterns in small games",
+                "Evaluate successful attacking plays"
+              ]
+            },
+            {
+              "title": {
+                "en": "Defending as a team",
+                "fr": "Défendre en équipe",
+                "mfe": "Defann kouma enn lekip"
+              },
+              "objectives": [
+                "Demonstrate marking and covering techniques",
+                "Apply pressing strategies in small-sided games",
+                "Communicate defensive roles with teammates"
+              ]
+            },
+            {
+              "title": {
+                "en": "Playing small-sided matches",
+                "fr": "Jouer des matchs réduits",
+                "mfe": "Zwe match redwi"
+              },
+              "objectives": [
+                "Apply learned skills in a game situation",
+                "Follow basic rules and officiating signals",
+                "Reflect on individual and team performance"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Net and court games",
+            "fr": "Jeux de filet et de terrain",
+            "mfe": "Zwe file ek teren"
+          },
+          "summary": {
+            "en": "Students refine skills in badminton and volleyball, learning rules, scoring and simple tactics for competitive play.",
+            "fr": "Les élèves affinent leurs compétences en badminton et en volley-ball, en apprenant les règles, le comptage des points et des tactiques simples.",
+            "mfe": "Bann elev amelior konpetans dan badminton ek volleyball, aprann bann regleman, kont pwin ek taktik senp."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Badminton serving and strokes",
+                "fr": "Service et coups au badminton",
+                "mfe": "Servis ek kout badminton"
+              },
+              "objectives": [
+                "Demonstrate correct serving technique",
+                "Perform basic strokes: clear, drop and smash",
+                "Apply scoring rules in a game"
+              ]
+            },
+            {
+              "title": {
+                "en": "Volleyball basic skills",
+                "fr": "Compétences de base au volley-ball",
+                "mfe": "Konpetans debaz volleyball"
+              },
+              "objectives": [
+                "Perform underarm and overhead passes",
+                "Demonstrate a basic serve",
+                "Explain rotation rules in volleyball"
+              ]
+            },
+            {
+              "title": {
+                "en": "Tactics for net games",
+                "fr": "Tactiques pour les jeux de filet",
+                "mfe": "Taktik pou zwe file"
+              },
+              "objectives": [
+                "Identify space to attack in net games",
+                "Apply simple positioning strategies",
+                "Evaluate opponent weaknesses during play"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mini-tournament participation",
+                "fr": "Participation à un mini-tournoi",
+                "mfe": "Partisip dan enn mini-tournwa"
+              },
+              "objectives": [
+                "Apply skills and tactics in competitive matches",
+                "Demonstrate fair play and sportsmanship",
+                "Officiate a simple match using correct rules"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Gymnastics and body movement",
+            "fr": "Gymnastique et mouvement corporel",
+            "mfe": "Zimnastik ek mouvman lekor"
+          },
+          "summary": {
+            "en": "Students explore balance, flexibility and coordination through gymnastics sequences performed individually and in groups.",
+            "fr": "Les élèves explorent l'équilibre, la souplesse et la coordination à travers des séquences de gymnastique individuelles et en groupe.",
+            "mfe": "Bann elev explor balans, souples ek kordinasion atraver sekans zimnastik individiel ek an group."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Balance and flexibility exercises",
+                "fr": "Exercices d'équilibre et de souplesse",
+                "mfe": "Lexersis balans ek souples"
+              },
+              "objectives": [
+                "Perform balance poses safely",
+                "Demonstrate stretching for flexibility",
+                "Explain the benefits of flexibility training"
+              ]
+            },
+            {
+              "title": {
+                "en": "Basic gymnastic movements",
+                "fr": "Mouvements de gymnastique de base",
+                "mfe": "Mouvman zimnastik debaz"
+              },
+              "objectives": [
+                "Perform a forward roll with correct technique",
+                "Demonstrate a cartwheel safely",
+                "Identify safety measures for gymnastics practice"
+              ]
+            },
+            {
+              "title": {
+                "en": "Creating a group sequence",
+                "fr": "Créer une séquence de groupe",
+                "mfe": "Kre enn sekans an group"
+              },
+              "objectives": [
+                "Combine movements into a short sequence",
+                "Collaborate with peers to synchronise movements",
+                "Present a sequence to the class"
+              ]
+            },
+            {
+              "title": {
+                "en": "Performance and feedback",
+                "fr": "Performance et retour d'expérience",
+                "mfe": "Perform ek retour lopinion"
+              },
+              "objectives": [
+                "Perform a gymnastic sequence for assessment",
+                "Give constructive feedback to peers",
+                "Reflect on personal performance for improvement"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Growth, development and safety",
+            "fr": "Croissance, développement et sécurité",
+            "mfe": "Krwasans, devlopman ek sekirite"
+          },
+          "summary": {
+            "en": "Students learn about physical changes during adolescence and how to stay safe while participating in sport and exercise.",
+            "fr": "Les élèves apprennent les changements physiques de l'adolescence et comment rester en sécurité lors du sport et de l'exercice.",
+            "mfe": "Bann elev aprann lor bann sanzman fizik pandan ladolesans ek kouma reste an sekirite pandan sport ek lexersis."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Body changes during adolescence",
+                "fr": "Changements corporels à l'adolescence",
+                "mfe": "Sanzman lekor pandan ladolesans"
+              },
+              "objectives": [
+                "Describe physical changes occurring during puberty",
+                "Explain how growth affects physical performance",
+                "Discuss the importance of self-acceptance during changes"
+              ]
+            },
+            {
+              "title": {
+                "en": "Warm-up and cool-down routines",
+                "fr": "Routines d'échauffement et de récupération",
+                "mfe": "Rutin eshofman ek rikiperasion"
+              },
+              "objectives": [
+                "Explain the purpose of warming up and cooling down",
+                "Design a simple warm-up routine",
+                "Apply stretching techniques safely after exercise"
+              ]
+            },
+            {
+              "title": {
+                "en": "Preventing sports injuries",
+                "fr": "Prévenir les blessures sportives",
+                "mfe": "Anpes blesir sportif"
+              },
+              "objectives": [
+                "Identify common causes of sports injuries",
+                "Describe basic first aid for minor injuries",
+                "Apply safety rules to reduce injury risk"
+              ]
+            },
+            {
+              "title": {
+                "en": "Nutrition and hydration for active students",
+                "fr": "Nutrition et hydratation pour élèves actifs",
+                "mfe": "Nitrision ek idratasion pou elev aktif"
+              },
+              "objectives": [
+                "Explain the role of nutrition in physical performance",
+                "Describe hydration needs during exercise",
+                "Plan a balanced meal for an active day"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Leisure, recreation and lifelong activity",
+            "fr": "Loisirs, récréation et activité physique à vie",
+            "mfe": "Lwazir, rekreasion ek aktivite pou lavi"
+          },
+          "summary": {
+            "en": "Students explore leisure activities available in Mauritius and consider how to remain physically active throughout life.",
+            "fr": "Les élèves explorent les activités de loisirs disponibles à Maurice et réfléchissent à comment rester actifs toute leur vie.",
+            "mfe": "Bann elev explor bann aktivite lwazir disponib Moris ek reflesi lor kouma reste aktif pandan tou lavi."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Leisure activities in Mauritius",
+                "fr": "Activités de loisirs à Maurice",
+                "mfe": "Aktivite lwazir Moris"
+              },
+              "objectives": [
+                "Identify popular leisure activities in Mauritius",
+                "Discuss benefits of outdoor recreation",
+                "Compare traditional and modern leisure activities"
+              ]
+            },
+            {
+              "title": {
+                "en": "Water safety and swimming basics",
+                "fr": "Sécurité aquatique et bases de la natation",
+                "mfe": "Sekirite dilo ek baz naz"
+              },
+              "objectives": [
+                "Explain water safety rules for beaches and pools",
+                "Describe basic swimming strokes",
+                "Discuss the importance of supervision near water"
+              ]
+            },
+            {
+              "title": {
+                "en": "Physical activity beyond school",
+                "fr": "Activité physique en dehors de l'école",
+                "mfe": "Aktivite fizik andeor lekol"
+              },
+              "objectives": [
+                "Identify community sports clubs and facilities",
+                "Explain benefits of joining organised physical activities",
+                "Set a personal goal for lifelong activity"
+              ]
+            },
+            {
+              "title": {
+                "en": "Reflecting on a healthy active lifestyle",
+                "fr": "Réflexion sur un mode de vie sain et actif",
+                "mfe": "Reflesi lor enn lifestyle ansante ek aktif"
+              },
+              "objectives": [
+                "Summarise key learning from the unit",
+                "Evaluate personal habits related to physical activity",
+                "Create an action plan for staying active"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "units": [
+        {
+          "title": {
+            "en": "The skeletal system",
+            "fr": "Le système squelettique",
+            "mfe": "Sistem lezo"
+          },
+          "summary": {
+            "en": "Students explore the structure and functions of the skeleton, types of bones and joints, and how these relate to movement in sport.",
+            "fr": "Les élèves explorent la structure et les fonctions du squelette, les types d'os et d'articulations, et leur lien avec le mouvement sportif.",
+            "mfe": "Elev examine striktir ek fonksion lezo, diferan tip lezo ek zwenti, ek kouma sa relye ar mouvman dan sport."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Functions of the skeleton",
+                "fr": "Les fonctions du squelette",
+                "mfe": "Fonksion lezo"
+              },
+              "objectives": [
+                "Identify the main functions of the human skeleton",
+                "Explain how the skeleton supports sporting movement",
+                "Relate skeletal functions to Mauritian sports examples"
+              ]
+            },
+            {
+              "title": {
+                "en": "Classification of bones",
+                "fr": "La classification des os",
+                "mfe": "Klasifikasion lezo"
+              },
+              "objectives": [
+                "Classify bones by shape and type",
+                "Describe examples of long, short, flat and irregular bones",
+                "Link bone types to specific movements in sport"
+              ]
+            },
+            {
+              "title": {
+                "en": "Types of joints and movement",
+                "fr": "Types d'articulations et mouvement",
+                "mfe": "Tip zwenti ek mouvman"
+              },
+              "objectives": [
+                "Identify major joint types used in sport",
+                "Describe movements possible at each joint",
+                "Analyse joint actions in selected sporting skills"
+              ]
+            },
+            {
+              "title": {
+                "en": "Joint structure and stability",
+                "fr": "Structure et stabilité des articulations",
+                "mfe": "Striktir ek stabilite zwenti"
+              },
+              "objectives": [
+                "Describe the structure of a synovial joint",
+                "Explain the role of ligaments and cartilage",
+                "Discuss joint injuries common in sport"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "The muscular system",
+            "fr": "Le système musculaire",
+            "mfe": "Sistem miskilo"
+          },
+          "summary": {
+            "en": "Students study major muscles, muscle contraction types and how muscles work together to produce sporting movement.",
+            "fr": "Les élèves étudient les principaux muscles, les types de contraction musculaire et leur coopération pour produire le mouvement sportif.",
+            "mfe": "Elev etidie prensipal miskilo, tip kontraksion miskilo ek kouma zot travay ansam pou fer mouvman dan sport."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Major muscles used in sport",
+                "fr": "Les principaux muscles utilisés en sport",
+                "mfe": "Prensipal miskilo dan sport"
+              },
+              "objectives": [
+                "Name and locate major skeletal muscles",
+                "Identify which muscles are used in common sporting actions",
+                "Relate muscle location to specific movements"
+              ]
+            },
+            {
+              "title": {
+                "en": "Types of muscle contraction",
+                "fr": "Types de contraction musculaire",
+                "mfe": "Tip kontraksion miskilo"
+              },
+              "objectives": [
+                "Distinguish between isotonic and isometric contractions",
+                "Differentiate concentric and eccentric contractions",
+                "Apply contraction types to sporting examples"
+              ]
+            },
+            {
+              "title": {
+                "en": "Antagonistic muscle pairs",
+                "fr": "Paires musculaires antagonistes",
+                "mfe": "Per miskilo antagonist"
+              },
+              "objectives": [
+                "Explain the concept of agonist and antagonist muscles",
+                "Identify antagonistic pairs during common movements",
+                "Analyse a sporting action using muscle pairs"
+              ]
+            },
+            {
+              "title": {
+                "en": "Fast and slow twitch fibres",
+                "fr": "Fibres musculaires rapides et lentes",
+                "mfe": "Fib miskilo rapid ek lan"
+              },
+              "objectives": [
+                "Describe characteristics of fast and slow twitch fibres",
+                "Relate fibre types to different sporting events",
+                "Discuss training implications of fibre type"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Cardiovascular and respiratory systems",
+            "fr": "Systèmes cardiovasculaire et respiratoire",
+            "mfe": "Sistem kardiovaskiler ek respiratwar"
+          },
+          "summary": {
+            "en": "This unit covers the structure and function of the heart, blood vessels and lungs, and how they respond to exercise.",
+            "fr": "Cette unité couvre la structure et la fonction du cœur, des vaisseaux sanguins et des poumons, et leur réponse à l'exercice.",
+            "mfe": "Sa liniter la kouver striktir ek fonksion leker, vesso sangen ek poumon, ek kouma zot reponn a lexersis."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Structure of the heart",
+                "fr": "Structure du cœur",
+                "mfe": "Striktir leker"
+              },
+              "objectives": [
+                "Label the main parts of the heart",
+                "Explain the pathway of blood through the heart",
+                "Relate heart structure to its function"
+              ]
+            },
+            {
+              "title": {
+                "en": "The cardiac cycle and heart rate",
+                "fr": "Le cycle cardiaque et la fréquence cardiaque",
+                "mfe": "Sikel kardiak ek fer batman leker"
+              },
+              "objectives": [
+                "Describe the phases of the cardiac cycle",
+                "Explain how heart rate changes during exercise",
+                "Interpret heart rate data from physical activity"
+              ]
+            },
+            {
+              "title": {
+                "en": "Blood vessels and circulation",
+                "fr": "Vaisseaux sanguins et circulation",
+                "mfe": "Vesso sangen ek sirkilasion"
+              },
+              "objectives": [
+                "Differentiate arteries, veins and capillaries",
+                "Describe pulmonary and systemic circulation",
+                "Explain redistribution of blood during exercise"
+              ]
+            },
+            {
+              "title": {
+                "en": "The respiratory system and gas exchange",
+                "fr": "Le système respiratoire et les échanges gazeux",
+                "mfe": "Sistem respiratwar ek lesanz gaz"
+              },
+              "objectives": [
+                "Identify structures of the respiratory system",
+                "Explain the mechanics of breathing",
+                "Describe gas exchange at the alveoli during exercise"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Movement analysis",
+            "fr": "Analyse du mouvement",
+            "mfe": "Analiz mouvman"
+          },
+          "summary": {
+            "en": "Students learn to analyse sporting movements using lever systems, planes and axes of movement.",
+            "fr": "Les élèves apprennent à analyser les mouvements sportifs à l'aide des systèmes de leviers, des plans et des axes de mouvement.",
+            "mfe": "Elev aprann analiz mouvman sportif atraver sistem levie, plan ek aks mouvman."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Lever systems in the body",
+                "fr": "Les systèmes de leviers dans le corps",
+                "mfe": "Sistem levie dan lekor"
+              },
+              "objectives": [
+                "Define fulcrum, load and effort in a lever system",
+                "Identify first, second and third class levers in the body",
+                "Give sporting examples of each lever class"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mechanical advantage in sport",
+                "fr": "L'avantage mécanique en sport",
+                "mfe": "Avantaz mekanik dan sport"
+              },
+              "objectives": [
+                "Explain the concept of mechanical advantage",
+                "Compare levers for force and speed movements",
+                "Apply lever analysis to a chosen sporting skill"
+              ]
+            },
+            {
+              "title": {
+                "en": "Planes and axes of movement",
+                "fr": "Plans et axes de mouvement",
+                "mfe": "Plan ek aks mouvman"
+              },
+              "objectives": [
+                "Identify the three planes of movement",
+                "Identify the three axes of rotation",
+                "Relate planes and axes to specific sporting actions"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Components of physical fitness",
+            "fr": "Composantes de la condition physique",
+            "mfe": "Konpozan kondisyon fizik"
+          },
+          "summary": {
+            "en": "This unit introduces health-related and skill-related components of fitness and methods to measure them.",
+            "fr": "Cette unité introduit les composantes de la condition physique liées à la santé et aux compétences, ainsi que leurs méthodes de mesure.",
+            "mfe": "Sa liniter la introdir konpozan kondisyon fizik lie ar lasante ek konpetans, ek metod pou mezir zot."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Health-related fitness components",
+                "fr": "Composantes de la condition physique liées à la santé",
+                "mfe": "Konpozan fitnes lie ar lasante"
+              },
+              "objectives": [
+                "Define components such as strength, endurance and flexibility",
+                "Explain the importance of each component for health",
+                "Identify sports requiring specific components"
+              ]
+            },
+            {
+              "title": {
+                "en": "Skill-related fitness components",
+                "fr": "Composantes de la condition physique liées aux compétences",
+                "mfe": "Konpozan fitnes lie ar konpetans"
+              },
+              "objectives": [
+                "Define components such as agility, balance and coordination",
+                "Give examples of sports relying on each component",
+                "Distinguish health-related from skill-related components"
+              ]
+            },
+            {
+              "title": {
+                "en": "Fitness testing methods",
+                "fr": "Méthodes de test de condition physique",
+                "mfe": "Metod test fitnes"
+              },
+              "objectives": [
+                "Describe standard tests for each fitness component",
+                "Explain how to conduct a fitness test safely",
+                "Interpret results from fitness test data"
+              ]
+            },
+            {
+              "title": {
+                "en": "Evaluating fitness test data",
+                "fr": "Évaluer les données des tests de condition physique",
+                "mfe": "Evalie done test fitnes"
+              },
+              "objectives": [
+                "Compare fitness test results to normative data",
+                "Identify strengths and weaknesses from results",
+                "Suggest training focus areas based on data"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Training methods and principles",
+            "fr": "Méthodes et principes d'entraînement",
+            "mfe": "Metod ek prensip lantrennman"
+          },
+          "summary": {
+            "en": "Students examine different training methods and the principles of training used to improve performance safely.",
+            "fr": "Les élèves examinent différentes méthodes d'entraînement et les principes utilisés pour améliorer la performance en toute sécurité.",
+            "mfe": "Elev examine diferan metod lantrennman ek prensip lantrennman servi pou ameliyor perfomans an sekirite."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Types of training methods",
+                "fr": "Types de méthodes d'entraînement",
+                "mfe": "Tip metod lantrennman"
+              },
+              "objectives": [
+                "Describe continuous, interval, circuit and weight training",
+                "Match training methods to fitness components",
+                "Evaluate suitability of methods for different sports"
+              ]
+            },
+            {
+              "title": {
+                "en": "Principles of training (FITT)",
+                "fr": "Principes d'entraînement (FITT)",
+                "mfe": "Prensip lantrennman (FITT)"
+              },
+              "objectives": [
+                "Explain frequency, intensity, time and type",
+                "Apply FITT principles to design a training session",
+                "Adjust FITT variables for progression"
+              ]
+            },
+            {
+              "title": {
+                "en": "Principles of overload and specificity",
+                "fr": "Principes de surcharge et de spécificité",
+                "mfe": "Prensip sirsarz ek spesifisite"
+              },
+              "objectives": [
+                "Define overload, progression and specificity",
+                "Explain reversibility and its effects on fitness",
+                "Apply principles to a training programme example"
+              ]
+            },
+            {
+              "title": {
+                "en": "Safety in training and injury prevention",
+                "fr": "Sécurité à l'entraînement et prévention des blessures",
+                "mfe": "Sekirite dan lantrennman ek prevansion blesir"
+              },
+              "objectives": [
+                "Identify common sporting injuries and their causes",
+                "Describe warm-up and cool-down procedures",
+                "Explain safety precautions during training sessions"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Diet, nutrition and performance",
+            "fr": "Alimentation, nutrition et performance",
+            "mfe": "Rezim, nitrision ek perfomans"
+          },
+          "summary": {
+            "en": "This unit looks at the role of nutrients, hydration and diet planning in supporting sporting performance and recovery.",
+            "fr": "Cette unité examine le rôle des nutriments, de l'hydratation et de la planification alimentaire dans la performance et la récupération sportives.",
+            "mfe": "Sa liniter la gete rol nitriman, ideratasion ek planifikasion rezim pou soutenir perfomans sportif ek rekiperasion."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Macronutrients and micronutrients",
+                "fr": "Macronutriments et micronutriments",
+                "mfe": "Makronitriman ek mikronitriman"
+              },
+              "objectives": [
+                "Identify the main macronutrients and micronutrients",
+                "Explain the role of each nutrient in the body",
+                "Relate nutrient needs to different sports"
+              ]
+            },
+            {
+              "title": {
+                "en": "Hydration and performance",
+                "fr": "Hydratation et performance",
+                "mfe": "Ideratasion ek perfomans"
+              },
+              "objectives": [
+                "Explain the importance of hydration during exercise",
+                "Describe effects of dehydration on performance",
+                "Suggest hydration strategies for athletes"
+              ]
+            },
+            {
+              "title": {
+                "en": "Diet planning for athletes",
+                "fr": "Planification alimentaire pour les athlètes",
+                "mfe": "Planifikasion rezim pou atlet"
+              },
+              "objectives": [
+                "Explain how diet needs vary by sport and body type",
+                "Plan a balanced diet using Mauritian food examples",
+                "Evaluate a sample athlete's diet plan"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Participation and sport in society",
+            "fr": "Participation et le sport dans la société",
+            "mfe": "Partisipasion ek sport dan lasosiete"
+          },
+          "summary": {
+            "en": "Students explore reasons for participation, factors affecting access to sport, and the influence of media and technology on sport.",
+            "fr": "Les élèves explorent les raisons de la participation, les facteurs affectant l'accès au sport, et l'influence des médias et de la technologie sur le sport.",
+            "mfe": "Elev explor rezon partisipasion, fakter ki afekte lakse a sport, ek lenfliyans media ek teknolozi lor sport."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Benefits of participation in sport",
+                "fr": "Bienfaits de la participation sportive",
+                "mfe": "Bienfe partisipasion dan sport"
+              },
+              "objectives": [
+                "Explain physical, social and mental benefits of sport",
+                "Relate benefits to lifelong participation",
+                "Discuss barriers to participation in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Opportunities and provision for sport",
+                "fr": "Opportunités et infrastructures sportives",
+                "mfe": "Loportinite ek enfrastriktir sportif"
+              },
+              "objectives": [
+                "Identify factors affecting opportunity to take part in sport",
+                "Describe local provision for sport in Mauritius",
+                "Suggest ways to improve access to sport"
+              ]
+            },
+            {
+              "title": {
+                "en": "Media, sponsorship and sport",
+                "fr": "Médias, parrainage et sport",
+                "mfe": "Media, esponsorin ek sport"
+              },
+              "objectives": [
+                "Explain the relationship between media and sport",
+                "Discuss the role of sponsorship in sport",
+                "Evaluate positive and negative media influences on athletes"
+              ]
+            },
+            {
+              "title": {
+                "en": "Technology and ethics in sport",
+                "fr": "Technologie et éthique dans le sport",
+                "mfe": "Teknolozi ek letik dan sport"
+              },
+              "objectives": [
+                "Describe uses of technology to improve performance",
+                "Discuss ethical issues such as doping in sport",
+                "Evaluate the impact of technology on fairness in sport"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "11": {
+      "units": [
+        {
+          "title": {
+            "en": "Applied anatomy and physiology",
+            "fr": "Anatomie et physiologie appliquées",
+            "mfe": "Anatomi ek fizyoloji aplike"
+          },
+          "summary": {
+            "en": "Explore how the skeletal, muscular, cardiovascular and respiratory systems work together to enable movement and exercise performance.",
+            "fr": "Découvrir comment les systèmes squelettique, musculaire, cardiovasculaire et respiratoire fonctionnent ensemble pour permettre le mouvement et la performance sportive.",
+            "mfe": "Explor kouma sistem skwelet, miskilar, kardyovaskiler ek respiratwar travay ansam pou permet mouvman ek performans sportif."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Bones, joints and movement",
+                "fr": "Os, articulations et mouvement",
+                "mfe": "Zo, lartikilasyon ek mouvman"
+              },
+              "objectives": [
+                "Identify the major bones and joints used in sporting movements",
+                "Classify joint types and their range of movement",
+                "Explain the role of the skeleton in supporting physical activity"
+              ]
+            },
+            {
+              "title": {
+                "en": "Muscles and muscle contraction",
+                "fr": "Muscles et contraction musculaire",
+                "mfe": "Miskle ek kontraksyon miskiler"
+              },
+              "objectives": [
+                "Name the major muscles used in common sporting actions",
+                "Describe how muscles work in antagonistic pairs",
+                "Explain types of muscle contraction during exercise"
+              ]
+            },
+            {
+              "title": {
+                "en": "The cardiovascular system in exercise",
+                "fr": "Le système cardiovasculaire à l'effort",
+                "mfe": "Sistem kardyovaskiler pandan lexersis"
+              },
+              "objectives": [
+                "Describe the structure and function of the heart during exercise",
+                "Explain how heart rate changes with intensity of activity",
+                "Analyse the redistribution of blood flow during exercise"
+              ]
+            },
+            {
+              "title": {
+                "en": "The respiratory system and gaseous exchange",
+                "fr": "Le système respiratoire et les échanges gazeux",
+                "mfe": "Sistem respiratwar ek lesanz gaze"
+              },
+              "objectives": [
+                "Describe the mechanics of breathing during exercise",
+                "Explain gaseous exchange at the alveoli",
+                "Compare breathing rates at rest and during exercise"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Movement analysis",
+            "fr": "Analyse du mouvement",
+            "mfe": "Lanaliz mouvman"
+          },
+          "summary": {
+            "en": "Apply concepts of levers, planes and axes to analyse sporting techniques and improve performance.",
+            "fr": "Appliquer les concepts de leviers, de plans et d'axes pour analyser les techniques sportives et améliorer la performance.",
+            "mfe": "Aplik konsep levye, plan ek aks pou analiz teknik sportif ek ameliyor performans."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Levers in sporting actions",
+                "fr": "Les leviers dans les actions sportives",
+                "mfe": "Levye dan aksyon sportif"
+              },
+              "objectives": [
+                "Identify the three classes of levers in the human body",
+                "Give sporting examples of each lever class",
+                "Explain mechanical advantage in sporting movements"
+              ]
+            },
+            {
+              "title": {
+                "en": "Planes and axes of movement",
+                "fr": "Plans et axes de mouvement",
+                "mfe": "Plan ek aks mouvman"
+              },
+              "objectives": [
+                "Define the sagittal, frontal and transverse planes",
+                "Link planes of movement to axes of rotation",
+                "Apply planes and axes to describe sporting techniques"
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysing sporting technique",
+                "fr": "Analyser la technique sportive",
+                "mfe": "Analiz teknik sportif"
+              },
+              "objectives": [
+                "Break down a sporting skill into phases of movement",
+                "Use movement analysis to identify technical errors",
+                "Suggest improvements based on movement analysis"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Principles and methods of training",
+            "fr": "Principes et méthodes d'entraînement",
+            "mfe": "Prensip ek metod lantrennman"
+          },
+          "summary": {
+            "en": "Learn how training principles and different training methods are used to improve components of fitness.",
+            "fr": "Apprendre comment les principes d'entraînement et différentes méthodes sont utilisés pour améliorer les composantes de la condition physique.",
+            "mfe": "Aprann kouma prensip lantrennman ek diferan metod lantrennman servi pou ameliyor bann konpozan fitnes."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Components of fitness",
+                "fr": "Composantes de la condition physique",
+                "mfe": "Konpozan fitnes"
+              },
+              "objectives": [
+                "Define the components of physical and skill-related fitness",
+                "Give sporting examples for each fitness component",
+                "Identify which components are important for specific sports"
+              ]
+            },
+            {
+              "title": {
+                "en": "Principles of training",
+                "fr": "Principes d'entraînement",
+                "mfe": "Prensip lantrennman"
+              },
+              "objectives": [
+                "Explain the principles of specificity, overload, progression and reversibility",
+                "Apply the FITT principle to a training programme",
+                "Justify how principles guide safe training design"
+              ]
+            },
+            {
+              "title": {
+                "en": "Methods of training",
+                "fr": "Méthodes d'entraînement",
+                "mfe": "Metod lantrennman"
+              },
+              "objectives": [
+                "Describe continuous, interval, circuit, fartlek and weight training",
+                "Match training methods to fitness components they develop",
+                "Evaluate the suitability of methods for different sports"
+              ]
+            },
+            {
+              "title": {
+                "en": "Fitness testing and evaluation",
+                "fr": "Tests de condition physique et évaluation",
+                "mfe": "Test fitnes ek levalyasyon"
+              },
+              "objectives": [
+                "Describe common fitness tests for each fitness component",
+                "Evaluate the validity and reliability of fitness tests",
+                "Use fitness test results to plan a training programme"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Health, fitness and wellbeing",
+            "fr": "Santé, forme et bien-être",
+            "mfe": "Lasante, fitnes ek byennet"
+          },
+          "summary": {
+            "en": "Understand the relationship between diet, health, injury prevention and long-term physical wellbeing.",
+            "fr": "Comprendre la relation entre l'alimentation, la santé, la prévention des blessures et le bien-être physique à long terme.",
+            "mfe": "Konpran relasyon ant nourritir, lasante, prevansyon blesir ek byennet fizik lontan."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Diet and nutrition for performance",
+                "fr": "Alimentation et nutrition pour la performance",
+                "mfe": "Nourritir ek nitrisyon pou performans"
+              },
+              "objectives": [
+                "Identify the components of a balanced diet",
+                "Explain the role of macronutrients in exercise performance",
+                "Apply nutrition knowledge to plan a sportsperson's diet"
+              ]
+            },
+            {
+              "title": {
+                "en": "Preventing sports injuries",
+                "fr": "Prévenir les blessures sportives",
+                "mfe": "Anpes blesir sportif"
+              },
+              "objectives": [
+                "Identify common causes of sports injuries",
+                "Describe methods to prevent injury during activity",
+                "Explain basic first aid response for common injuries"
+              ]
+            },
+            {
+              "title": {
+                "en": "Drugs and performance-enhancing substances",
+                "fr": "Drogues et substances dopantes",
+                "mfe": "Drog ek sibstans dopan"
+              },
+              "objectives": [
+                "Identify categories of performance-enhancing drugs",
+                "Explain the risks associated with drug misuse in sport",
+                "Discuss ethical issues surrounding drug use in sport"
+              ]
+            },
+            {
+              "title": {
+                "en": "Health, exercise and wellbeing",
+                "fr": "Santé, exercice et bien-être",
+                "mfe": "Lasante, lexersis ek byennet"
+              },
+              "objectives": [
+                "Distinguish between health, fitness and exercise",
+                "Explain the benefits of regular exercise on wellbeing",
+                "Evaluate lifestyle factors affecting long-term health"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Skill acquisition and learning",
+            "fr": "Acquisition des compétences et apprentissage",
+            "mfe": "Akizisyon konpetans ek laprantisaz"
+          },
+          "summary": {
+            "en": "Examine how skills are classified, learned and refined through practice, guidance and feedback.",
+            "fr": "Examiner comment les habiletés sont classées, apprises et perfectionnées grâce à la pratique, aux conseils et au feedback.",
+            "mfe": "Examinn kouma konpetans klasifye, aprann ek amelyore atraver pratik, gidans ek feedback."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Classifying skills",
+                "fr": "Classer les habiletés",
+                "mfe": "Klasifye konpetans"
+              },
+              "objectives": [
+                "Define what is meant by a skill in sport",
+                "Classify skills using continua such as open-closed and simple-complex",
+                "Give sporting examples for each classification"
+              ]
+            },
+            {
+              "title": {
+                "en": "Stages of learning",
+                "fr": "Étapes de l'apprentissage",
+                "mfe": "Letap laprantisaz"
+              },
+              "objectives": [
+                "Describe the cognitive, associative and autonomous stages of learning",
+                "Identify characteristics of a performer at each stage",
+                "Explain how coaching should adapt to each stage"
+              ]
+            },
+            {
+              "title": {
+                "en": "Guidance and feedback",
+                "fr": "Conseils et feedback",
+                "mfe": "Gidans ek feedback"
+              },
+              "objectives": [
+                "Compare types of guidance used in teaching skills",
+                "Explain the role of feedback in skill development",
+                "Evaluate which guidance and feedback suit different learners"
+              ]
+            },
+            {
+              "title": {
+                "en": "Practice structures",
+                "fr": "Structures de pratique",
+                "mfe": "Striktir pratik"
+              },
+              "objectives": [
+                "Compare massed, distributed and variable practice",
+                "Explain how practice structure affects skill learning",
+                "Recommend appropriate practice methods for given skills"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Sports psychology and performance",
+            "fr": "Psychologie du sport et performance",
+            "mfe": "Sikoloji sportif ek performans"
+          },
+          "summary": {
+            "en": "Investigate psychological factors such as motivation, arousal and personality that influence sporting performance.",
+            "fr": "Étudier les facteurs psychologiques tels que la motivation, l'excitation et la personnalité qui influencent la performance sportive.",
+            "mfe": "Etidye bann fakter sikolozik kouma motivasyon, arousal ek personalite ki enfliyans performans sportif."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Motivation in sport",
+                "fr": "La motivation dans le sport",
+                "mfe": "Motivasyon dan sport"
+              },
+              "objectives": [
+                "Distinguish between intrinsic and extrinsic motivation",
+                "Explain how motivation affects sporting performance",
+                "Suggest strategies to increase a performer's motivation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Arousal and anxiety",
+                "fr": "Excitation et anxiété",
+                "mfe": "Arousal ek lansyete"
+              },
+              "objectives": [
+                "Explain the inverted-U theory of arousal",
+                "Identify symptoms of anxiety in sporting situations",
+                "Suggest techniques to control arousal levels"
+              ]
+            },
+            {
+              "title": {
+                "en": "Personality and aggression",
+                "fr": "Personnalité et agressivité",
+                "mfe": "Personalite ek agresyon"
+              },
+              "objectives": [
+                "Describe theories of personality relevant to sport",
+                "Distinguish between assertive behaviour and aggression",
+                "Discuss factors that cause aggression in sport"
+              ]
+            },
+            {
+              "title": {
+                "en": "Goal setting for performance",
+                "fr": "Fixation d'objectifs pour la performance",
+                "mfe": "Fikse lobzektif pou performans"
+              },
+              "objectives": [
+                "Explain the purpose of goal setting in sport",
+                "Apply SMART targets to a sporting example",
+                "Evaluate the effectiveness of goal setting on motivation"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Socio-cultural influences on sport",
+            "fr": "Influences socioculturelles sur le sport",
+            "mfe": "Lenfliyans sosyokiltirel lor sport"
+          },
+          "summary": {
+            "en": "Consider social, cultural and economic factors that affect participation and provision of sport in Mauritius and beyond.",
+            "fr": "Considérer les facteurs sociaux, culturels et économiques qui affectent la participation et l'offre sportive à Maurice et ailleurs.",
+            "mfe": "Konsider fakter sosyal, kiltirel ek ekonomik ki afekte partisipasyon ek lofer sport dan Moris ek aylaris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Factors affecting participation",
+                "fr": "Facteurs affectant la participation",
+                "mfe": "Fakter ki afekte partisipasyon"
+              },
+              "objectives": [
+                "Identify factors that affect participation in physical activity",
+                "Explain barriers faced by different groups in Mauritius",
+                "Suggest strategies to increase participation in sport"
+              ]
+            },
+            {
+              "title": {
+                "en": "Media and sponsorship in sport",
+                "fr": "Médias et parrainage dans le sport",
+                "mfe": "Media ek sponsorship dan sport"
+              },
+              "objectives": [
+                "Explain the relationship between sport, media and sponsorship",
+                "Discuss positive and negative effects of media coverage",
+                "Evaluate the impact of sponsorship on sport development"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sport for all and equal opportunities",
+                "fr": "Le sport pour tous et l'égalité des chances",
+                "mfe": "Sport pou tou dimoun ek egalite chans"
+              },
+              "objectives": [
+                "Explain the concept of sport for all",
+                "Discuss initiatives promoting equal opportunities in sport",
+                "Evaluate the role of schools and community in promoting sport"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Using data to evaluate performance",
+            "fr": "Utiliser les données pour évaluer la performance",
+            "mfe": "Servi done pou evalye performans"
+          },
+          "summary": {
+            "en": "Develop skills to collect, interpret and use performance data to improve training and competitive outcomes.",
+            "fr": "Développer des compétences pour collecter, interpréter et utiliser des données de performance afin d'améliorer l'entraînement et les résultats compétitifs.",
+            "mfe": "Devlop konpetans pou kolekte, entèprete ek servi done performans pou ameliyor lantrennman ek rezilta konpetitif."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Collecting performance data",
+                "fr": "Collecter des données de performance",
+                "mfe": "Kolekte done performans"
+              },
+              "objectives": [
+                "Identify methods used to collect data on sporting performance",
+                "Distinguish between qualitative and quantitative data",
+                "Explain the importance of accurate data collection"
+              ]
+            },
+            {
+              "title": {
+                "en": "Interpreting and presenting data",
+                "fr": "Interpréter et présenter les données",
+                "mfe": "Entèprete ek prezant done"
+              },
+              "objectives": [
+                "Present performance data using appropriate graphs and tables",
+                "Interpret trends and patterns in performance data",
+                "Draw conclusions from data to inform training decisions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Using data to plan improvement",
+                "fr": "Utiliser les données pour planifier des améliorations",
+                "mfe": "Servi done pou planifye lamelyorasyon"
+              },
+              "objectives": [
+                "Use performance data to set realistic training targets",
+                "Evaluate a training programme using collected data",
+                "Recommend adjustments to training based on data analysis"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "12": {
+      "units": [
+        {
+          "title": {
+            "en": "Skeletal and muscular systems",
+            "fr": "Systèmes squelettique et musculaire",
+            "mfe": "Sistem lezo ek miskil"
+          },
+          "summary": {
+            "en": "Study the structure and function of the skeletal and muscular systems and how they enable movement during physical activity.",
+            "fr": "Étudier la structure et la fonction des systèmes squelettique et musculaire et leur rôle dans le mouvement lors de l'activité physique.",
+            "mfe": "Etidie striktir ek fonksion sistem lezo ek miskil ek kouma zot permet mouvman pandan lekzersis fizik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Classification of bones and joints",
+                "fr": "Classification des os et des articulations",
+                "mfe": "Klasifikasion lezo ek lartikilasion"
+              },
+              "objectives": [
+                "Identify major bones used in sporting movements",
+                "Classify joints by type and range of movement",
+                "Explain the role of joints in producing movement"
+              ]
+            },
+            {
+              "title": {
+                "en": "Types of joint movement",
+                "fr": "Types de mouvements articulaires",
+                "mfe": "Diferan tip mouvman lartikilasion"
+              },
+              "objectives": [
+                "Describe flexion, extension, abduction and adduction",
+                "Apply movement analysis to sporting actions",
+                "Link joint actions to muscle groups involved"
+              ]
+            },
+            {
+              "title": {
+                "en": "Muscle types and structure",
+                "fr": "Types et structure des muscles",
+                "mfe": "Tip ek striktir miskil"
+              },
+              "objectives": [
+                "Distinguish between skeletal, cardiac and smooth muscle",
+                "Describe the structure of a skeletal muscle fibre",
+                "Explain the sliding filament theory"
+              ]
+            },
+            {
+              "title": {
+                "en": "Muscle fibre types and performance",
+                "fr": "Types de fibres musculaires et performance",
+                "mfe": "Tip fib miskil ek performans"
+              },
+              "objectives": [
+                "Compare slow and fast twitch fibres",
+                "Relate fibre type to sporting events",
+                "Analyse training implications of fibre composition"
+              ]
+            },
+            {
+              "title": {
+                "en": "Muscles working during movement",
+                "fr": "Fonctionnement musculaire lors du mouvement",
+                "mfe": "Miskil ki travay pandan mouvman"
+              },
+              "objectives": [
+                "Explain agonist and antagonist muscle roles",
+                "Describe types of muscle contraction",
+                "Analyse muscle action in selected sports skills"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Cardiorespiratory system and exercise",
+            "fr": "Système cardiorespiratoire et exercice",
+            "mfe": "Sistem kardio-respiratwar ek lekzersis"
+          },
+          "summary": {
+            "en": "Examine how the heart, blood vessels and lungs respond and adapt to exercise demands.",
+            "fr": "Examiner comment le cœur, les vaisseaux sanguins et les poumons réagissent et s'adaptent à l'effort physique.",
+            "mfe": "Egzamine kouma leker, vezo sang ek poumon reazir ek adapte ar bezwin lekzersis."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Structure of the heart and circulation",
+                "fr": "Structure du cœur et de la circulation",
+                "mfe": "Striktir leker ek sirkilasion"
+              },
+              "objectives": [
+                "Describe the structure of the heart",
+                "Explain pulmonary and systemic circulation",
+                "Trace the pathway of blood through the body"
+              ]
+            },
+            {
+              "title": {
+                "en": "Cardiac cycle and cardiac output",
+                "fr": "Cycle cardiaque et débit cardiaque",
+                "mfe": "Sik kardiak ek debi kardiak"
+              },
+              "objectives": [
+                "Explain the phases of the cardiac cycle",
+                "Calculate cardiac output from heart rate and stroke volume",
+                "Analyse cardiovascular responses to exercise"
+              ]
+            },
+            {
+              "title": {
+                "en": "Respiratory system and gas exchange",
+                "fr": "Système respiratoire et échanges gazeux",
+                "mfe": "Sistem respiratwar ek lesanz gaz"
+              },
+              "objectives": [
+                "Describe the mechanics of breathing",
+                "Explain gaseous exchange at the alveoli",
+                "Relate lung volumes to exercise intensity"
+              ]
+            },
+            {
+              "title": {
+                "en": "Cardiovascular and respiratory adaptations to training",
+                "fr": "Adaptations cardiovasculaires et respiratoires à l'entraînement",
+                "mfe": "Adaptasion kardiovaskiler ek respiratwar avek lantrennman"
+              },
+              "objectives": [
+                "Explain long-term training adaptations of the heart and lungs",
+                "Discuss benefits of adaptations for performance",
+                "Evaluate methods of measuring fitness improvements"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Energy systems and nutrition",
+            "fr": "Systèmes énergétiques et nutrition",
+            "mfe": "Sistem lenerzi ek nitrision"
+          },
+          "summary": {
+            "en": "Explore how the body produces energy for exercise and the role of nutrition in supporting performance.",
+            "fr": "Explorer comment le corps produit de l'énergie pour l'exercice et le rôle de la nutrition dans la performance.",
+            "mfe": "Explor kouma lekor prodir lenerzi pou lekzersis ek rol nitrision dan performans."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "ATP and energy production",
+                "fr": "ATP et production d'énergie",
+                "mfe": "ATP ek prodiksion lenerzi"
+              },
+              "objectives": [
+                "Explain the role of ATP in muscle contraction",
+                "Describe the ATP-PC system",
+                "Identify activities relying on the ATP-PC system"
+              ]
+            },
+            {
+              "title": {
+                "en": "Aerobic and anaerobic systems",
+                "fr": "Systèmes aérobie et anaérobie",
+                "mfe": "Sistem aerobik ek anaerobik"
+              },
+              "objectives": [
+                "Compare the glycolytic and oxidative energy systems",
+                "Explain the concept of EPOC",
+                "Relate energy systems to different sporting events"
+              ]
+            },
+            {
+              "title": {
+                "en": "Nutrition for performance",
+                "fr": "Nutrition pour la performance",
+                "mfe": "Nitrision pou performans"
+              },
+              "objectives": [
+                "Identify macronutrients and their roles in exercise",
+                "Explain hydration needs for athletes",
+                "Analyse dietary needs for Mauritian athletes in different sports"
+              ]
+            },
+            {
+              "title": {
+                "en": "Diet planning and body composition",
+                "fr": "Planification alimentaire et composition corporelle",
+                "mfe": "Planifikasion manze ek konpozision lekor"
+              },
+              "objectives": [
+                "Describe methods of assessing body composition",
+                "Explain the concept of energy balance",
+                "Design a simple diet plan for a specific sport"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Skill acquisition and learning",
+            "fr": "Acquisition des habiletés et apprentissage",
+            "mfe": "Aprantisaz konpetans"
+          },
+          "summary": {
+            "en": "Understand how skills are classified, learned and refined through practice and feedback.",
+            "fr": "Comprendre comment les habiletés sont classées, apprises et perfectionnées grâce à la pratique et au retour d'information.",
+            "mfe": "Konpran kouma konpetans klasifie, aprann ek amelior par pratik ek fidbak."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Classifying motor skills",
+                "fr": "Classification des habiletés motrices",
+                "mfe": "Klasifikasion konpetans motris"
+              },
+              "objectives": [
+                "Explain continua used to classify skills",
+                "Apply skill classification to sporting examples",
+                "Discuss implications for coaching practice"
+              ]
+            },
+            {
+              "title": {
+                "en": "Theories of learning",
+                "fr": "Théories de l'apprentissage",
+                "mfe": "Teori aprantisaz"
+              },
+              "objectives": [
+                "Compare associationist and cognitive theories of learning",
+                "Explain operant conditioning in skill learning",
+                "Apply learning theories to teaching a new skill"
+              ]
+            },
+            {
+              "title": {
+                "en": "Stages of learning",
+                "fr": "Étapes de l'apprentissage",
+                "mfe": "Letap aprantisaz"
+              },
+              "objectives": [
+                "Describe the cognitive, associative and autonomous stages",
+                "Identify characteristics of learners at each stage",
+                "Recommend coaching strategies for each stage"
+              ]
+            },
+            {
+              "title": {
+                "en": "Practice methods and transfer of learning",
+                "fr": "Méthodes de pratique et transfert d'apprentissage",
+                "mfe": "Metod pratik ek transfer aprantisaz"
+              },
+              "objectives": [
+                "Compare massed, distributed and variable practice",
+                "Explain positive and negative transfer of skills",
+                "Design a practice schedule for a chosen skill"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Information processing and memory",
+            "fr": "Traitement de l'information et mémoire",
+            "mfe": "Trètman linformasion ek memwar"
+          },
+          "summary": {
+            "en": "Analyse how performers receive, process and respond to information during sporting performance.",
+            "fr": "Analyser comment les sportifs reçoivent, traitent et répondent à l'information durant la performance sportive.",
+            "mfe": "Analiz kouma sportif resevwar, trete ek reponn a linformasion pandan performans sportif."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Models of information processing",
+                "fr": "Modèles de traitement de l'information",
+                "mfe": "Model trètman linformasion"
+              },
+              "objectives": [
+                "Describe the Whiting model of information processing",
+                "Explain the role of selective attention",
+                "Apply the model to a sporting situation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Memory systems in sport",
+                "fr": "Systèmes de mémoire dans le sport",
+                "mfe": "Sistem memwar dan spor"
+              },
+              "objectives": [
+                "Explain short-term and long-term memory in skill performance",
+                "Discuss strategies to improve memory of skills",
+                "Relate memory processes to decision-making"
+              ]
+            },
+            {
+              "title": {
+                "en": "Reaction time and response",
+                "fr": "Temps de réaction et réponse",
+                "mfe": "Letan reaksion ek repons"
+              },
+              "objectives": [
+                "Define reaction, movement and response time",
+                "Explain factors affecting reaction time",
+                "Apply Hick's Law to sporting examples"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Sport psychology foundations",
+            "fr": "Fondements de la psychologie du sport",
+            "mfe": "Bann baz sikolozi spor"
+          },
+          "summary": {
+            "en": "Investigate personality, motivation and arousal and their influence on sporting performance.",
+            "fr": "Étudier la personnalité, la motivation et l'excitation et leur influence sur la performance sportive.",
+            "mfe": "Investig personalite, motivasion ek arouzman ek zot lenfliyans lor performans sportif."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Personality and sport",
+                "fr": "Personnalité et sport",
+                "mfe": "Personalite ek spor"
+              },
+              "objectives": [
+                "Explain trait and interactionist theories of personality",
+                "Discuss the credulous and sceptical approach",
+                "Evaluate the link between personality and sporting choice"
+              ]
+            },
+            {
+              "title": {
+                "en": "Motivation in sport",
+                "fr": "Motivation dans le sport",
+                "mfe": "Motivasion dan spor"
+              },
+              "objectives": [
+                "Distinguish intrinsic and extrinsic motivation",
+                "Explain achievement motivation theory",
+                "Apply strategies to enhance motivation in athletes"
+              ]
+            },
+            {
+              "title": {
+                "en": "Arousal and anxiety",
+                "fr": "Excitation et anxiété",
+                "mfe": "Arouzman ek lankyete"
+              },
+              "objectives": [
+                "Explain drive theory and inverted-U theory",
+                "Identify symptoms of competitive anxiety",
+                "Recommend techniques to manage arousal levels"
+              ]
+            },
+            {
+              "title": {
+                "en": "Aggression in sport",
+                "fr": "Agressivité dans le sport",
+                "mfe": "Agresivite dan spor"
+              },
+              "objectives": [
+                "Distinguish assertive behaviour from aggression",
+                "Explain theories of aggression",
+                "Discuss strategies to control aggressive behaviour in athletes"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Participation and provision in Mauritius",
+            "fr": "Participation et offre sportive à Maurice",
+            "mfe": "Partisipasion ek lofer sportif Moris"
+          },
+          "summary": {
+            "en": "Explore factors influencing participation in physical activity and the provision of sport in Mauritian society.",
+            "fr": "Explorer les facteurs influençant la participation à l'activité physique et l'offre sportive dans la société mauricienne.",
+            "mfe": "Explor bann fakter ki lenfliyans partisipasion dan lekzersis fizik ek lofer spor dan sosiete morisien."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Factors affecting participation",
+                "fr": "Facteurs influençant la participation",
+                "mfe": "Fakter ki lenfliyans partisipasion"
+              },
+              "objectives": [
+                "Identify social, cultural and economic factors affecting participation",
+                "Discuss barriers to participation for different groups in Mauritius",
+                "Suggest strategies to increase participation levels"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sports provision and pathways",
+                "fr": "Offre sportive et parcours sportifs",
+                "mfe": "Lofer spor ek shemin spor"
+              },
+              "objectives": [
+                "Describe the structure of sport provision in Mauritius",
+                "Explain talent identification and development pathways",
+                "Evaluate the role of schools and clubs in athlete development"
+              ]
+            },
+            {
+              "title": {
+                "en": "Role of media and technology in sport",
+                "fr": "Rôle des médias et de la technologie dans le sport",
+                "mfe": "Rol medya ek teknolozi dan spor"
+              },
+              "objectives": [
+                "Explain how media influences participation and image of sport",
+                "Discuss the use of technology in performance analysis",
+                "Evaluate ethical issues linked to technology in sport"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "13": {
+      "units": [
+        {
+          "title": {
+            "en": "Energy systems and fatigue",
+            "fr": "Systèmes énergétiques et fatigue",
+            "mfe": "Sistem enerzetik ek fatig"
+          },
+          "summary": {
+            "en": "Advanced study of ATP resynthesis, the three energy systems, and causes and management of fatigue in elite performance.",
+            "fr": "Étude avancée de la resynthèse de l'ATP, des trois systèmes énergétiques, et des causes et gestion de la fatigue chez les athlètes de haut niveau.",
+            "mfe": "Etid avanse lor resintez ATP, trwa sistem enerzetik, ek kozz ek zestion fatig kot bann atlet elit."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "ATP resynthesis pathways revisited",
+                "fr": "Voies de resynthèse de l'ATP revisitées",
+                "mfe": "Bann sime resintez ATP re-egzamine"
+              },
+              "objectives": [
+                "Explain the three energy systems in greater depth",
+                "Analyse the interplay between systems during exercise",
+                "Evaluate limiting factors of each pathway"
+              ]
+            },
+            {
+              "title": {
+                "en": "Causes of fatigue in sport",
+                "fr": "Causes de la fatigue dans le sport",
+                "mfe": "Kozz fatig dan sport"
+              },
+              "objectives": [
+                "Describe peripheral and central fatigue",
+                "Explain metabolic by-products causing fatigue",
+                "Discuss neuromuscular fatigue mechanisms"
+              ]
+            },
+            {
+              "title": {
+                "en": "Recovery strategies for elite athletes",
+                "fr": "Stratégies de récupération pour athlètes d'élite",
+                "mfe": "Estrategi rekiperasion pou atlet elit"
+              },
+              "objectives": [
+                "Compare active and passive recovery methods",
+                "Evaluate use of cryotherapy and massage",
+                "Recommend recovery plans for different sports"
+              ]
+            },
+            {
+              "title": {
+                "en": "EPOC and altitude training",
+                "fr": "EPOC et entraînement en altitude",
+                "mfe": "EPOC ek lantrenman an altitid"
+              },
+              "objectives": [
+                "Explain excess post-exercise oxygen consumption",
+                "Analyse physiological effects of altitude training",
+                "Evaluate benefits and risks for Mauritian athletes"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Biomechanical principles of movement",
+            "fr": "Principes biomécaniques du mouvement",
+            "mfe": "Prinsip biomekanik mouvman"
+          },
+          "summary": {
+            "en": "In-depth analysis of angular motion, projectile motion, and fluid mechanics applied to sporting techniques.",
+            "fr": "Analyse approfondie du mouvement angulaire, du mouvement de projectile et de la mécanique des fluides appliquée aux techniques sportives.",
+            "mfe": "Analiz an profonder mouvman angiler, mouvman proziktil, ek mekanik fliyid aplike ar teknik sportif."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Angular motion and torque",
+                "fr": "Mouvement angulaire et couple",
+                "mfe": "Mouvman angiler ek tork"
+              },
+              "objectives": [
+                "Define angular velocity and angular momentum",
+                "Explain conservation of angular momentum in sport",
+                "Apply concepts to gymnastics and diving examples"
+              ]
+            },
+            {
+              "title": {
+                "en": "Projectile motion in sport",
+                "fr": "Mouvement de projectile dans le sport",
+                "mfe": "Mouvman proziktil dan sport"
+              },
+              "objectives": [
+                "Explain factors affecting projectile trajectory",
+                "Analyse optimum release angles for distance events",
+                "Apply projectile motion to javelin and shot put"
+              ]
+            },
+            {
+              "title": {
+                "en": "Fluid mechanics and resistance",
+                "fr": "Mécanique des fluides et résistance",
+                "mfe": "Mekanik fliyid ek rezistans"
+              },
+              "objectives": [
+                "Explain drag and lift forces in sport",
+                "Discuss Bernoulli's principle in swimming and cycling",
+                "Evaluate technology reducing fluid resistance"
+              ]
+            },
+            {
+              "title": {
+                "en": "Technology in biomechanical analysis",
+                "fr": "Technologie dans l'analyse biomécanique",
+                "mfe": "Teknolozi dan analiz biomekanik"
+              },
+              "objectives": [
+                "Describe video analysis and force plate technology",
+                "Evaluate benefits of biomechanical feedback for athletes",
+                "Discuss limitations of biomechanical technology in coaching"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Advanced skill acquisition",
+            "fr": "Acquisition avancée des habiletés",
+            "mfe": "Akizisyon avanse konpetans"
+          },
+          "summary": {
+            "en": "Exploration of memory models, transfer of learning, and advanced theories explaining skilled performance.",
+            "fr": "Exploration des modèles de mémoire, du transfert d'apprentissage et des théories avancées expliquant la performance habile.",
+            "mfe": "Eksploration bann modenn memwar, transfer laprantisaz, ek teori avanse ki explik parformans abil."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Memory models and information processing",
+                "fr": "Modèles de mémoire et traitement de l'information",
+                "mfe": "Modenn memwar ek trete linformasion"
+              },
+              "objectives": [
+                "Explain the multi-store memory model",
+                "Discuss selective attention and short-term memory limits",
+                "Apply memory concepts to skill retention"
+              ]
+            },
+            {
+              "title": {
+                "en": "Transfer of learning in sport",
+                "fr": "Transfert d'apprentissage dans le sport",
+                "mfe": "Transfer laprantisaz dan sport"
+              },
+              "objectives": [
+                "Define positive, negative and zero transfer",
+                "Give examples of transfer across sports",
+                "Suggest coaching strategies to maximise positive transfer"
+              ]
+            },
+            {
+              "title": {
+                "en": "Schema theory and motor programmes",
+                "fr": "Théorie des schémas et programmes moteurs",
+                "mfe": "Teori schéma ek programm motor"
+              },
+              "objectives": [
+                "Explain schema theory of learning",
+                "Compare open-loop and closed-loop control",
+                "Apply theories to designing practice sessions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Reaction time and decision making",
+                "fr": "Temps de réaction et prise de décision",
+                "mfe": "Letan reaksyon ek pran desizyon"
+              },
+              "objectives": [
+                "Explain factors affecting reaction time",
+                "Apply Hick's Law to sporting situations",
+                "Discuss anticipation and decision-making under pressure"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Psychological factors affecting performance",
+            "fr": "Facteurs psychologiques influençant la performance",
+            "mfe": "Fakter psikolozik ki afekte parformans"
+          },
+          "summary": {
+            "en": "Study of aggression, motivation, self-confidence and group dynamics influencing elite sporting performance.",
+            "fr": "Étude de l'agressivité, de la motivation, de la confiance en soi et de la dynamique de groupe influençant la performance sportive d'élite.",
+            "mfe": "Etid agresivite, motivasyon, konfyans an swa ek dinamik lekip ki influans parformans sportif elit."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Aggression in sport",
+                "fr": "L'agressivité dans le sport",
+                "mfe": "Agresivite dan sport"
+              },
+              "objectives": [
+                "Distinguish assertive behaviour from aggression",
+                "Explain theories of aggression in sport",
+                "Suggest strategies to control aggressive behaviour"
+              ]
+            },
+            {
+              "title": {
+                "en": "Motivation and achievement goal theory",
+                "fr": "Motivation et théorie des buts d'accomplissement",
+                "mfe": "Motivasyon ek teori bi realizasyon"
+              },
+              "objectives": [
+                "Explain achievement goal theory",
+                "Differentiate task and ego orientation",
+                "Apply theory to coaching young Mauritian athletes"
+              ]
+            },
+            {
+              "title": {
+                "en": "Self-confidence and self-efficacy",
+                "fr": "Confiance en soi et auto-efficacité",
+                "mfe": "Konfyans an swa ek oto-efikasite"
+              },
+              "objectives": [
+                "Explain Bandura's self-efficacy theory",
+                "Discuss sources of self-efficacy in sport",
+                "Recommend strategies to build athlete confidence"
+              ]
+            },
+            {
+              "title": {
+                "en": "Group dynamics and team cohesion",
+                "fr": "Dynamique de groupe et cohésion d'équipe",
+                "mfe": "Dinamik lekip ek kohezion lekip"
+              },
+              "objectives": [
+                "Explain Steiner's model of group performance",
+                "Discuss factors affecting team cohesion",
+                "Suggest strategies to improve cohesion in teams"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Sport, technology and ethics",
+            "fr": "Sport, technologie et éthique",
+            "mfe": "Sport, teknolozi ek letik"
+          },
+          "summary": {
+            "en": "Examination of technological advances, ethical issues and drugs in sport at elite and international levels.",
+            "fr": "Examen des avancées technologiques, des questions éthiques et du dopage dans le sport aux niveaux élite et international.",
+            "mfe": "Egzaminasyon avansman teknolozik, kestion letik ek dopaz dan sport nivo elit ek internasional."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Technological advances in equipment",
+                "fr": "Avancées technologiques dans l'équipement",
+                "mfe": "Avansman teknolozik dan lekipman"
+              },
+              "objectives": [
+                "Describe technological developments in sports equipment",
+                "Evaluate advantages and disadvantages of technology",
+                "Discuss fairness issues arising from technology"
+              ]
+            },
+            {
+              "title": {
+                "en": "Drugs and doping in sport",
+                "fr": "Dopage dans le sport",
+                "mfe": "Dopaz dan sport"
+              },
+              "objectives": [
+                "Classify major categories of performance-enhancing drugs",
+                "Explain reasons athletes use banned substances",
+                "Discuss anti-doping measures and testing procedures"
+              ]
+            },
+            {
+              "title": {
+                "en": "Ethics and deviance in sport",
+                "fr": "Éthique et déviance dans le sport",
+                "mfe": "Letik ek deviyans dan sport"
+              },
+              "objectives": [
+                "Define sportsmanship and gamesmanship",
+                "Discuss causes of deviant behaviour in sport",
+                "Evaluate measures to promote fair play"
+              ]
+            },
+            {
+              "title": {
+                "en": "Commercialisation and the media",
+                "fr": "Commercialisation et médias",
+                "mfe": "Komersializasyon ek medya"
+              },
+              "objectives": [
+                "Explain the relationship between sport, media and sponsorship",
+                "Discuss positive and negative effects of commercialisation",
+                "Analyse impact on Mauritian sporting events"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Optimising training and performance",
+            "fr": "Optimisation de l'entraînement et de la performance",
+            "mfe": "Optimizasyon lantrenman ek parformans"
+          },
+          "summary": {
+            "en": "Application of periodisation, training thresholds and altitude training to design elite training programmes.",
+            "fr": "Application de la périodisation, des seuils d'entraînement et de l'entraînement en altitude pour concevoir des programmes d'entraînement d'élite.",
+            "mfe": "Aplikasyon periodizasyon, sey lantrenman ek lantrenman an altitid pou desine program lantrenman elit."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Principles of periodisation",
+                "fr": "Principes de la périodisation",
+                "mfe": "Prinsip periodizasyon"
+              },
+              "objectives": [
+                "Explain macrocycles, mesocycles and microcycles",
+                "Design a periodised training plan for a sport",
+                "Justify tapering before major competitions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Training thresholds and intensity",
+                "fr": "Seuils d'entraînement et intensité",
+                "mfe": "Sey lantrenman ek intensite"
+              },
+              "objectives": [
+                "Explain aerobic and anaerobic training thresholds",
+                "Calculate training zones using heart rate data",
+                "Apply threshold training to endurance athletes"
+              ]
+            },
+            {
+              "title": {
+                "en": "Plyometric and resistance training design",
+                "fr": "Conception de l'entraînement pliométrique et de résistance",
+                "mfe": "Konsepsyon lantrenman pliyometrik ek rezistans"
+              },
+              "objectives": [
+                "Explain principles of plyometric training",
+                "Design a resistance training programme for power",
+                "Evaluate risks and benefits for young athletes"
+              ]
+            },
+            {
+              "title": {
+                "en": "Monitoring and evaluating training programmes",
+                "fr": "Suivi et évaluation des programmes d'entraînement",
+                "mfe": "Sivi ek levaliasyon program lantrenman"
+              },
+              "objectives": [
+                "Identify methods to monitor training load",
+                "Evaluate effectiveness of a training programme",
+                "Adjust programmes based on performance data"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Preparing for advanced assessment",
+            "fr": "Préparation à l'évaluation avancée",
+            "mfe": "Prepar pou levaliasyon avanse"
+          },
+          "summary": {
+            "en": "Consolidation of A2 theory and practical skills to prepare for HSC examinations and performance assessment.",
+            "fr": "Consolidation de la théorie A2 et des compétences pratiques pour préparer les examens du HSC et l'évaluation de performance.",
+            "mfe": "Konsolidasyon teori A2 ek konpetans pratik pou prepar lekzame HSC ek levaliasyon parformans."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Structuring extended exam answers",
+                "fr": "Structurer des réponses d'examen détaillées",
+                "mfe": "Striktir bann repons lekzame detaye"
+              },
+              "objectives": [
+                "Analyse command words in essay-style questions",
+                "Practise structuring evaluative responses",
+                "Apply relevant theory to exam scenarios"
+              ]
+            },
+            {
+              "title": {
+                "en": "Practical performance assessment preparation",
+                "fr": "Préparation à l'évaluation de la performance pratique",
+                "mfe": "Prepar pou levaliasyon parformans pratik"
+              },
+              "objectives": [
+                "Review criteria for practical performance assessment",
+                "Identify strengths and areas for improvement",
+                "Develop a personal performance improvement plan"
+              ]
+            },
+            {
+              "title": {
+                "en": "Coursework analysis of performance",
+                "fr": "Analyse de performance en travail de recherche",
+                "mfe": "Analiz parformans dan travay rese"
+              },
+              "objectives": [
+                "Apply theoretical concepts to analyse own performance",
+                "Structure a coursework evaluation report",
+                "Identify evidence-based recommendations for improvement"
+              ]
+            },
+            {
+              "title": {
+                "en": "Revision and exam technique",
+                "fr": "Révision et techniques d'examen",
+                "mfe": "Revizyon ek teknik lekzame"
+              },
+              "objectives": [
+                "Consolidate key theories across all A2 topics",
+                "Practise past paper questions under timed conditions",
+                "Reflect on feedback to improve exam performance"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

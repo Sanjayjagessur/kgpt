@@ -1,0 +1,3113 @@
+{
+  "subject": "art-design",
+  "grades": {
+    "7": {
+      "units": [
+        {
+          "title": {
+            "en": "Elements of art: line and shape",
+            "fr": "Éléments de l'art : ligne et forme",
+            "mfe": "Elman lar : liny ek form"
+          },
+          "summary": {
+            "en": "Students explore how lines and shapes form the building blocks of visual art, experimenting with different line qualities and geometric and organic shapes.",
+            "fr": "Les élèves découvrent comment les lignes et les formes constituent les bases de l'art visuel, en expérimentant différentes qualités de lignes ainsi que des formes géométriques et organiques.",
+            "mfe": "Elev pou explor kouma liny ek form form baz lar vizyel, an eksperiment diferan kalite liny ek form geometrik ek organik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Exploring line quality",
+                "fr": "Explorer la qualité des lignes",
+                "mfe": "Explor kalite liny"
+              },
+              "objectives": [
+                "Identify different types of lines used in art",
+                "Create a variety of line marks using different tools",
+                "Describe the emotional effect of different lines"
+              ]
+            },
+            {
+              "title": {
+                "en": "Geometric and organic shapes",
+                "fr": "Formes géométriques et organiques",
+                "mfe": "Form geometrik ek organik"
+              },
+              "objectives": [
+                "Distinguish between geometric and organic shapes",
+                "Draw examples of both shape types",
+                "Combine shapes to create simple compositions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Composing with line and shape",
+                "fr": "Composer avec lignes et formes",
+                "mfe": "Konpoz avek liny ek form"
+              },
+              "objectives": [
+                "Arrange lines and shapes to create balance",
+                "Apply repetition and contrast in a composition",
+                "Produce a finished artwork using line and shape"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Understanding colour",
+            "fr": "Comprendre la couleur",
+            "mfe": "Konpran kouler"
+          },
+          "summary": {
+            "en": "This unit introduces the colour wheel, primary and secondary colours, and how warm and cool colours create mood in artwork.",
+            "fr": "Cette unité présente le cercle chromatique, les couleurs primaires et secondaires, et la manière dont les couleurs chaudes et froides créent une ambiance dans une œuvre.",
+            "mfe": "Sa linite la introdir rou kouler, kouler primer ek segonder, ek kouma kouler so ek fre kree lanbyans dan enn zoev lar."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "The colour wheel",
+                "fr": "Le cercle chromatique",
+                "mfe": "Rou kouler"
+              },
+              "objectives": [
+                "Identify primary, secondary and tertiary colours",
+                "Explain how colours are arranged on the colour wheel",
+                "Mix primary colours to create secondary colours"
+              ]
+            },
+            {
+              "title": {
+                "en": "Warm and cool colours",
+                "fr": "Couleurs chaudes et froides",
+                "mfe": "Kouler so ek fre"
+              },
+              "objectives": [
+                "Classify colours as warm or cool",
+                "Explain how warm and cool colours affect mood",
+                "Create a small artwork using only warm or cool colours"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mixing and applying colour",
+                "fr": "Mélanger et appliquer la couleur",
+                "mfe": "Mixe ek aplik kouler"
+              },
+              "objectives": [
+                "Mix colours to achieve tints and shades",
+                "Apply colour mixing techniques on paper",
+                "Reflect on colour choices in a finished piece"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Observational drawing skills",
+            "fr": "Compétences en dessin d'observation",
+            "mfe": "Konpetans dessin obzervasyon"
+          },
+          "summary": {
+            "en": "Students develop drawing skills by observing real objects, practising proportion, shading and still life composition.",
+            "fr": "Les élèves développent leurs compétences en dessin en observant des objets réels, en pratiquant les proportions, les ombrages et la composition de natures mortes.",
+            "mfe": "Elev devlop zot konpetans dessin par obzerv obze reel, pratik proporsyon, lonbraz ek konpozisyon natir mort."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Drawing from observation",
+                "fr": "Dessiner par observation",
+                "mfe": "Dessine par obzervasyon"
+              },
+              "objectives": [
+                "Observe an object carefully before drawing",
+                "Record shapes and proportions accurately",
+                "Compare observed drawing to imagined drawing"
+              ]
+            },
+            {
+              "title": {
+                "en": "Understanding proportion",
+                "fr": "Comprendre les proportions",
+                "mfe": "Konpran proporsyon"
+              },
+              "objectives": [
+                "Measure proportions using simple comparison techniques",
+                "Apply proportion when drawing everyday objects",
+                "Correct proportion errors in a sketch"
+              ]
+            },
+            {
+              "title": {
+                "en": "Shading techniques",
+                "fr": "Techniques d'ombrage",
+                "mfe": "Teknik lonbraz"
+              },
+              "objectives": [
+                "Identify light source and shadow direction",
+                "Practise hatching and cross-hatching techniques",
+                "Apply shading to create a sense of volume"
+              ]
+            },
+            {
+              "title": {
+                "en": "Still life composition",
+                "fr": "Composition de nature morte",
+                "mfe": "Konpozisyon natir mort"
+              },
+              "objectives": [
+                "Arrange objects to create an interesting still life",
+                "Draw a still life using proportion and shading skills learnt",
+                "Evaluate the strengths of the finished drawing"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Texture and pattern",
+            "fr": "Texture et motif",
+            "mfe": "Textir ek motif"
+          },
+          "summary": {
+            "en": "This unit explores how texture and pattern are found in nature and everyday life, and how they can be used to enrich artwork.",
+            "fr": "Cette unité explore comment la texture et le motif se retrouvent dans la nature et la vie quotidienne, et comment ils peuvent enrichir une œuvre d'art.",
+            "mfe": "Sa linite la explor kouma textir ek motif ena dan lanatir ek lavi toulezour, ek kouma zot kapav anrisi enn zoev lar."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Exploring texture",
+                "fr": "Explorer la texture",
+                "mfe": "Explor textir"
+              },
+              "objectives": [
+                "Identify different textures in the environment",
+                "Create textures using drawing tools",
+                "Represent texture through rubbing techniques"
+              ]
+            },
+            {
+              "title": {
+                "en": "Pattern in nature",
+                "fr": "Motifs dans la nature",
+                "mfe": "Motif dan lanatir"
+              },
+              "objectives": [
+                "Observe repeating patterns found in nature",
+                "Sketch natural patterns such as leaves or shells",
+                "Discuss the role of pattern in Mauritian surroundings"
+              ]
+            },
+            {
+              "title": {
+                "en": "Designing a pattern",
+                "fr": "Concevoir un motif",
+                "mfe": "Konsevwar enn motif"
+              },
+              "objectives": [
+                "Plan a repeating pattern design",
+                "Use colour and shape to design a pattern tile",
+                "Produce a finished pattern artwork"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Introduction to painting",
+            "fr": "Introduction à la peinture",
+            "mfe": "Introdiksyon lapentir"
+          },
+          "summary": {
+            "en": "Students are introduced to basic painting techniques and materials, experimenting with brushwork and simple landscape painting.",
+            "fr": "Les élèves découvrent les techniques et matériaux de base de la peinture, en expérimentant les coups de pinceau et la peinture de paysages simples.",
+            "mfe": "Elev pou dekouver teknik ek materyo debaz lapentir, an eksperiment kout lapo pinso ek lapentir peyzaz sinp."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Painting materials and safety",
+                "fr": "Matériaux de peinture et sécurité",
+                "mfe": "Materyo lapentir ek sekirite"
+              },
+              "objectives": [
+                "Identify common painting materials and tools",
+                "Explain safe handling and care of painting equipment",
+                "Practise basic brush control exercises"
+              ]
+            },
+            {
+              "title": {
+                "en": "Brush techniques",
+                "fr": "Techniques de pinceau",
+                "mfe": "Teknik pinso"
+              },
+              "objectives": [
+                "Practise different brush strokes",
+                "Apply wet-on-wet and dry brush techniques",
+                "Compare effects created by different techniques"
+              ]
+            },
+            {
+              "title": {
+                "en": "Painting a simple landscape",
+                "fr": "Peindre un paysage simple",
+                "mfe": "Pent enn peyzaz sinp"
+              },
+              "objectives": [
+                "Plan a simple landscape composition",
+                "Apply colour mixing and brush techniques learnt",
+                "Complete a finished landscape painting"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Introduction to printmaking",
+            "fr": "Introduction à la gravure",
+            "mfe": "Introdiksyon linprimri"
+          },
+          "summary": {
+            "en": "This unit introduces basic printmaking methods, including stamp printing and simple relief techniques, to create repeated designs.",
+            "fr": "Cette unité présente des méthodes de base de gravure, y compris l'impression au tampon et des techniques de relief simples, pour créer des motifs répétés.",
+            "mfe": "Sa linite la introdir metod debaz linprimri, ki inklir linprimri tanpon ek teknik relyef sinp, pou kree desin repete."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "What is printmaking",
+                "fr": "Qu'est-ce que la gravure",
+                "mfe": "Ki sa linprimri"
+              },
+              "objectives": [
+                "Explain the basic principles of printmaking",
+                "Identify examples of printmaking in daily life",
+                "Discuss the difference between drawing and printing"
+              ]
+            },
+            {
+              "title": {
+                "en": "Stamp and object printing",
+                "fr": "Impression au tampon et à l'objet",
+                "mfe": "Linprimri tanpon ek obze"
+              },
+              "objectives": [
+                "Create a simple stamp using everyday materials",
+                "Apply ink or paint to produce repeated prints",
+                "Arrange prints to form a pattern"
+              ]
+            },
+            {
+              "title": {
+                "en": "Simple relief printing",
+                "fr": "Gravure en relief simple",
+                "mfe": "Linprimri relyef sinp"
+              },
+              "objectives": [
+                "Carve a simple design into a soft printing block",
+                "Print the design using ink and a roller",
+                "Evaluate the quality and clarity of prints produced"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Mauritian arts and crafts",
+            "fr": "Arts et artisanat mauriciens",
+            "mfe": "Lar ek krafte moris"
+          },
+          "summary": {
+            "en": "Students explore traditional Mauritian crafts and textile patterns, appreciating the island's multicultural artistic heritage through a small project.",
+            "fr": "Les élèves explorent l'artisanat traditionnel mauricien et les motifs textiles, en appréciant l'héritage artistique multiculturel de l'île à travers un petit projet.",
+            "mfe": "Elev explor krafte tradisyonel moris ek motif tekstil, an apresie leritaz artistik multikiltirel zil atraver enn ti proze."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Traditional Mauritian crafts",
+                "fr": "Artisanat traditionnel mauricien",
+                "mfe": "Krafte tradisyonel moris"
+              },
+              "objectives": [
+                "Identify examples of traditional Mauritian crafts",
+                "Discuss the cultural significance of local craft traditions",
+                "Sketch elements inspired by a traditional craft"
+              ]
+            },
+            {
+              "title": {
+                "en": "Patterns in Mauritian textiles",
+                "fr": "Motifs dans les textiles mauriciens",
+                "mfe": "Motif dan tekstil moris"
+              },
+              "objectives": [
+                "Observe patterns found in Mauritian textiles",
+                "Recreate a textile-inspired pattern on paper",
+                "Discuss how different communities influence local design"
+              ]
+            },
+            {
+              "title": {
+                "en": "Creating a cultural showcase piece",
+                "fr": "Créer une œuvre représentative de la culture",
+                "mfe": "Kree enn pyes ki montre kiltir"
+              },
+              "objectives": [
+                "Plan an artwork inspired by Mauritian culture",
+                "Combine skills learnt during the term in one piece",
+                "Present and explain the finished artwork to peers"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "8": {
+      "units": [
+        {
+          "title": {
+            "en": "Elements of art revisited",
+            "fr": "Les éléments de l'art revisités",
+            "mfe": "Elema lar rivizite"
+          },
+          "summary": {
+            "en": "Students revise and deepen their understanding of the visual elements of art through observation and practice using Mauritian subjects.",
+            "fr": "Les élèves révisent et approfondissent leur compréhension des éléments visuels de l'art par l'observation et la pratique sur des sujets mauriciens.",
+            "mfe": "Bann elev revize ek apronfondi zot konpreansion bann elema vizyel lar par observasion ek pratik lor bann size morisien."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Line and texture in nature",
+                "fr": "Ligne et texture dans la nature",
+                "mfe": "Lin ek tekstir dan lanatir"
+              },
+              "objectives": [
+                "Identify different types of lines and textures in natural objects",
+                "Create studies using varied line and texture techniques",
+                "Compare textures found in local plants and shells"
+              ]
+            },
+            {
+              "title": {
+                "en": "Shape versus form",
+                "fr": "Forme plane versus volume",
+                "mfe": "Form plat kont form solid"
+              },
+              "objectives": [
+                "Distinguish between 2D shapes and 3D forms",
+                "Sketch simple objects showing form through shading",
+                "Apply light and shadow to suggest volume"
+              ]
+            },
+            {
+              "title": {
+                "en": "Colour mixing and harmony",
+                "fr": "Mélange des couleurs et harmonie",
+                "mfe": "Melanz kouler ek armoni"
+              },
+              "objectives": [
+                "Mix primary colours to create secondary and tertiary colours",
+                "Explore colour harmony schemes",
+                "Paint a simple composition using a chosen colour scheme"
+              ]
+            },
+            {
+              "title": {
+                "en": "Space and depth in drawing",
+                "fr": "Espace et profondeur dans le dessin",
+                "mfe": "Lespas ek profonder dan desen"
+              },
+              "objectives": [
+                "Apply overlapping and size to show depth",
+                "Use simple perspective to create spatial illusion",
+                "Draw a street scene from Port Louis using depth techniques"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Principles of design",
+            "fr": "Principes du design",
+            "mfe": "Prensip design"
+          },
+          "summary": {
+            "en": "This unit introduces students to the principles that guide composition, including balance, contrast, rhythm and emphasis.",
+            "fr": "Cette unité initie les élèves aux principes qui guident la composition, notamment l'équilibre, le contraste, le rythme et l'accent.",
+            "mfe": "Sa lini-la introdir bann elev bann prensip ki gid konpozision, ki inklir balans, kontras, ritm ek anfaz."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Balance and symmetry",
+                "fr": "Équilibre et symétrie",
+                "mfe": "Balans ek simetri"
+              },
+              "objectives": [
+                "Define symmetrical and asymmetrical balance",
+                "Create a design showing radial symmetry",
+                "Analyse balance in traditional Mauritian textile patterns"
+              ]
+            },
+            {
+              "title": {
+                "en": "Contrast and emphasis",
+                "fr": "Contraste et accent",
+                "mfe": "Kontras ek anfaz"
+              },
+              "objectives": [
+                "Use contrast to create a focal point",
+                "Apply value contrast in a monochrome drawing",
+                "Identify emphasis techniques in artworks"
+              ]
+            },
+            {
+              "title": {
+                "en": "Rhythm and pattern",
+                "fr": "Rythme et motif",
+                "mfe": "Ritm ek motif"
+              },
+              "objectives": [
+                "Create repeated patterns using simple motifs",
+                "Explore rhythm through repetition of shapes",
+                "Design a border pattern inspired by local architecture"
+              ]
+            },
+            {
+              "title": {
+                "en": "Unity in composition",
+                "fr": "Unité dans la composition",
+                "mfe": "Linite dan konpozision"
+              },
+              "objectives": [
+                "Explain how unity is achieved in a composition",
+                "Combine elements and principles in one artwork",
+                "Critique a peer's artwork for unity"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Drawing and observation skills",
+            "fr": "Compétences de dessin et d'observation",
+            "mfe": "Konpetans desen ek observasion"
+          },
+          "summary": {
+            "en": "Students develop observational drawing skills by studying still life, people and everyday Mauritian objects.",
+            "fr": "Les élèves développent des compétences de dessin d'observation en étudiant la nature morte, les personnes et les objets quotidiens mauriciens.",
+            "mfe": "Bann elev devlop zot konpetans desen par observasion an etidye nati mort, dimounn ek bann obze ki servi toulezour Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Still life basics",
+                "fr": "Bases de la nature morte",
+                "mfe": "Baz nati mort"
+              },
+              "objectives": [
+                "Arrange a simple still life setup",
+                "Draw proportions of everyday objects",
+                "Apply shading to render form"
+              ]
+            },
+            {
+              "title": {
+                "en": "Drawing the human figure",
+                "fr": "Dessiner la figure humaine",
+                "mfe": "Desiner lekor imin"
+              },
+              "objectives": [
+                "Understand basic human body proportions",
+                "Sketch gesture drawings of a seated figure",
+                "Practise facial feature placement"
+              ]
+            },
+            {
+              "title": {
+                "en": "Perspective drawing basics",
+                "fr": "Bases du dessin en perspective",
+                "mfe": "Baz desen an perspektiv"
+              },
+              "objectives": [
+                "Apply one-point perspective to draw buildings",
+                "Identify horizon line and vanishing point",
+                "Draw a simple street scene using perspective"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sketchbook practice",
+                "fr": "Pratique du carnet de croquis",
+                "mfe": "Pratik karne kroki"
+              },
+              "objectives": [
+                "Maintain a sketchbook for daily observation",
+                "Experiment with different drawing tools",
+                "Reflect on personal progress through sketches"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Painting techniques",
+            "fr": "Techniques de peinture",
+            "mfe": "Teknik lapentir"
+          },
+          "summary": {
+            "en": "This unit explores various painting media and techniques, encouraging experimentation and creative expression.",
+            "fr": "Cette unité explore diverses techniques et supports de peinture, encourageant l'expérimentation et l'expression créative.",
+            "mfe": "Sa lini-la explor bann diferan medyom ek teknik lapentir, ankouraz eksperimantasion ek ekspresion kreatif."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Watercolour techniques",
+                "fr": "Techniques d'aquarelle",
+                "mfe": "Teknik akwarel"
+              },
+              "objectives": [
+                "Apply wet-on-wet and wet-on-dry techniques",
+                "Create gradients using watercolour washes",
+                "Paint a landscape using watercolour"
+              ]
+            },
+            {
+              "title": {
+                "en": "Poster and gouache painting",
+                "fr": "Peinture affiche et gouache",
+                "mfe": "Lapentir poster ek gouas"
+              },
+              "objectives": [
+                "Understand properties of poster paint and gouache",
+                "Create flat and blended colour areas",
+                "Design a poster with a social message"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mixed media exploration",
+                "fr": "Exploration des techniques mixtes",
+                "mfe": "Eksplorasion mixed media"
+              },
+              "objectives": [
+                "Combine two or more media in one artwork",
+                "Experiment with collage and paint together",
+                "Present a mixed media piece reflecting local culture"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Printmaking and pattern design",
+            "fr": "Gravure et conception de motifs",
+            "mfe": "Enprimri ek design motif"
+          },
+          "summary": {
+            "en": "Students learn basic printmaking methods and design repeating patterns inspired by Mauritian heritage.",
+            "fr": "Les élèves apprennent des méthodes de gravure de base et conçoivent des motifs répétitifs inspirés du patrimoine mauricien.",
+            "mfe": "Bann elev aprann bann metod enprimri debaz ek design bann motif repete inspir par patrimwan morisien."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Introduction to stamp printing",
+                "fr": "Introduction à l'impression au tampon",
+                "mfe": "Introduksion linprimri ar tampon"
+              },
+              "objectives": [
+                "Create a simple stamp from foam or vegetables",
+                "Print repeated patterns using stamps",
+                "Explore colour layering in printing"
+              ]
+            },
+            {
+              "title": {
+                "en": "Monoprinting techniques",
+                "fr": "Techniques de monotype",
+                "mfe": "Teknik monoprint"
+              },
+              "objectives": [
+                "Understand the monoprint process",
+                "Create texture using monoprinting tools",
+                "Produce a unique monoprint artwork"
+              ]
+            },
+            {
+              "title": {
+                "en": "Pattern design from culture",
+                "fr": "Conception de motifs culturels",
+                "mfe": "Design motif kiltirel"
+              },
+              "objectives": [
+                "Research patterns from Mauritian textiles or crafts",
+                "Design an original repeating pattern",
+                "Apply the pattern to a functional item design"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Sculpture and 3D design",
+            "fr": "Sculpture et design en 3D",
+            "mfe": "Skiltir ek design 3D"
+          },
+          "summary": {
+            "en": "This unit introduces students to three-dimensional art making using accessible and recycled materials.",
+            "fr": "Cette unité initie les élèves à la création artistique tridimensionnelle en utilisant des matériaux accessibles et recyclés.",
+            "mfe": "Sa lini-la introdir bann elev kreasion lar an trwadimansion an servi bann materyo aksesib ek rekikle."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Introduction to 3D form",
+                "fr": "Introduction à la forme 3D",
+                "mfe": "Introduksion form 3D"
+              },
+              "objectives": [
+                "Understand differences between relief and freestanding sculpture",
+                "Explore form through clay modelling",
+                "Create a simple clay maquette"
+              ]
+            },
+            {
+              "title": {
+                "en": "Working with recycled materials",
+                "fr": "Travailler avec des matériaux recyclés",
+                "mfe": "Travay ar materyo rekikle"
+              },
+              "objectives": [
+                "Select suitable recycled materials for construction",
+                "Build a small structure using recycled items",
+                "Reflect on sustainability in art making"
+              ]
+            },
+            {
+              "title": {
+                "en": "Paper sculpture techniques",
+                "fr": "Techniques de sculpture en papier",
+                "mfe": "Teknik skiltir papie"
+              },
+              "objectives": [
+                "Apply folding, curling and scoring techniques",
+                "Construct a three-dimensional paper form",
+                "Combine paper elements into a cohesive sculpture"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Art history and appreciation",
+            "fr": "Histoire de l'art et appréciation",
+            "mfe": "Zistwar lar ek apresyasion"
+          },
+          "summary": {
+            "en": "Students explore local and world art movements, developing skills in visual analysis and critical appreciation.",
+            "fr": "Les élèves explorent les mouvements artistiques locaux et mondiaux, développant des compétences d'analyse visuelle et d'appréciation critique.",
+            "mfe": "Bann elev explor bann mouvman lartistik lokal ek mondyal, devlop konpetans analiz vizyel ek apresyasion kritik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Introduction to Mauritian artists",
+                "fr": "Introduction aux artistes mauriciens",
+                "mfe": "Introduksion bann artis morisien"
+              },
+              "objectives": [
+                "Identify notable Mauritian artists and their styles",
+                "Discuss cultural influences in local art",
+                "Compare two artworks by Mauritian artists"
+              ]
+            },
+            {
+              "title": {
+                "en": "World art movements overview",
+                "fr": "Aperçu des mouvements artistiques mondiaux",
+                "mfe": "Apersi bann mouvman lar mondyal"
+              },
+              "objectives": [
+                "Identify key features of major art movements",
+                "Recognise artworks from different historical periods",
+                "Discuss how art movements influenced each other"
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysing and critiquing artworks",
+                "fr": "Analyser et critiquer des œuvres d'art",
+                "mfe": "Analiz ek kritik ledevre lar"
+              },
+              "objectives": [
+                "Use appropriate vocabulary to describe artworks",
+                "Apply a simple framework to critique an artwork",
+                "Present a critique of a chosen piece"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "units": [
+        {
+          "title": {
+            "en": "Elements and principles of design",
+            "fr": "Éléments et principes du design",
+            "mfe": "Elema ek prensip design"
+          },
+          "summary": {
+            "en": "Students revisit and deepen their understanding of the elements and principles of art, applying them with greater control and intention in compositions.",
+            "fr": "Les élèves révisent et approfondissent leur compréhension des éléments et principes de l'art, en les appliquant avec plus de contrôle et d'intention dans leurs compositions.",
+            "mfe": "Bann elev revize ek apronfondi zot konpreansion lor elema ek prensip lar, e aplik zot avek plis kontrol ek lintansion dan zot bann konpozision."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Line, shape and form in composition",
+                "fr": "Ligne, forme et volume dans la composition",
+                "mfe": "Lign, form ek volim dan konpozision"
+              },
+              "objectives": [
+                "Identify how line, shape and form create visual interest",
+                "Apply these elements deliberately in a sketch",
+                "Analyse a Mauritian artwork using these elements"
+              ]
+            },
+            {
+              "title": {
+                "en": "Colour theory and mood",
+                "fr": "Théorie des couleurs et ambiance",
+                "mfe": "Teori kouler ek lanbians"
+              },
+              "objectives": [
+                "Explain warm and cool colour effects on mood",
+                "Mix colours to achieve specific emotional tones",
+                "Create a small painting expressing a chosen mood"
+              ]
+            },
+            {
+              "title": {
+                "en": "Texture and pattern exploration",
+                "fr": "Exploration de la texture et du motif",
+                "mfe": "Explor teksti ek motif"
+              },
+              "objectives": [
+                "Distinguish between actual and implied texture",
+                "Create rubbings and frottage samples",
+                "Design a repeating pattern inspired by local textiles"
+              ]
+            },
+            {
+              "title": {
+                "en": "Balance, rhythm and unity",
+                "fr": "Équilibre, rythme et unité",
+                "mfe": "Balans, ritm ek liniter"
+              },
+              "objectives": [
+                "Define balance, rhythm and unity in design",
+                "Critique artworks for compositional unity",
+                "Redesign a weak composition to improve balance"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Observational drawing skills",
+            "fr": "Compétences de dessin d'observation",
+            "mfe": "Konpetans desin observasion"
+          },
+          "summary": {
+            "en": "Students strengthen accuracy and confidence in drawing from direct observation, including still life and natural forms found locally.",
+            "fr": "Les élèves renforcent leur précision et leur confiance dans le dessin d'observation, y compris les natures mortes et les formes naturelles locales.",
+            "mfe": "Bann elev renforsi zot presizion ek konfians dan desin observasion, enkli nati mort ek form natirel lokal."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Still life set-up and proportion",
+                "fr": "Installation de nature morte et proportion",
+                "mfe": "Aranzman nati mort ek proporsion"
+              },
+              "objectives": [
+                "Arrange objects for a balanced still life",
+                "Measure proportions using sighting techniques",
+                "Produce an accurate pencil study"
+              ]
+            },
+            {
+              "title": {
+                "en": "Drawing tropical plants and fruits",
+                "fr": "Dessiner des plantes et fruits tropicaux",
+                "mfe": "Desine plant ek frwi tropikal"
+              },
+              "objectives": [
+                "Observe organic forms of local fruits and leaves",
+                "Practice contour and cross-contour drawing",
+                "Complete a detailed botanical sketch"
+              ]
+            },
+            {
+              "title": {
+                "en": "Light, shadow and tone",
+                "fr": "Lumière, ombre et valeur tonale",
+                "mfe": "Lalimier, lonbraz ek valer ton"
+              },
+              "objectives": [
+                "Identify light source and cast shadows",
+                "Apply shading techniques for volume",
+                "Render a tonal study of a simple object"
+              ]
+            },
+            {
+              "title": {
+                "en": "Perspective in everyday scenes",
+                "fr": "Perspective dans les scènes quotidiennes",
+                "mfe": "Perspektiv dan sen toulezour"
+              },
+              "objectives": [
+                "Apply one-point and two-point perspective",
+                "Sketch a street or building using perspective",
+                "Evaluate depth accuracy in own drawing"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Painting and mixed media",
+            "fr": "Peinture et techniques mixtes",
+            "mfe": "Pentir ek teknik mikse"
+          },
+          "summary": {
+            "en": "Students experiment with paint and combine materials to develop personal expression and technical versatility.",
+            "fr": "Les élèves expérimentent la peinture et combinent des matériaux pour développer une expression personnelle et une polyvalence technique.",
+            "mfe": "Bann elev eksperiment ar pentir e konbine bann materio pou devlop lekspresion personel ek versatilite teknik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Watercolour techniques",
+                "fr": "Techniques d'aquarelle",
+                "mfe": "Teknik akwarel"
+              },
+              "objectives": [
+                "Practice wet-on-wet and wet-on-dry methods",
+                "Create washes with controlled water ratios",
+                "Paint a landscape inspired by Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Acrylic layering and texture",
+                "fr": "Superposition et texture à l'acrylique",
+                "mfe": "Kouch ek teksti ar akrilik"
+              },
+              "objectives": [
+                "Build layers using acrylic paint",
+                "Add texture with palette knife techniques",
+                "Complete an abstract acrylic composition"
+              ]
+            },
+            {
+              "title": {
+                "en": "Collage and assemblage",
+                "fr": "Collage et assemblage",
+                "mfe": "Kolaz ek asanblaz"
+              },
+              "objectives": [
+                "Select recycled materials for a collage",
+                "Combine paper, fabric and found objects",
+                "Create a themed mixed media piece"
+              ]
+            },
+            {
+              "title": {
+                "en": "Combining media for expression",
+                "fr": "Combiner les médiums pour l'expression",
+                "mfe": "Konbine medium pou lekspresion"
+              },
+              "objectives": [
+                "Experiment with two or more media together",
+                "Justify media choices for intended effect",
+                "Present a finished mixed media artwork"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Printmaking basics",
+            "fr": "Bases de la gravure",
+            "mfe": "Baz gravir"
+          },
+          "summary": {
+            "en": "Students learn simple printmaking methods to understand reproduction, pattern and design in art.",
+            "fr": "Les élèves apprennent des méthodes simples de gravure pour comprendre la reproduction, le motif et le design dans l'art.",
+            "mfe": "Bann elev aprann bann metod senp gravir pou konpran reprodiksion, motif ek design dan lar."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Introduction to relief printing",
+                "fr": "Introduction à la gravure en relief",
+                "mfe": "Introdiksion ar gravir an relief"
+              },
+              "objectives": [
+                "Explain the process of relief printing",
+                "Carve a simple design on a printing block",
+                "Produce a test print"
+              ]
+            },
+            {
+              "title": {
+                "en": "Stencil and stamp printing",
+                "fr": "Impression au pochoir et au tampon",
+                "mfe": "Enprim ar poswar ek tanpon"
+              },
+              "objectives": [
+                "Design a stencil using local motifs",
+                "Create repeated stamped patterns",
+                "Evaluate print consistency"
+              ]
+            },
+            {
+              "title": {
+                "en": "Monoprinting experiments",
+                "fr": "Expériences de monotype",
+                "mfe": "Eksperians monoprint"
+              },
+              "objectives": [
+                "Understand the uniqueness of monoprints",
+                "Apply paint or ink for a monoprint transfer",
+                "Reflect on unpredictable results as creative choices"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Sculpture and three-dimensional design",
+            "fr": "Sculpture et design tridimensionnel",
+            "mfe": "Skiltir ek design trwadimansionel"
+          },
+          "summary": {
+            "en": "Students explore form in three dimensions using clay, wire and recycled materials to build sculptural skills.",
+            "fr": "Les élèves explorent la forme en trois dimensions en utilisant l'argile, le fil de fer et des matériaux recyclés pour développer des compétences sculpturales.",
+            "mfe": "Bann elev explor form an trwa dimansion servi lagliz, fil fer ek materio rekikle pou devlop konpetans skiltiral."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Working with clay basics",
+                "fr": "Bases du travail avec l'argile",
+                "mfe": "Baz travay ar lagliz"
+              },
+              "objectives": [
+                "Practice pinch, coil and slab methods",
+                "Construct a simple clay form",
+                "Understand basic firing and drying processes"
+              ]
+            },
+            {
+              "title": {
+                "en": "Wire and armature construction",
+                "fr": "Construction avec fil de fer et armature",
+                "mfe": "Konstriksion ar fil fer ek armatir"
+              },
+              "objectives": [
+                "Bend wire to create a basic figure or form",
+                "Build a supporting armature for stability",
+                "Add surface material to the wire structure"
+              ]
+            },
+            {
+              "title": {
+                "en": "Recycled material sculpture",
+                "fr": "Sculpture à partir de matériaux recyclés",
+                "mfe": "Skiltir ar materio rekikle"
+              },
+              "objectives": [
+                "Select sustainable and recycled materials",
+                "Design a sculpture with environmental message",
+                "Assemble and finish the sculpture"
+              ]
+            },
+            {
+              "title": {
+                "en": "Presenting three-dimensional work",
+                "fr": "Présenter une œuvre tridimensionnelle",
+                "mfe": "Prezant travay trwadimansionel"
+              },
+              "objectives": [
+                "Choose an appropriate display method",
+                "Photograph sculpture from multiple angles",
+                "Explain design choices to peers"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Graphic design and digital art",
+            "fr": "Design graphique et art numérique",
+            "mfe": "Design grafik ek lar numerik"
+          },
+          "summary": {
+            "en": "Students are introduced to graphic design principles and basic digital tools relevant to visual communication.",
+            "fr": "Les élèves découvrent les principes du design graphique et les outils numériques de base pertinents pour la communication visuelle.",
+            "mfe": "Bann elev dekouver prensip design grafik ek bann zouti numerik debaz pou komunikasion vizyel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Logo and symbol design",
+                "fr": "Conception de logo et symbole",
+                "mfe": "Konsepsion logo ek senbol"
+              },
+              "objectives": [
+                "Analyse effective logo characteristics",
+                "Sketch logo concepts for a fictional brand",
+                "Refine a final logo design"
+              ]
+            },
+            {
+              "title": {
+                "en": "Typography and lettering",
+                "fr": "Typographie et lettrage",
+                "mfe": "Tipografi ek let"
+              },
+              "objectives": [
+                "Identify different font styles and their uses",
+                "Design custom lettering for a poster",
+                "Combine text and image effectively"
+              ]
+            },
+            {
+              "title": {
+                "en": "Basic digital editing tools",
+                "fr": "Outils de base d'édition numérique",
+                "mfe": "Zouti debaz edision numerik"
+              },
+              "objectives": [
+                "Navigate a simple digital art or editing tool",
+                "Edit a photograph for visual impact",
+                "Save and export work in appropriate formats"
+              ]
+            },
+            {
+              "title": {
+                "en": "Poster design for a cause",
+                "fr": "Conception d'affiche pour une cause",
+                "mfe": "Konsepsion afis pou enn koz"
+              },
+              "objectives": [
+                "Select a social or environmental cause",
+                "Design a poster combining text and image",
+                "Present the poster and explain its message"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Art history and cultural heritage",
+            "fr": "Histoire de l'art et patrimoine culturel",
+            "mfe": "Listwar lar ek patrimwann kiltirel"
+          },
+          "summary": {
+            "en": "Students study Mauritian and world art movements, developing appreciation of cultural diversity and heritage in art.",
+            "fr": "Les élèves étudient les mouvements artistiques mauriciens et mondiaux, développant une appréciation de la diversité culturelle et du patrimoine dans l'art.",
+            "mfe": "Bann elev etidie mouvman artistik morisien ek mondial, devlop apresiasion divertsite kiltirel ek patrimwann dan lar."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Traditional Mauritian art forms",
+                "fr": "Formes d'art traditionnel mauricien",
+                "mfe": "Form lar tradisionel morisien"
+              },
+              "objectives": [
+                "Identify traditional crafts practiced in Mauritius",
+                "Research one traditional art form in depth",
+                "Present findings with visual examples"
+              ]
+            },
+            {
+              "title": {
+                "en": "World art movements overview",
+                "fr": "Aperçu des mouvements artistiques mondiaux",
+                "mfe": "Rezime mouvman artistik mondial"
+              },
+              "objectives": [
+                "Compare key features of major art movements",
+                "Identify artists associated with each movement",
+                "Relate movements to historical context"
+              ]
+            },
+            {
+              "title": {
+                "en": "Multicultural influences in local art",
+                "fr": "Influences multiculturelles dans l'art local",
+                "mfe": "Lenfliyans miltikiltirel dan lar lokal"
+              },
+              "objectives": [
+                "Explore how different cultures shaped Mauritian art",
+                "Analyse an artwork reflecting cultural fusion",
+                "Discuss respect for cultural diversity in art"
+              ]
+            },
+            {
+              "title": {
+                "en": "Preparing an artist research page",
+                "fr": "Préparer une page de recherche sur un artiste",
+                "mfe": "Prepar enn paz rese lor enn artis"
+              },
+              "objectives": [
+                "Select an artist relevant to personal interest",
+                "Organise visual and written research clearly",
+                "Link research to own creative ideas"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Personal project and portfolio building",
+            "fr": "Projet personnel et constitution de portfolio",
+            "mfe": "Proze personel ek konstriksion portfolyo"
+          },
+          "summary": {
+            "en": "Students plan, develop and present a personal art project, building skills needed for future portfolio work at SC level.",
+            "fr": "Les élèves planifient, développent et présentent un projet artistique personnel, développant les compétences nécessaires pour le travail de portfolio au niveau SC.",
+            "mfe": "Bann elev planifie, devlope ek prezant enn proze lar personel, batir konpetans neseser pou travay portfolyo nivo SC."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Choosing a theme and research",
+                "fr": "Choisir un thème et faire des recherches",
+                "mfe": "Swazir enn tem ek fer rese"
+              },
+              "objectives": [
+                "Select a personally meaningful theme",
+                "Gather visual and written research sources",
+                "Organise research in a structured format"
+              ]
+            },
+            {
+              "title": {
+                "en": "Developing ideas through sketches",
+                "fr": "Développer des idées à travers des croquis",
+                "mfe": "Devlop lide atraver eskiss"
+              },
+              "objectives": [
+                "Produce multiple thumbnail sketches",
+                "Experiment with different compositions",
+                "Select the strongest idea to develop"
+              ]
+            },
+            {
+              "title": {
+                "en": "Producing the final piece",
+                "fr": "Réaliser l'œuvre finale",
+                "mfe": "Prodwir pies final"
+              },
+              "objectives": [
+                "Apply chosen media and techniques skilfully",
+                "Manage time effectively to complete the work",
+                "Make refinements based on self-evaluation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Evaluating and presenting the project",
+                "fr": "Évaluer et présenter le projet",
+                "mfe": "Evalue ek prezant proze"
+              },
+              "objectives": [
+                "Write a clear evaluation of the final piece",
+                "Present the project to peers or teacher",
+                "Reflect on strengths and areas for improvement"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "units": [
+        {
+          "title": {
+            "en": "Foundations of observational drawing",
+            "fr": "Fondements du dessin d'observation",
+            "mfe": "Baz disegn lobzervasyon"
+          },
+          "summary": {
+            "en": "Students revisit and strengthen core drawing skills, focusing on accurate observation, proportion and tonal control using local objects and scenes as subject matter.",
+            "fr": "Les élèves revisitent et renforcent les compétences de base en dessin, en se concentrant sur l'observation précise, les proportions et le contrôle des tons à partir d'objets et de scènes locales.",
+            "mfe": "Elev revize ek ranforsi bann konpetans baz dan disegn, konsantre lor lobzervasyon presi, propor��syon ek kontrol ton avek bann obze ek sennn lokal kouma sizet."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Observational drawing revision",
+                "fr": "Révision du dessin d'observation",
+                "mfe": "Revizyon disegn lobzervasyon"
+              },
+              "objectives": [
+                "Recall key drawing techniques from lower secondary",
+                "Apply accurate proportion when drawing still life objects",
+                "Demonstrate control of line weight and pressure"
+              ]
+            },
+            {
+              "title": {
+                "en": "Tone and shading techniques",
+                "fr": "Techniques de ton et d'ombrage",
+                "mfe": "Teknik ton ek onbraz"
+              },
+              "objectives": [
+                "Identify sources of light and shadow on an object",
+                "Apply hatching, cross-hatching and blending techniques",
+                "Create a tonal scale from light to dark"
+              ]
+            },
+            {
+              "title": {
+                "en": "Drawing local still life objects",
+                "fr": "Dessiner des objets de nature morte locaux",
+                "mfe": "Disenn bann obze natir mort lokal"
+              },
+              "objectives": [
+                "Select and arrange everyday Mauritian objects for a composition",
+                "Apply tonal shading to render form and volume",
+                "Evaluate own drawing against observed subject"
+              ]
+            },
+            {
+              "title": {
+                "en": "Perspective and depth in drawing",
+                "fr": "Perspective et profondeur dans le dessin",
+                "mfe": "Perspektiv ek profonder dan disegn"
+              },
+              "objectives": [
+                "Explain one-point and two-point perspective principles",
+                "Apply perspective to draw simple architectural forms",
+                "Use overlapping and scale to suggest depth"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Colour theory and painting media",
+            "fr": "Théorie des couleurs et médiums de peinture",
+            "mfe": "Teori koulir ek medyom lapentir"
+          },
+          "summary": {
+            "en": "This unit explores colour relationships and introduces practical experience with watercolour, acrylic and mixed media painting techniques.",
+            "fr": "Cette unité explore les relations entre les couleurs et propose une expérience pratique avec l'aquarelle, l'acrylique et les techniques de médiums mixtes.",
+            "mfe": "Sa lini-la explor bann relasyon koulir ek introdir lexperyans pratik avek akwarel, akrilik ek teknik medyom mikst."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "The colour wheel and mixing",
+                "fr": "Le cercle chromatique et le mélange",
+                "mfe": "Rou koulir ek melanz"
+              },
+              "objectives": [
+                "Identify primary, secondary and tertiary colours",
+                "Mix colours to achieve desired hues",
+                "Explain complementary and analogous colour schemes"
+              ]
+            },
+            {
+              "title": {
+                "en": "Working with watercolour",
+                "fr": "Travailler à l'aquarelle",
+                "mfe": "Travay avek akwarel"
+              },
+              "objectives": [
+                "Demonstrate wet-on-wet and wet-on-dry techniques",
+                "Control water-to-pigment ratio for effects",
+                "Produce a landscape study using watercolour"
+              ]
+            },
+            {
+              "title": {
+                "en": "Exploring acrylic paint",
+                "fr": "Explorer la peinture acrylique",
+                "mfe": "Explor lapentir akrilik"
+              },
+              "objectives": [
+                "Apply layering and blending techniques with acrylics",
+                "Use a palette knife for texture effects",
+                "Create a painting inspired by Mauritian scenery"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mixed media experimentation",
+                "fr": "Expérimentation en médiums mixtes",
+                "mfe": "Esperimantasyon medyom mikst"
+              },
+              "objectives": [
+                "Combine two or more media in one artwork",
+                "Evaluate the visual effects of combining media",
+                "Reflect on personal preferences in media choice"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Design principles and composition",
+            "fr": "Principes de conception et composition",
+            "mfe": "Prinsip disenn ek konpozisyon"
+          },
+          "summary": {
+            "en": "Students study the formal elements and principles of art and design, applying them to create balanced and effective compositions.",
+            "fr": "Les élèves étudient les éléments formels et les principes de l'art et du design, en les appliquant pour créer des compositions équilibrées et efficaces.",
+            "mfe": "Elev etidye bann element formel ek prinsip lar ek disenn, aplik zot pou kree konpozisyon balanse ek efikas."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Elements of art and design",
+                "fr": "Éléments de l'art et du design",
+                "mfe": "Element lar ek disenn"
+              },
+              "objectives": [
+                "Define line, shape, form, texture, tone and colour",
+                "Identify these elements in existing artworks",
+                "Use elements deliberately in a simple composition"
+              ]
+            },
+            {
+              "title": {
+                "en": "Principles of design",
+                "fr": "Principes du design",
+                "mfe": "Prinsip disenn"
+              },
+              "objectives": [
+                "Explain balance, contrast, rhythm and unity",
+                "Analyse how principles are used in selected artworks",
+                "Apply balance and contrast in a design exercise"
+              ]
+            },
+            {
+              "title": {
+                "en": "Composition strategies",
+                "fr": "Stratégies de composition",
+                "mfe": "Stratezi konpozisyon"
+              },
+              "objectives": [
+                "Use the rule of thirds to plan a composition",
+                "Arrange focal points to guide viewer's eye",
+                "Produce thumbnail sketches exploring composition options"
+              ]
+            },
+            {
+              "title": {
+                "en": "Applying design principles to a theme",
+                "fr": "Appliquer les principes de conception à un thème",
+                "mfe": "Aplik prinsip disenn lor enn tem"
+              },
+              "objectives": [
+                "Select a personal theme relevant to Mauritian culture",
+                "Plan a composition applying design principles",
+                "Justify design choices in a short written reflection"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Printmaking techniques",
+            "fr": "Techniques de gravure",
+            "mfe": "Teknik gravir"
+          },
+          "summary": {
+            "en": "Students are introduced to relief and stencil printmaking methods, exploring pattern, repetition and surface texture.",
+            "fr": "Les élèves sont initiés aux méthodes de gravure en relief et au pochoir, en explorant le motif, la répétition et la texture de surface.",
+            "mfe": "Elev fer konesans avek metod gravir relyef ek stensil, explor motif, repetisyon ek tekstir sirfas."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Introduction to printmaking",
+                "fr": "Introduction à la gravure",
+                "mfe": "Introdiksyon a gravir"
+              },
+              "objectives": [
+                "Explain the basic principles of relief printing",
+                "Identify tools and materials used in printmaking",
+                "Discuss examples of printmaking in art history"
+              ]
+            },
+            {
+              "title": {
+                "en": "Creating a lino or foam print",
+                "fr": "Créer une gravure sur linoléum ou mousse",
+                "mfe": "Kree enn gravir lino ou mous"
+              },
+              "objectives": [
+                "Design a simple motif suitable for printing",
+                "Carve or cut a printing block safely",
+                "Produce multiple prints checking for consistency"
+              ]
+            },
+            {
+              "title": {
+                "en": "Stencil and monoprint techniques",
+                "fr": "Techniques de pochoir et de monotype",
+                "mfe": "Teknik stensil ek monotip"
+              },
+              "objectives": [
+                "Create a stencil using card or acetate",
+                "Apply monoprint techniques for unique images",
+                "Compare results of different printmaking methods"
+              ]
+            },
+            {
+              "title": {
+                "en": "Pattern and repetition in prints",
+                "fr": "Motif et répétition dans les gravures",
+                "mfe": "Motif ek repetisyon dan gravir"
+              },
+              "objectives": [
+                "Explore repeat patterns inspired by Mauritian textiles",
+                "Arrange printed motifs to create a repeat design",
+                "Evaluate the visual impact of repetition"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Three-dimensional design and sculpture",
+            "fr": "Design tridimensionnel et sculpture",
+            "mfe": "Disenn trwadimansyonel ek skiltir"
+          },
+          "summary": {
+            "en": "This unit introduces students to working in three dimensions using clay, found materials and simple construction methods.",
+            "fr": "Cette unité initie les élèves au travail en trois dimensions à l'aide d'argile, de matériaux trouvés et de méthodes de construction simples.",
+            "mfe": "Sa lini-la introdir elev travay an trwa dimansyon avek larzil, materyo trouve ek metod konstriksyon senp."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Working with clay",
+                "fr": "Travailler l'argile",
+                "mfe": "Travay avek larzil"
+              },
+              "objectives": [
+                "Demonstrate pinch, coil and slab clay techniques",
+                "Create a simple three-dimensional form",
+                "Apply surface texture to a clay piece"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sculpture from found materials",
+                "fr": "Sculpture à partir de matériaux trouvés",
+                "mfe": "Skiltir avek materyo trouve"
+              },
+              "objectives": [
+                "Select recycled or natural materials for construction",
+                "Assemble materials to form a sculptural piece",
+                "Discuss sustainability in art material choices"
+              ]
+            },
+            {
+              "title": {
+                "en": "Form and space in sculpture",
+                "fr": "Forme et espace dans la sculpture",
+                "mfe": "Form ek lespas dan skiltir"
+              },
+              "objectives": [
+                "Explain the relationship between positive and negative space",
+                "Analyse how viewpoint affects perception of form",
+                "Photograph a sculpture from multiple angles"
+              ]
+            },
+            {
+              "title": {
+                "en": "Planning a 3D design project",
+                "fr": "Planifier un projet de design 3D",
+                "mfe": "Planifye enn projet disenn 3D"
+              },
+              "objectives": [
+                "Develop preparatory sketches for a 3D piece",
+                "Select appropriate materials and construction methods",
+                "Present a plan with annotations explaining choices"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Art history and critical studies",
+            "fr": "Histoire de l'art et études critiques",
+            "mfe": "Zistwar lar ek etid kritik"
+          },
+          "summary": {
+            "en": "Students explore selected art movements and Mauritian artists, developing skills in visual analysis and critical writing.",
+            "fr": "Les élèves explorent des mouvements artistiques sélectionnés et des artistes mauriciens, en développant des compétences en analyse visuelle et en écriture critique.",
+            "mfe": "Elev explor bann mouvman ar select ek artis Morisyen, devlop konpetans an analiz vizyel ek ekritir kritik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Introduction to art movements",
+                "fr": "Introduction aux mouvements artistiques",
+                "mfe": "Introdiksyon a mouvman ar"
+              },
+              "objectives": [
+                "Identify key features of selected art movements",
+                "Compare styles across different historical periods",
+                "Discuss how context influences artistic style"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mauritian artists and heritage",
+                "fr": "Artistes mauriciens et patrimoine",
+                "mfe": "Artis Morisyen ek patrimwann"
+              },
+              "objectives": [
+                "Research the work of a Mauritian artist",
+                "Identify cultural influences in their artwork",
+                "Present findings using visual and written evidence"
+              ]
+            },
+            {
+              "title": {
+                "en": "Visual analysis skills",
+                "fr": "Compétences d'analyse visuelle",
+                "mfe": "Konpetans analiz vizyel"
+              },
+              "objectives": [
+                "Apply a structured method to analyse an artwork",
+                "Use appropriate art vocabulary in analysis",
+                "Compare two artworks addressing a similar theme"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing a critical study",
+                "fr": "Rédiger une étude critique",
+                "mfe": "Ekrir enn etid kritik"
+              },
+              "objectives": [
+                "Structure a short critical essay on an artwork",
+                "Support opinions with visual evidence",
+                "Reference sources appropriately in written work"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Developing a personal coursework project",
+            "fr": "Développer un projet personnel de contrôle continu",
+            "mfe": "Devlop enn projet personel kour"
+          },
+          "summary": {
+            "en": "Students begin an extended coursework project, applying research, experimentation and reflective practice towards a personal outcome.",
+            "fr": "Les élèves commencent un projet de contrôle continu élargi, en appliquant la recherche, l'expérimentation et la pratique réflexive vers un résultat personnel.",
+            "mfe": "Elev koumans enn projet kour elarzi, aplik rerses, esperimantasyon ek pratik reflesif ver enn rezilta personel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Choosing a coursework theme",
+                "fr": "Choisir un thème de contrôle continu",
+                "mfe": "Swazir enn tem pou kour"
+              },
+              "objectives": [
+                "Identify personal interests suitable for a theme",
+                "Research visual and contextual sources related to theme",
+                "Record initial ideas in a sketchbook"
+              ]
+            },
+            {
+              "title": {
+                "en": "Research and mind mapping",
+                "fr": "Recherche et carte mentale",
+                "mfe": "Rerses ek kart mantal"
+              },
+              "objectives": [
+                "Collect primary and secondary source material",
+                "Organise ideas using a mind map",
+                "Identify possible directions for development"
+              ]
+            },
+            {
+              "title": {
+                "en": "Experimenting with media and techniques",
+                "fr": "Expérimenter avec les médiums et techniques",
+                "mfe": "Esperimant avek medyom ek teknik"
+              },
+              "objectives": [
+                "Test different media relevant to the chosen theme",
+                "Document experiments with annotations",
+                "Select the most promising approach to develop further"
+              ]
+            },
+            {
+              "title": {
+                "en": "Planning the final outcome",
+                "fr": "Planifier le résultat final",
+                "mfe": "Planifye rezilta final"
+              },
+              "objectives": [
+                "Develop preparatory studies towards a final piece",
+                "Justify choices of composition, media and technique",
+                "Create a timeline for completing the coursework"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "11": {
+      "units": [
+        {
+          "title": {
+            "en": "Observation and recording skills",
+            "fr": "Compétences d'observation et de dessin",
+            "mfe": "Konpetans lobzervasion ek desine"
+          },
+          "summary": {
+            "en": "Students strengthen observational drawing through still life, natural forms and everyday Mauritian objects, building confidence in accurate recording before developing personal coursework themes.",
+            "fr": "Les élèves renforcent le dessin d'observation à travers des natures mortes, des formes naturelles et des objets mauriciens du quotidien, gagnant en confiance avant de développer leurs thèmes personnels.",
+            "mfe": "Bann elev ranforsi zot desine lobzervasion atraver nati mort, form natirel ek zobze kotidien Moris, pou gagn plis konfians avan devlop zot ler tem personel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Revising line, tone and proportion",
+                "fr": "Réviser ligne, ton et proportion",
+                "mfe": "Revizyon lign, ton ek proporsion"
+              },
+              "objectives": [
+                "Recall key drawing techniques from earlier grades",
+                "Apply accurate proportion in simple still life sketches",
+                "Use tonal shading to show form and light direction"
+              ]
+            },
+            {
+              "title": {
+                "en": "Drawing local fruit and vegetables",
+                "fr": "Dessiner fruits et légumes locaux",
+                "mfe": "Desine fri ek legim lokal"
+              },
+              "objectives": [
+                "Observe texture and surface detail of local produce",
+                "Render form using continuous line and tonal studies",
+                "Select viewpoints that create interesting compositions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Studying natural forms closely",
+                "fr": "Étudier les formes naturelles de près",
+                "mfe": "Etidye form natirel de pre"
+              },
+              "objectives": [
+                "Examine shells, leaves and coral fragments for pattern",
+                "Record fine detail using controlled mark-making",
+                "Compare organic structures across different specimens"
+              ]
+            },
+            {
+              "title": {
+                "en": "Recording everyday objects and textures",
+                "fr": "Représenter objets et textures du quotidien",
+                "mfe": "Anrezistre zobze ek textir kotidien"
+              },
+              "objectives": [
+                "Select household objects with varied surface textures",
+                "Experiment with mark-making to suggest texture",
+                "Annotate drawings with observations on material qualities"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Developing a personal coursework theme",
+            "fr": "Développer un thème personnel de travail",
+            "mfe": "Devlop enn tem personel travay"
+          },
+          "summary": {
+            "en": "Learners choose and research a personal theme, gathering primary and secondary sources to guide sustained coursework development for the O Level portfolio.",
+            "fr": "Les élèves choisissent et explorent un thème personnel, rassemblant des sources primaires et secondaires pour guider leur travail de portfolio pour le O Level.",
+            "mfe": "Bann elev swazir ek fer resers lor enn tem personel, ramas sours primer ek segonder pou gid zot devlopman portfolio pou O Level."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Choosing a coursework theme",
+                "fr": "Choisir un thème de travail",
+                "mfe": "Swazir enn tem travay"
+              },
+              "objectives": [
+                "Identify personal interests suitable for extended study",
+                "Evaluate themes for visual and cultural richness",
+                "Set initial goals for a coursework project"
+              ]
+            },
+            {
+              "title": {
+                "en": "Gathering primary source material",
+                "fr": "Rassembler des sources primaires",
+                "mfe": "Ramas sours primer"
+              },
+              "objectives": [
+                "Photograph and sketch subjects directly from life",
+                "Record annotated observations during fieldwork",
+                "Organise source material for later development"
+              ]
+            },
+            {
+              "title": {
+                "en": "Researching artists and references",
+                "fr": "Rechercher des artistes de référence",
+                "mfe": "Fer resers lor bann artis referans"
+              },
+              "objectives": [
+                "Investigate artists whose work relates to the chosen theme",
+                "Analyse composition, colour and technique in reference works",
+                "Write short critical comparisons in a sketchbook"
+              ]
+            },
+            {
+              "title": {
+                "en": "Planning a body of work",
+                "fr": "Planifier un ensemble d'œuvres",
+                "mfe": "Planifie enn seri travay"
+              },
+              "objectives": [
+                "Sequence experiments and studies into a coherent plan",
+                "Set realistic timelines for coursework stages",
+                "Identify materials and techniques to be tested"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Colour, composition and design principles",
+            "fr": "Couleur, composition et principes de design",
+            "mfe": "Kouler, konpozisyon ek prinsip design"
+          },
+          "summary": {
+            "en": "Students explore colour theory, composition and design principles to strengthen visual decision-making in their developing coursework pieces.",
+            "fr": "Les élèves explorent la théorie des couleurs, la composition et les principes de design pour renforcer leurs choix visuels dans leurs travaux en cours.",
+            "mfe": "Bann elev explor teori kouler, konpozisyon ek prinsip design pou ranforsi zot desizion vizyel dan zot travay ki pe devlope."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Applying colour theory",
+                "fr": "Appliquer la théorie des couleurs",
+                "mfe": "Aplik teori kouler"
+              },
+              "objectives": [
+                "Mix primary, secondary and tertiary colours accurately",
+                "Explore warm and cool colour relationships",
+                "Use colour to suggest mood and atmosphere"
+              ]
+            },
+            {
+              "title": {
+                "en": "Building strong compositions",
+                "fr": "Construire des compositions solides",
+                "mfe": "Konstrir bon konpozisyon"
+              },
+              "objectives": [
+                "Apply rule of thirds and focal point placement",
+                "Balance positive and negative space in a design",
+                "Test thumbnail sketches to explore layout options"
+              ]
+            },
+            {
+              "title": {
+                "en": "Exploring pattern and rhythm",
+                "fr": "Explorer motif et rythme",
+                "mfe": "Explor motif ek ritm"
+              },
+              "objectives": [
+                "Identify repetition and rhythm in Mauritian textile and craft design",
+                "Create pattern studies using local motifs",
+                "Apply pattern to enhance a coursework composition"
+              ]
+            },
+            {
+              "title": {
+                "en": "Refining design through critique",
+                "fr": "Affiner le design par la critique",
+                "mfe": "Amelior design par kritik"
+              },
+              "objectives": [
+                "Give and receive constructive peer feedback",
+                "Identify strengths and weaknesses in a design draft",
+                "Revise a composition based on feedback received"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Printmaking and surface techniques",
+            "fr": "Gravure et techniques de surface",
+            "mfe": "Enprimri ek teknik siperfisi"
+          },
+          "summary": {
+            "en": "Learners experiment with printmaking methods such as relief and mono printing to add texture and variety to their coursework outcomes.",
+            "fr": "Les élèves expérimentent des méthodes de gravure telles que le relief et le monotype pour enrichir leurs travaux de texture et de variété.",
+            "mfe": "Bann elev fer lexperyans ek metod enprimri kouma relief ek mono print pou azout textir ek varyete dan zot travay."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Introducing relief printing",
+                "fr": "Découvrir la gravure en relief",
+                "mfe": "Dekouver enprimri relief"
+              },
+              "objectives": [
+                "Understand the process of cutting a relief printing block",
+                "Produce a simple relief print from an original design",
+                "Consider safety when using cutting tools"
+              ]
+            },
+            {
+              "title": {
+                "en": "Exploring mono printing",
+                "fr": "Explorer le monotype",
+                "mfe": "Explor mono print"
+              },
+              "objectives": [
+                "Apply ink to a plate to create unique prints",
+                "Experiment with layering colours in mono printing",
+                "Evaluate spontaneous effects achieved through the process"
+              ]
+            },
+            {
+              "title": {
+                "en": "Combining print with drawing",
+                "fr": "Combiner gravure et dessin",
+                "mfe": "Konbinn print ek desine"
+              },
+              "objectives": [
+                "Overlay drawn marks onto printed surfaces",
+                "Integrate print texture into a coursework composition",
+                "Reflect on how mixed techniques affect visual impact"
+              ]
+            },
+            {
+              "title": {
+                "en": "Editioning and presenting prints",
+                "fr": "Éditer et présenter des gravures",
+                "mfe": "Fer edisyon ek prezant print"
+              },
+              "objectives": [
+                "Produce a small edition of consistent prints",
+                "Mount and present prints professionally",
+                "Document the printmaking process in a sketchbook"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Mixed media exploration",
+            "fr": "Exploration des médias mixtes",
+            "mfe": "Explorasyon medya mixte"
+          },
+          "summary": {
+            "en": "Students combine drawing, paint, collage and found materials to expand technical range and personal expression within coursework.",
+            "fr": "Les élèves combinent dessin, peinture, collage et matériaux trouvés pour élargir leur registre technique et leur expression personnelle.",
+            "mfe": "Bann elev konbinn desine, lapentir, collage ek materyo trouve pou elarzi zot gamm teknik ek expresyon personel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Experimenting with collage",
+                "fr": "Expérimenter le collage",
+                "mfe": "Fer lexperyans avek collage"
+              },
+              "objectives": [
+                "Select and combine varied materials for collage",
+                "Consider composition when arranging collaged elements",
+                "Reflect on how collage changes surface and meaning"
+              ]
+            },
+            {
+              "title": {
+                "en": "Working with paint and texture paste",
+                "fr": "Travailler peinture et pâte à texture",
+                "mfe": "Travay avek lapentir ek pat pou textir"
+              },
+              "objectives": [
+                "Apply texture paste to build surface relief",
+                "Layer paint over textured grounds",
+                "Evaluate how texture affects visual interest"
+              ]
+            },
+            {
+              "title": {
+                "en": "Using found and recycled materials",
+                "fr": "Utiliser des matériaux trouvés et recyclés",
+                "mfe": "Servi materyo trouve ek rekikle"
+              },
+              "objectives": [
+                "Source recycled materials thoughtfully and sustainably",
+                "Incorporate found objects into a mixed media piece",
+                "Discuss environmental themes through material choice"
+              ]
+            },
+            {
+              "title": {
+                "en": "Combining media into one outcome",
+                "fr": "Combiner les médias en une œuvre",
+                "mfe": "Konbinn medya dan enn sel prodiksion"
+              },
+              "objectives": [
+                "Integrate multiple techniques into a unified artwork",
+                "Make considered decisions about scale and format",
+                "Justify material choices in written annotation"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Building the coursework portfolio",
+            "fr": "Construire le dossier de travail",
+            "mfe": "Konstrir dosye travay"
+          },
+          "summary": {
+            "en": "Learners consolidate sketchbook studies and experiments into a final coursework portfolio, focusing on development and resolution of ideas.",
+            "fr": "Les élèves rassemblent leurs études et expérimentations en un dossier de travail final, en développant et en résolvant leurs idées.",
+            "mfe": "Bann elev rasembl zot letid ek lexperyans dan enn dosye travay final, konsantre lor devlopman ek rezolisyon lide."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Organising the sketchbook",
+                "fr": "Organiser le carnet de croquis",
+                "mfe": "Organiz carnet croki"
+              },
+              "objectives": [
+                "Sequence pages to show clear development of ideas",
+                "Annotate work to explain decisions and reflections",
+                "Present research and experiments neatly and logically"
+              ]
+            },
+            {
+              "title": {
+                "en": "Selecting work for the final piece",
+                "fr": "Sélectionner les travaux pour l'œuvre finale",
+                "mfe": "Swazir travay pou pyes final"
+              },
+              "objectives": [
+                "Review coursework studies against assessment criteria",
+                "Identify the strongest ideas to carry forward",
+                "Plan compositional choices for a final outcome"
+              ]
+            },
+            {
+              "title": {
+                "en": "Producing the final coursework piece",
+                "fr": "Réaliser l'œuvre finale du dossier",
+                "mfe": "Prodwir pyes final dosye"
+              },
+              "objectives": [
+                "Apply chosen media confidently to a final artwork",
+                "Manage time effectively to complete the piece",
+                "Maintain quality and consistency across the final work"
+              ]
+            },
+            {
+              "title": {
+                "en": "Evaluating the finished portfolio",
+                "fr": "Évaluer le dossier terminé",
+                "mfe": "Evalie dosye fini"
+              },
+              "objectives": [
+                "Write a reflective evaluation of the coursework process",
+                "Compare intentions with final outcomes",
+                "Suggest improvements for future projects"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Preparing for the examination paper",
+            "fr": "Se préparer à l'épreuve d'examen",
+            "mfe": "Prepar pou lepev lexame"
+          },
+          "summary": {
+            "en": "Students prepare for the O Level controlled test by practising exam themes, planning under time constraints and refining technical skills for the final assessment.",
+            "fr": "Les élèves se préparent à l'épreuve contrôlée du O Level en s'exerçant sur des thèmes d'examen, en planifiant sous contrainte de temps et en perfectionnant leurs compétences techniques.",
+            "mfe": "Bann elev prepar pou test kontrole O Level par pratik tem lexame, planifikasyon avek letan limite ek amelior zot konpetans teknik pou levalyasion final."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Understanding the exam paper structure",
+                "fr": "Comprendre la structure de l'épreuve",
+                "mfe": "Konpran striktir lepev"
+              },
+              "objectives": [
+                "Identify requirements of the O Level exam paper",
+                "Interpret exam themes and starting points accurately",
+                "Plan a preparatory timeline before the exam"
+              ]
+            },
+            {
+              "title": {
+                "en": "Responding to a past exam theme",
+                "fr": "Répondre à un thème d'examen passé",
+                "mfe": "Reponn enn tem lexame pase"
+              },
+              "objectives": [
+                "Select a personal response to a sample exam theme",
+                "Develop preparatory studies within a set timeframe",
+                "Record research and experiments in exam preparation sheets"
+              ]
+            },
+            {
+              "title": {
+                "en": "Refining technique under time pressure",
+                "fr": "Perfectionner la technique sous pression",
+                "mfe": "Amelior teknik avek presyon letan"
+              },
+              "objectives": [
+                "Practise chosen techniques with increased speed and control",
+                "Manage materials efficiently within limited sessions",
+                "Evaluate readiness for the timed final exam piece"
+              ]
+            },
+            {
+              "title": {
+                "en": "Final review before the exam",
+                "fr": "Révision finale avant l'examen",
+                "mfe": "Revizyon final avan lexame"
+              },
+              "objectives": [
+                "Check preparatory work meets exam requirements",
+                "Finalise composition and material choices",
+                "Build confidence for completing work in exam conditions"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "12": {
+      "units": [
+        {
+          "title": {
+            "en": "Introduction to AS Level art and design",
+            "fr": "Introduction aux arts plastiques niveau AS",
+            "mfe": "Introdiksion ar Art ek Design nivo AS"
+          },
+          "summary": {
+            "en": "An orientation to the Cambridge AS & A Level Art & Design course, its assessment objectives, coursework structure and expectations for independent practice.",
+            "fr": "Une orientation au cours Art & Design AS & A Level de Cambridge, ses objectifs d'évaluation, la structure des travaux pratiques et les attentes en matière de pratique autonome.",
+            "mfe": "Enn lorientasion lor kour Cambridge AS & A Level Art & Design, so bann obzektif levaliasion, striktir travay prosedir ek atant pou pratik endepandan."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Understanding the AS Art & Design syllabus",
+                "fr": "Comprendre le programme d'Art & Design AS",
+                "mfe": "Konpran silabis Art & Design AS"
+              },
+              "objectives": [
+                "Explain the structure of the AS & A Level Art & Design course",
+                "Identify the four assessment objectives",
+                "Describe how coursework and exam components are weighted"
+              ]
+            },
+            {
+              "title": {
+                "en": "Building a personal sketchbook practice",
+                "fr": "Développer une pratique personnelle de carnet de croquis",
+                "mfe": "Devlop enn pratik personel karne desin"
+              },
+              "objectives": [
+                "Explain the purpose of a sketchbook in art practice",
+                "Demonstrate techniques for recording ideas and observations",
+                "Plan a regular sketchbook routine"
+              ]
+            },
+            {
+              "title": {
+                "en": "Researching artists and visual sources",
+                "fr": "Rechercher des artistes et sources visuelles",
+                "mfe": "Rod artis ek sours vizyel"
+              },
+              "objectives": [
+                "Locate relevant artists linked to a chosen theme",
+                "Analyse how artists use materials and composition",
+                "Record research findings using annotated visual notes"
+              ]
+            },
+            {
+              "title": {
+                "en": "Setting personal goals and a work plan",
+                "fr": "Fixer des objectifs personnels et un plan de travail",
+                "mfe": "Fixe bann obzektif personel ek enn plan travay"
+              },
+              "objectives": [
+                "Set realistic personal targets for the AS year",
+                "Create a timeline for coursework development",
+                "Reflect on strengths and areas for improvement"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Observation and recording skills",
+            "fr": "Compétences d'observation et de dessin",
+            "mfe": "Konpetans lobzervasion ek anrezistreman"
+          },
+          "summary": {
+            "en": "Developing accurate observational drawing skills using a variety of subjects, media and viewpoints found in the Mauritian environment.",
+            "fr": "Développer des compétences de dessin d'observation précises en utilisant divers sujets, médiums et points de vue de l'environnement mauricien.",
+            "mfe": "Devlop bann konpetans desin lobzervasion presi avek diferan size, medyom ek pwennvi dan lanvironnman morisien."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Drawing everyday objects with accuracy",
+                "fr": "Dessiner des objets du quotidien avec précision",
+                "mfe": "Desine bann obze toulezour avek presizion"
+              },
+              "objectives": [
+                "Apply proportion and perspective in still life drawing",
+                "Use tonal shading to suggest form",
+                "Compare different observational drawing approaches"
+              ]
+            },
+            {
+              "title": {
+                "en": "Capturing the human figure",
+                "fr": "Représenter la figure humaine",
+                "mfe": "Kaptir figir imen"
+              },
+              "objectives": [
+                "Practise gesture drawing of the human figure",
+                "Apply proportion rules to figure studies",
+                "Evaluate the effectiveness of quick sketches"
+              ]
+            },
+            {
+              "title": {
+                "en": "Recording landscapes and local architecture",
+                "fr": "Représenter des paysages et l'architecture locale",
+                "mfe": "Anrezistre peizaz ek larsitektir lokal"
+              },
+              "objectives": [
+                "Sketch outdoor scenes using perspective techniques",
+                "Select viewpoints that create visual interest",
+                "Record architectural details of Mauritian buildings"
+              ]
+            },
+            {
+              "title": {
+                "en": "Experimenting with line, tone and texture",
+                "fr": "Expérimenter la ligne, le ton et la texture",
+                "mfe": "Esperimant avek lign, ton ek tekstir"
+              },
+              "objectives": [
+                "Explore mark-making techniques with different tools",
+                "Combine line and tone to describe surfaces",
+                "Reflect on how texture affects visual impact"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Developing a personal theme",
+            "fr": "Développer un thème personnel",
+            "mfe": "Devlop enn tem personel"
+          },
+          "summary": {
+            "en": "Guiding students to select, research and develop a personal theme that will underpin their AS coursework project.",
+            "fr": "Guider les élèves pour choisir, rechercher et développer un thème personnel qui soutiendra leur projet de travaux pratiques AS.",
+            "mfe": "Gid bann etidian pou swazir, rod ek devlop enn tem personel ki pou sipport zot proze travay prosedir AS."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Choosing a starting point for a theme",
+                "fr": "Choisir un point de départ pour un thème",
+                "mfe": "Swazir enn pwennt depar pou enn tem"
+              },
+              "objectives": [
+                "Brainstorm possible themes drawn from personal experience",
+                "Select a theme with strong visual potential",
+                "Justify the choice of theme in written notes"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mind-mapping and initial visual research",
+                "fr": "Cartographie mentale et recherche visuelle initiale",
+                "mfe": "Fer mind-map ek premie rod vizyel"
+              },
+              "objectives": [
+                "Create a mind map linking ideas to the chosen theme",
+                "Gather primary and secondary visual references",
+                "Organise research into a coherent sketchbook page"
+              ]
+            },
+            {
+              "title": {
+                "en": "Generating first compositional ideas",
+                "fr": "Générer les premières idées de composition",
+                "mfe": "Zenere premie lide konpozision"
+              },
+              "objectives": [
+                "Produce thumbnail sketches exploring composition",
+                "Experiment with different formats and croppings",
+                "Select promising ideas for further development"
+              ]
+            },
+            {
+              "title": {
+                "en": "Refining the theme through feedback",
+                "fr": "Affiner le thème grâce aux retours",
+                "mfe": "Rafine tem gras a feedback"
+              },
+              "objectives": [
+                "Present initial ideas for peer or teacher feedback",
+                "Identify strengths and weaknesses in current work",
+                "Revise the theme direction based on feedback"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Materials, techniques and processes",
+            "fr": "Matériaux, techniques et procédés",
+            "mfe": "Materyo, teknik ek prosedir"
+          },
+          "summary": {
+            "en": "Exploring a range of traditional and contemporary materials and processes to expand technical range and confidence.",
+            "fr": "Explorer une gamme de matériaux et procédés traditionnels et contemporains pour élargir la maîtrise technique et la confiance.",
+            "mfe": "Explor enn ranz materyo ek prosedir tradisionel ek kontanporen pou agrandi kapasite teknik ek konfians."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Exploring painting media",
+                "fr": "Explorer les médiums de peinture",
+                "mfe": "Explor medyom pentir"
+              },
+              "objectives": [
+                "Compare properties of watercolour, acrylic and gouache",
+                "Apply colour mixing techniques",
+                "Experiment with brush and palette knife application"
+              ]
+            },
+            {
+              "title": {
+                "en": "Printmaking basics",
+                "fr": "Bases de la gravure",
+                "mfe": "Baz gravir"
+              },
+              "objectives": [
+                "Understand simple relief printing methods",
+                "Produce a print using local or found materials",
+                "Evaluate the visual effects of repeated printing"
+              ]
+            },
+            {
+              "title": {
+                "en": "Digital tools in art making",
+                "fr": "Outils numériques dans la création artistique",
+                "mfe": "Zouti dizital dan kreasion ar"
+              },
+              "objectives": [
+                "Use basic digital editing software to manipulate images",
+                "Combine digital and traditional media",
+                "Discuss the role of digital tools in contemporary art"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mixed media experimentation",
+                "fr": "Expérimentation en techniques mixtes",
+                "mfe": "Esperimantasion medyom melanze"
+              },
+              "objectives": [
+                "Combine two or more media in a single piece",
+                "Evaluate how combining media affects meaning",
+                "Document experiments with annotated samples"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Critical and contextual studies",
+            "fr": "Études critiques et contextuelles",
+            "mfe": "Letid kritik ek kontekstyel"
+          },
+          "summary": {
+            "en": "Analysing the work of artists and movements to understand context, meaning and influence on personal practice.",
+            "fr": "Analyser le travail d'artistes et de mouvements pour comprendre le contexte, le sens et l'influence sur la pratique personnelle.",
+            "mfe": "Analiz travay bann artis ek mouvman pou konpran kontex, sinifikasion ek lenflians lor pratik personel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Analysing artworks using visual language",
+                "fr": "Analyser des œuvres avec le vocabulaire visuel",
+                "mfe": "Analiz zev ar avek vokabiler vizyel"
+              },
+              "objectives": [
+                "Apply formal analysis terminology to an artwork",
+                "Discuss composition, colour and technique",
+                "Write a structured analysis of a chosen work"
+              ]
+            },
+            {
+              "title": {
+                "en": "Exploring Mauritian and regional art history",
+                "fr": "Explorer l'histoire de l'art mauricien et régional",
+                "mfe": "Explor listwar ar morisien ek rezional"
+              },
+              "objectives": [
+                "Identify key artists and movements from Mauritius and the region",
+                "Discuss cultural influences on local art",
+                "Compare local artworks with international examples"
+              ]
+            },
+            {
+              "title": {
+                "en": "Understanding a global art movement",
+                "fr": "Comprendre un mouvement artistique mondial",
+                "mfe": "Konpran enn mouvman ar global"
+              },
+              "objectives": [
+                "Research the characteristics of a chosen art movement",
+                "Identify key artists associated with the movement",
+                "Explain the movement's relevance to contemporary practice"
+              ]
+            },
+            {
+              "title": {
+                "en": "Linking research to personal work",
+                "fr": "Relier la recherche au travail personnel",
+                "mfe": "Relie rese avek travay personel"
+              },
+              "objectives": [
+                "Identify connections between researched artists and own theme",
+                "Adapt techniques inspired by researched artists",
+                "Reflect on how research informs personal direction"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Two-dimensional media exploration",
+            "fr": "Exploration des médiums bidimensionnels",
+            "mfe": "Explorasion medyom de dimansion"
+          },
+          "summary": {
+            "en": "Developing skills in painting, drawing and mixed 2D media to produce resolved compositions linked to the personal theme.",
+            "fr": "Développer des compétences en peinture, dessin et médiums 2D mixtes pour produire des compositions abouties liées au thème personnel.",
+            "mfe": "Devlop konpetans dan pentir, desin ek medyom 2D melanze pou prodir konpozision fini ki lie ar tem personel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Composing a resolved 2D piece",
+                "fr": "Composer une œuvre 2D aboutie",
+                "mfe": "Konpoz enn pies 2D fini"
+              },
+              "objectives": [
+                "Plan a composition based on prior research",
+                "Select appropriate media for the intended effect",
+                "Produce a resolved 2D artwork"
+              ]
+            },
+            {
+              "title": {
+                "en": "Using colour to convey mood",
+                "fr": "Utiliser la couleur pour exprimer une ambiance",
+                "mfe": "Servi kouler pou eksprim lanbians"
+              },
+              "objectives": [
+                "Apply colour theory to evoke emotion",
+                "Experiment with warm and cool colour schemes",
+                "Evaluate the impact of colour choices on meaning"
+              ]
+            },
+            {
+              "title": {
+                "en": "Working at larger scale",
+                "fr": "Travailler à plus grande échelle",
+                "mfe": "Travay lor pli gran lesel"
+              },
+              "objectives": [
+                "Adapt techniques for larger formats",
+                "Manage composition across a bigger surface",
+                "Reflect on challenges of scaling up work"
+              ]
+            },
+            {
+              "title": {
+                "en": "Refining and finishing a 2D outcome",
+                "fr": "Affiner et finaliser une réalisation 2D",
+                "mfe": "Rafine ek fini enn rezilta 2D"
+              },
+              "objectives": [
+                "Review work against original intentions",
+                "Make refinements to improve visual impact",
+                "Present a finished piece with supporting notes"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Three-dimensional and mixed media exploration",
+            "fr": "Exploration tridimensionnelle et techniques mixtes",
+            "mfe": "Explorasion trwa dimansion ek medyom melanze"
+          },
+          "summary": {
+            "en": "Introducing sculptural and installation approaches, encouraging experimentation with form, space and found materials.",
+            "fr": "Introduire des approches sculpturales et d'installation, encourageant l'expérimentation de la forme, de l'espace et des matériaux trouvés.",
+            "mfe": "Introdir bann laprosh skilptiral ek lenstalasion, ankouraz lesperimantasion form, lespas ek materyo trouve."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Introduction to sculptural form",
+                "fr": "Introduction à la forme sculpturale",
+                "mfe": "Introdiksion form skilptiral"
+              },
+              "objectives": [
+                "Understand basic principles of three-dimensional form",
+                "Experiment with maquettes using simple materials",
+                "Discuss how form communicates ideas"
+              ]
+            },
+            {
+              "title": {
+                "en": "Working with found and recycled materials",
+                "fr": "Travailler avec des matériaux trouvés et recyclés",
+                "mfe": "Travay avek materyo trouve ek rekikle"
+              },
+              "objectives": [
+                "Select found materials appropriate to a theme",
+                "Combine materials to create a small sculpture",
+                "Reflect on sustainability in art practice"
+              ]
+            },
+            {
+              "title": {
+                "en": "Exploring installation and space",
+                "fr": "Explorer l'installation et l'espace",
+                "mfe": "Explor lenstalasion ek lespas"
+              },
+              "objectives": [
+                "Understand how installation art uses space",
+                "Plan a small-scale installation concept",
+                "Consider viewer interaction in spatial work"
+              ]
+            },
+            {
+              "title": {
+                "en": "Presenting a 3D outcome",
+                "fr": "Présenter une réalisation 3D",
+                "mfe": "Prezant enn rezilta 3D"
+              },
+              "objectives": [
+                "Photograph and document a 3D artwork effectively",
+                "Write a reflective evaluation of the piece",
+                "Discuss how the outcome relates to the personal theme"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Building the personal investigation portfolio",
+            "fr": "Constituer le portfolio d'investigation personnelle",
+            "mfe": "Konstrir portfolio lanket personel"
+          },
+          "summary": {
+            "en": "Consolidating a term's work into a coherent coursework portfolio that demonstrates development, experimentation and a resolved outcome.",
+            "fr": "Consolider le travail du trimestre en un portfolio cohérent démontrant développement, expérimentation et une réalisation aboutie.",
+            "mfe": "Konsolid travay term dan enn portfolio koeran ki montre devlopman, esperimantasion ek enn rezilta fini."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Organising sketchbook and coursework evidence",
+                "fr": "Organiser le carnet de croquis et les preuves du travail",
+                "mfe": "Organiz karne desin ek prev travay prosedir"
+              },
+              "objectives": [
+                "Select the strongest work for inclusion in the portfolio",
+                "Sequence pages to show a clear development of ideas",
+                "Label and annotate work appropriately"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing reflective evaluations",
+                "fr": "Rédiger des évaluations réflexives",
+                "mfe": "Ekrir levaliasion reflexif"
+              },
+              "objectives": [
+                "Structure a reflective evaluation of coursework",
+                "Use appropriate art vocabulary in written reflection",
+                "Link evaluation to assessment objectives"
+              ]
+            },
+            {
+              "title": {
+                "en": "Preparing work for assessment",
+                "fr": "Préparer le travail pour l'évaluation",
+                "mfe": "Prepar travay pou levaliasion"
+              },
+              "objectives": [
+                "Check portfolio against assessment criteria",
+                "Ensure presentation meets required standards",
+                "Identify any gaps needing further work"
+              ]
+            },
+            {
+              "title": {
+                "en": "Presenting and discussing the portfolio",
+                "fr": "Présenter et discuter du portfolio",
+                "mfe": "Prezant ek diskite portfolio"
+              },
+              "objectives": [
+                "Present the portfolio clearly to an audience",
+                "Respond to questions about creative decisions",
+                "Reflect on the overall AS year's progress"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "13": {
+      "units": [
+        {
+          "title": {
+            "en": "Launching the personal investigation",
+            "fr": "Lancer l'investigation personnelle",
+            "mfe": "Lansman lenketa personel"
+          },
+          "summary": {
+            "en": "Students identify a sustained theme for their A2 personal investigation, drawing on personal interests, Mauritian culture and global art movements to establish a clear direction for the year's work.",
+            "fr": "Les élèves identifient un thème durable pour leur investigation personnelle A2, en s'appuyant sur leurs intérêts personnels, la culture mauricienne et les mouvements artistiques mondiaux pour définir une direction claire pour le travail de l'année.",
+            "mfe": "Bann elev idantifie enn tem soutenu pou zot lenketa personel A2, ki baze lor zot lentere personel, kiltir morisien ek mouvman lar mondyal pou etabli enn direksyon kler pou travay lane a.mfe"
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Choosing a sustained theme",
+                "fr": "Choisir un thème durable",
+                "mfe": "Swazir enn tem soutenu"
+              },
+              "objectives": [
+                "Identify personal interests suitable for extended study",
+                "Evaluate potential themes for depth and originality",
+                "Select a viable theme for the year-long investigation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mind mapping and initial research",
+                "fr": "Carte mentale et recherche initiale",
+                "mfe": "Kart mantal ek rese"
+              },
+              "objectives": [
+                "Generate ideas using mind mapping techniques",
+                "Identify initial sources of visual and written research",
+                "Record early responses in a sketchbook"
+              ]
+            },
+            {
+              "title": {
+                "en": "Setting personal objectives and timeline",
+                "fr": "Définir des objectifs personnels et un calendrier",
+                "mfe": "Fixe bann obzektif personel ek enn kalandriye"
+              },
+              "objectives": [
+                "Draft clear aims for the personal investigation",
+                "Plan a realistic timeline for research and making",
+                "Anticipate resources and materials needed"
+              ]
+            },
+            {
+              "title": {
+                "en": "Identifying key artists and references",
+                "fr": "Identifier des artistes et références clés",
+                "mfe": "Idantifie bann artis ek referans kle"
+              },
+              "objectives": [
+                "Research artists relevant to the chosen theme",
+                "Compare Mauritian and international practitioners",
+                "Begin an annotated bibliography of sources"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Critical and contextual research skills",
+            "fr": "Compétences de recherche critique et contextuelle",
+            "mfe": "Konpetans rese kritik ek kontekstyel"
+          },
+          "summary": {
+            "en": "Students deepen their ability to analyse artworks, artists and movements in social and historical context, building the critical foundation needed for the personal study.",
+            "fr": "Les élèves approfondissent leur capacité à analyser des œuvres, des artistes et des mouvements dans leur contexte social et historique, construisant la base critique nécessaire pour l'étude personnelle.",
+            "mfe": "Bann elev developpe zot kapasite pou analiz zoev lar, artis ek mouvman dan zot kontekst sosyal ek istorik, pou bati fondasyon kritik neseser pou letid personel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Analysing artworks in context",
+                "fr": "Analyser des œuvres en contexte",
+                "mfe": "Analiz zoev lar dan kontekst"
+              },
+              "objectives": [
+                "Apply formal analysis to selected artworks",
+                "Discuss social and historical context of artworks",
+                "Link contextual findings to personal work"
+              ]
+            },
+            {
+              "title": {
+                "en": "Comparing global art movements",
+                "fr": "Comparer des mouvements artistiques mondiaux",
+                "mfe": "Kompar mouvman lar mondyal"
+              },
+              "objectives": [
+                "Compare characteristics of two or more art movements",
+                "Identify influences relevant to the chosen theme",
+                "Record comparisons using visual and written notes"
+              ]
+            },
+            {
+              "title": {
+                "en": "Referencing and academic writing skills",
+                "fr": "Compétences de référencement et d'écriture académique",
+                "mfe": "Konpetans referansman ek ekritir akademik"
+              },
+              "objectives": [
+                "Apply consistent referencing conventions",
+                "Structure paragraphs for critical analysis",
+                "Avoid plagiarism through proper citation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Museum and gallery study visit",
+                "fr": "Visite d'étude au musée ou à la galerie",
+                "mfe": "Vizit letid dan mize ouswa galri"
+              },
+              "objectives": [
+                "Observe original artworks firsthand",
+                "Record critical responses during a visit",
+                "Relate observed works to personal investigation"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Experimentation with media and processes",
+            "fr": "Expérimentation avec les médias et procédés",
+            "mfe": "Esperimantasyon ar bann medya ek prose"
+          },
+          "summary": {
+            "en": "Students explore a wide range of media, techniques and processes to test possibilities for their personal investigation and build technical confidence.",
+            "fr": "Les élèves explorent une large gamme de médias, techniques et procédés pour tester des possibilités pour leur investigation personnelle et développer leur confiance technique.",
+            "mfe": "Bann elev explor enn larz gam medya, teknik ek prose pou teste bann posibilite pou zot lenketa personel ek bati konfyans teknik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Exploring drawing and mixed media",
+                "fr": "Explorer le dessin et les médias mixtes",
+                "mfe": "Explor desen ek medya mikst"
+              },
+              "objectives": [
+                "Experiment with combining drawing materials",
+                "Evaluate effectiveness of mixed media combinations",
+                "Select promising techniques for further development"
+              ]
+            },
+            {
+              "title": {
+                "en": "Testing digital and photographic processes",
+                "fr": "Tester des procédés numériques et photographiques",
+                "mfe": "Teste prose dizital ek fotografik"
+              },
+              "objectives": [
+                "Experiment with digital editing tools",
+                "Combine photography with traditional media",
+                "Assess digital outcomes against personal theme"
+              ]
+            },
+            {
+              "title": {
+                "en": "Three-dimensional and sculptural exploration",
+                "fr": "Exploration tridimensionnelle et sculpturale",
+                "mfe": "Esplorasyon trwadimansyonel ek skilptiral"
+              },
+              "objectives": [
+                "Experiment with three-dimensional materials",
+                "Consider scale and form in relation to theme",
+                "Document experiments through photography and notes"
+              ]
+            },
+            {
+              "title": {
+                "en": "Textiles, print and craft techniques",
+                "fr": "Textiles, impression et techniques artisanales",
+                "mfe": "Tekstil, lenpresyon ek teknik artizanal"
+              },
+              "objectives": [
+                "Experiment with print or textile processes",
+                "Relate craft techniques to Mauritian cultural traditions",
+                "Evaluate suitability of techniques for final work"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Sustained development of ideas",
+            "fr": "Développement soutenu des idées",
+            "mfe": "Devlopman soutenu bann lide"
+          },
+          "summary": {
+            "en": "Students refine and develop chosen ideas through a sustained process of experimentation, review and decision-making, moving towards resolved outcomes.",
+            "fr": "Les élèves affinent et développent les idées choisies à travers un processus soutenu d'expérimentation, de révision et de prise de décision, vers des résultats aboutis.",
+            "mfe": "Bann elev rafinn ek devlop bann lide swazi atraver enn prosesis soutenu esperimantasyon, revizyon ek pran desizyon, pou aboutir ver bann rezilta finalize."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Selecting and refining strongest ideas",
+                "fr": "Sélectionner et affiner les meilleures idées",
+                "mfe": "Swazir ek rafinn bann pli bon lide"
+              },
+              "objectives": [
+                "Review experimental work critically",
+                "Select ideas with strongest potential",
+                "Justify choices through written annotation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Developing composition and scale studies",
+                "fr": "Développer des études de composition et d'échelle",
+                "mfe": "Devlop letid konpozisyon ek lesel"
+              },
+              "objectives": [
+                "Explore compositional arrangements through sketches",
+                "Test different scales for final pieces",
+                "Record decisions through annotated studies"
+              ]
+            },
+            {
+              "title": {
+                "en": "Colour, tone and surface development",
+                "fr": "Développement de la couleur, du ton et de la surface",
+                "mfe": "Devlopman kouler, ton ek sirfas"
+              },
+              "objectives": [
+                "Experiment with colour relationships and mood",
+                "Test tonal and surface qualities",
+                "Evaluate impact of choices on overall theme"
+              ]
+            },
+            {
+              "title": {
+                "en": "Peer critique and self-evaluation",
+                "fr": "Critique par les pairs et auto-évaluation",
+                "mfe": "Kritik kamarad ek oto-evalyasyon"
+              },
+              "objectives": [
+                "Give constructive feedback to peers",
+                "Reflect critically on own progress",
+                "Identify next steps for development"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Producing the personal study",
+            "fr": "Rédiger l'étude personnelle",
+            "mfe": "Prodwir letid personel"
+          },
+          "summary": {
+            "en": "Students plan, draft and complete the written personal study, linking critical research to their practical investigation with clear structure and argument.",
+            "fr": "Les élèves planifient, rédigent et complètent l'étude personnelle écrite, reliant la recherche critique à leur investigation pratique avec une structure et un argument clairs.",
+            "mfe": "Bann elev planifye, ekrir ek konpli letid personel ekrir, ki relie rese kritik ar zot lenketa pratik avek enn striktir ek argiman kler."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Structuring the written study",
+                "fr": "Structurer l'étude écrite",
+                "mfe": "Striktir letid ekrir"
+              },
+              "objectives": [
+                "Plan a logical structure for the personal study",
+                "Identify key sections and word allocation",
+                "Draft an introduction stating aims"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing critical analysis sections",
+                "fr": "Rédiger les sections d'analyse critique",
+                "mfe": "Ekrir seksyon analiz kritik"
+              },
+              "objectives": [
+                "Develop paragraphs analysing chosen artworks",
+                "Integrate quotations and references appropriately",
+                "Link analysis clearly to personal practice"
+              ]
+            },
+            {
+              "title": {
+                "en": "Illustrating the study with visual evidence",
+                "fr": "Illustrer l'étude avec des preuves visuelles",
+                "mfe": "Ilistre letid ar prev vizyel"
+              },
+              "objectives": [
+                "Select relevant images to support arguments",
+                "Caption and reference images correctly",
+                "Ensure visual and written elements are integrated"
+              ]
+            },
+            {
+              "title": {
+                "en": "Proofreading and finalising the study",
+                "fr": "Relire et finaliser l'étude",
+                "mfe": "Korije ek finaliz letid"
+              },
+              "objectives": [
+                "Proofread for clarity and coherence",
+                "Check referencing and bibliography accuracy",
+                "Finalise formatting for submission"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Preparing for the controlled test",
+            "fr": "Préparer l'épreuve contrôlée",
+            "mfe": "Prepar pou legzamen kontrole"
+          },
+          "summary": {
+            "en": "Students prepare for the timed practical examination by researching a set theme, developing preparatory studies and planning their final response.",
+            "fr": "Les élèves se préparent à l'épreuve pratique chronométrée en recherchant un thème imposé, en développant des études préparatoires et en planifiant leur réponse finale.",
+            "mfe": "Bann elev prepar pou lekzamen pratik ki gard tan par fer rese lor enn tem donnen, devlop letid preparatwar ek planifye zot repons final."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Interpreting the examination theme",
+                "fr": "Interpréter le thème de l'examen",
+                "mfe": "Interprete tem lekzamen"
+              },
+              "objectives": [
+                "Analyse set exam titles or themes",
+                "Brainstorm personal responses to the theme",
+                "Select a focused direction for preparation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Building preparatory studies",
+                "fr": "Développer des études préparatoires",
+                "mfe": "Devlop letid preparatwar"
+              },
+              "objectives": [
+                "Produce a range of preparatory sketches",
+                "Research relevant artists for the theme",
+                "Test materials suited to timed conditions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Planning the final examination piece",
+                "fr": "Planifier l'œuvre finale de l'examen",
+                "mfe": "Planifye pyes final lekzamen"
+              },
+              "objectives": [
+                "Draft a clear plan for the final piece",
+                "Consider time management for the exam session",
+                "Prepare materials and equipment in advance"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mock exam and timed practice",
+                "fr": "Examen blanc et pratique chronométrée",
+                "mfe": "Lekzamen blan ek prepar avek letan"
+              },
+              "objectives": [
+                "Complete a timed practice session",
+                "Reflect on pacing and decision-making",
+                "Adjust plans based on practice outcomes"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Realising and finishing final pieces",
+            "fr": "Réaliser et finaliser les œuvres finales",
+            "mfe": "Realiz ek fini bann pyes final"
+          },
+          "summary": {
+            "en": "Students bring together research and experimentation to produce resolved final pieces for both the personal investigation and the examination unit.",
+            "fr": "Les élèves rassemblent recherche et expérimentation pour produire des œuvres finales abouties pour l'investigation personnelle et l'épreuve d'examen.",
+            "mfe": "Bann elev rasanble rese ek esperimantasyon pou prodwir bann pyes final byen fini pou lenketa personel ek linite lekzamen."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Producing the personal investigation final piece",
+                "fr": "Réaliser l'œuvre finale de l'investigation personnelle",
+                "mfe": "Prodwir pyes final lenketa personel"
+              },
+              "objectives": [
+                "Execute the planned final piece with control",
+                "Apply refined techniques confidently",
+                "Monitor progress against original aims"
+              ]
+            },
+            {
+              "title": {
+                "en": "Completing the examination final piece",
+                "fr": "Compléter l'œuvre finale de l'examen",
+                "mfe": "Konpli pyes final lekzamen"
+              },
+              "objectives": [
+                "Complete the final piece within time constraints",
+                "Apply preparatory research effectively",
+                "Resolve technical challenges during production"
+              ]
+            },
+            {
+              "title": {
+                "en": "Reviewing and adjusting resolved work",
+                "fr": "Revoir et ajuster le travail abouti",
+                "mfe": "Revize ek aziste travay finalize"
+              },
+              "objectives": [
+                "Assess finished pieces against intentions",
+                "Make final adjustments where appropriate",
+                "Seek feedback before final submission"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Presentation, evaluation and exhibition",
+            "fr": "Présentation, évaluation et exposition",
+            "mfe": "Prezantasyon, evalyasyon ek ekspozisyon"
+          },
+          "summary": {
+            "en": "Students prepare their coursework for assessment, evaluate their overall journey and present their work professionally in a final exhibition.",
+            "fr": "Les élèves préparent leur travail pour l'évaluation, évaluent leur parcours global et présentent leur travail de manière professionnelle lors d'une exposition finale.",
+            "mfe": "Bann elev prepar zot travay pou levalyasyon, evalue zot parkour global ek prezant zot travay dan enn fason profesyonel dan enn ekspozisyon final."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Selecting and mounting coursework",
+                "fr": "Sélectionner et monter le dossier",
+                "mfe": "Swazir ek monte dosye"
+              },
+              "objectives": [
+                "Select the strongest pieces for submission",
+                "Mount and present work to professional standard",
+                "Organise sketchbooks and supporting studies"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing a final evaluation",
+                "fr": "Rédiger une évaluation finale",
+                "mfe": "Ekrir enn evalyasyon final"
+              },
+              "objectives": [
+                "Reflect critically on the whole investigation",
+                "Identify strengths and areas for growth",
+                "Link evaluation to assessment criteria"
+              ]
+            },
+            {
+              "title": {
+                "en": "Preparing for the exhibition",
+                "fr": "Préparer l'exposition",
+                "mfe": "Prepar pou ekspozisyon"
+              },
+              "objectives": [
+                "Plan the layout of an exhibition space",
+                "Prepare labels and artist statements",
+                "Coordinate presentation with peers"
+              ]
+            },
+            {
+              "title": {
+                "en": "Presenting work with confidence",
+                "fr": "Présenter son travail avec confiance",
+                "mfe": "Prezant travay ar konfyans"
+              },
+              "objectives": [
+                "Practise articulating ideas about the work",
+                "Respond to questions from viewers or examiners",
+                "Reflect on the exhibition experience"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,2989 @@
+{
+  "subject": "english",
+  "grades": {
+    "7": {
+      "units": [
+        {
+          "title": {
+            "en": "Reading for meaning",
+            "fr": "Lire pour comprendre",
+            "mfe": "Lir pou konpran"
+          },
+          "summary": {
+            "en": "Students develop core comprehension strategies to understand and interpret a range of short texts, including stories and articles set in Mauritian and international contexts.",
+            "fr": "Les élèves développent des stratégies de compréhension pour comprendre et interpréter divers textes courts, y compris des histoires et articles dans des contextes mauriciens et internationaux.",
+            "mfe": "Bann elev devlop bann stratezi konpreansion pou konpran ek explik diferan tex kourt, ki inklir zistwar ek atik dan kontex Moris ek internasional."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Identifying main ideas",
+                "fr": "Identifier les idées principales",
+                "mfe": "Rekonet lide prensipal"
+              },
+              "objectives": [
+                "Identify the main idea of a paragraph",
+                "Distinguish main ideas from supporting details",
+                "Summarise a short passage in one sentence"
+              ]
+            },
+            {
+              "title": {
+                "en": "Making inferences from text",
+                "fr": "Faire des inférences à partir d'un texte",
+                "mfe": "Fer inferans depi enn tex"
+              },
+              "objectives": [
+                "Explain what inference means",
+                "Use textual clues to draw conclusions",
+                "Support inferences with evidence from the text"
+              ]
+            },
+            {
+              "title": {
+                "en": "Understanding vocabulary in context",
+                "fr": "Comprendre le vocabulaire en contexte",
+                "mfe": "Konpran vokabiler dan kontex"
+              },
+              "objectives": [
+                "Use context clues to guess word meanings",
+                "Distinguish between literal and figurative meaning",
+                "Apply new vocabulary in sentences"
+              ]
+            },
+            {
+              "title": {
+                "en": "Reading non-fiction texts",
+                "fr": "Lire des textes non fictionnels",
+                "mfe": "Lir tex non-fiksion"
+              },
+              "objectives": [
+                "Identify features of non-fiction texts",
+                "Extract factual information from articles",
+                "Compare information across two short texts"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Grammar foundations",
+            "fr": "Bases de grammaire",
+            "mfe": "Baz gramer"
+          },
+          "summary": {
+            "en": "This unit revises and extends key grammar concepts including parts of speech, tenses and sentence structure needed for accurate writing and speaking.",
+            "fr": "Cette unité révise et approfondit les concepts clés de grammaire, y compris les classes de mots, les temps et la structure des phrases nécessaires pour écrire et parler correctement.",
+            "mfe": "Sa linite-la revize ek devlop bann konsep gramer inportan, kouma bann kategori mo, tan ek striktir fraz neseser pou ekrir ek koz korekteman."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Parts of speech revisited",
+                "fr": "Les classes de mots revues",
+                "mfe": "Bann kategori mo revizite"
+              },
+              "objectives": [
+                "Name the eight parts of speech",
+                "Identify parts of speech in a sentence",
+                "Use nouns, verbs and adjectives correctly in writing"
+              ]
+            },
+            {
+              "title": {
+                "en": "Simple and continuous tenses",
+                "fr": "Temps simples et continus",
+                "mfe": "Tan senp ek kontinyel"
+              },
+              "objectives": [
+                "Form present and past simple tenses",
+                "Form present and past continuous tenses",
+                "Choose the correct tense in context"
+              ]
+            },
+            {
+              "title": {
+                "en": "Building complete sentences",
+                "fr": "Construire des phrases complètes",
+                "mfe": "Konstrir fraz konple"
+              },
+              "objectives": [
+                "Identify subject and predicate in a sentence",
+                "Avoid sentence fragments and run-ons",
+                "Combine simple sentences using conjunctions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Punctuation essentials",
+                "fr": "Éléments essentiels de ponctuation",
+                "mfe": "Bann prensipal siny ponktiasion"
+              },
+              "objectives": [
+                "Use capital letters and full stops correctly",
+                "Apply commas in lists and simple sentences",
+                "Punctuate direct speech accurately"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Exploring vocabulary and word study",
+            "fr": "Explorer le vocabulaire et l'étude des mots",
+            "mfe": "Explor vokabiler ek letid mo"
+          },
+          "summary": {
+            "en": "Students expand their vocabulary through word formation, synonyms, antonyms and dictionary skills to enrich their spoken and written English.",
+            "fr": "Les élèves enrichissent leur vocabulaire grâce à la formation des mots, aux synonymes, aux antonymes et aux compétences dictionnaires pour enrichir leur anglais oral et écrit.",
+            "mfe": "Bann elev agrandi zot vokabiler atraver formasion mo, sinonim, antonim ek konpetans diksioner pou anrisi zot Angle koze ek ekri."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Synonyms and antonyms",
+                "fr": "Synonymes et antonymes",
+                "mfe": "Sinonim ek antonim"
+              },
+              "objectives": [
+                "Define synonym and antonym",
+                "Find synonyms and antonyms for common words",
+                "Use synonyms to improve writing variety"
+              ]
+            },
+            {
+              "title": {
+                "en": "Prefixes and suffixes",
+                "fr": "Préfixes et suffixes",
+                "mfe": "Prefiks ek sifiks"
+              },
+              "objectives": [
+                "Identify common prefixes and suffixes",
+                "Explain how affixes change word meaning",
+                "Build new words using affixes"
+              ]
+            },
+            {
+              "title": {
+                "en": "Using a dictionary effectively",
+                "fr": "Utiliser un dictionnaire efficacement",
+                "mfe": "Servi enn diksioner efikasman"
+              },
+              "objectives": [
+                "Locate words alphabetically in a dictionary",
+                "Interpret dictionary entries and abbreviations",
+                "Choose the correct meaning for context"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Narrative writing skills",
+            "fr": "Compétences en écriture narrative",
+            "mfe": "Konpetans ekritir narativ"
+          },
+          "summary": {
+            "en": "Students learn to plan and write engaging short stories with clear structure, interesting characters and appropriate descriptive language.",
+            "fr": "Les élèves apprennent à planifier et écrire des histoires courtes captivantes avec une structure claire, des personnages intéressants et un langage descriptif approprié.",
+            "mfe": "Bann elev aprann planifie ek ekrir zistwar kourt interesan avek enn striktir kler, personaz interesan ek langaz deskriptif apropriye."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Planning a short story",
+                "fr": "Planifier une histoire courte",
+                "mfe": "Planifie enn zistwar kourt"
+              },
+              "objectives": [
+                "Identify the elements of a story",
+                "Create a simple story plan with beginning, middle and end",
+                "Choose a setting and main character"
+              ]
+            },
+            {
+              "title": {
+                "en": "Creating believable characters",
+                "fr": "Créer des personnages crédibles",
+                "mfe": "Kree personaz kredib"
+              },
+              "objectives": [
+                "Describe a character's appearance and personality",
+                "Show character traits through actions and dialogue",
+                "Use adjectives to bring characters to life"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing story openings and endings",
+                "fr": "Écrire des débuts et fins d'histoires",
+                "mfe": "Ekrir komansman ek fini zistwar"
+              },
+              "objectives": [
+                "Write an engaging opening line",
+                "Build tension towards a story climax",
+                "Write a satisfying story ending"
+              ]
+            },
+            {
+              "title": {
+                "en": "Using descriptive language",
+                "fr": "Utiliser un langage descriptif",
+                "mfe": "Servi langaz deskriptif"
+              },
+              "objectives": [
+                "Use sensory details in descriptions",
+                "Apply similes and metaphors appropriately",
+                "Revise writing for vivid imagery"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Descriptive and personal writing",
+            "fr": "Écriture descriptive et personnelle",
+            "mfe": "Ekritir deskriptif ek personel"
+          },
+          "summary": {
+            "en": "Students practise writing detailed descriptions of places and people, and personal recounts based on their own experiences in Mauritius.",
+            "fr": "Les élèves s'exercent à écrire des descriptions détaillées de lieux et de personnes, ainsi que des récits personnels basés sur leurs propres expériences à Maurice.",
+            "mfe": "Bann elev pratik ekrir deskripsion detaye lor plas ek dimoun, ek resi personel baze lor zot prop lexperyans Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Describing a place",
+                "fr": "Décrire un lieu",
+                "mfe": "Dekrir enn plas"
+              },
+              "objectives": [
+                "Use the five senses to describe a setting",
+                "Organise description spatially",
+                "Choose precise vocabulary for atmosphere"
+              ]
+            },
+            {
+              "title": {
+                "en": "Describing a person",
+                "fr": "Décrire une personne",
+                "mfe": "Dekrir enn dimoun"
+              },
+              "objectives": [
+                "Describe physical appearance and character",
+                "Use comparisons to enhance description",
+                "Avoid repetitive vocabulary in description"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing a personal recount",
+                "fr": "Écrire un récit personnel",
+                "mfe": "Ekrir enn resi personel"
+              },
+              "objectives": [
+                "Sequence events in chronological order",
+                "Use first-person narrative voice",
+                "Reflect on personal feelings and experiences"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Introduction to poetry",
+            "fr": "Introduction à la poésie",
+            "mfe": "Introdiksion ar poezi"
+          },
+          "summary": {
+            "en": "Students explore simple poems, identifying features such as rhyme, rhythm and imagery, and try writing their own short poems.",
+            "fr": "Les élèves explorent des poèmes simples, identifiant des caractéristiques comme la rime, le rythme et l'imagerie, et essaient d'écrire leurs propres courts poèmes.",
+            "mfe": "Bann elev explor poem senp, rekonet bann karakteristik kouma rime, ritm ek imazri, ek eseye ekrir zot prop ti poem."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Rhyme and rhythm in poems",
+                "fr": "Rime et rythme dans les poèmes",
+                "mfe": "Rime ek ritm dan poem"
+              },
+              "objectives": [
+                "Identify rhyme schemes in poems",
+                "Recognise rhythm and beat in a poem",
+                "Read a poem aloud with expression"
+              ]
+            },
+            {
+              "title": {
+                "en": "Understanding imagery and figurative language",
+                "fr": "Comprendre l'imagerie et le langage figuré",
+                "mfe": "Konpran imazri ek langaz figiratif"
+              },
+              "objectives": [
+                "Identify similes and metaphors in poems",
+                "Explain the effect of figurative language",
+                "Discuss imagery created by word choice"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing a simple poem",
+                "fr": "Écrire un poème simple",
+                "mfe": "Ekrir enn poem senp"
+              },
+              "objectives": [
+                "Choose a theme for a poem",
+                "Use rhyme or rhythm in original writing",
+                "Share and discuss a personal poem"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Speaking and listening skills",
+            "fr": "Compétences orales et d'écoute",
+            "mfe": "Konpetans koze ek ekoute"
+          },
+          "summary": {
+            "en": "Students build confidence in oral communication through discussions, presentations and active listening activities relevant to everyday life.",
+            "fr": "Les élèves développent leur confiance en communication orale à travers des discussions, présentations et activités d'écoute active liées à la vie quotidienne.",
+            "mfe": "Bann elev devlop konfians dan kominikasion oral atraver diskision, prezantasion ek aktivite ekoute aktif ki relevan pou lavi toulezour."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Active listening strategies",
+                "fr": "Stratégies d'écoute active",
+                "mfe": "Stratezi ekoute aktif"
+              },
+              "objectives": [
+                "Explain the difference between hearing and listening",
+                "Take notes while listening to a short talk",
+                "Answer questions based on a listening passage"
+              ]
+            },
+            {
+              "title": {
+                "en": "Giving a short presentation",
+                "fr": "Faire une courte présentation",
+                "mfe": "Fer enn kourt prezantasion"
+              },
+              "objectives": [
+                "Organise ideas for a short talk",
+                "Use clear pronunciation and pacing",
+                "Maintain eye contact and confident posture"
+              ]
+            },
+            {
+              "title": {
+                "en": "Participating in group discussions",
+                "fr": "Participer à des discussions de groupe",
+                "mfe": "Partisip dan diskision an group"
+              },
+              "objectives": [
+                "Express opinions respectfully in a group",
+                "Take turns and listen to others' views",
+                "Ask relevant questions during discussion"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "8": {
+      "units": [
+        {
+          "title": {
+            "en": "Exploring narrative texts",
+            "fr": "Explorer les textes narratifs",
+            "mfe": "Explor bann tex naratif"
+          },
+          "summary": {
+            "en": "Students read and analyse short stories and narrative extracts, focusing on plot, character and setting.",
+            "fr": "Les élèves lisent et analysent des nouvelles et des extraits narratifs, en se concentrant sur l'intrigue, les personnages et le cadre.",
+            "mfe": "Bann elev lir ek analiz zistwar kourt ek extre naratif, met lakcan lor lintrig, personaz ek landrwa."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Identifying plot structure",
+                "fr": "Identifier la structure de l'intrigue",
+                "mfe": "Idantifie striktir lintrig"
+              },
+              "objectives": [
+                "Identify the stages of a plot: exposition, rising action, climax, resolution",
+                "Explain how events are sequenced in a story",
+                "Summarise a short story in own words"
+              ]
+            },
+            {
+              "title": {
+                "en": "Understanding character traits",
+                "fr": "Comprendre les traits de caractère",
+                "mfe": "Konpran bann trait karakter"
+              },
+              "objectives": [
+                "Describe main and minor characters using evidence from text",
+                "Distinguish between direct and indirect characterisation",
+                "Discuss how characters change during a story"
+              ]
+            },
+            {
+              "title": {
+                "en": "Setting and atmosphere",
+                "fr": "Le cadre et l'atmosphère",
+                "mfe": "Landrwa ek lanbians"
+              },
+              "objectives": [
+                "Identify descriptive language used to create setting",
+                "Explain how setting affects mood in a story",
+                "Create a short paragraph describing a Mauritian setting"
+              ]
+            },
+            {
+              "title": {
+                "en": "Narrative point of view",
+                "fr": "Le point de vue narratif",
+                "mfe": "Pwin de vi naratif"
+              },
+              "objectives": [
+                "Distinguish first person and third person narration",
+                "Explain the effect of narrative voice on a reader",
+                "Rewrite a paragraph changing its point of view"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Poetry appreciation",
+            "fr": "Appréciation de la poésie",
+            "mfe": "Aprosiasion lapoezi"
+          },
+          "summary": {
+            "en": "Students explore poems from diverse cultures, learning to identify poetic devices and interpret meaning.",
+            "fr": "Les élèves explorent des poèmes de diverses cultures, apprenant à identifier les procédés poétiques et à interpréter le sens.",
+            "mfe": "Bann elev explor bann poem sorti diferan kiltir, aprann idantifie bann teknik powetik ek interprete sinifikasion."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Identifying rhyme and rhythm",
+                "fr": "Identifier la rime et le rythme",
+                "mfe": "Idantifie rim ek ritm"
+              },
+              "objectives": [
+                "Recognise rhyme schemes in a poem",
+                "Explain how rhythm affects the reading of a poem",
+                "Read a poem aloud with appropriate pacing"
+              ]
+            },
+            {
+              "title": {
+                "en": "Similes and metaphors",
+                "fr": "Similes et métaphores",
+                "mfe": "Simile ek metafor"
+              },
+              "objectives": [
+                "Define simile and metaphor with examples",
+                "Identify similes and metaphors in a poem",
+                "Create original similes about Mauritian life"
+              ]
+            },
+            {
+              "title": {
+                "en": "Personification and imagery",
+                "fr": "Personnification et images",
+                "mfe": "Personifikasion ek imazri"
+              },
+              "objectives": [
+                "Explain the effect of personification in poetry",
+                "Identify sensory imagery in a poem",
+                "Write a short verse using personification"
+              ]
+            },
+            {
+              "title": {
+                "en": "Interpreting poem themes",
+                "fr": "Interpréter les thèmes d'un poème",
+                "mfe": "Interprete tem enn poem"
+              },
+              "objectives": [
+                "Identify the central theme of a poem",
+                "Support interpretation with textual evidence",
+                "Compare themes across two poems"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Building strong paragraphs",
+            "fr": "Construire des paragraphes solides",
+            "mfe": "Konstrir bann paragraf solid"
+          },
+          "summary": {
+            "en": "Students learn to structure clear paragraphs with topic sentences, supporting details and cohesive links.",
+            "fr": "Les élèves apprennent à structurer des paragraphes clairs avec des phrases thématiques, des détails à l'appui et des liens cohésifs.",
+            "mfe": "Bann elev aprann striktir bann paragraf kler avek fraz prinsipal, detay sipor ek lyin koezif."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Writing topic sentences",
+                "fr": "Rédiger des phrases thématiques",
+                "mfe": "Ekrir fraz prinsipal"
+              },
+              "objectives": [
+                "Define the purpose of a topic sentence",
+                "Write clear topic sentences for given subjects",
+                "Identify weak topic sentences and improve them"
+              ]
+            },
+            {
+              "title": {
+                "en": "Adding supporting details",
+                "fr": "Ajouter des détails à l'appui",
+                "mfe": "Azout detay sipor"
+              },
+              "objectives": [
+                "Select relevant details to support a main idea",
+                "Distinguish between fact and opinion in details",
+                "Expand a topic sentence into a full paragraph"
+              ]
+            },
+            {
+              "title": {
+                "en": "Using linking words",
+                "fr": "Utiliser des mots de liaison",
+                "mfe": "Servi bann mo lyezon"
+              },
+              "objectives": [
+                "Identify common linking words and their functions",
+                "Use linking words to connect ideas smoothly",
+                "Revise a paragraph to improve cohesion"
+              ]
+            },
+            {
+              "title": {
+                "en": "Editing for clarity",
+                "fr": "Réviser pour la clarté",
+                "mfe": "Korize pou plis klarte"
+              },
+              "objectives": [
+                "Check paragraphs for unity and coherence",
+                "Identify and correct run-on sentences",
+                "Peer-review a classmate's paragraph"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Grammar in context",
+            "fr": "La grammaire en contexte",
+            "mfe": "Gramer dan kontex"
+          },
+          "summary": {
+            "en": "Students revise and extend grammar skills including tenses, clauses and reported speech within meaningful texts.",
+            "fr": "Les élèves révisent et approfondissent leurs compétences grammaticales, y compris les temps, les propositions et le discours rapporté.",
+            "mfe": "Bann elev revize ek etand konpetans gramatikal, kompran tan, kloz ek diskour rapporte dan tex sinifikatif."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Present and past tenses review",
+                "fr": "Révision des temps présent et passé",
+                "mfe": "Revizyon tan prezan ek pase"
+              },
+              "objectives": [
+                "Identify correct use of simple and continuous tenses",
+                "Correct tense errors in sentences",
+                "Use tenses accurately in a short paragraph"
+              ]
+            },
+            {
+              "title": {
+                "en": "Understanding clauses",
+                "fr": "Comprendre les propositions",
+                "mfe": "Konpran bann kloz"
+              },
+              "objectives": [
+                "Distinguish main clauses from subordinate clauses",
+                "Combine clauses using conjunctions",
+                "Punctuate complex sentences correctly"
+              ]
+            },
+            {
+              "title": {
+                "en": "Reported speech basics",
+                "fr": "Bases du discours rapporté",
+                "mfe": "Baz diskour rapporte"
+              },
+              "objectives": [
+                "Convert direct speech into reported speech",
+                "Apply correct tense changes in reported speech",
+                "Identify common errors in reported speech"
+              ]
+            },
+            {
+              "title": {
+                "en": "Active and passive voice",
+                "fr": "Voix active et passive",
+                "mfe": "Vwa aktif ek pasif"
+              },
+              "objectives": [
+                "Distinguish active and passive sentence structures",
+                "Transform active sentences into passive voice",
+                "Identify when passive voice is appropriate"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Informational and persuasive texts",
+            "fr": "Textes informatifs et persuasifs",
+            "mfe": "Tex enformatif ek persuasif"
+          },
+          "summary": {
+            "en": "Students examine non-fiction texts, distinguishing purpose, audience and persuasive techniques.",
+            "fr": "Les élèves examinent des textes non fictionnels, en distinguant le but, le public et les techniques persuasives.",
+            "mfe": "Bann elev examine tex non-fiksyon, distenge bi, piblik ek bann teknik persuasif."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Identifying purpose and audience",
+                "fr": "Identifier le but et le public",
+                "mfe": "Idantifie bi ek piblik"
+              },
+              "objectives": [
+                "Determine the purpose of a given text",
+                "Identify the intended audience of a text",
+                "Explain how purpose shapes language choices"
+              ]
+            },
+            {
+              "title": {
+                "en": "Recognising persuasive techniques",
+                "fr": "Reconnaître les techniques persuasives",
+                "mfe": "Rekonet bann teknik persuasif"
+              },
+              "objectives": [
+                "Identify rhetorical questions and emotive language",
+                "Explain the effect of persuasive techniques on readers",
+                "Locate examples of bias in a text"
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysing advertisements",
+                "fr": "Analyser les publicités",
+                "mfe": "Analiz bann piblisite"
+              },
+              "objectives": [
+                "Identify target audience of an advertisement",
+                "Explain visual and textual persuasive elements",
+                "Evaluate effectiveness of an advertisement"
+              ]
+            },
+            {
+              "title": {
+                "en": "Comparing viewpoints in articles",
+                "fr": "Comparer les points de vue dans des articles",
+                "mfe": "Konpar pwin de vi dan bann atik"
+              },
+              "objectives": [
+                "Identify different viewpoints on the same topic",
+                "Compare language used to present each viewpoint",
+                "Form a personal opinion supported by evidence"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Developing writing for different purposes",
+            "fr": "Développer l'écriture pour différents objectifs",
+            "mfe": "Devlop lekritir pou diferan bi"
+          },
+          "summary": {
+            "en": "Students practise writing narrative, descriptive and informal letter texts, applying appropriate style and tone.",
+            "fr": "Les élèves pratiquent l'écriture de textes narratifs, descriptifs et de lettres informelles.",
+            "mfe": "Bann elev pratik ekrir tex naratif, deskriptif ek let enformel avek stil ek ton apropriye."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Planning a narrative composition",
+                "fr": "Planifier une composition narrative",
+                "mfe": "Planifie enn konpozision naratif"
+              },
+              "objectives": [
+                "Brainstorm ideas for a narrative composition",
+                "Organise ideas using a story plan",
+                "Draft an opening paragraph that hooks the reader"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing descriptive paragraphs",
+                "fr": "Rédiger des paragraphes descriptifs",
+                "mfe": "Ekrir paragraf deskriptif"
+              },
+              "objectives": [
+                "Use sensory details to describe a place or person",
+                "Select vivid vocabulary for description",
+                "Revise a description for stronger word choice"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing informal letters",
+                "fr": "Rédiger des lettres informelles",
+                "mfe": "Ekrir let enformel"
+              },
+              "objectives": [
+                "Identify the format of an informal letter",
+                "Use appropriate tone for a friend or family member",
+                "Write a complete informal letter on a given topic"
+              ]
+            },
+            {
+              "title": {
+                "en": "Self-editing and proofreading",
+                "fr": "Autocorrection et relecture",
+                "mfe": "Otokorije ek relir"
+              },
+              "objectives": [
+                "Check spelling and punctuation in own writing",
+                "Use a checklist to review composition quality",
+                "Revise a draft based on feedback"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Listening and speaking skills",
+            "fr": "Compétences d'écoute et d'expression orale",
+            "mfe": "Konpetans ekout ek koze"
+          },
+          "summary": {
+            "en": "Students develop skills in listening for detail and speaking clearly in discussions and presentations.",
+            "fr": "Les élèves développent des compétences d'écoute attentive et d'expression orale claire lors de discussions et de présentations.",
+            "mfe": "Bann elev devlop konpetans ekout pou detay ek koz kler dan diskisyon ek prezantasyon."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Listening for main ideas",
+                "fr": "Écouter pour saisir les idées principales",
+                "mfe": "Ekout pou gagn lide prinsipal"
+              },
+              "objectives": [
+                "Identify main ideas in a spoken text",
+                "Take brief notes while listening",
+                "Answer comprehension questions based on audio"
+              ]
+            },
+            {
+              "title": {
+                "en": "Participating in group discussions",
+                "fr": "Participer à des discussions de groupe",
+                "mfe": "Partisip dan diskisyon groupe"
+              },
+              "objectives": [
+                "Express opinions clearly in a group setting",
+                "Listen actively and respond to peers' ideas",
+                "Use polite language to agree or disagree"
+              ]
+            },
+            {
+              "title": {
+                "en": "Giving a short oral presentation",
+                "fr": "Faire un court exposé oral",
+                "mfe": "Fer enn prezantasyon oral kourt"
+              },
+              "objectives": [
+                "Organise content for a short presentation",
+                "Use clear pronunciation and appropriate pace",
+                "Use visual aids to support a presentation"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "units": [
+        {
+          "title": {
+            "en": "Exploring short stories",
+            "fr": "Explorer les nouvelles",
+            "mfe": "Explor bann nouvel"
+          },
+          "summary": {
+            "en": "Students read and analyse short stories from Mauritian and international authors, focusing on plot, character and theme.",
+            "fr": "Les élèves lisent et analysent des nouvelles d'auteurs mauriciens et internationaux, en se concentrant sur l'intrigue, les personnages et le thème.",
+            "mfe": "Bann elev lir ek analiz nouvel ki ekrivin Morisien ek internasional finn ekrir, avek fokis lor lintrig, personaz ek tem."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Identifying plot structure",
+                "fr": "Identifier la structure du récit",
+                "mfe": "Idantifie striktir lintrig"
+              },
+              "objectives": [
+                "Identify the stages of a plot: exposition, rising action, climax, resolution",
+                "Summarise a short story in your own words",
+                "Explain how plot events build tension"
+              ]
+            },
+            {
+              "title": {
+                "en": "Understanding characterisation",
+                "fr": "Comprendre la caractérisation",
+                "mfe": "Konpran karakterizasion"
+              },
+              "objectives": [
+                "Describe how authors reveal character through action and speech",
+                "Compare two characters from a story",
+                "Infer a character's motives from the text"
+              ]
+            },
+            {
+              "title": {
+                "en": "Exploring theme and message",
+                "fr": "Explorer le thème et le message",
+                "mfe": "Explor tem ek mesaz"
+              },
+              "objectives": [
+                "Identify the central theme of a short story",
+                "Support theme interpretation with textual evidence",
+                "Discuss how setting influences theme"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing a story review",
+                "fr": "Rédiger une critique de nouvelle",
+                "mfe": "Ekrir enn kritik nouvel"
+              },
+              "objectives": [
+                "Write a structured review of a short story",
+                "Give a personal opinion supported by reasons",
+                "Use appropriate literary vocabulary"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Poetry and figurative language",
+            "fr": "Poésie et langage figuré",
+            "mfe": "Poezi ek langaz figiratif"
+          },
+          "summary": {
+            "en": "This unit introduces poetic devices and helps students appreciate meaning and sound in poems.",
+            "fr": "Cette unité présente les procédés poétiques et aide les élèves à apprécier le sens et la sonorité des poèmes.",
+            "mfe": "Sa lini-la prezant bann teknik poetik ek ed bann elev apresie sinifikasion ek son dan bann poem."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Recognising similes and metaphors",
+                "fr": "Reconnaître les comparaisons et métaphores",
+                "mfe": "Rekonet simil ek metafor"
+              },
+              "objectives": [
+                "Define simile and metaphor with examples",
+                "Identify these devices in a poem",
+                "Explain the effect of figurative language on meaning"
+              ]
+            },
+            {
+              "title": {
+                "en": "Exploring rhythm and rhyme",
+                "fr": "Explorer le rythme et la rime",
+                "mfe": "Explor ritm ek rim"
+              },
+              "objectives": [
+                "Identify rhyme schemes in poems",
+                "Describe how rhythm affects mood",
+                "Read a poem aloud with appropriate expression"
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysing imagery and mood",
+                "fr": "Analyser l'imagerie et l'atmosphère",
+                "mfe": "Analiz imazri ek lanbians"
+              },
+              "objectives": [
+                "Identify sensory imagery in a poem",
+                "Explain how imagery creates mood",
+                "Compare mood across two poems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing a personal response poem",
+                "fr": "Écrire un poème de réponse personnelle",
+                "mfe": "Ekrir enn poem repons personel"
+              },
+              "objectives": [
+                "Compose a short poem using figurative language",
+                "Use rhyme or rhythm deliberately",
+                "Reflect on personal feelings through writing"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Grammar for accurate writing",
+            "fr": "Grammaire pour une écriture précise",
+            "mfe": "Gramer pou ekritir prekiz"
+          },
+          "summary": {
+            "en": "Students consolidate grammar skills including tenses, clauses and punctuation to write accurately.",
+            "fr": "Les élèves consolident leurs compétences grammaticales, y compris les temps, les propositions et la ponctuation, pour écrire avec précision.",
+            "mfe": "Bann elev konsolid zot konpetans gramatikal ki inklir tan, propozision ek ponktiasion pou ekrir avek presizion."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Using tenses consistently",
+                "fr": "Utiliser les temps de manière cohérente",
+                "mfe": "Servi tan verb dan enn fason koeran"
+              },
+              "objectives": [
+                "Identify present, past and future tense forms",
+                "Maintain tense consistency in a paragraph",
+                "Correct tense errors in sample sentences"
+              ]
+            },
+            {
+              "title": {
+                "en": "Combining clauses correctly",
+                "fr": "Combiner correctement les propositions",
+                "mfe": "Konbine propozision korekteman"
+              },
+              "objectives": [
+                "Distinguish main and subordinate clauses",
+                "Use conjunctions to join clauses",
+                "Write complex sentences accurately"
+              ]
+            },
+            {
+              "title": {
+                "en": "Punctuating sentences accurately",
+                "fr": "Ponctuer les phrases avec précision",
+                "mfe": "Ponktie fraz korekteman"
+              },
+              "objectives": [
+                "Apply correct use of commas and full stops",
+                "Use apostrophes for possession and contraction",
+                "Punctuate direct speech correctly"
+              ]
+            },
+            {
+              "title": {
+                "en": "Editing for grammar errors",
+                "fr": "Réviser pour corriger les erreurs grammaticales",
+                "mfe": "Korize erer gramatikal"
+              },
+              "objectives": [
+                "Identify common grammar mistakes in a text",
+                "Revise a paragraph for accuracy",
+                "Explain reasons for corrections made"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Persuasive and argumentative writing",
+            "fr": "Écriture persuasive et argumentative",
+            "mfe": "Lekritir persweziv ek argimantatif"
+          },
+          "summary": {
+            "en": "Students learn techniques to write persuasively and argue a point of view on familiar topics.",
+            "fr": "Les élèves apprennent des techniques pour écrire de manière persuasive et défendre un point de vue sur des sujets familiers.",
+            "mfe": "Bann elev aprann bann teknik pou ekrir avek persweizion ek defann enn pwennvi lor bann size familie."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Identifying persuasive techniques",
+                "fr": "Identifier les techniques persuasives",
+                "mfe": "Idantifie teknik persweziv"
+              },
+              "objectives": [
+                "Recognise rhetorical questions and repetition in texts",
+                "Identify emotive language used to persuade",
+                "Explain the purpose of persuasive techniques"
+              ]
+            },
+            {
+              "title": {
+                "en": "Structuring an argument",
+                "fr": "Structurer un argument",
+                "mfe": "Striktir enn argiman"
+              },
+              "objectives": [
+                "Organise arguments in a logical order",
+                "Use topic sentences to introduce points",
+                "Provide evidence to support claims"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing a balanced discussion",
+                "fr": "Rédiger une discussion équilibrée",
+                "mfe": "Ekrir enn diskision balanse"
+              },
+              "objectives": [
+                "Present both sides of an issue fairly",
+                "Use linking words to show contrast",
+                "Conclude with a reasoned opinion"
+              ]
+            },
+            {
+              "title": {
+                "en": "Debating a topical issue",
+                "fr": "Débattre d'un sujet d'actualité",
+                "mfe": "Debat lor enn size aktialite"
+              },
+              "objectives": [
+                "Prepare arguments for a class debate",
+                "Use persuasive language when speaking",
+                "Respond respectfully to opposing views"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Reading non-fiction texts",
+            "fr": "Lire des textes non fictionnels",
+            "mfe": "Lir tex non-fiksion"
+          },
+          "summary": {
+            "en": "This unit develops skills in reading and interpreting newspaper articles, reports and informational texts.",
+            "fr": "Cette unité développe les compétences de lecture et d'interprétation d'articles de journaux, de rapports et de textes informatifs.",
+            "mfe": "Sa lini-la devlop konpetans pou lir ek interprete atik lagazet, rapor ek tex enformatif."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Skimming and scanning for information",
+                "fr": "Survoler et parcourir pour trouver l'information",
+                "mfe": "Fer skimming ek scanning pou trouv lenformasion"
+              },
+              "objectives": [
+                "Use skimming to get the main idea quickly",
+                "Use scanning to locate specific details",
+                "Apply these skills to a newspaper article"
+              ]
+            },
+            {
+              "title": {
+                "en": "Distinguishing fact from opinion",
+                "fr": "Distinguer les faits des opinions",
+                "mfe": "Distenge fakt ek lopinion"
+              },
+              "objectives": [
+                "Identify factual statements in a text",
+                "Identify opinion-based statements in a text",
+                "Explain why writers mix fact and opinion"
+              ]
+            },
+            {
+              "title": {
+                "en": "Understanding text purpose and audience",
+                "fr": "Comprendre le but et le public d'un texte",
+                "mfe": "Konpran lobzektif ek piblik enn tex"
+              },
+              "objectives": [
+                "Identify the purpose of a given text",
+                "Identify the intended audience of a text",
+                "Explain how purpose affects language choice"
+              ]
+            },
+            {
+              "title": {
+                "en": "Summarising a non-fiction text",
+                "fr": "Résumer un texte non fictionnel",
+                "mfe": "Rezime enn tex non-fiksion"
+              },
+              "objectives": [
+                "Identify main points in a passage",
+                "Write a concise summary in your own words",
+                "Avoid unnecessary detail in a summary"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Drama and dialogue",
+            "fr": "Théâtre et dialogue",
+            "mfe": "Teat ek dialog"
+          },
+          "summary": {
+            "en": "Students explore drama extracts and dialogue writing, focusing on character voice and stage directions.",
+            "fr": "Les élèves explorent des extraits de théâtre et l'écriture de dialogues, en se concentrant sur la voix des personnages et les indications scéniques.",
+            "mfe": "Bann elev explor extre teat ek lekritir dialog, avek fokis lor lavwa personaz ek bann direksion sennik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Reading a drama extract",
+                "fr": "Lire un extrait de théâtre",
+                "mfe": "Lir enn extre teat"
+              },
+              "objectives": [
+                "Identify characters and setting in a drama script",
+                "Explain the function of stage directions",
+                "Discuss the conflict presented in the extract"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing realistic dialogue",
+                "fr": "Écrire un dialogue réaliste",
+                "mfe": "Ekrir enn dialog realist"
+              },
+              "objectives": [
+                "Punctuate dialogue correctly",
+                "Write dialogue that reflects character personality",
+                "Use dialogue to advance a simple plot"
+              ]
+            },
+            {
+              "title": {
+                "en": "Performing a short scene",
+                "fr": "Jouer une courte scène",
+                "mfe": "Zwe enn tibout senn"
+              },
+              "objectives": [
+                "Rehearse a short scripted scene",
+                "Use voice and gesture to convey character",
+                "Reflect on peer performances constructively"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Research and oral presentation skills",
+            "fr": "Compétences de recherche et de présentation orale",
+            "mfe": "Konpetans rese ek prezantasion oral"
+          },
+          "summary": {
+            "en": "Students learn to research a topic and present findings clearly and confidently to an audience.",
+            "fr": "Les élèves apprennent à faire des recherches sur un sujet et à présenter leurs conclusions clairement et avec assurance devant un public.",
+            "mfe": "Bann elev aprann fer rese lor enn size ek prezante zot rezilta kler ek avek konfians divan enn piblik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Planning a research topic",
+                "fr": "Planifier un sujet de recherche",
+                "mfe": "Planifie enn size rese"
+              },
+              "objectives": [
+                "Choose a suitable and focused research topic",
+                "Identify reliable sources of information",
+                "Organise notes under clear headings"
+              ]
+            },
+            {
+              "title": {
+                "en": "Structuring an oral presentation",
+                "fr": "Structurer une présentation orale",
+                "mfe": "Striktir enn prezantasion oral"
+              },
+              "objectives": [
+                "Organise a presentation with introduction, body and conclusion",
+                "Use visual aids effectively",
+                "Plan cue cards for delivery"
+              ]
+            },
+            {
+              "title": {
+                "en": "Delivering with confidence",
+                "fr": "S'exprimer avec assurance",
+                "mfe": "Prezante avek konfians"
+              },
+              "objectives": [
+                "Use clear pronunciation and appropriate pace",
+                "Maintain eye contact with the audience",
+                "Respond to questions after presenting"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "units": [
+        {
+          "title": {
+            "en": "Reading for detail and inference",
+            "fr": "Lecture pour le détail et l'inférence",
+            "mfe": "Lektir pou detay ek deduksyon"
+          },
+          "summary": {
+            "en": "Develop close reading skills to locate explicit information and infer meaning from unfamiliar passages, building the foundation for O Level comprehension questions.",
+            "fr": "Développer des compétences de lecture attentive pour repérer des informations explicites et déduire le sens de textes inconnus, base des questions de compréhension du niveau O.",
+            "mfe": "Devlop bann konpetans lekti apronfoni pou trouv linformasyon eksplisit ek deduir sans dan bann tex inkoni, sa form baz pou bann kestyon konpreansyon O Level."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Skimming and scanning texts",
+                "fr": "Survoler et parcourir des textes",
+                "mfe": "Fer skim ek skan bann tex"
+              },
+              "objectives": [
+                "Identify the purpose of skimming versus scanning",
+                "Apply skimming to find the main idea quickly",
+                "Apply scanning to locate specific details"
+              ]
+            },
+            {
+              "title": {
+                "en": "Answering explicit detail questions",
+                "fr": "Répondre aux questions de détail explicite",
+                "mfe": "Reponn bann kestyon detay eksplisit"
+              },
+              "objectives": [
+                "Locate directly stated information in a passage",
+                "Use own words where required by the question",
+                "Avoid copying irrelevant surrounding text"
+              ]
+            },
+            {
+              "title": {
+                "en": "Making inferences from text",
+                "fr": "Faire des inférences à partir d'un texte",
+                "mfe": "Fer deduksyon depi enn tex"
+              },
+              "objectives": [
+                "Distinguish between stated and implied information",
+                "Support inferences with textual evidence",
+                "Explain how word choice suggests attitude or feeling"
+              ]
+            },
+            {
+              "title": {
+                "en": "Understanding writer's tone and attitude",
+                "fr": "Comprendre le ton et l'attitude de l'auteur",
+                "mfe": "Konpran to ek latitid lekrivin"
+              },
+              "objectives": [
+                "Identify words that reveal tone",
+                "Analyse how tone affects meaning",
+                "Compare tone across two short extracts"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Vocabulary and word meaning in context",
+            "fr": "Vocabulaire et sens des mots en contexte",
+            "mfe": "Vokabiler ek sans mo dan kontex"
+          },
+          "summary": {
+            "en": "Build strategies to work out the meaning of unfamiliar words and phrases from context, a key skill for comprehension papers.",
+            "fr": "Construire des stratégies pour déduire le sens de mots et expressions inconnus à partir du contexte, compétence clé pour les épreuves de compréhension.",
+            "mfe": "Konstrir bann stratezi pou dekouver sans bann mo ek expresyon inkoni depi kontex, enn konpetans kle pou papie konpreansyon."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Using context clues",
+                "fr": "Utiliser les indices contextuels",
+                "mfe": "Servi bann lendis kontex"
+              },
+              "objectives": [
+                "Identify surrounding clues that hint at meaning",
+                "Test a guessed meaning against the sentence",
+                "Explain reasoning for a chosen meaning"
+              ]
+            },
+            {
+              "title": {
+                "en": "Synonyms and word substitution",
+                "fr": "Synonymes et substitution de mots",
+                "mfe": "Sinonim ek sanzman mo"
+              },
+              "objectives": [
+                "Select suitable synonyms for given words",
+                "Rewrite sentences using appropriate substitutes",
+                "Avoid changing the original meaning"
+              ]
+            },
+            {
+              "title": {
+                "en": "Figurative language and imagery",
+                "fr": "Langage figuré et imagerie",
+                "mfe": "Langaz figire ek imazri"
+              },
+              "objectives": [
+                "Identify similes, metaphors and personification",
+                "Explain the effect of figurative language",
+                "Analyse imagery used to describe Mauritian settings"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Summary writing skills",
+            "fr": "Compétences de rédaction de résumé",
+            "mfe": "Konpetans pou ekrir rezime"
+          },
+          "summary": {
+            "en": "Learn to select relevant points from a passage and express them concisely and accurately in your own words.",
+            "fr": "Apprendre à sélectionner les points pertinents d'un texte et à les exprimer de façon concise et précise avec ses propres mots.",
+            "mfe": "Aprann selekte bann pwin relevan dan enn tex ek expriv zot dan enn fason konsi ek presi avek so prop mo."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Identifying relevant points",
+                "fr": "Identifier les points pertinents",
+                "mfe": "Idantifie bann pwin relevan"
+              },
+              "objectives": [
+                "Distinguish main points from supporting detail",
+                "Highlight information relevant to the summary task",
+                "Exclude repeated or irrelevant material"
+              ]
+            },
+            {
+              "title": {
+                "en": "Paraphrasing effectively",
+                "fr": "Paraphraser efficacement",
+                "mfe": "Fer parafraz avek efikasite"
+              },
+              "objectives": [
+                "Rephrase sentences without changing meaning",
+                "Avoid lifting whole phrases from the original",
+                "Maintain accuracy when paraphrasing"
+              ]
+            },
+            {
+              "title": {
+                "en": "Structuring a concise summary",
+                "fr": "Structurer un résumé concis",
+                "mfe": "Estriktir enn rezime konsi"
+              },
+              "objectives": [
+                "Organise selected points in logical order",
+                "Keep within the word limit",
+                "Use linking words to connect ideas"
+              ]
+            },
+            {
+              "title": {
+                "en": "Editing and refining summaries",
+                "fr": "Réviser et affiner les résumés",
+                "mfe": "Revwar ek amelior rezime"
+              },
+              "objectives": [
+                "Check summary against original for accuracy",
+                "Remove unnecessary words to meet word count",
+                "Proofread for grammar and spelling errors"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Narrative and descriptive writing",
+            "fr": "Rédaction narrative et descriptive",
+            "mfe": "Ekritir narativ ek deskriptif"
+          },
+          "summary": {
+            "en": "Craft engaging narrative and descriptive compositions using vivid detail, structure and varied sentence styles.",
+            "fr": "Créer des compositions narratives et descriptives captivantes en utilisant des détails vivants, une structure claire et des phrases variées.",
+            "mfe": "Kree bann konpozisyon naratif ek deskriptif interesan an servi detay vivan, striktir ek fraz varye."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Planning a narrative composition",
+                "fr": "Planifier une composition narrative",
+                "mfe": "Planifye enn konpozisyon naratif"
+              },
+              "objectives": [
+                "Outline a clear beginning, middle and end",
+                "Develop a central character and conflict",
+                "Choose a setting familiar to the writer"
+              ]
+            },
+            {
+              "title": {
+                "en": "Using descriptive language effectively",
+                "fr": "Utiliser un langage descriptif efficace",
+                "mfe": "Servi langaz deskriptif efikasman"
+              },
+              "objectives": [
+                "Select precise adjectives and adverbs",
+                "Appeal to the five senses in description",
+                "Avoid overused or clichéd expressions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Building tension and pace",
+                "fr": "Créer de la tension et du rythme",
+                "mfe": "Kree tansyon ek ritm"
+              },
+              "objectives": [
+                "Vary sentence length to control pace",
+                "Use dialogue to advance the plot",
+                "Build suspense towards a climax"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing a satisfying ending",
+                "fr": "Écrire une conclusion satisfaisante",
+                "mfe": "Ekrir enn fin satisfezan"
+              },
+              "objectives": [
+                "Resolve the central conflict convincingly",
+                "Link the ending back to the opening",
+                "Avoid abrupt or unfinished conclusions"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Directed and transactional writing",
+            "fr": "Rédaction dirigée et transactionnelle",
+            "mfe": "Ekritir dirize ek transaksyonel"
+          },
+          "summary": {
+            "en": "Practise writing letters, articles, speeches and reports for specific audiences and purposes based on given material.",
+            "fr": "S'entraîner à rédiger des lettres, articles, discours et rapports pour des publics et objectifs précis à partir de documents donnés.",
+            "mfe": "Pratik ekrir let, artik, diskour ek rapor pou piblik ek lobzektif presi baze lor materyel done."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Writing formal and informal letters",
+                "fr": "Rédiger des lettres formelles et informelles",
+                "mfe": "Ekrir let formel ek informel"
+              },
+              "objectives": [
+                "Distinguish register in formal and informal letters",
+                "Structure a letter with appropriate greetings and closings",
+                "Address the purpose stated in the task"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing articles and reports",
+                "fr": "Rédiger des articles et rapports",
+                "mfe": "Ekrir artik ek rapor"
+              },
+              "objectives": [
+                "Use headlines and subheadings appropriately",
+                "Present information in a logical order",
+                "Adapt tone for a target readership"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing speeches for an audience",
+                "fr": "Rédiger des discours pour un public",
+                "mfe": "Ekrir diskour pou enn piblik"
+              },
+              "objectives": [
+                "Use rhetorical techniques to persuade listeners",
+                "Address the audience directly and appropriately",
+                "Structure a speech with a clear message"
+              ]
+            },
+            {
+              "title": {
+                "en": "Adapting content from source material",
+                "fr": "Adapter le contenu à partir de sources",
+                "mfe": "Adapte kontenu apartir sours materyel"
+              },
+              "objectives": [
+                "Select relevant details from given material",
+                "Reorganise information for a new purpose",
+                "Maintain accuracy while changing the format"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Argumentative and discursive writing",
+            "fr": "Rédaction argumentative et discursive",
+            "mfe": "Ekritir arzimantatif ek diskirsif"
+          },
+          "summary": {
+            "en": "Develop skills to present balanced arguments and persuasive opinions on topical issues relevant to Mauritian society.",
+            "fr": "Développer des compétences pour présenter des arguments équilibrés et des opinions persuasives sur des sujets d'actualité pertinents pour la société mauricienne.",
+            "mfe": "Devlop konpetans pou prezant bann larzman ekilibre ek lopinyon persuasif lor bann size aktualite relevan pou lasosyete morisyen."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Structuring a balanced discussion",
+                "fr": "Structurer une discussion équilibrée",
+                "mfe": "Estriktir enn diskisyon ekilibre"
+              },
+              "objectives": [
+                "Present arguments for and against a topic",
+                "Organise points into clear paragraphs",
+                "Reach a reasoned conclusion"
+              ]
+            },
+            {
+              "title": {
+                "en": "Persuasive techniques in writing",
+                "fr": "Techniques persuasives dans l'écriture",
+                "mfe": "Teknik persuasif dan ekritir"
+              },
+              "objectives": [
+                "Use rhetorical questions and repetition for effect",
+                "Support opinions with evidence and examples",
+                "Anticipate and address counterarguments"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing about topical issues",
+                "fr": "Écrire sur des sujets d'actualité",
+                "mfe": "Ekrir lor bann size aktialite"
+              },
+              "objectives": [
+                "Select relevant local and global examples",
+                "Express a clear personal viewpoint",
+                "Maintain a respectful and balanced tone"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Exam techniques and language accuracy",
+            "fr": "Techniques d'examen et précision linguistique",
+            "mfe": "Teknik lexamen ek presizyon langaz"
+          },
+          "summary": {
+            "en": "Consolidate grammar, punctuation and time-management strategies needed to perform well in the O Level English Language paper.",
+            "fr": "Consolider la grammaire, la ponctuation et les stratégies de gestion du temps nécessaires pour réussir l'épreuve d'anglais du niveau O.",
+            "mfe": "Konsolid gramer, ponktiasyon ek stratezi zesyon letan neseser pou reisi papie Angle O Level."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Common grammar errors and corrections",
+                "fr": "Erreurs de grammaire courantes et corrections",
+                "mfe": "Erer gramer komin ek korreksyon"
+              },
+              "objectives": [
+                "Identify frequent tense and agreement errors",
+                "Correct sentences with grammatical mistakes",
+                "Apply correct punctuation in complex sentences"
+              ]
+            },
+            {
+              "title": {
+                "en": "Planning answers under time pressure",
+                "fr": "Planifier ses réponses sous pression du temps",
+                "mfe": "Planifye repons anba presyon letan"
+              },
+              "objectives": [
+                "Allocate time appropriately across exam sections",
+                "Draft a quick outline before writing",
+                "Prioritise questions by marks allocated"
+              ]
+            },
+            {
+              "title": {
+                "en": "Proofreading and self-correction strategies",
+                "fr": "Stratégies de relecture et d'autocorrection",
+                "mfe": "Stratezi relektir ek otokoreksyon"
+              },
+              "objectives": [
+                "Check writing for spelling and punctuation errors",
+                "Identify and correct repeated word choices",
+                "Improve clarity through sentence revision"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mock examination practice",
+                "fr": "Entraînement à l'examen blanc",
+                "mfe": "Pratik examen blan"
+              },
+              "objectives": [
+                "Complete a full paper under timed conditions",
+                "Apply learnt strategies across all question types",
+                "Reflect on performance to identify improvement areas"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "11": {
+      "units": [
+        {
+          "title": {
+            "en": "Reading for detailed comprehension",
+            "fr": "Lecture pour une compréhension détaillée",
+            "mfe": "Lekti pou konpreansyon detaye"
+          },
+          "summary": {
+            "en": "Students refine skills in reading unfamiliar passages closely, identifying explicit and implicit meanings, and answering comprehension questions accurately in preparation for the SC exam.",
+            "fr": "Les élèves perfectionnent leur capacité à lire attentivement des textes inconnus, à identifier les significations explicites et implicites, et à répondre avec précision aux questions de compréhension en préparation de l'examen SC.",
+            "mfe": "Elev pafinn zot abilite pou lir bann teks nouvo avek atansyon, idantifye siyifikasyon explisit ek implisit, e reponn kestyon konpreansyon avek presizyon pou prepar examen SC."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Skimming and scanning strategies",
+                "fr": "Stratégies de lecture rapide et de repérage",
+                "mfe": "Stratezi pou lir vit ek rod enformasyon"
+              },
+              "objectives": [
+                "Apply skimming techniques to grasp overall meaning quickly",
+                "Use scanning to locate specific information in a text",
+                "Practise timing strategies for exam passages"
+              ]
+            },
+            {
+              "title": {
+                "en": "Identifying explicit and implicit meaning",
+                "fr": "Identifier le sens explicite et implicite",
+                "mfe": "Idantifye siyifikasyon explisit ek implisit"
+              },
+              "objectives": [
+                "Distinguish between stated facts and implied ideas",
+                "Support inferences with textual evidence",
+                "Answer 'in your own words' questions accurately"
+              ]
+            },
+            {
+              "title": {
+                "en": "Understanding writer's tone and attitude",
+                "fr": "Comprendre le ton et l'attitude de l'auteur",
+                "mfe": "Konpran ton ek atitid ekrivin"
+              },
+              "objectives": [
+                "Recognise words that convey tone and feeling",
+                "Explain how word choice reveals attitude",
+                "Compare tone across different text extracts"
+              ]
+            },
+            {
+              "title": {
+                "en": "Answering short-answer comprehension questions",
+                "fr": "Répondre aux questions de compréhension courtes",
+                "mfe": "Reponn kestyon konpreansyon kout"
+              },
+              "objectives": [
+                "Structure concise, relevant answers",
+                "Avoid lifting whole sentences from the passage",
+                "Allocate time appropriately across questions"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Summary writing skills",
+            "fr": "Compétences de rédaction de résumé",
+            "mfe": "Konpetans pou ekrir rezime"
+          },
+          "summary": {
+            "en": "This unit builds the ability to select relevant points from a passage and condense them into a concise, well-organised summary within a strict word limit.",
+            "fr": "Cette unité développe la capacité à sélectionner les points pertinents d'un texte et à les condenser en un résumé concis et bien organisé dans une limite de mots stricte.",
+            "mfe": "Sa lini-la devlop kapasite pou selekte pwin relevan dan enn teks e rezime zot dan enn fason konsi ek byin organize dan enn limit mo strik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Selecting relevant content points",
+                "fr": "Sélectionner les points de contenu pertinents",
+                "mfe": "Selekte pwin kontenn relevan"
+              },
+              "objectives": [
+                "Identify main ideas versus supporting details",
+                "Highlight content points matching the summary task",
+                "Avoid including irrelevant or repeated information"
+              ]
+            },
+            {
+              "title": {
+                "en": "Paraphrasing and condensing ideas",
+                "fr": "Paraphraser et condenser les idées",
+                "mfe": "Paraphraz ek redwir bann lide"
+              },
+              "objectives": [
+                "Rephrase content points in own words",
+                "Combine related points into single sentences",
+                "Reduce wordy expressions without losing meaning"
+              ]
+            },
+            {
+              "title": {
+                "en": "Organising a coherent summary",
+                "fr": "Organiser un résumé cohérent",
+                "mfe": "Organiz enn rezime koeran"
+              },
+              "objectives": [
+                "Sequence points logically",
+                "Use linking words to connect ideas smoothly",
+                "Stay within the specified word limit"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Directed writing tasks",
+            "fr": "Tâches d'écriture dirigée",
+            "mfe": "Travay ekritir dirize"
+          },
+          "summary": {
+            "en": "Students learn to transform information from a given text into a new piece of writing suited to a specified purpose, audience and form such as letters, speeches or articles.",
+            "fr": "Les élèves apprennent à transformer les informations d'un texte donné en un nouvel écrit adapté à un but, un public et une forme spécifiés, comme des lettres, discours ou articles.",
+            "mfe": "Elev aprann transform enformasyon dan enn teks done an enn nouvo pyes ekritir ki adapte ar enn bi, odyans ek form spesifye kouma let, dikur ouswa artik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Adapting content for purpose and audience",
+                "fr": "Adapter le contenu au but et au public",
+                "mfe": "Adapte kontenn selon bi ek odyans"
+              },
+              "objectives": [
+                "Identify the required purpose, audience and form",
+                "Select relevant information from source texts",
+                "Adjust register and tone accordingly"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing a formal letter or speech",
+                "fr": "Rédiger une lettre formelle ou un discours",
+                "mfe": "Ekrir enn let fromel ouswa dikur"
+              },
+              "objectives": [
+                "Use appropriate conventions for letters and speeches",
+                "Structure an argument with clear paragraphs",
+                "Persuade an audience using relevant evidence"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing an article or report",
+                "fr": "Rédiger un article ou un rapport",
+                "mfe": "Ekrir enn artik ouswa rapor"
+              },
+              "objectives": [
+                "Use headlines and subheadings appropriately",
+                "Present information objectively and clearly",
+                "Combine ideas from two texts coherently"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Narrative and descriptive composition",
+            "fr": "Composition narrative et descriptive",
+            "mfe": "Konpozisyon naratif ek deskriptif"
+          },
+          "summary": {
+            "en": "This unit develops creative writing skills, focusing on crafting engaging narratives and vivid descriptions using varied vocabulary and sentence structures.",
+            "fr": "Cette unité développe les compétences d'écriture créative, en se concentrant sur la création de récits captivants et de descriptions vivantes avec un vocabulaire varié.",
+            "mfe": "Sa lini-la devlop konpetans ekritir kreatif, ek fokis lor kree bann rekonte enteresan ek deskripsyon vivan ek vokabiler vares."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Planning a narrative composition",
+                "fr": "Planifier une composition narrative",
+                "mfe": "Planifye enn konpozisyon naratif"
+              },
+              "objectives": [
+                "Develop a clear plot structure with a beginning, middle and end",
+                "Create believable characters and settings",
+                "Use a story outline to organise ideas"
+              ]
+            },
+            {
+              "title": {
+                "en": "Using descriptive language effectively",
+                "fr": "Utiliser un langage descriptif efficace",
+                "mfe": "Servi langaz deskriptif efektivman"
+              },
+              "objectives": [
+                "Employ sensory details to create vivid imagery",
+                "Use figurative language such as metaphor and simile",
+                "Avoid clichés and overused expressions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Building tension and pace in narrative",
+                "fr": "Créer la tension et le rythme dans le récit",
+                "mfe": "Kree tansyon ek ritm dan naratif"
+              },
+              "objectives": [
+                "Vary sentence length to control pacing",
+                "Use dialogue to advance the plot",
+                "Build suspense towards a satisfying conclusion"
+              ]
+            },
+            {
+              "title": {
+                "en": "Editing and refining compositions",
+                "fr": "Éditer et affiner les compositions",
+                "mfe": "Edit ek amelior konpozisyon"
+              },
+              "objectives": [
+                "Check for grammatical accuracy and punctuation",
+                "Improve word choice for greater impact",
+                "Ensure paragraphing supports the narrative flow"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Discursive and argumentative writing",
+            "fr": "Écriture discursive et argumentative",
+            "mfe": "Ekritir diskursif ek argimantatif"
+          },
+          "summary": {
+            "en": "Students practise presenting balanced arguments or persuasive opinions on contemporary issues, structuring essays with clear reasoning and evidence.",
+            "fr": "Les élèves s'exercent à présenter des arguments équilibrés ou des opinions persuasives sur des questions contemporaines, en structurant des essais avec un raisonnement clair.",
+            "mfe": "Elev pratik prezant argiman balanse ouswa opinyon konvinkan lor size aktyel, ek striktir zot esse ek rezonman kler."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Structuring a balanced discussion essay",
+                "fr": "Structurer un essai de discussion équilibré",
+                "mfe": "Striktir enn esse diskisyon balanse"
+              },
+              "objectives": [
+                "Present arguments for and against a topic",
+                "Use topic sentences to organise paragraphs",
+                "Reach a reasoned conclusion"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing a persuasive argumentative essay",
+                "fr": "Rédiger un essai argumentatif persuasif",
+                "mfe": "Ekrir enn esse argimantatif konvinkan"
+              },
+              "objectives": [
+                "State a clear thesis or opinion",
+                "Support claims with examples and evidence",
+                "Use rhetorical devices to persuade the reader"
+              ]
+            },
+            {
+              "title": {
+                "en": "Using linking words and cohesive devices",
+                "fr": "Utiliser des mots de liaison et des dispositifs cohésifs",
+                "mfe": "Servi mo lyezon ek zouti koezyon"
+              },
+              "objectives": [
+                "Apply a range of connectives to link ideas",
+                "Ensure smooth transitions between paragraphs",
+                "Avoid repetition of simple linking words"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Grammar and language accuracy",
+            "fr": "Grammaire et précision linguistique",
+            "mfe": "Gramer ek presizyon lang"
+          },
+          "summary": {
+            "en": "This unit consolidates grammatical accuracy, focusing on common error patterns, sentence construction and vocabulary range needed for examination success.",
+            "fr": "Cette unité consolide la précision grammaticale, en se concentrant sur les erreurs courantes, la construction des phrases et le vocabulaire nécessaires pour réussir l'examen.",
+            "mfe": "Sa lini-la konsolide presizyon gramatikal, ek fokis lor erer komen, konstriksyon fraz ek vokabiler neseser pou reisi examen."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Correcting common grammatical errors",
+                "fr": "Corriger les erreurs grammaticales courantes",
+                "mfe": "Korize erer gramatikal komen"
+              },
+              "objectives": [
+                "Identify frequent errors in tense and agreement",
+                "Correct misused prepositions and articles",
+                "Proofread written work systematically"
+              ]
+            },
+            {
+              "title": {
+                "en": "Varying sentence structures for effect",
+                "fr": "Varier les structures de phrases pour l'effet",
+                "mfe": "Vari striktir fraz pou efe"
+              },
+              "objectives": [
+                "Combine simple sentences into complex ones",
+                "Use a mix of sentence types for style",
+                "Avoid run-on sentences and fragments"
+              ]
+            },
+            {
+              "title": {
+                "en": "Expanding vocabulary and word choice",
+                "fr": "Enrichir le vocabulaire et le choix des mots",
+                "mfe": "Agrandi vokabiler ek swa mo"
+              },
+              "objectives": [
+                "Use synonyms to avoid repetition",
+                "Select precise vocabulary for context",
+                "Understand connotation versus denotation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Punctuation for clarity and effect",
+                "fr": "Ponctuation pour la clarté et l'effet",
+                "mfe": "Ponktiasyon pou klarte ek efe"
+              },
+              "objectives": [
+                "Apply correct use of commas, colons and semicolons",
+                "Use punctuation to create emphasis",
+                "Proofread for punctuation accuracy"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Exam preparation and mock papers",
+            "fr": "Préparation aux examens et épreuves types",
+            "mfe": "Preparasyon examen ek papye mok"
+          },
+          "summary": {
+            "en": "Students consolidate all skills through timed practice papers, past-paper analysis and targeted feedback to build confidence for the O Level English Language exam.",
+            "fr": "Les élèves consolident toutes leurs compétences grâce à des épreuves chronométrées, l'analyse d'anciens sujets et des retours ciblés pour renforcer leur confiance avant l'examen O Level.",
+            "mfe": "Elev konsolide tou konpetans atraver papye pratik ek tan limite, analiz ansyen papye, ek feedback sible pou ranforsi konfyans pou examen O Level English Language."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Analysing past examination papers",
+                "fr": "Analyser les anciens sujets d'examen",
+                "mfe": "Analiz ansyen papye examen"
+              },
+              "objectives": [
+                "Identify common question types and mark schemes",
+                "Recognise examiner expectations for each section",
+                "Plan time allocation across the paper"
+              ]
+            },
+            {
+              "title": {
+                "en": "Timed practice for Paper 1",
+                "fr": "Pratique chronométrée pour l'épreuve 1",
+                "mfe": "Pratik ek tan limite pou Papye 1"
+              },
+              "objectives": [
+                "Complete comprehension and summary tasks under time pressure",
+                "Apply exam techniques learned throughout the course",
+                "Review answers for accuracy and completeness"
+              ]
+            },
+            {
+              "title": {
+                "en": "Timed practice for Paper 2 composition",
+                "fr": "Pratique chronométrée pour la composition de l'épreuve 2",
+                "mfe": "Pratik ek tan limite pou konpozisyon Papye 2"
+              },
+              "objectives": [
+                "Plan and write a full composition within time limits",
+                "Apply narrative, descriptive or discursive techniques appropriately",
+                "Self-assess against marking criteria"
+              ]
+            },
+            {
+              "title": {
+                "en": "Reviewing feedback and improving weak areas",
+                "fr": "Examiner les retours et améliorer les points faibles",
+                "mfe": "Revize feedback ek amelior pwin fayb"
+              },
+              "objectives": [
+                "Interpret examiner feedback and mark allocations",
+                "Set personal targets for improvement",
+                "Revise specific skills based on identified weaknesses"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "12": {
+      "units": [
+        {
+          "title": {
+            "en": "Foundations of English language study",
+            "fr": "Fondements de l'étude de la langue anglaise",
+            "mfe": "Bann baz pou letid lang angle"
+          },
+          "summary": {
+            "en": "An introduction to key concepts in English language study at AS Level, including linguistic terminology, levels of language and approaches to text analysis.",
+            "fr": "Une introduction aux concepts clés de l'étude de la langue anglaise au niveau AS, incluant la terminologie linguistique, les niveaux de langue et les approches d'analyse de texte.",
+            "mfe": "Enn lentrodiksion bann konsep kle dan letid lang angle nivo AS, ki inklir term lengwistik, nivo langaz ek fason pou analiz text."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "What is English language study",
+                "fr": "Qu'est-ce que l'étude de la langue anglaise",
+                "mfe": "Ki ete letid lang angle"
+              },
+              "objectives": [
+                "Explain the scope of AS Level English Language study",
+                "Distinguish English Language from English Literature",
+                "Identify key branches of linguistics used in text analysis"
+              ]
+            },
+            {
+              "title": {
+                "en": "Levels of language analysis",
+                "fr": "Les niveaux d'analyse linguistique",
+                "mfe": "Bann nivo analiz langaz"
+              },
+              "objectives": [
+                "Define lexical, grammatical, phonological and discourse levels",
+                "Apply appropriate terminology to sample texts",
+                "Recognise how levels interact to create meaning"
+              ]
+            },
+            {
+              "title": {
+                "en": "Context and audience in texts",
+                "fr": "Contexte et public dans les textes",
+                "mfe": "Kontex ek piblik dan bann text"
+              },
+              "objectives": [
+                "Identify purpose, audience and context of a text",
+                "Explain how context shapes language choices",
+                "Compare texts written for different audiences"
+              ]
+            },
+            {
+              "title": {
+                "en": "Introduction to text analysis frameworks",
+                "fr": "Introduction aux cadres d'analyse de texte",
+                "mfe": "Lentrodiksion bann fraywork analiz text"
+              },
+              "objectives": [
+                "Describe common frameworks for analysing texts",
+                "Apply a basic framework to a short extract",
+                "Justify analytical choices with textual evidence"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Exploring spoken language",
+            "fr": "Explorer le langage parlé",
+            "mfe": "Explor langaz koze"
+          },
+          "summary": {
+            "en": "Learners investigate features of spoken English, including transcription conventions, turn-taking and variation across Mauritian speech communities.",
+            "fr": "Les apprenants examinent les caractéristiques de l'anglais parlé, y compris les conventions de transcription, la prise de parole et la variation dans les communautés mauriciennes.",
+            "mfe": "Bann etidian examinn karakteristik angle koze, ki inklir konvansion transkripsion, pran-la-parol ek variasion dan bann kominote Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Features of spoken discourse",
+                "fr": "Caractéristiques du discours parlé",
+                "mfe": "Karakteristik diskour koze"
+              },
+              "objectives": [
+                "Identify fillers, hesitations and repairs in speech",
+                "Explain the role of turn-taking in conversation",
+                "Compare spoken and written discourse features"
+              ]
+            },
+            {
+              "title": {
+                "en": "Transcription conventions and analysis",
+                "fr": "Conventions et analyse de transcription",
+                "mfe": "Konvansion ek analiz transkripsion"
+              },
+              "objectives": [
+                "Read a transcript using standard conventions",
+                "Identify pauses, overlaps and stress markers",
+                "Analyse how transcription reveals speaker intention"
+              ]
+            },
+            {
+              "title": {
+                "en": "Spoken language variation in Mauritius",
+                "fr": "Variation du langage parlé à Maurice",
+                "mfe": "Variasion langaz koze dan Moris"
+              },
+              "objectives": [
+                "Describe regional and social variation in Mauritian English speech",
+                "Explain code-switching between English, French and Kreol",
+                "Evaluate attitudes towards different speech varieties"
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysing spoken interaction texts",
+                "fr": "Analyser des textes d'interaction orale",
+                "mfe": "Analiz text interaksion oral"
+              },
+              "objectives": [
+                "Apply analytical terms to a spoken transcript",
+                "Discuss power and politeness in interaction",
+                "Write a structured commentary on spoken data"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Analysing written texts",
+            "fr": "Analyser des textes écrits",
+            "mfe": "Analiz text ekri"
+          },
+          "summary": {
+            "en": "A study of written text types, styles and rhetorical devices, developing skills to analyse how writers achieve their purposes.",
+            "fr": "Une étude des types de textes écrits, des styles et des procédés rhétoriques, développant des compétences pour analyser comment les auteurs atteignent leurs objectifs.",
+            "mfe": "Enn letid bann tip text ekri, style ek bann teknik retorik, ki devlop konpetans pou analiz kouman ekrivin realiz zot bi."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Identifying text types and genres",
+                "fr": "Identifier les types et genres de texte",
+                "mfe": "Idantifie tip ek zanr text"
+              },
+              "objectives": [
+                "Classify texts by genre and purpose",
+                "Identify conventions typical of each genre",
+                "Compare features across different text types"
+              ]
+            },
+            {
+              "title": {
+                "en": "Rhetorical and stylistic devices",
+                "fr": "Procédés rhétoriques et stylistiques",
+                "mfe": "Bann teknik retorik ek stilistik"
+              },
+              "objectives": [
+                "Identify common rhetorical devices in texts",
+                "Explain the effect of stylistic choices on readers",
+                "Apply terminology accurately in written commentary"
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysing persuasive writing",
+                "fr": "Analyser l'écriture persuasive",
+                "mfe": "Analiz lekritir pou persuad"
+              },
+              "objectives": [
+                "Identify persuasive techniques in advertisements and speeches",
+                "Evaluate the effectiveness of persuasive language",
+                "Compare persuasive strategies across two texts"
+              ]
+            },
+            {
+              "title": {
+                "en": "Comparing texts from different periods",
+                "fr": "Comparer des textes de différentes époques",
+                "mfe": "Konpar text sorti diferan lepok"
+              },
+              "objectives": [
+                "Identify features of language change across time",
+                "Compare style and vocabulary in older and modern texts",
+                "Discuss reasons for language change"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Directed writing techniques",
+            "fr": "Techniques d'écriture dirigée",
+            "mfe": "Teknik lekritir dirize"
+          },
+          "summary": {
+            "en": "Practical training in transforming source material into new text types for specific audiences and purposes, a key AS Level skill.",
+            "fr": "Formation pratique à la transformation de documents sources en nouveaux types de textes pour des publics et objectifs spécifiques, une compétence clé du niveau AS.",
+            "mfe": "Formasion pratik pou transform dokiman sours an nouvo tip text pou piblik ek bi spesifik, enn konpetans kle nivo AS."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Understanding directed writing tasks",
+                "fr": "Comprendre les tâches d'écriture dirigée",
+                "mfe": "Konpran bann task lekritir dirize"
+              },
+              "objectives": [
+                "Explain the requirements of directed writing questions",
+                "Identify audience, purpose and form in a task",
+                "Plan a response using selected source material"
+              ]
+            },
+            {
+              "title": {
+                "en": "Selecting and transforming content",
+                "fr": "Sélectionner et transformer le contenu",
+                "mfe": "Selektionn ek transform kontenir"
+              },
+              "objectives": [
+                "Select relevant content from source texts",
+                "Transform information into a new format",
+                "Avoid excessive copying of source language"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing for different formats",
+                "fr": "Écrire pour différents formats",
+                "mfe": "Ekrir pou diferan format"
+              },
+              "objectives": [
+                "Identify conventions of speeches, articles and letters",
+                "Adapt tone and register for a chosen format",
+                "Draft a directed writing response"
+              ]
+            },
+            {
+              "title": {
+                "en": "Reviewing and improving directed writing",
+                "fr": "Réviser et améliorer l'écriture dirigée",
+                "mfe": "Revize ek amelior lekritir dirize"
+              },
+              "objectives": [
+                "Evaluate a sample response against mark scheme criteria",
+                "Identify strengths and areas for improvement",
+                "Redraft a response incorporating feedback"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Summary and comprehension skills",
+            "fr": "Compétences de résumé et de compréhension",
+            "mfe": "Konpetans rezime ek konpreansion"
+          },
+          "summary": {
+            "en": "Developing skills to extract, summarise and interpret information accurately from a range of texts.",
+            "fr": "Développer des compétences pour extraire, résumer et interpréter avec précision l'information d'une variété de textes.",
+            "mfe": "Devlop konpetans pou tir, rezime ek interpret linformasion korekteman dan diferan tip text."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Identifying key points in a text",
+                "fr": "Identifier les points clés d'un texte",
+                "mfe": "Idantifie bann pwin kle dan enn text"
+              },
+              "objectives": [
+                "Skim and scan a text for main ideas",
+                "Distinguish main points from supporting detail",
+                "Highlight relevant information for a task"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing concise summaries",
+                "fr": "Rédiger des résumés concis",
+                "mfe": "Ekrir rezime kout"
+              },
+              "objectives": [
+                "Paraphrase content in the student's own words",
+                "Organise summarised points logically",
+                "Meet word limits while retaining meaning"
+              ]
+            },
+            {
+              "title": {
+                "en": "Comprehension question techniques",
+                "fr": "Techniques de questions de compréhension",
+                "mfe": "Teknik pou question konpreansion"
+              },
+              "objectives": [
+                "Interpret question wording accurately",
+                "Support answers with textual evidence",
+                "Avoid common errors in comprehension responses"
+              ]
+            },
+            {
+              "title": {
+                "en": "Synthesising information from multiple texts",
+                "fr": "Synthétiser l'information de plusieurs textes",
+                "mfe": "Sintetiz linformasion sorti plizir text"
+              },
+              "objectives": [
+                "Compare information across two or more texts",
+                "Identify similarities and differences in viewpoint",
+                "Produce a synthesised response to a task"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Language, identity and society",
+            "fr": "Langue, identité et société",
+            "mfe": "Langaz, ledantite ek lasosiete"
+          },
+          "summary": {
+            "en": "An exploration of how language reflects and shapes identity, culture and social relationships, with reference to Mauritius's multilingual society.",
+            "fr": "Une exploration de la façon dont la langue reflète et façonne l'identité, la culture et les relations sociales, en référence à la société multilingue de Maurice.",
+            "mfe": "Enn explorasion kouman langaz reflekte ek forme ledantite, kiltir ek relasion sosial, avek referans ar lasosiete miltileng Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Language and personal identity",
+                "fr": "Langue et identité personnelle",
+                "mfe": "Langaz ek ledantite personel"
+              },
+              "objectives": [
+                "Explain how language use reflects identity",
+                "Discuss the role of accent and dialect in identity",
+                "Analyse examples of identity expressed through language"
+              ]
+            },
+            {
+              "title": {
+                "en": "Multilingualism in Mauritius",
+                "fr": "Le multilinguisme à Maurice",
+                "mfe": "Miltilengwism dan Moris"
+              },
+              "objectives": [
+                "Describe the languages used in Mauritian society",
+                "Explain the concept of code-switching and code-mixing",
+                "Evaluate the social functions of multilingualism"
+              ]
+            },
+            {
+              "title": {
+                "en": "Language and gender",
+                "fr": "Langue et genre",
+                "mfe": "Langaz ek zann"
+              },
+              "objectives": [
+                "Identify features associated with gendered language use",
+                "Discuss theories of language and gender",
+                "Analyse examples of gendered discourse"
+              ]
+            },
+            {
+              "title": {
+                "en": "Language attitudes and prestige",
+                "fr": "Attitudes et prestige linguistiques",
+                "mfe": "Latitid ek prestiz lengwistik"
+              },
+              "objectives": [
+                "Explain the concept of linguistic prestige",
+                "Discuss attitudes towards standard and non-standard varieties",
+                "Evaluate the impact of attitudes on language use"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Argumentative essay writing",
+            "fr": "Rédaction d'essais argumentatifs",
+            "mfe": "Ekrir bann esse argimantatif"
+          },
+          "summary": {
+            "en": "Building skills in constructing balanced, well-supported arguments on contemporary issues, preparing for General Paper style writing.",
+            "fr": "Développer des compétences pour construire des arguments équilibrés et bien étayés sur des questions contemporaines, en préparation au style General Paper.",
+            "mfe": "Devlop konpetans pou konstrir argiman ekilibre ek bien sipport lor bann size aktyel, prepar pou style General Paper."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Structuring an argumentative essay",
+                "fr": "Structurer un essai argumentatif",
+                "mfe": "Striktir enn esse argimantatif"
+              },
+              "objectives": [
+                "Plan an essay with a clear thesis and structure",
+                "Organise paragraphs around distinct points",
+                "Write effective introductions and conclusions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Presenting balanced viewpoints",
+                "fr": "Présenter des points de vue équilibrés",
+                "mfe": "Prezant bann pwin-de-vi ekilibre"
+              },
+              "objectives": [
+                "Identify and present opposing viewpoints",
+                "Use counter-argument and rebuttal effectively",
+                "Maintain a balanced tone throughout an essay"
+              ]
+            },
+            {
+              "title": {
+                "en": "Using evidence and examples",
+                "fr": "Utiliser des preuves et des exemples",
+                "mfe": "Servi prev ek lexanp"
+              },
+              "objectives": [
+                "Select relevant evidence to support arguments",
+                "Integrate examples from Mauritian and global contexts",
+                "Avoid unsupported generalisations"
+              ]
+            },
+            {
+              "title": {
+                "en": "Refining style and expression",
+                "fr": "Affiner le style et l'expression",
+                "mfe": "Amelior style ek expresyon"
+              },
+              "objectives": [
+                "Use varied sentence structures for effect",
+                "Choose precise vocabulary for formal writing",
+                "Edit an essay for clarity and coherence"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "13": {
+      "units": [
+        {
+          "title": {
+            "en": "Advanced directed writing and comprehension",
+            "fr": "Rédaction dirigée et compréhension avancées",
+            "mfe": "Ekritir dirize ek konpreansyon avanse"
+          },
+          "summary": {
+            "en": "Refine skills in analysing unseen passages and producing directed writing pieces for varied audiences and purposes, building on AS-level techniques.",
+            "fr": "Affiner les compétences d'analyse de textes inconnus et de rédaction dirigée pour divers publics et objectifs, en s'appuyant sur les techniques du niveau AS.",
+            "mfe": "Rafine konpetans pou analiz tex ki pa'nn tenn ek prodwir ekritir dirize pou diferan piblik ek bi, an baz lor teknik nivo AS."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Analysing complex unseen texts",
+                "fr": "Analyser des textes inconnus complexes",
+                "mfe": "Analiz tex konplex ki pa'nn tenn"
+              },
+              "objectives": [
+                "Identify sophisticated language features in unfamiliar texts",
+                "Evaluate writer's intent and tone across genres",
+                "Synthesise information from multiple sources"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing persuasive speeches and articles",
+                "fr": "Rédiger des discours et articles persuasifs",
+                "mfe": "Ekrir diskour ek atik persuasif"
+              },
+              "objectives": [
+                "Craft arguments suited to a specified audience",
+                "Use rhetorical devices effectively",
+                "Adapt register for formal and informal contexts"
+              ]
+            },
+            {
+              "title": {
+                "en": "Summarising and synthesising sources",
+                "fr": "Résumer et synthétiser des sources",
+                "mfe": "Rezime ek sintetiz sours"
+              },
+              "objectives": [
+                "Extract key points from multiple texts",
+                "Combine information coherently without repetition",
+                "Maintain concise and accurate expression"
+              ]
+            },
+            {
+              "title": {
+                "en": "Evaluating bias and viewpoint",
+                "fr": "Évaluer les préjugés et points de vue",
+                "mfe": "Evalye byiaz ek pwennvi"
+              },
+              "objectives": [
+                "Recognise implicit bias in texts",
+                "Compare differing viewpoints on an issue",
+                "Justify judgements with textual evidence"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Comparative textual analysis",
+            "fr": "Analyse comparative de textes",
+            "mfe": "Analiz konparativ tex"
+          },
+          "summary": {
+            "en": "Develop skills to compare texts from different periods, genres and modes, focusing on language choices and effects.",
+            "fr": "Développer des compétences pour comparer des textes de différentes époques, genres et modes, en se concentrant sur les choix linguistiques et leurs effets.",
+            "mfe": "Devlop konpetans pou konpar tex ki sorti diferan lepok, genr ek mod, ki konsantre lor swa langaz ek zot lefe."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Comparing spoken and written texts",
+                "fr": "Comparer textes oraux et écrits",
+                "mfe": "Konpar tex oral ek ekri"
+              },
+              "objectives": [
+                "Identify features distinguishing spoken from written language",
+                "Analyse how mode affects meaning",
+                "Compare register across text types"
+              ]
+            },
+            {
+              "title": {
+                "en": "Comparing texts across time periods",
+                "fr": "Comparer des textes de différentes époques",
+                "mfe": "Konpar tex sorti diferan lepok"
+              },
+              "objectives": [
+                "Identify markers of historical language use",
+                "Discuss how context shapes language choices",
+                "Compare lexical and syntactic differences over time"
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysing multimodal texts",
+                "fr": "Analyser des textes multimodaux",
+                "mfe": "Analiz tex miltimodal"
+              },
+              "objectives": [
+                "Examine interaction of image, layout and language",
+                "Evaluate effectiveness of multimodal communication",
+                "Discuss audience impact of combined modes"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing comparative commentaries",
+                "fr": "Rédiger des commentaires comparatifs",
+                "mfe": "Ekrir komanter konparativ"
+              },
+              "objectives": [
+                "Structure a coherent comparative essay",
+                "Use linguistic terminology accurately",
+                "Support comparisons with precise textual evidence"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Language and social identity",
+            "fr": "Langue et identité sociale",
+            "mfe": "Langaz ek idantite sosyal"
+          },
+          "summary": {
+            "en": "Explore how language reflects and shapes gender, ethnicity, class and regional identity, with attention to Mauritian multilingual contexts.",
+            "fr": "Explorer comment la langue reflète et façonne le genre, l'ethnicité, la classe et l'identité régionale, en tenant compte du contexte multilingue mauricien.",
+            "mfe": "Explor kouma langaz reflet ek fasonn zanr, letnisite, klas ek idantite rezyonal, ki pran kont kontex miltileng morisyen."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Language and gender",
+                "fr": "Langue et genre",
+                "mfe": "Langaz ek zanr"
+              },
+              "objectives": [
+                "Discuss theories of gendered language use",
+                "Analyse examples of gendered speech patterns",
+                "Evaluate stereotypes reflected in language"
+              ]
+            },
+            {
+              "title": {
+                "en": "Language and social class",
+                "fr": "Langue et classe sociale",
+                "mfe": "Langaz ek klas sosyal"
+              },
+              "objectives": [
+                "Identify features associated with social class variation",
+                "Discuss attitudes towards accent and dialect",
+                "Evaluate the concept of prestige varieties"
+              ]
+            },
+            {
+              "title": {
+                "en": "Multilingualism in Mauritius",
+                "fr": "Multilinguisme à Maurice",
+                "mfe": "Miltileng dan Moris"
+              },
+              "objectives": [
+                "Describe the language landscape of Mauritius",
+                "Analyse code-switching between Kreol, French and English",
+                "Discuss attitudes towards multilingual practices"
+              ]
+            },
+            {
+              "title": {
+                "en": "Language and ethnic identity",
+                "fr": "Langue et identité ethnique",
+                "mfe": "Langaz ek idantite etnik"
+              },
+              "objectives": [
+                "Examine how language marks ethnic identity",
+                "Discuss language maintenance and shift",
+                "Evaluate case studies of minority languages"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Language change over time",
+            "fr": "L'évolution de la langue dans le temps",
+            "mfe": "Sanzman langaz dan letan"
+          },
+          "summary": {
+            "en": "Study processes and causes of language change, including lexical, semantic and grammatical shifts in English.",
+            "fr": "Étudier les processus et causes de l'évolution linguistique, y compris les changements lexicaux, sémantiques et grammaticaux en anglais.",
+            "mfe": "Etidye prosesis ek koz sanzman langaz, ki inklir sanzman leksikal, semantik ek gramatikal dan angle."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Causes of language change",
+                "fr": "Causes de l'évolution linguistique",
+                "mfe": "Koz sanzman langaz"
+              },
+              "objectives": [
+                "Identify social and technological drivers of change",
+                "Discuss the role of contact between languages",
+                "Evaluate attitudes towards prescriptivism and descriptivism"
+              ]
+            },
+            {
+              "title": {
+                "en": "Semantic change and new vocabulary",
+                "fr": "Changement sémantique et nouveau vocabulaire",
+                "mfe": "Sanzman semantik ek nouvo vokabiler"
+              },
+              "objectives": [
+                "Classify types of semantic shift",
+                "Analyse examples of neologisms and borrowings",
+                "Discuss the impact of digital communication on vocabulary"
+              ]
+            },
+            {
+              "title": {
+                "en": "Grammatical change in English",
+                "fr": "Changement grammatical en anglais",
+                "mfe": "Sanzman gramatikal dan angle"
+              },
+              "objectives": [
+                "Identify examples of syntactic simplification",
+                "Discuss changes in verb forms over time",
+                "Evaluate evidence from historical texts"
+              ]
+            },
+            {
+              "title": {
+                "en": "Attitudes to language change",
+                "fr": "Attitudes face à l'évolution de la langue",
+                "mfe": "Latitid anver sanzman langaz"
+              },
+              "objectives": [
+                "Discuss public reactions to linguistic innovation",
+                "Evaluate arguments for and against language purism",
+                "Analyse media commentary on language change"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Child language acquisition",
+            "fr": "L'acquisition du langage chez l'enfant",
+            "mfe": "Akizisyon langaz kot zanfan"
+          },
+          "summary": {
+            "en": "Examine theories and stages of first language acquisition, applying linguistic frameworks to real child speech data.",
+            "fr": "Examiner les théories et étapes de l'acquisition du langage, en appliquant des cadres linguistiques à des données réelles de discours d'enfants.",
+            "mfe": "Egzamin teori ek etap akizisyon langaz, aplik kad lengwistik lor done reel langaz zanfan."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Theories of language acquisition",
+                "fr": "Théories de l'acquisition du langage",
+                "mfe": "Teori akizisyon langaz"
+              },
+              "objectives": [
+                "Compare nativist and behaviourist theories",
+                "Discuss the role of interaction in acquisition",
+                "Evaluate evidence supporting each theory"
+              ]
+            },
+            {
+              "title": {
+                "en": "Stages of phonological and lexical development",
+                "fr": "Étapes du développement phonologique et lexical",
+                "mfe": "Etap devlopman fonolozik ek leksikal"
+              },
+              "objectives": [
+                "Describe stages from babbling to first words",
+                "Identify features of early vocabulary growth",
+                "Analyse transcripts of child speech"
+              ]
+            },
+            {
+              "title": {
+                "en": "Grammatical development in children",
+                "fr": "Développement grammatical chez l'enfant",
+                "mfe": "Devlopman gramatikal kot zanfan"
+              },
+              "objectives": [
+                "Identify stages of syntactic development",
+                "Analyse overgeneralisation errors",
+                "Discuss the telegraphic stage of speech"
+              ]
+            },
+            {
+              "title": {
+                "en": "Bilingual first language acquisition",
+                "fr": "Acquisition bilingue du langage",
+                "mfe": "Akizisyon langaz bileng"
+              },
+              "objectives": [
+                "Discuss patterns of bilingual development",
+                "Compare simultaneous and sequential acquisition",
+                "Evaluate case studies of multilingual Mauritian children"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "General paper: global issues",
+            "fr": "Épreuve générale : enjeux mondiaux",
+            "mfe": "Lepev zeneral: problem mondyal"
+          },
+          "summary": {
+            "en": "Analyse and write structured essays on contemporary global issues such as environment, technology, ethics and society.",
+            "fr": "Analyser et rédiger des dissertations structurées sur des enjeux mondiaux contemporains tels que l'environnement, la technologie, l'éthique et la société.",
+            "mfe": "Analiz ek ekrir disertasyon striktire lor problem mondyal aktyel kouma lanvironnman, teknolozi, letik ek sosyete."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Environment and sustainability debates",
+                "fr": "Débats sur l'environnement et la durabilité",
+                "mfe": "Deba lor lanvironnman ek dirabilite"
+              },
+              "objectives": [
+                "Discuss major environmental challenges globally and locally",
+                "Evaluate arguments for sustainable development",
+                "Structure a balanced argumentative essay"
+              ]
+            },
+            {
+              "title": {
+                "en": "Technology and society",
+                "fr": "Technologie et société",
+                "mfe": "Teknolozi ek sosyete"
+              },
+              "objectives": [
+                "Discuss impacts of technology on daily life",
+                "Evaluate ethical concerns around artificial intelligence",
+                "Support arguments with relevant examples"
+              ]
+            },
+            {
+              "title": {
+                "en": "Ethics and moral dilemmas",
+                "fr": "Éthique et dilemmes moraux",
+                "mfe": "Letik ek dilenm moral"
+              },
+              "objectives": [
+                "Analyse contrasting ethical viewpoints",
+                "Discuss real-world moral dilemmas",
+                "Construct reasoned conclusions in essays"
+              ]
+            },
+            {
+              "title": {
+                "en": "Globalisation and culture",
+                "fr": "Mondialisation et culture",
+                "mfe": "Globalizasyon ek kiltir"
+              },
+              "objectives": [
+                "Discuss effects of globalisation on local cultures",
+                "Evaluate benefits and drawbacks of cultural exchange",
+                "Reference Mauritian examples of globalisation"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Spoken language analysis",
+            "fr": "Analyse du langage parlé",
+            "mfe": "Analiz langaz parle"
+          },
+          "summary": {
+            "en": "Investigate features of spontaneous speech, conversation analysis and spoken genres using transcripts and recordings.",
+            "fr": "Étudier les caractéristiques du discours spontané, l'analyse conversationnelle et les genres oraux à l'aide de transcriptions et d'enregistrements.",
+            "mfe": "Investig karakteristik diskour spontane, analiz konversasyon ek genr oral atraver transkripsyon ek anrezistreman."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Features of spontaneous speech",
+                "fr": "Caractéristiques du discours spontané",
+                "mfe": "Karakteristik diskour spontane"
+              },
+              "objectives": [
+                "Identify hesitations, fillers and false starts",
+                "Discuss differences between planned and unplanned speech",
+                "Analyse transcripts for spoken features"
+              ]
+            },
+            {
+              "title": {
+                "en": "Conversation analysis techniques",
+                "fr": "Techniques d'analyse conversationnelle",
+                "mfe": "Teknik analiz konversasyon"
+              },
+              "objectives": [
+                "Apply turn-taking and adjacency pair concepts",
+                "Identify politeness strategies in dialogue",
+                "Analyse power dynamics in conversation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Spoken genres and contexts",
+                "fr": "Genres oraux et contextes",
+                "mfe": "Genr oral ek kontex"
+              },
+              "objectives": [
+                "Compare features across interviews, debates and casual talk",
+                "Discuss how context shapes spoken language",
+                "Evaluate the influence of audience on speech style"
+              ]
+            },
+            {
+              "title": {
+                "en": "Transcription conventions and analysis practice",
+                "fr": "Conventions de transcription et pratique d'analyse",
+                "mfe": "Konvansyon transkripsyon ek pratik analiz"
+              },
+              "objectives": [
+                "Apply standard transcription symbols accurately",
+                "Produce a short annotated transcript",
+                "Write an analytical commentary on spoken data"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Exam preparation and independent study",
+            "fr": "Préparation aux examens et étude indépendante",
+            "mfe": "Prepar pou lekzamen ek letid endepandan"
+          },
+          "summary": {
+            "en": "Consolidate skills across all papers through timed practice, past paper analysis and independent research projects.",
+            "fr": "Consolider les compétences sur toutes les épreuves grâce à des exercices chronométrés, l'analyse d'épreuves passées et des projets de recherche indépendants.",
+            "mfe": "Konsolid konpetans lor tou lepev atraver pratik ki gard letan, analiz lepev pase ek proze rese endepandan."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Reviewing past examination papers",
+                "fr": "Réviser les épreuves d'examens passées",
+                "mfe": "Revize lepev lekzamen pase"
+              },
+              "objectives": [
+                "Identify common question patterns across papers",
+                "Evaluate model answers for strengths and weaknesses",
+                "Plan responses under timed conditions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Independent language investigation",
+                "fr": "Recherche linguistique indépendante",
+                "mfe": "Rese lengwistik endepandan"
+              },
+              "objectives": [
+                "Select a suitable topic for independent study",
+                "Collect and analyse language data",
+                "Present findings in a structured report"
+              ]
+            },
+            {
+              "title": {
+                "en": "Essay planning and time management",
+                "fr": "Planification des dissertations et gestion du temps",
+                "mfe": "Planifikasyon disertasyon ek zestion letan"
+              },
+              "objectives": [
+                "Develop efficient essay planning strategies",
+                "Practise allocating time across exam sections",
+                "Refine introductions and conclusions for impact"
+              ]
+            },
+            {
+              "title": {
+                "en": "Peer review and feedback practice",
+                "fr": "Révision par les pairs et pratique du retour",
+                "mfe": "Revizyon par kamarad ek pratik fidbak"
+              },
+              "objectives": [
+                "Give constructive feedback on peer essays",
+                "Apply examiner-style marking criteria",
+                "Revise own work based on feedback received"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

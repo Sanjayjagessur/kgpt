@@ -1,0 +1,2443 @@
+{
+  "subject": "social-modern-studies",
+  "grades": {
+    "7": {
+      "units": [
+        {
+          "title": {
+            "en": "Understanding ourselves and society",
+            "fr": "Se comprendre soi-même et la société",
+            "mfe": "Konpran nou-mem ek lasosiete"
+          },
+          "summary": {
+            "en": "Students explore personal identity, family life and how individuals learn values and roles within Mauritian society.",
+            "fr": "Les élèves explorent l'identité personnelle, la vie familiale et la manière dont les individus apprennent des valeurs et des rôles au sein de la société mauricienne.",
+            "mfe": "Bann elev explor zot lidentite personel, lavi familial ek kouma bann individi aprann valer ek rol dan lasosiete morisien."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "The individual and identity",
+                "fr": "L'individu et l'identité",
+                "mfe": "Lindividi ek lidentite"
+              },
+              "objectives": [
+                "Define what makes up personal identity",
+                "Identify factors that shape identity",
+                "Describe how identity can change over time"
+              ]
+            },
+            {
+              "title": {
+                "en": "Family structures in Mauritius",
+                "fr": "Structures familiales à Maurice",
+                "mfe": "Striktir fami dan Moris"
+              },
+              "objectives": [
+                "Describe different types of family structures",
+                "Compare nuclear and extended families",
+                "Explain the role of family in raising children"
+              ]
+            },
+            {
+              "title": {
+                "en": "Socialization and values",
+                "fr": "Socialisation et valeurs",
+                "mfe": "Sosializasion ek valer"
+              },
+              "objectives": [
+                "Explain the process of socialization",
+                "Identify agents of socialization such as school and family",
+                "Discuss how values are passed between generations"
+              ]
+            },
+            {
+              "title": {
+                "en": "Social groups and roles",
+                "fr": "Groupes sociaux et rôles",
+                "mfe": "Group social ek rol"
+              },
+              "objectives": [
+                "Identify different social groups a person belongs to",
+                "Explain the concept of social role",
+                "Give examples of roles within family and school"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Mauritius: land and people",
+            "fr": "Maurice : le pays et son peuple",
+            "mfe": "Moris: pei ek so lepep"
+          },
+          "summary": {
+            "en": "An introduction to the physical geography of Mauritius and the diverse population that shapes the island's identity.",
+            "fr": "Une introduction à la géographie physique de Maurice et à la population diverse qui façonne l'identité de l'île.",
+            "mfe": "Enn lintrodiksion lor zeografi fizik Moris ek popilasion divers ki fer lidentite lil-la."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Location and physical features",
+                "fr": "Localisation et relief",
+                "mfe": "Pozision ek relief"
+              },
+              "objectives": [
+                "Locate Mauritius on a world map",
+                "Describe the main physical features of the island",
+                "Identify neighbouring islands and countries"
+              ]
+            },
+            {
+              "title": {
+                "en": "Climate and weather",
+                "fr": "Climat et météo",
+                "mfe": "Klima ek metewo"
+              },
+              "objectives": [
+                "Describe the tropical climate of Mauritius",
+                "Explain seasonal changes and cyclones",
+                "Discuss how climate affects daily life"
+              ]
+            },
+            {
+              "title": {
+                "en": "Population and settlement patterns",
+                "fr": "Population et modes de peuplement",
+                "mfe": "Popilasion ek fason etablisman"
+              },
+              "objectives": [
+                "Describe the size and distribution of Mauritius's population",
+                "Identify urban and rural areas",
+                "Explain reasons for population concentration in certain regions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Multicultural Mauritius",
+                "fr": "Maurice multiculturelle",
+                "mfe": "Moris multikiltirel"
+              },
+              "objectives": [
+                "Identify the main ethnic and cultural groups in Mauritius",
+                "Explain the meaning of multiculturalism",
+                "Discuss the value of living in a diverse society"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Our island's history",
+            "fr": "L'histoire de notre île",
+            "mfe": "Listwar nou lil"
+          },
+          "summary": {
+            "en": "Students trace the early history of Mauritius, from colonization to the arrival of enslaved and indentured people.",
+            "fr": "Les élèves retracent l'histoire ancienne de Maurice, de la colonisation à l'arrivée des esclaves et des travailleurs engagés.",
+            "mfe": "Bann elev swiv listwar ansien Moris, depi kolonizasion ziska larive bann esklav ek travayer angaze."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Early settlement and colonization",
+                "fr": "Premiers peuplements et colonisation",
+                "mfe": "Premie etablisman ek kolonizasion"
+              },
+              "objectives": [
+                "Describe the first visits by Arab and Portuguese sailors",
+                "Explain Dutch, French and British colonization periods",
+                "Identify key changes brought by each colonial power"
+              ]
+            },
+            {
+              "title": {
+                "en": "Slavery and its legacy",
+                "fr": "L'esclavage et son héritage",
+                "mfe": "Lesklavaz ek so leritaz"
+              },
+              "objectives": [
+                "Explain how enslaved people were brought to Mauritius",
+                "Describe daily life under slavery",
+                "Discuss the lasting impact of slavery on Mauritian society"
+              ]
+            },
+            {
+              "title": {
+                "en": "Indentured labourers",
+                "fr": "Les travailleurs engagés",
+                "mfe": "Bann travayer angaze"
+              },
+              "objectives": [
+                "Explain why indentured labourers came to Mauritius",
+                "Describe their working and living conditions",
+                "Identify contributions of indentured labourers to Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Road to independence",
+                "fr": "Le chemin vers l'indépendance",
+                "mfe": "Semin ver lindepandans"
+              },
+              "objectives": [
+                "Outline key events leading to independence in 1968",
+                "Identify important figures in Mauritius's independence movement",
+                "Explain the significance of independence for Mauritians"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Citizens and government",
+            "fr": "Citoyens et gouvernement",
+            "mfe": "Sitwayen ek gouvernman"
+          },
+          "summary": {
+            "en": "This unit introduces citizenship, local government and the rights and responsibilities of Mauritian citizens.",
+            "fr": "Cette unité présente la citoyenneté, le gouvernement local ainsi que les droits et responsabilités des citoyens mauriciens.",
+            "mfe": "Sa linite-la introdir sitwayente, gouvernman lokal ek bann drwa ek responsabilite sitwayen morisien."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "What is citizenship",
+                "fr": "Qu'est-ce que la citoyenneté",
+                "mfe": "Ki sitwayente ete"
+              },
+              "objectives": [
+                "Define citizenship and nationality",
+                "Explain how one becomes a Mauritian citizen",
+                "Discuss the importance of belonging to a nation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Local government and municipalities",
+                "fr": "Gouvernement local et municipalités",
+                "mfe": "Gouvernman lokal ek minisipalite"
+              },
+              "objectives": [
+                "Describe the structure of local government in Mauritius",
+                "Explain the role of district and village councils",
+                "Identify services provided by local authorities"
+              ]
+            },
+            {
+              "title": {
+                "en": "Rights and responsibilities",
+                "fr": "Droits et responsabilités",
+                "mfe": "Drwa ek responsabilite"
+              },
+              "objectives": [
+                "List basic rights of children and citizens",
+                "Explain corresponding responsibilities",
+                "Give examples of rights in everyday school life"
+              ]
+            },
+            {
+              "title": {
+                "en": "Rule of law basics",
+                "fr": "Notions de l'État de droit",
+                "mfe": "Baz lor lalwa ek lord"
+              },
+              "objectives": [
+                "Explain the concept of the rule of law",
+                "Describe why laws are necessary in society",
+                "Identify examples of laws that protect citizens"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Economic life in Mauritius",
+            "fr": "La vie économique à Maurice",
+            "mfe": "Lavi ekonomik Moris"
+          },
+          "summary": {
+            "en": "Students examine how people meet their needs through work, resources and trade in the Mauritian economy.",
+            "fr": "Les élèves examinent comment les gens satisfont leurs besoins grâce au travail, aux ressources et au commerce dans l'économie mauricienne.",
+            "mfe": "Bann elev examinn kouma dimoun satisfer zot bezwin atraver travay, resours ek komers dan lekonomi morisien."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Basic needs and resources",
+                "fr": "Besoins de base et ressources",
+                "mfe": "Bezwin debaz ek resours"
+              },
+              "objectives": [
+                "Distinguish between needs and wants",
+                "Identify natural and human resources in Mauritius",
+                "Explain how resources are used to meet needs"
+              ]
+            },
+            {
+              "title": {
+                "en": "Types of work and occupations",
+                "fr": "Types de travail et professions",
+                "mfe": "Kalite travay ek metie"
+              },
+              "objectives": [
+                "Classify occupations into primary, secondary and tertiary sectors",
+                "Give examples of jobs in each sector in Mauritius",
+                "Discuss the importance of different occupations"
+              ]
+            },
+            {
+              "title": {
+                "en": "Agriculture and fishing",
+                "fr": "Agriculture et pêche",
+                "mfe": "Lagrikiltir ek lapes"
+              },
+              "objectives": [
+                "Describe the role of sugar cane and food crops in Mauritius",
+                "Explain the importance of fishing to coastal communities",
+                "Discuss challenges facing farmers and fishermen"
+              ]
+            },
+            {
+              "title": {
+                "en": "Trade and tourism",
+                "fr": "Commerce et tourisme",
+                "mfe": "Komers ek tourism"
+              },
+              "objectives": [
+                "Explain the importance of tourism to the Mauritian economy",
+                "Describe how Mauritius trades with other countries",
+                "Discuss benefits and challenges of tourism"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Environment and sustainability",
+            "fr": "Environnement et durabilité",
+            "mfe": "Lanvironnman ek dirabilite"
+          },
+          "summary": {
+            "en": "This unit looks at the natural environment of Mauritius, environmental challenges and the importance of sustainable living.",
+            "fr": "Cette unité examine l'environnement naturel de Maurice, les défis environnementaux et l'importance d'un mode de vie durable.",
+            "mfe": "Sa linite-la get lanvironnman natirel Moris, bann defi lanvironnman ek limportans enn lavi dirab."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Natural resources of Mauritius",
+                "fr": "Ressources naturelles de Maurice",
+                "mfe": "Resours natirel Moris"
+              },
+              "objectives": [
+                "Identify Mauritius's main natural resources",
+                "Explain how these resources are used",
+                "Discuss the limits of natural resources on a small island"
+              ]
+            },
+            {
+              "title": {
+                "en": "Environmental problems",
+                "fr": "Problèmes environnementaux",
+                "mfe": "Problem lanvironnman"
+              },
+              "objectives": [
+                "Identify common environmental problems in Mauritius",
+                "Explain causes of pollution and waste",
+                "Discuss effects of environmental problems on health and nature"
+              ]
+            },
+            {
+              "title": {
+                "en": "Conservation efforts",
+                "fr": "Efforts de conservation",
+                "mfe": "Zefor konservasion"
+              },
+              "objectives": [
+                "Describe examples of conservation projects in Mauritius",
+                "Explain the role of national parks and reserves",
+                "Discuss the importance of protecting endangered species"
+              ]
+            },
+            {
+              "title": {
+                "en": "Being an eco-citizen",
+                "fr": "Devenir un éco-citoyen",
+                "mfe": "Vinn enn eko-sitwayen"
+              },
+              "objectives": [
+                "Identify daily actions that protect the environment",
+                "Explain the importance of recycling and reducing waste",
+                "Plan a small personal action for sustainability"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Culture, religion and national unity",
+            "fr": "Culture, religion et unité nationale",
+            "mfe": "Kiltir, relizion ek linite nasional"
+          },
+          "summary": {
+            "en": "Students discover the religions, festivals and symbols that make up Mauritius's rich cultural heritage and shared identity.",
+            "fr": "Les élèves découvrent les religions, les fêtes et les symboles qui composent le riche patrimoine culturel et l'identité commune de Maurice.",
+            "mfe": "Bann elev dekouver bann relizion, fet ek senbol ki form parti larises kiltirel ek lidentite kominote Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Religions of Mauritius",
+                "fr": "Les religions de Maurice",
+                "mfe": "Bann relizion Moris"
+              },
+              "objectives": [
+                "Identify the main religions practised in Mauritius",
+                "Describe key beliefs of each religion briefly",
+                "Discuss the importance of religious tolerance"
+              ]
+            },
+            {
+              "title": {
+                "en": "Festivals and celebrations",
+                "fr": "Fêtes et célébrations",
+                "mfe": "Fet ek selebrasion"
+              },
+              "objectives": [
+                "List major festivals celebrated in Mauritius",
+                "Explain the meaning behind selected festivals",
+                "Discuss how festivals bring communities together"
+              ]
+            },
+            {
+              "title": {
+                "en": "National symbols",
+                "fr": "Symboles nationaux",
+                "mfe": "Senbol nasional"
+              },
+              "objectives": [
+                "Identify Mauritius's national symbols such as the flag and anthem",
+                "Explain the meaning of each symbol",
+                "Discuss why national symbols matter to a country"
+              ]
+            },
+            {
+              "title": {
+                "en": "Living together in harmony",
+                "fr": "Vivre ensemble en harmonie",
+                "mfe": "Viv ansam an armoni"
+              },
+              "objectives": [
+                "Explain the concept of unity in diversity",
+                "Identify ways Mauritians promote social harmony",
+                "Propose actions to strengthen unity in the classroom"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "8": {
+      "units": [
+        {
+          "title": {
+            "en": "Mauritius under colonial rule",
+            "fr": "Maurice sous la domination coloniale",
+            "mfe": "Moris anba dominasyon kolonyal"
+          },
+          "summary": {
+            "en": "Students explore the Dutch, French and British periods of Mauritian history and how each power shaped the island's society and economy.",
+            "fr": "Les élèves explorent les périodes néerlandaise, française et britannique de l'histoire mauricienne et la manière dont chaque puissance a façonné la société et l'économie de l'île.",
+            "mfe": "Bann elev explor bann period Olande, Franse ek Britanik dan listwar Moris ek kouman sak pwisans finn fason lasosyete ek lekonomi lil la."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "The Dutch occupation of Mauritius",
+                "fr": "L'occupation néerlandaise de Maurice",
+                "mfe": "Lokipasyon Olande dan Moris"
+              },
+              "objectives": [
+                "Describe the reasons the Dutch settled in Mauritius",
+                "Explain why the Dutch eventually abandoned the island",
+                "Identify lasting impacts of Dutch presence such as the dodo's extinction"
+              ]
+            },
+            {
+              "title": {
+                "en": "French colonisation and Isle de France",
+                "fr": "La colonisation française et l'Isle de France",
+                "mfe": "Kolonizasyon Franse ek Isle de France"
+              },
+              "objectives": [
+                "Describe how the French developed sugar plantations",
+                "Explain the role of Port Louis under French rule",
+                "Identify French cultural influences still visible today"
+              ]
+            },
+            {
+              "title": {
+                "en": "British takeover and administration",
+                "fr": "La prise de contrôle et l'administration britannique",
+                "mfe": "Britanik pran kontrol ek administrasyon"
+              },
+              "objectives": [
+                "Explain the circumstances of the British conquest of 1810",
+                "Describe changes introduced under British rule",
+                "Compare French and British administrative approaches"
+              ]
+            },
+            {
+              "title": {
+                "en": "Legacies of colonial rule today",
+                "fr": "Héritages de la domination coloniale aujourd'hui",
+                "mfe": "Leritaz dominasyon kolonyal zordi"
+              },
+              "objectives": [
+                "Identify colonial legacies in language, law and architecture",
+                "Discuss how colonial history shapes modern Mauritian identity",
+                "Evaluate the long-term effects of colonisation on society"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Slavery and indentured labour",
+            "fr": "Esclavage et travail sous contrat",
+            "mfe": "Lesklavaz ek travay angaze"
+          },
+          "summary": {
+            "en": "This unit examines the system of slavery and the later system of indentured labour that shaped Mauritius's diverse population.",
+            "fr": "Cette unité examine le système de l'esclavage et le système ultérieur du travail sous contrat qui ont façonné la population diversifiée de Maurice.",
+            "mfe": "Sa linite la examine sistem lesklavaz ek sistem travay angaze apre ki finn fason popilasyon divers Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "The system of slavery in Mauritius",
+                "fr": "Le système de l'esclavage à Maurice",
+                "mfe": "Sistem lesklavaz dan Moris"
+              },
+              "objectives": [
+                "Describe how enslaved people were brought to Mauritius",
+                "Explain the conditions of life under slavery",
+                "Identify the origins of enslaved populations"
+              ]
+            },
+            {
+              "title": {
+                "en": "Resistance and abolition of slavery",
+                "fr": "Résistance et abolition de l'esclavage",
+                "mfe": "Rezistans ek labolisyon lesklavaz"
+              },
+              "objectives": [
+                "Describe forms of resistance such as marronage",
+                "Explain the events leading to abolition in 1835",
+                "Discuss the significance of Apravasi Ghat as a heritage site"
+              ]
+            },
+            {
+              "title": {
+                "en": "Indentured labour after abolition",
+                "fr": "Le travail sous contrat après l'abolition",
+                "mfe": "Travay angaze apre labolisyon"
+              },
+              "objectives": [
+                "Explain why indentured labourers were brought to Mauritius",
+                "Describe daily life on sugar estates for indentured workers",
+                "Identify the countries of origin of indentured labourers"
+              ]
+            },
+            {
+              "title": {
+                "en": "Building a multicultural society",
+                "fr": "Construire une société multiculturelle",
+                "mfe": "Konstrir enn lasosyete miltikiltirel"
+              },
+              "objectives": [
+                "Explain how slavery and indenture shaped Mauritius's population diversity",
+                "Describe how different communities preserved their traditions",
+                "Appreciate the value of cultural diversity in Mauritius"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Population and settlement in Mauritius",
+            "fr": "Population et peuplement à Maurice",
+            "mfe": "Popilasyon ek etablisman dan Moris"
+          },
+          "summary": {
+            "en": "Students study population distribution, growth and settlement patterns across the island, linking geography to daily life.",
+            "fr": "Les élèves étudient la répartition, la croissance et les modes de peuplement de la population à travers l'île, en reliant la géographie à la vie quotidienne.",
+            "mfe": "Bann elev etidye distribisyon, kwasans ek modele etablisman popilasyon partou dan lil la, ek relye zeografi ar lavi toulezour."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "How population is distributed in Mauritius",
+                "fr": "Comment la population est répartie à Maurice",
+                "mfe": "Kouman popilasyon distribye dan Moris"
+              },
+              "objectives": [
+                "Read population distribution maps of Mauritius",
+                "Identify densely and sparsely populated regions",
+                "Explain factors influencing where people settle"
+              ]
+            },
+            {
+              "title": {
+                "en": "Urban and rural settlements",
+                "fr": "Établissements urbains et ruraux",
+                "mfe": "Etablisman irben ek riral"
+              },
+              "objectives": [
+                "Distinguish between urban and rural settlement types",
+                "Describe features of towns and villages in Mauritius",
+                "Compare lifestyles in urban and rural areas"
+              ]
+            },
+            {
+              "title": {
+                "en": "Population growth and migration",
+                "fr": "Croissance démographique et migration",
+                "mfe": "Kwasans popilasyon ek migrasyon"
+              },
+              "objectives": [
+                "Explain factors affecting population growth",
+                "Describe patterns of internal and external migration",
+                "Interpret simple population statistics for Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Challenges of a growing population",
+                "fr": "Défis d'une population croissante",
+                "mfe": "Defi enn popilasyon an kwasans"
+              },
+              "objectives": [
+                "Identify challenges linked to population growth such as housing and traffic",
+                "Discuss the impact of population pressure on resources",
+                "Suggest solutions to manage population challenges"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Government and citizenship in Mauritius",
+            "fr": "Gouvernement et citoyenneté à Maurice",
+            "mfe": "Gouvernman ek sitwayennte dan Moris"
+          },
+          "summary": {
+            "en": "This unit introduces students to the structures of government, the electoral process and the rights and responsibilities of citizens.",
+            "fr": "Cette unité initie les élèves aux structures du gouvernement, au processus électoral et aux droits et responsabilités des citoyens.",
+            "mfe": "Sa linite la introdwi bann elev bann striktir gouvernman, prosesis elektoral ek bann drwa ek responsabilite sitwayen."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "How Mauritius is governed",
+                "fr": "Comment Maurice est gouvernée",
+                "mfe": "Kouman Moris governe"
+              },
+              "objectives": [
+                "Describe the structure of the Mauritian government",
+                "Identify the roles of the President and Prime Minister",
+                "Explain the separation of powers"
+              ]
+            },
+            {
+              "title": {
+                "en": "Elections and democracy",
+                "fr": "Élections et démocratie",
+                "mfe": "Eleksyon ek demokrasi"
+              },
+              "objectives": [
+                "Explain how general elections work in Mauritius",
+                "Describe the role of political parties",
+                "Discuss why voting matters in a democracy"
+              ]
+            },
+            {
+              "title": {
+                "en": "Rights and responsibilities of citizens",
+                "fr": "Droits et responsabilités des citoyens",
+                "mfe": "Drwa ek responsabilite sitwayen"
+              },
+              "objectives": [
+                "Identify basic rights of Mauritian citizens",
+                "Explain responsibilities citizens have towards society",
+                "Discuss examples of civic participation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Local government and communities",
+                "fr": "Gouvernement local et communautés",
+                "mfe": "Gouvernman lokal ek kominote"
+              },
+              "objectives": [
+                "Describe the role of municipal and village councils",
+                "Explain how local government affects daily life",
+                "Identify ways students can engage with their community"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Economic activities and development",
+            "fr": "Activités économiques et développement",
+            "mfe": "Aktivite ekonomik ek devlopman"
+          },
+          "summary": {
+            "en": "Students investigate the sectors of the Mauritian economy and how the country has diversified since independence.",
+            "fr": "Les élèves étudient les secteurs de l'économie mauricienne et la manière dont le pays s'est diversifié depuis l'indépendance.",
+            "mfe": "Bann elev examine bann sekter lekonomi Morisyen ek kouman pei finn diversifye depi lindepandans."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Primary economic activities",
+                "fr": "Activités économiques primaires",
+                "mfe": "Aktivite ekonomik primer"
+              },
+              "objectives": [
+                "Define primary economic activities with local examples",
+                "Explain the importance of the sugar industry historically",
+                "Identify other primary activities such as fishing"
+              ]
+            },
+            {
+              "title": {
+                "en": "Growth of manufacturing and textiles",
+                "fr": "Croissance de la fabrication et du textile",
+                "mfe": "Devlopman lindistri ek teksil"
+              },
+              "objectives": [
+                "Explain the rise of the textile and manufacturing sector",
+                "Describe the role of export processing zones",
+                "Discuss challenges facing manufacturing today"
+              ]
+            },
+            {
+              "title": {
+                "en": "Tourism as an economic pillar",
+                "fr": "Le tourisme comme pilier économique",
+                "mfe": "Tourism kouma enn pilye ekonomik"
+              },
+              "objectives": [
+                "Explain why Mauritius developed a tourism industry",
+                "Describe the benefits and drawbacks of tourism",
+                "Identify major tourist attractions in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Towards a diversified economy",
+                "fr": "Vers une économie diversifiée",
+                "mfe": "Ver enn lekonomi diversifye"
+              },
+              "objectives": [
+                "Describe newer sectors such as ICT and financial services",
+                "Explain the concept of economic diversification",
+                "Discuss the importance of education for future employment"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Environment and sustainable development",
+            "fr": "Environnement et développement durable",
+            "mfe": "Lanvironnman ek devlopman dirab"
+          },
+          "summary": {
+            "en": "This unit looks at Mauritius's natural environment, environmental challenges, and efforts towards sustainability.",
+            "fr": "Cette unité examine l'environnement naturel de Maurice, les défis environnementaux et les efforts vers la durabilité.",
+            "mfe": "Sa linite la gete lanvironnman natirel Moris, defi lanvironnman ek zefor pou enn devlopman dirab."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Mauritius's natural environment",
+                "fr": "L'environnement naturel de Maurice",
+                "mfe": "Lanvironnman natirel Moris"
+              },
+              "objectives": [
+                "Describe key features of Mauritius's landscape and climate",
+                "Identify unique flora and fauna of the island",
+                "Explain the importance of protecting endemic species"
+              ]
+            },
+            {
+              "title": {
+                "en": "Environmental challenges facing Mauritius",
+                "fr": "Défis environnementaux auxquels Maurice est confrontée",
+                "mfe": "Defi lanvironnman Moris pe fer fas"
+              },
+              "objectives": [
+                "Identify environmental problems such as pollution and deforestation",
+                "Explain causes of coastal erosion in Mauritius",
+                "Discuss the impact of climate change on small island states"
+              ]
+            },
+            {
+              "title": {
+                "en": "Managing waste and resources",
+                "fr": "Gestion des déchets et des ressources",
+                "mfe": "Zesyon dese ek resours"
+              },
+              "objectives": [
+                "Describe how waste is managed in Mauritius",
+                "Explain the importance of recycling and reducing waste",
+                "Identify ways to conserve water and energy"
+              ]
+            },
+            {
+              "title": {
+                "en": "Working towards sustainability",
+                "fr": "Travailler pour la durabilité",
+                "mfe": "Travay ver dirabilite"
+              },
+              "objectives": [
+                "Explain the concept of sustainable development",
+                "Describe government and community environmental initiatives",
+                "Propose personal actions to protect the environment"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Media, communication and society",
+            "fr": "Médias, communication et société",
+            "mfe": "Lame, kominikasyon ek lasosyete"
+          },
+          "summary": {
+            "en": "Students examine how media shapes opinions and behaviour, and learn to evaluate information critically in a digital age.",
+            "fr": "Les élèves examinent comment les médias façonnent les opinions et les comportements, et apprennent à évaluer l'information de manière critique à l'ère numérique.",
+            "mfe": "Bann elev examine kouman lame fason lopinyon ek konportman, ek aprann evalye linformasyon dan enn fason kritik dan laz dizital."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Types of media in Mauritius",
+                "fr": "Types de médias à Maurice",
+                "mfe": "Bann tip lame dan Moris"
+              },
+              "objectives": [
+                "Identify traditional and digital media used in Mauritius",
+                "Describe the role of newspapers, radio and television",
+                "Explain how media reflects Mauritius's multilingual society"
+              ]
+            },
+            {
+              "title": {
+                "en": "The influence of social media",
+                "fr": "L'influence des réseaux sociaux",
+                "mfe": "Lenfliyans rezo sosyal"
+              },
+              "objectives": [
+                "Describe how social media affects communication among youth",
+                "Discuss benefits and risks of social media use",
+                "Explain the importance of online safety"
+              ]
+            },
+            {
+              "title": {
+                "en": "Evaluating information and fake news",
+                "fr": "Évaluer l'information et les fausses nouvelles",
+                "mfe": "Evalye linformasyon ek fake news"
+              },
+              "objectives": [
+                "Explain what fake news is and why it spreads",
+                "Identify strategies to check the reliability of information",
+                "Discuss the responsibility of media consumers"
+              ]
+            },
+            {
+              "title": {
+                "en": "Media's role in shaping society",
+                "fr": "Le rôle des médias dans la société",
+                "mfe": "Rol lame pou fason lasosyete"
+              },
+              "objectives": [
+                "Explain how media can influence public opinion",
+                "Discuss the media's role during elections or crises",
+                "Evaluate the balance between free press and responsibility"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Social issues and living together",
+            "fr": "Problèmes sociaux et vivre ensemble",
+            "mfe": "Problem sosyal ek viv ansam"
+          },
+          "summary": {
+            "en": "This unit explores contemporary social issues in Mauritius and the importance of tolerance and social cohesion in a multicultural nation.",
+            "fr": "Cette unité explore les problèmes sociaux contemporains à Maurice et l'importance de la tolérance et de la cohésion sociale dans une nation multiculturelle.",
+            "mfe": "Sa linite la explor bann problem sosyal kontanporen dan Moris ek linportans toleranse ek kohezyon sosyal dan enn nasyon miltikiltirel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Understanding social inequality",
+                "fr": "Comprendre l'inégalité sociale",
+                "mfe": "Konpran linegalite sosyal"
+              },
+              "objectives": [
+                "Define social inequality with local examples",
+                "Identify factors contributing to poverty in Mauritius",
+                "Discuss ways society can support vulnerable groups"
+              ]
+            },
+            {
+              "title": {
+                "en": "Living in a multicultural nation",
+                "fr": "Vivre dans une nation multiculturelle",
+                "mfe": "Viv dan enn nasyon miltikiltirel"
+              },
+              "objectives": [
+                "Describe the main ethnic and religious communities of Mauritius",
+                "Explain the importance of mutual respect among communities",
+                "Identify examples of interfaith and intercultural harmony"
+              ]
+            },
+            {
+              "title": {
+                "en": "Gender roles and equality",
+                "fr": "Rôles de genre et égalité",
+                "mfe": "Rol zanr ek egalite"
+              },
+              "objectives": [
+                "Explain the concept of gender equality",
+                "Discuss changing gender roles in Mauritian society",
+                "Identify ways to promote equal opportunities for all"
+              ]
+            },
+            {
+              "title": {
+                "en": "Working together for social cohesion",
+                "fr": "Travailler ensemble pour la cohésion sociale",
+                "mfe": "Travay ansam pou kohezyon sosyal"
+              },
+              "objectives": [
+                "Explain the meaning of social cohesion",
+                "Describe initiatives that promote unity in Mauritius",
+                "Propose actions students can take to build a harmonious community"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "units": [
+        {
+          "title": {
+            "en": "Understanding society and social institutions",
+            "fr": "Comprendre la société et les institutions sociales",
+            "mfe": "Konpran lasosiete ek lezenstitisyon sosyal"
+          },
+          "summary": {
+            "en": "Students explore what society is, how it is organised, and the role of key institutions such as family, school and religion in shaping individuals.",
+            "fr": "Les élèves explorent ce qu'est la société, son organisation, et le rôle des institutions clés comme la famille, l'école et la religion dans la formation des individus.",
+            "mfe": "Bann elev explor ki ete lasosiete, kouma li organize, ek rol bann lenstitisyon kle kouma fami, lekol ek larelizyon dan formasyon bann individi."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "What is society and social structure",
+                "fr": "Qu'est-ce que la société et la structure sociale",
+                "mfe": "Ki lasosiete ek striktir sosyal"
+              },
+              "objectives": [
+                "Define society and social structure",
+                "Identify examples of social groups in Mauritius",
+                "Explain how individuals depend on society"
+              ]
+            },
+            {
+              "title": {
+                "en": "The family as a social institution",
+                "fr": "La famille en tant qu'institution sociale",
+                "mfe": "Fami kouma enn lenstitisyon sosyal"
+              },
+              "objectives": [
+                "Describe different family structures in Mauritius",
+                "Explain the roles and functions of the family",
+                "Compare extended and nuclear families"
+              ]
+            },
+            {
+              "title": {
+                "en": "The role of schools in society",
+                "fr": "Le rôle de l'école dans la société",
+                "mfe": "Rol lekol dan lasosiete"
+              },
+              "objectives": [
+                "Explain how schools socialise students",
+                "Identify values transmitted through education",
+                "Discuss the importance of education for development"
+              ]
+            },
+            {
+              "title": {
+                "en": "Religion and belief systems in society",
+                "fr": "Religion et systèmes de croyances dans la société",
+                "mfe": "Larelizyon ek sistem krwayans dan lasosiete"
+              },
+              "objectives": [
+                "Identify major religions practised in Mauritius",
+                "Explain the social role of religious institutions",
+                "Show respect for religious diversity"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Mauritius: a plural and diverse nation",
+            "fr": "Maurice: une nation plurielle et diverse",
+            "mfe": "Moris: enn nasyon plirielist ek divers"
+          },
+          "summary": {
+            "en": "This unit examines the ethnic, cultural and linguistic diversity of Mauritius and how communities have built national unity.",
+            "fr": "Cette unité examine la diversité ethnique, culturelle et linguistique de Maurice et comment les communautés ont construit l'unité nationale.",
+            "mfe": "Sa linite-la examinn diversite etnik, kiltirel ek lingwistik Moris ek kouma bann kominote finn konstrir linite nasyonal."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Origins of Mauritius's diverse population",
+                "fr": "Origines de la population diverse de Maurice",
+                "mfe": "Lorizinn popilasyon divers Moris"
+              },
+              "objectives": [
+                "Trace the historical origins of Mauritian communities",
+                "Explain the impact of colonisation and immigration",
+                "Locate key waves of settlement on a timeline"
+              ]
+            },
+            {
+              "title": {
+                "en": "Culture, languages and traditions in Mauritius",
+                "fr": "Culture, langues et traditions à Maurice",
+                "mfe": "Kiltir, langaz ek tradisyon Moris"
+              },
+              "objectives": [
+                "Identify the main languages spoken in Mauritius",
+                "Describe cultural festivals celebrated nationally",
+                "Appreciate the value of multiculturalism"
+              ]
+            },
+            {
+              "title": {
+                "en": "National unity and social cohesion",
+                "fr": "Unité nationale et cohésion sociale",
+                "mfe": "Linite nasyonal ek koezyon sosyal"
+              },
+              "objectives": [
+                "Explain the concept of unity in diversity",
+                "Discuss challenges to social harmony",
+                "Suggest ways to promote national cohesion"
+              ]
+            },
+            {
+              "title": {
+                "en": "Symbols of Mauritian identity",
+                "fr": "Symboles de l'identité mauricienne",
+                "mfe": "Senbol ledantite Morisien"
+              },
+              "objectives": [
+                "Identify national symbols and their meanings",
+                "Explain the significance of the national anthem and flag",
+                "Reflect on personal and national identity"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Citizenship, rights and responsibilities",
+            "fr": "Citoyenneté, droits et responsabilités",
+            "mfe": "Sitwayennte, drwa ek responsabilite"
+          },
+          "summary": {
+            "en": "Students learn about citizenship, human rights, and their responsibilities as members of a democratic society.",
+            "fr": "Les élèves apprennent la citoyenneté, les droits humains et leurs responsabilités en tant que membres d'une société démocratique.",
+            "mfe": "Bann elev aprann lor sitwayennte, drwa imen ek zot responsabilite kouma manb enn lasosiete demokratik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Being a citizen of Mauritius",
+                "fr": "Être citoyen de Maurice",
+                "mfe": "Vinn enn sitwayen Moris"
+              },
+              "objectives": [
+                "Define citizenship and its criteria",
+                "Explain rights and duties of a Mauritian citizen",
+                "Discuss the value of civic participation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Human rights and the Constitution",
+                "fr": "Droits humains et la Constitution",
+                "mfe": "Drwa imen ek Konstitisyon"
+              },
+              "objectives": [
+                "Identify fundamental human rights in the Constitution",
+                "Explain the importance of protecting rights",
+                "Give examples of rights violations and remedies"
+              ]
+            },
+            {
+              "title": {
+                "en": "Equality, gender and discrimination",
+                "fr": "Égalité, genre et discrimination",
+                "mfe": "Egalite, zanfan ek diskriminasyon"
+              },
+              "objectives": [
+                "Explain the concept of equality before the law",
+                "Identify forms of discrimination in society",
+                "Propose ways to promote equality and fairness"
+              ]
+            },
+            {
+              "title": {
+                "en": "Responsible citizenship in daily life",
+                "fr": "Citoyenneté responsable au quotidien",
+                "mfe": "Sitwayennte responsab dan lavi toulezour"
+              },
+              "objectives": [
+                "Describe responsible behaviours towards community and environment",
+                "Explain the role of volunteering and civic action",
+                "Evaluate personal contributions to society"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Governance and democracy in Mauritius",
+            "fr": "Gouvernance et démocratie à Maurice",
+            "mfe": "Gouvernans ek demokrasi Moris"
+          },
+          "summary": {
+            "en": "This unit introduces the political system of Mauritius, the electoral process and the functioning of democratic institutions.",
+            "fr": "Cette unité présente le système politique de Maurice, le processus électoral et le fonctionnement des institutions démocratiques.",
+            "mfe": "Sa linite-la introdir sistem politik Moris, prosesis elektoral ek fonksionnman lezenstitisyon demokratik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "What is democracy",
+                "fr": "Qu'est-ce que la démocratie",
+                "mfe": "Ki ete demokrasi"
+              },
+              "objectives": [
+                "Define democracy and its key features",
+                "Compare democratic and non-democratic systems",
+                "Explain why democracy matters for citizens"
+              ]
+            },
+            {
+              "title": {
+                "en": "The government of Mauritius",
+                "fr": "Le gouvernement de Maurice",
+                "mfe": "Gouvernman Moris"
+              },
+              "objectives": [
+                "Identify the branches of government in Mauritius",
+                "Explain the roles of the President and Prime Minister",
+                "Describe the function of the National Assembly"
+              ]
+            },
+            {
+              "title": {
+                "en": "Elections and voting",
+                "fr": "Élections et vote",
+                "mfe": "Lelekson ek vote"
+              },
+              "objectives": [
+                "Explain how general elections work in Mauritius",
+                "Describe the importance of voting rights",
+                "Discuss the responsibilities of voters"
+              ]
+            },
+            {
+              "title": {
+                "en": "Local government and community services",
+                "fr": "Gouvernement local et services communautaires",
+                "mfe": "Gouvernman lokal ek servis kominote"
+              },
+              "objectives": [
+                "Explain the role of municipal and village councils",
+                "Identify local services provided to communities",
+                "Discuss citizen participation in local governance"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Population and migration",
+            "fr": "Population et migration",
+            "mfe": "Popilasyon ek migrasyon"
+          },
+          "summary": {
+            "en": "Students study population characteristics, growth patterns and migration trends in Mauritius and their social effects.",
+            "fr": "Les élèves étudient les caractéristiques de la population, les schémas de croissance et les tendances migratoires à Maurice et leurs effets sociaux.",
+            "mfe": "Bann elev etidye karakteristik popilasyon, model kwasans ek tandans migrasyon Moris ek zot lefe sosyal."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Population growth and distribution",
+                "fr": "Croissance et répartition de la population",
+                "mfe": "Kwasans ek repartisyon popilasyon"
+              },
+              "objectives": [
+                "Interpret population data and graphs for Mauritius",
+                "Explain factors affecting population growth",
+                "Describe patterns of population distribution"
+              ]
+            },
+            {
+              "title": {
+                "en": "Causes and effects of migration",
+                "fr": "Causes et effets de la migration",
+                "mfe": "Kozer ek lefe migrasyon"
+              },
+              "objectives": [
+                "Distinguish between emigration and immigration",
+                "Identify reasons why people migrate",
+                "Discuss social and economic effects of migration"
+              ]
+            },
+            {
+              "title": {
+                "en": "Urbanisation in Mauritius",
+                "fr": "Urbanisation à Maurice",
+                "mfe": "Irbanizasyon Moris"
+              },
+              "objectives": [
+                "Define urbanisation and identify urban centres",
+                "Explain causes of rural-urban movement",
+                "Discuss challenges of urban growth"
+              ]
+            },
+            {
+              "title": {
+                "en": "An ageing population and its challenges",
+                "fr": "Une population vieillissante et ses défis",
+                "mfe": "Enn popilasyon vieyi ek so difikilte"
+              },
+              "objectives": [
+                "Explain what an ageing population means",
+                "Identify social and economic challenges of ageing",
+                "Suggest measures to support elderly citizens"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Economic development and world of work",
+            "fr": "Développement économique et monde du travail",
+            "mfe": "Devlopman ekonomik ek lemond travay"
+          },
+          "summary": {
+            "en": "This unit looks at economic sectors, employment, and Mauritius's development from an agricultural to a diversified economy.",
+            "fr": "Cette unité examine les secteurs économiques, l'emploi et le développement de Maurice, d'une économie agricole à une économie diversifiée.",
+            "mfe": "Sa linite-la gete bann sekter ekonomik, lanplwa ek devlopman Moris, depi enn lekonomi agrikol ver enn lekonomi diversifye."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Primary, secondary and tertiary sectors",
+                "fr": "Secteurs primaire, secondaire et tertiaire",
+                "mfe": "Sekter primer, sekonder ek tersyer"
+              },
+              "objectives": [
+                "Classify economic activities into sectors",
+                "Give Mauritian examples for each sector",
+                "Explain how sectors are interconnected"
+              ]
+            },
+            {
+              "title": {
+                "en": "From sugar economy to diversification",
+                "fr": "De l'économie sucrière à la diversification",
+                "mfe": "Depi lekonomi disik ver diversifikasyon"
+              },
+              "objectives": [
+                "Trace the historical importance of sugar in Mauritius",
+                "Explain the shift to textiles, tourism and services",
+                "Discuss reasons for economic diversification"
+              ]
+            },
+            {
+              "title": {
+                "en": "Tourism and its impact on Mauritius",
+                "fr": "Le tourisme et son impact sur Maurice",
+                "mfe": "Tourism ek so lefe lor Moris"
+              },
+              "objectives": [
+                "Explain the importance of tourism to the economy",
+                "Identify positive and negative impacts of tourism",
+                "Suggest ways to promote sustainable tourism"
+              ]
+            },
+            {
+              "title": {
+                "en": "Work, unemployment and skills for the future",
+                "fr": "Travail, chômage et compétences pour l'avenir",
+                "mfe": "Travay, somaz ek konpetans pou lavenir"
+              },
+              "objectives": [
+                "Explain causes and effects of unemployment",
+                "Identify skills needed for emerging industries",
+                "Discuss the value of vocational training"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Global issues and sustainable development",
+            "fr": "Enjeux mondiaux et développement durable",
+            "mfe": "Problem mondyal ek devlopman dirab"
+          },
+          "summary": {
+            "en": "Students examine global challenges such as climate change and inequality, and Mauritius's role in sustainable development.",
+            "fr": "Les élèves examinent les défis mondiaux tels que le changement climatique et les inégalités, ainsi que le rôle de Maurice dans le développement durable.",
+            "mfe": "Bann elev examinn defi mondyal kouma sanzman klimatik ek inegalite, ek rol Moris dan devlopman dirab."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Understanding sustainable development",
+                "fr": "Comprendre le développement durable",
+                "mfe": "Konpran devlopman dirab"
+              },
+              "objectives": [
+                "Define sustainable development and its pillars",
+                "Explain the link between environment and development",
+                "Identify examples of sustainable practices in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Climate change and its impact on Mauritius",
+                "fr": "Le changement climatique et son impact sur Maurice",
+                "mfe": "Sanzman klimatik ek so lefe lor Moris"
+              },
+              "objectives": [
+                "Explain causes of climate change",
+                "Describe effects on coastal and island communities",
+                "Suggest actions to reduce climate impact"
+              ]
+            },
+            {
+              "title": {
+                "en": "Global inequality and poverty",
+                "fr": "Inégalité mondiale et pauvreté",
+                "mfe": "Inegalite mondyal ek pov"
+              },
+              "objectives": [
+                "Explain the concept of global inequality",
+                "Compare development indicators between countries",
+                "Discuss efforts to reduce poverty globally"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mauritius and international cooperation",
+                "fr": "Maurice et la coopération internationale",
+                "mfe": "Moris ek koperasyon internasyonal"
+              },
+              "objectives": [
+                "Identify international organisations Mauritius belongs to",
+                "Explain benefits of regional cooperation",
+                "Discuss Mauritius's role in African and Indian Ocean affairs"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Media, technology and society",
+            "fr": "Médias, technologie et société",
+            "mfe": "Medya, teknolozi ek lasosiete"
+          },
+          "summary": {
+            "en": "This unit explores the influence of media and digital technology on Mauritian society and responsible citizenship online.",
+            "fr": "Cette unité explore l'influence des médias et de la technologie numérique sur la société mauricienne et la citoyenneté responsable en ligne.",
+            "mfe": "Sa linite-la explor lenfliyans medya ek teknolozi dizital lor lasosiete Morisien ek sitwayennte responsab online."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "The role of media in society",
+                "fr": "Le rôle des médias dans la société",
+                "mfe": "Rol medya dan lasosiete"
+              },
+              "objectives": [
+                "Identify different types of media in Mauritius",
+                "Explain how media informs and influences public opinion",
+                "Discuss the responsibility of media outlets"
+              ]
+            },
+            {
+              "title": {
+                "en": "Social media and digital citizenship",
+                "fr": "Réseaux sociaux et citoyenneté numérique",
+                "mfe": "Rezo sosyal ek sitwayennte dizital"
+              },
+              "objectives": [
+                "Explain benefits and risks of social media use",
+                "Identify signs of misinformation online",
+                "Practise responsible online behaviour"
+              ]
+            },
+            {
+              "title": {
+                "en": "Technology and changing lifestyles",
+                "fr": "Technologie et changement des modes de vie",
+                "mfe": "Teknolozi ek sanzman fason viv"
+              },
+              "objectives": [
+                "Describe how technology has changed daily life in Mauritius",
+                "Discuss the digital divide between communities",
+                "Evaluate the balance between technology use and wellbeing"
+              ]
+            },
+            {
+              "title": {
+                "en": "Cyberbullying and online safety",
+                "fr": "Cyberharcèlement et sécurité en ligne",
+                "mfe": "Cyberharselman ek sekirite online"
+              },
+              "objectives": [
+                "Define cyberbullying and its effects",
+                "Identify strategies to stay safe online",
+                "Explain where to seek help for online problems"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "units": [
+        {
+          "title": {
+            "en": "Foundations of social studies",
+            "fr": "Fondements des études sociales",
+            "mfe": "Fondasion letid sosyal"
+          },
+          "summary": {
+            "en": "An introduction to key concepts, methods and vocabulary used in social sciences, preparing students to study society in a structured way.",
+            "fr": "Une introduction aux concepts, méthodes et vocabulaire clés utilisés en sciences sociales, préparant les élèves à étudier la société de manière structurée.",
+            "mfe": "Enn lentrodiksion konsep, metod ek vokabiler kle itilize dan syans sosyal, pou prepar bann elev etidye lasosiete dan enn fason striktire."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "What is society and social studies",
+                "fr": "Qu'est-ce que la société et les études sociales",
+                "mfe": "Kisannla lasosiete ek letid sosyal"
+              },
+              "objectives": [
+                "Define key terms such as society, culture and social institution",
+                "Explain the purpose of studying social and modern studies",
+                "Identify examples of social institutions in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Research methods in social sciences",
+                "fr": "Méthodes de recherche en sciences sociales",
+                "mfe": "Metod rese dan syans sosyal"
+              },
+              "objectives": [
+                "Describe common research methods used by sociologists",
+                "Compare quantitative and qualitative data",
+                "Design a simple questionnaire on a local issue"
+              ]
+            },
+            {
+              "title": {
+                "en": "Culture norms and values",
+                "fr": "Culture, normes et valeurs",
+                "mfe": "Kiltir, nom ek valer"
+              },
+              "objectives": [
+                "Distinguish between norms, values and beliefs",
+                "Give examples of Mauritian cultural practices",
+                "Explain how norms guide social behaviour"
+              ]
+            },
+            {
+              "title": {
+                "en": "Social studies and modern Mauritius",
+                "fr": "Les études sociales et le Maurice moderne",
+                "mfe": "Letid sosyal ek Moris moderne"
+              },
+              "objectives": [
+                "Relate social studies concepts to current events in Mauritius",
+                "Identify contemporary social issues affecting Mauritian society",
+                "Discuss the relevance of social studies for citizenship"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Mauritian society and culture",
+            "fr": "Société et culture mauricienne",
+            "mfe": "Lasosiete ek kiltir morisien"
+          },
+          "summary": {
+            "en": "An exploration of the ethnic, religious and linguistic diversity that shapes Mauritian identity and everyday life.",
+            "fr": "Une exploration de la diversité ethnique, religieuse et linguistique qui façonne l'identité mauricienne et la vie quotidienne.",
+            "mfe": "Enn leksplorasion divers etnik, relizye ek lingwistik ki fer lidentite morisien ek lavi toulezour."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Ethnic and religious diversity",
+                "fr": "Diversité ethnique et religieuse",
+                "mfe": "Divers etnik ek relizye"
+              },
+              "objectives": [
+                "Identify the main ethnic and religious communities in Mauritius",
+                "Describe the historical origins of this diversity",
+                "Explain the importance of religious tolerance"
+              ]
+            },
+            {
+              "title": {
+                "en": "Languages spoken in Mauritius",
+                "fr": "Les langues parlées à Maurice",
+                "mfe": "Bann lalang koz Moris"
+              },
+              "objectives": [
+                "List the main languages used in Mauritius",
+                "Explain the role of Kreol Morisien as a national language",
+                "Discuss multilingualism in schools and media"
+              ]
+            },
+            {
+              "title": {
+                "en": "Cultural festivals and traditions",
+                "fr": "Festivals et traditions culturelles",
+                "mfe": "Fet ek tradision kiltirel"
+              },
+              "objectives": [
+                "Describe major festivals celebrated in Mauritius",
+                "Explain the social significance of shared public holidays",
+                "Compare traditions across different communities"
+              ]
+            },
+            {
+              "title": {
+                "en": "Unity in diversity living together",
+                "fr": "Unité dans la diversité vivre ensemble",
+                "mfe": "Linite dan diversite viv ansam"
+              },
+              "objectives": [
+                "Explain the concept of unity in diversity",
+                "Discuss challenges and benefits of a multicultural society",
+                "Suggest ways to promote social cohesion"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Family and socialisation",
+            "fr": "Famille et socialisation",
+            "mfe": "Fami ek sosyalizasion"
+          },
+          "summary": {
+            "en": "A study of the family as a social institution and how it shapes individuals through the process of socialisation.",
+            "fr": "Une étude de la famille en tant qu'institution sociale et de la façon dont elle façonne les individus à travers la socialisation.",
+            "mfe": "Enn letid fami kouma enn lenstitision sosyal ek kouma li fer bann individi atraver sosyalizasion."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Functions of the family",
+                "fr": "Fonctions de la famille",
+                "mfe": "Fonksion fami"
+              },
+              "objectives": [
+                "Explain the main functions of the family",
+                "Identify different types of families in society",
+                "Discuss the family's role in economic support"
+              ]
+            },
+            {
+              "title": {
+                "en": "Family structures in Mauritius",
+                "fr": "Structures familiales à Maurice",
+                "mfe": "Striktir fami Moris"
+              },
+              "objectives": [
+                "Describe nuclear, extended and single-parent families",
+                "Compare traditional and modern family structures in Mauritius",
+                "Analyse factors influencing family structure change"
+              ]
+            },
+            {
+              "title": {
+                "en": "Agents of socialisation",
+                "fr": "Agents de socialisation",
+                "mfe": "Bann ajan sosyalizasion"
+              },
+              "objectives": [
+                "Identify key agents of socialisation such as family, school and media",
+                "Explain how each agent influences behaviour and values",
+                "Evaluate the impact of social media on youth"
+              ]
+            },
+            {
+              "title": {
+                "en": "Changing family patterns",
+                "fr": "Évolution des modèles familiaux",
+                "mfe": "Sanzman modenn fami"
+              },
+              "objectives": [
+                "Discuss trends such as smaller families and dual-income households",
+                "Explain causes of changing family patterns in Mauritius",
+                "Assess effects of these changes on children and elders"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Social stratification and inequality",
+            "fr": "Stratification sociale et inégalités",
+            "mfe": "Stratifikasion sosyal ek inegalite"
+          },
+          "summary": {
+            "en": "An examination of how societies are divided by class, gender and wealth, with focus on inequality in Mauritius.",
+            "fr": "Un examen de la manière dont les sociétés sont divisées par classe, genre et richesse, avec un accent sur les inégalités à Maurice.",
+            "mfe": "Enn lexamin kouma lasosiete divize par klas, zanr ek larises, avek lafors lor inegalite Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Understanding social class",
+                "fr": "Comprendre la classe sociale",
+                "mfe": "Konpran klas sosyal"
+              },
+              "objectives": [
+                "Define social class and stratification",
+                "Identify factors used to determine social class",
+                "Discuss examples of class differences in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Gender roles and inequality",
+                "fr": "Rôles de genre et inégalités",
+                "mfe": "Rol zanr ek inegalite"
+              },
+              "objectives": [
+                "Explain the concept of gender roles",
+                "Discuss examples of gender inequality in work and education",
+                "Suggest ways to promote gender equality"
+              ]
+            },
+            {
+              "title": {
+                "en": "Poverty and social exclusion",
+                "fr": "Pauvreté et exclusion sociale",
+                "mfe": "Lapovrete ek exklizion sosyal"
+              },
+              "objectives": [
+                "Define poverty and social exclusion",
+                "Identify causes and effects of poverty in Mauritius",
+                "Describe government measures to reduce poverty"
+              ]
+            },
+            {
+              "title": {
+                "en": "Social mobility in Mauritius",
+                "fr": "Mobilité sociale à Maurice",
+                "mfe": "Mobilite sosyal Moris"
+              },
+              "objectives": [
+                "Explain the concept of social mobility",
+                "Identify factors that enable or restrict mobility",
+                "Evaluate the role of education in social mobility"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Colonisation of Mauritius",
+            "fr": "La colonisation de Maurice",
+            "mfe": "Kolonizasion Moris"
+          },
+          "summary": {
+            "en": "A historical study of Dutch, French and British rule in Mauritius and their lasting impact on society.",
+            "fr": "Une étude historique de la domination néerlandaise, française et britannique à Maurice et de leur impact durable sur la société.",
+            "mfe": "Enn letid istorik lor dominasion Olande, Franse ek Britanik lor Moris ek zot lenpak dirab lor lasosiete."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Dutch and French settlement",
+                "fr": "Colonisation néerlandaise et française",
+                "mfe": "Etablisman Olande ek Franse"
+              },
+              "objectives": [
+                "Describe the early Dutch settlement of Mauritius",
+                "Explain the establishment of French colonial rule",
+                "Identify key changes introduced during French administration"
+              ]
+            },
+            {
+              "title": {
+                "en": "Slavery and the plantation economy",
+                "fr": "Esclavage et économie de plantation",
+                "mfe": "Lesklavaz ek lekonomi plantasion"
+              },
+              "objectives": [
+                "Explain the origins and conditions of slavery in Mauritius",
+                "Describe the role of sugar plantations in the colonial economy",
+                "Discuss the legacy of slavery on Mauritian society"
+              ]
+            },
+            {
+              "title": {
+                "en": "British colonial rule",
+                "fr": "La domination coloniale britannique",
+                "mfe": "Dominasion kolonial Britanik"
+              },
+              "objectives": [
+                "Explain how Mauritius came under British rule",
+                "Describe changes in administration and law under the British",
+                "Discuss the abolition of slavery and its consequences"
+              ]
+            },
+            {
+              "title": {
+                "en": "Indentured labour and immigration",
+                "fr": "Travail sous contrat et immigration",
+                "mfe": "Travay angaze ek imigrasion"
+              },
+              "objectives": [
+                "Explain the system of indentured labour",
+                "Describe the origins of indentured labourers",
+                "Discuss the lasting impact of immigration on Mauritian society"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Path to independence",
+            "fr": "Le chemin vers l'indépendance",
+            "mfe": "Semin ver lendepandans"
+          },
+          "summary": {
+            "en": "A study of the political movements and events that led Mauritius to independence in 1968.",
+            "fr": "Une étude des mouvements politiques et des événements qui ont conduit Maurice à l'indépendance en 1968.",
+            "mfe": "Enn letid bann mouvman politik ek levennman ki'nn amenn Moris ver lendepandans an 1968."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Rise of political consciousness",
+                "fr": "Montée de la conscience politique",
+                "mfe": "Montan konsyans politik"
+              },
+              "objectives": [
+                "Explain factors that led to political awareness in Mauritius",
+                "Identify early political organisations and their goals",
+                "Discuss the role of workers' movements"
+              ]
+            },
+            {
+              "title": {
+                "en": "Key leaders and political parties",
+                "fr": "Principaux dirigeants et partis politiques",
+                "mfe": "Bann sef ek parti politik prinsipal"
+              },
+              "objectives": [
+                "Identify major political leaders before independence",
+                "Describe the formation of key political parties",
+                "Compare the goals of different political parties"
+              ]
+            },
+            {
+              "title": {
+                "en": "Constitutional reforms",
+                "fr": "Réformes constitutionnelles",
+                "mfe": "Reform konstitisyonel"
+              },
+              "objectives": [
+                "Explain stages of constitutional reform in Mauritius",
+                "Describe the introduction of universal suffrage",
+                "Discuss the significance of self-government"
+              ]
+            },
+            {
+              "title": {
+                "en": "Independence in 1968",
+                "fr": "L'indépendance en 1968",
+                "mfe": "Lendepandans an 1968"
+              },
+              "objectives": [
+                "Describe the events leading to independence in 1968",
+                "Explain the significance of independence for Mauritians",
+                "Discuss challenges faced by the new nation"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Population and settlement",
+            "fr": "Population et peuplement",
+            "mfe": "Popilasion ek etablisman"
+          },
+          "summary": {
+            "en": "A geographical study of population growth, distribution and settlement patterns in Mauritius.",
+            "fr": "Une étude géographique de la croissance, de la répartition et des modèles de peuplement de la population à Maurice.",
+            "mfe": "Enn letid zeografik lor kwasans, distribision ek modenn etablisman popilasion Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Population growth and structure",
+                "fr": "Croissance et structure de la population",
+                "mfe": "Kwasans ek striktir popilasion"
+              },
+              "objectives": [
+                "Interpret population pyramids for Mauritius",
+                "Explain factors affecting population growth",
+                "Discuss trends in birth and death rates"
+              ]
+            },
+            {
+              "title": {
+                "en": "Urban and rural settlement patterns",
+                "fr": "Modèles de peuplement urbain et rural",
+                "mfe": "Modenn etablisman irben ek rirl"
+              },
+              "objectives": [
+                "Distinguish between urban and rural settlements",
+                "Describe patterns of settlement in Mauritius",
+                "Explain factors influencing settlement location"
+              ]
+            },
+            {
+              "title": {
+                "en": "Migration trends",
+                "fr": "Tendances migratoires",
+                "mfe": "Tandans migrasion"
+              },
+              "objectives": [
+                "Define internal and international migration",
+                "Identify causes of migration in Mauritius",
+                "Discuss effects of migration on communities"
+              ]
+            },
+            {
+              "title": {
+                "en": "Population challenges and policies",
+                "fr": "Défis démographiques et politiques",
+                "mfe": "Defi demografik ek politik"
+              },
+              "objectives": [
+                "Identify challenges linked to population change",
+                "Describe government population policies",
+                "Evaluate the effectiveness of these policies"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Environment and sustainable development",
+            "fr": "Environnement et développement durable",
+            "mfe": "Lanvironnman ek devlopman dirab"
+          },
+          "summary": {
+            "en": "An examination of Mauritius's natural resources, environmental challenges and efforts towards sustainable development.",
+            "fr": "Un examen des ressources naturelles de Maurice, des défis environnementaux et des efforts vers un développement durable.",
+            "mfe": "Enn lexamin resours natirel Moris, defi lanvironnman ek zefor pou devlopman dirab."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Natural resources of Mauritius",
+                "fr": "Ressources naturelles de Maurice",
+                "mfe": "Resours natirel Moris"
+              },
+              "objectives": [
+                "Identify the main natural resources of Mauritius",
+                "Explain how these resources are used economically",
+                "Discuss issues of resource management"
+              ]
+            },
+            {
+              "title": {
+                "en": "Environmental challenges",
+                "fr": "Défis environnementaux",
+                "mfe": "Defi lanvironnman"
+              },
+              "objectives": [
+                "Identify major environmental problems facing Mauritius",
+                "Explain causes of pollution and habitat loss",
+                "Discuss impacts on biodiversity"
+              ]
+            },
+            {
+              "title": {
+                "en": "Climate change and small island states",
+                "fr": "Changement climatique et petits États insulaires",
+                "mfe": "Sanzman klima ek pti leta lil"
+              },
+              "objectives": [
+                "Explain how climate change affects small island states",
+                "Identify specific risks facing Mauritius",
+                "Discuss adaptation and mitigation strategies"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sustainable development goals in action",
+                "fr": "Les objectifs de développement durable en action",
+                "mfe": "Bann obzektif devlopman dirab an aksion"
+              },
+              "objectives": [
+                "Explain the concept of sustainable development",
+                "Identify examples of sustainable development goals relevant to Mauritius",
+                "Propose local actions to support sustainability"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "11": {
+      "units": [
+        {
+          "title": {
+            "en": "Foundations of social studies",
+            "fr": "Fondements des sciences sociales",
+            "mfe": "Baz let sians sosial"
+          },
+          "summary": {
+            "en": "Students are introduced to key sociological concepts, research methods and the processes of socialisation that shape human behaviour in society.",
+            "fr": "Les élèves découvrent les concepts sociologiques clés, les méthodes de recherche et les processus de socialisation qui façonnent le comportement humain en société.",
+            "mfe": "Bann elev aprann bann konsep sosiolozik prinsipal, bann metod resers ek prosesis sosializasion ki fasonn konportman imin dan lasosiete."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Understanding society and culture",
+                "fr": "Comprendre la société et la culture",
+                "mfe": "Konpran lasosiete ek kiltir"
+              },
+              "objectives": [
+                "Define key sociological terms such as society and culture",
+                "Distinguish between different types of societies",
+                "Explain how culture shapes everyday behaviour"
+              ]
+            },
+            {
+              "title": {
+                "en": "Research methods in social sciences",
+                "fr": "Méthodes de recherche en sciences sociales",
+                "mfe": "Metod resers dan let sians sosial"
+              },
+              "objectives": [
+                "Identify common research methods used by sociologists",
+                "Compare quantitative and qualitative approaches",
+                "Evaluate strengths and weaknesses of surveys and interviews"
+              ]
+            },
+            {
+              "title": {
+                "en": "Socialisation and social institutions",
+                "fr": "Socialisation et institutions sociales",
+                "mfe": "Sosializasion ek lenstitisyon sosial"
+              },
+              "objectives": [
+                "Explain primary and secondary socialisation",
+                "Identify agents of socialisation in Mauritius",
+                "Describe the role of social institutions in shaping individuals"
+              ]
+            },
+            {
+              "title": {
+                "en": "Norms, values and social control",
+                "fr": "Normes, valeurs et contrôle social",
+                "mfe": "Norm, valer ek kontrol sosial"
+              },
+              "objectives": [
+                "Differentiate between norms and values",
+                "Explain formal and informal social control",
+                "Discuss consequences of deviance in society"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Family and social institutions",
+            "fr": "La famille et les institutions sociales",
+            "mfe": "Fami ek lenstitisyon sosial"
+          },
+          "summary": {
+            "en": "This unit examines the changing structure of the family, the role of education and religion as institutions shaping Mauritian society.",
+            "fr": "Cette unité examine l'évolution de la structure familiale, ainsi que le rôle de l'éducation et de la religion en tant qu'institutions façonnant la société mauricienne.",
+            "mfe": "Sa linite la examinn chanzman dan striktir fami, ek rol ledikasion ek relizion kouma lenstitisyon ki fasonn lasosiete morisien."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Family structures and functions",
+                "fr": "Structures et fonctions de la famille",
+                "mfe": "Striktir ek fonksion fami"
+              },
+              "objectives": [
+                "Identify different types of family structures",
+                "Explain the functions of the family in society",
+                "Compare extended and nuclear families in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Changes in the Mauritian family",
+                "fr": "Évolutions de la famille mauricienne",
+                "mfe": "Chanzman dan fami morisien"
+              },
+              "objectives": [
+                "Describe recent trends affecting Mauritian families",
+                "Discuss causes of changing family patterns",
+                "Evaluate impacts of these changes on children and society"
+              ]
+            },
+            {
+              "title": {
+                "en": "Education as a social institution",
+                "fr": "L'éducation comme institution sociale",
+                "mfe": "Ledikasion kouma lenstitisyon sosial"
+              },
+              "objectives": [
+                "Explain the functions of education in society",
+                "Discuss access to education in Mauritius",
+                "Assess the role of education in social mobility"
+              ]
+            },
+            {
+              "title": {
+                "en": "Religion and belief systems in Mauritius",
+                "fr": "Religion et systèmes de croyances à Maurice",
+                "mfe": "Relizion ek sistem krwayans dan Moris"
+              },
+              "objectives": [
+                "Identify major religions practised in Mauritius",
+                "Explain the social functions of religion",
+                "Discuss religious tolerance and coexistence"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Culture, identity and multiculturalism",
+            "fr": "Culture, identité et multiculturalisme",
+            "mfe": "Kiltir, ledantite ek miltikilturalism"
+          },
+          "summary": {
+            "en": "Learners explore ethnic diversity, national identity, media influence and language as expressions of Mauritius's multicultural society.",
+            "fr": "Les apprenants explorent la diversité ethnique, l'identité nationale, l'influence des médias et la langue comme expressions de la société multiculturelle mauricienne.",
+            "mfe": "Bann apran explor diversite etnik, ledantite nasional, lenflians medya ek langaz kouma lexpresion lasosiete miltikiltirel Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Ethnicity and cultural diversity in Mauritius",
+                "fr": "Ethnicité et diversité culturelle à Maurice",
+                "mfe": "Etnisite ek diversite kiltirel dan Moris"
+              },
+              "objectives": [
+                "Define ethnicity and cultural diversity",
+                "Describe the main ethnic groups in Mauritius",
+                "Discuss the benefits and challenges of diversity"
+              ]
+            },
+            {
+              "title": {
+                "en": "National identity and unity in diversity",
+                "fr": "Identité nationale et unité dans la diversité",
+                "mfe": "Ledantite nasional ek linite dan diversite"
+              },
+              "objectives": [
+                "Explain the concept of national identity",
+                "Discuss symbols that promote unity in Mauritius",
+                "Evaluate challenges to national cohesion"
+              ]
+            },
+            {
+              "title": {
+                "en": "Media and culture",
+                "fr": "Médias et culture",
+                "mfe": "Medya ek kiltir"
+              },
+              "objectives": [
+                "Explain how media shapes cultural values",
+                "Analyse local media content for cultural representation",
+                "Discuss the impact of social media on youth culture"
+              ]
+            },
+            {
+              "title": {
+                "en": "Language and communication in Mauritian society",
+                "fr": "Langue et communication dans la société mauricienne",
+                "mfe": "Langaz ek kominikasion dan lasosiete morisien"
+              },
+              "objectives": [
+                "Identify languages spoken in Mauritius",
+                "Explain the role of Kreol Morisien in national identity",
+                "Discuss multilingualism as a social asset"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Social stratification and inequality",
+            "fr": "Stratification sociale et inégalités",
+            "mfe": "Stratifikasion sosial ek inegalite"
+          },
+          "summary": {
+            "en": "This unit analyses class, gender and poverty as forms of social inequality, and examines opportunities for social mobility in Mauritius.",
+            "fr": "Cette unité analyse la classe, le genre et la pauvreté comme formes d'inégalité sociale, et examine les opportunités de mobilité sociale à Maurice.",
+            "mfe": "Sa linite la analiz kas, zanm ek povrete kouma form inegalite sosial, ek examinn opportinite mobilite sosial dan Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Social class and stratification",
+                "fr": "Classe sociale et stratification",
+                "mfe": "Kas sosial ek stratifikasion"
+              },
+              "objectives": [
+                "Define social stratification and social class",
+                "Explain how class affects life chances",
+                "Compare stratification systems across societies"
+              ]
+            },
+            {
+              "title": {
+                "en": "Gender roles and inequality",
+                "fr": "Rôles de genre et inégalités",
+                "mfe": "Rol zanm ek inegalite"
+              },
+              "objectives": [
+                "Explain the concept of gender roles",
+                "Discuss gender inequality in education and work",
+                "Evaluate efforts to promote gender equality in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Poverty and social exclusion",
+                "fr": "Pauvreté et exclusion sociale",
+                "mfe": "Povrete ek exklizion sosial"
+              },
+              "objectives": [
+                "Define poverty and social exclusion",
+                "Identify causes and effects of poverty in Mauritius",
+                "Discuss government measures to reduce poverty"
+              ]
+            },
+            {
+              "title": {
+                "en": "Social mobility in Mauritius",
+                "fr": "Mobilité sociale à Maurice",
+                "mfe": "Mobilite sosial dan Moris"
+              },
+              "objectives": [
+                "Explain types of social mobility",
+                "Discuss factors enabling or limiting mobility",
+                "Analyse case studies of social mobility in Mauritius"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Population and development",
+            "fr": "Population et développement",
+            "mfe": "Populasion ek devlopman"
+          },
+          "summary": {
+            "en": "Students study population trends, migration and urbanisation in Mauritius and their links to development challenges.",
+            "fr": "Les élèves étudient les tendances démographiques, la migration et l'urbanisation à Maurice ainsi que leurs liens avec les défis du développement.",
+            "mfe": "Bann elev etidie tandans demografik, migrasion ek irbanizasion dan Moris ek zot lien avek defi devlopman."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Population growth and structure",
+                "fr": "Croissance et structure de la population",
+                "mfe": "Kroisans ek striktir populasion"
+              },
+              "objectives": [
+                "Interpret population pyramids",
+                "Explain factors affecting population growth",
+                "Discuss implications of an ageing population in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Migration patterns in Mauritius",
+                "fr": "Modèles migratoires à Maurice",
+                "mfe": "Model migrasion dan Moris"
+              },
+              "objectives": [
+                "Distinguish between internal and international migration",
+                "Identify causes and effects of migration in Mauritius",
+                "Discuss the impact of the Mauritian diaspora"
+              ]
+            },
+            {
+              "title": {
+                "en": "Urbanisation and its effects",
+                "fr": "Urbanisation et ses effets",
+                "mfe": "Irbanizasion ek so lefe"
+              },
+              "objectives": [
+                "Define urbanisation and its causes",
+                "Describe effects of urbanisation on Mauritian towns",
+                "Evaluate solutions to urban challenges"
+              ]
+            },
+            {
+              "title": {
+                "en": "Development indicators and challenges",
+                "fr": "Indicateurs et défis du développement",
+                "mfe": "Endikater ek defi devlopman"
+              },
+              "objectives": [
+                "Explain common indicators of development",
+                "Compare Mauritius's development with other countries",
+                "Discuss challenges facing sustainable development"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Mauritius's political and constitutional development",
+            "fr": "Développement politique et constitutionnel de Maurice",
+            "mfe": "Devlopman politik ek konstitisionel Moris"
+          },
+          "summary": {
+            "en": "This unit traces Mauritius's path from colonisation to independence and examines its constitution, government and civic responsibilities.",
+            "fr": "Cette unité retrace le parcours de Maurice de la colonisation à l'indépendance et examine sa constitution, son gouvernement et les responsabilités civiques.",
+            "mfe": "Sa linite la trase parkour Moris depi kolonizasion ziska lendepandans ek examinn so konstitision, gouvernman ek responsabilite sitwayen."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Colonial history and independence",
+                "fr": "Histoire coloniale et indépendance",
+                "mfe": "Listwar kolonial ek lendepandans"
+              },
+              "objectives": [
+                "Summarise key events of Mauritius's colonial history",
+                "Explain the process leading to independence in 1968",
+                "Discuss the significance of independence for Mauritians"
+              ]
+            },
+            {
+              "title": {
+                "en": "The Mauritian constitution and government",
+                "fr": "La constitution et le gouvernement mauriciens",
+                "mfe": "Konstitision ek gouvernman Moris"
+              },
+              "objectives": [
+                "Outline the structure of the Mauritian constitution",
+                "Explain the roles of the President, Prime Minister and Parliament",
+                "Discuss the separation of powers"
+              ]
+            },
+            {
+              "title": {
+                "en": "Political parties and elections",
+                "fr": "Partis politiques et élections",
+                "mfe": "Parti politik ek eleksion"
+              },
+              "objectives": [
+                "Describe the electoral system in Mauritius",
+                "Explain the role of political parties",
+                "Discuss the importance of voting and civic participation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Citizenship and civic responsibility",
+                "fr": "Citoyenneté et responsabilité civique",
+                "mfe": "Sitwayennte ek responsabilite sivik"
+              },
+              "objectives": [
+                "Define citizenship and civic duties",
+                "Discuss rights and responsibilities of Mauritian citizens",
+                "Evaluate ways to contribute to community life"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Global issues and international relations",
+            "fr": "Enjeux mondiaux et relations internationales",
+            "mfe": "Problem mondial ek relasion internasional"
+          },
+          "summary": {
+            "en": "Learners explore globalisation, Mauritius's place in international organisations, and issues of human rights and conflict.",
+            "fr": "Les apprenants explorent la mondialisation, la place de Maurice dans les organisations internationales, ainsi que les questions de droits humains et de conflits.",
+            "mfe": "Bann apran explor globalizasion, plas Moris dan bann lorganizasion internasional, ek problem drwa imin ek konfli."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Globalisation and its impacts",
+                "fr": "La mondialisation et ses impacts",
+                "mfe": "Globalizasion ek so lenpak"
+              },
+              "objectives": [
+                "Define globalisation and its main features",
+                "Discuss economic and cultural impacts on Mauritius",
+                "Evaluate advantages and disadvantages of globalisation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mauritius in regional and international organisations",
+                "fr": "Maurice dans les organisations régionales et internationales",
+                "mfe": "Moris dan bann lorganizasion rezional ek internasional"
+              },
+              "objectives": [
+                "Identify organisations Mauritius belongs to such as SADC and the AU",
+                "Explain benefits of regional cooperation",
+                "Discuss Mauritius's role in international diplomacy"
+              ]
+            },
+            {
+              "title": {
+                "en": "Human rights and social justice",
+                "fr": "Droits humains et justice sociale",
+                "mfe": "Drwa imin ek lazistis sosial"
+              },
+              "objectives": [
+                "Define human rights and social justice",
+                "Discuss key international human rights instruments",
+                "Evaluate human rights issues in Mauritius and globally"
+              ]
+            },
+            {
+              "title": {
+                "en": "Conflict and cooperation among nations",
+                "fr": "Conflits et coopération entre nations",
+                "mfe": "Konfli ek koperasion ant nasion"
+              },
+              "objectives": [
+                "Explain causes of international conflict",
+                "Discuss methods of conflict resolution",
+                "Evaluate the role of the United Nations in promoting peace"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Environment and sustainable development",
+            "fr": "Environnement et développement durable",
+            "mfe": "Lanvironnman ek devlopman dirab"
+          },
+          "summary": {
+            "en": "This unit addresses environmental challenges facing Mauritius, climate change vulnerability, and strategies for sustainable development.",
+            "fr": "Cette unité traite des défis environnementaux auxquels Maurice est confrontée, de la vulnérabilité au changement climatique et des stratégies de développement durable.",
+            "mfe": "Sa linite la adres bann defi lanvironnman ki Moris fer fas, vilnerabilite anver sanzman klima, ek stratezi pou devlopman dirab."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Environmental challenges in Mauritius",
+                "fr": "Défis environnementaux à Maurice",
+                "mfe": "Defi lanvironnman dan Moris"
+              },
+              "objectives": [
+                "Identify major environmental issues in Mauritius",
+                "Explain causes of pollution and habitat loss",
+                "Discuss impacts on biodiversity and coastal areas"
+              ]
+            },
+            {
+              "title": {
+                "en": "Climate change and vulnerability",
+                "fr": "Changement climatique et vulnérabilité",
+                "mfe": "Sanzman klima ek vilnerabilite"
+              },
+              "objectives": [
+                "Explain causes and effects of climate change",
+                "Discuss Mauritius's vulnerability as a small island state",
+                "Evaluate adaptation and mitigation strategies"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sustainable development goals",
+                "fr": "Objectifs de développement durable",
+                "mfe": "Lobzektif devlopman dirab"
+              },
+              "objectives": [
+                "Outline the United Nations Sustainable Development Goals",
+                "Discuss relevance of the goals to Mauritius",
+                "Evaluate progress towards achieving selected goals"
+              ]
+            },
+            {
+              "title": {
+                "en": "Conservation and community action",
+                "fr": "Conservation et action communautaire",
+                "mfe": "Konservasion ek aksion kominoter"
+              },
+              "objectives": [
+                "Describe conservation efforts in Mauritius",
+                "Explain the role of communities and NGOs in environmental protection",
+                "Propose actions students can take to protect the environment"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

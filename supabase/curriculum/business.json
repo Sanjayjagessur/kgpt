@@ -1,0 +1,3266 @@
+{
+  "subject": "business",
+  "grades": {
+    "7": {
+      "units": [
+        {
+          "title": {
+            "en": "Understanding business basics",
+            "fr": "Comprendre les bases du commerce",
+            "mfe": "Konpran bann baz biznes"
+          },
+          "summary": {
+            "en": "An introduction to what business is, why people engage in business activities, and how businesses satisfy needs and wants in society.",
+            "fr": "Une introduction à ce qu'est le commerce, pourquoi les gens s'engagent dans des activités commerciales, et comment les entreprises satisfont les besoins et désirs dans la société.",
+            "mfe": "Enn introdiksion lor ki eski biznes, kifer dimoun fer aktivite biznes, ek kouma biznes satisfer bann bezwin ek dezir dan lasosiete."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "What is a business",
+                "fr": "Qu'est-ce qu'une entreprise",
+                "mfe": "Ki sa biznes"
+              },
+              "objectives": [
+                "Define what a business is",
+                "Identify examples of businesses in Mauritius",
+                "Explain why businesses exist"
+              ]
+            },
+            {
+              "title": {
+                "en": "Needs and wants",
+                "fr": "Besoins et désirs",
+                "mfe": "Bezwin ek dezir"
+              },
+              "objectives": [
+                "Distinguish between needs and wants",
+                "Give examples of needs and wants in daily life",
+                "Explain how businesses respond to needs and wants"
+              ]
+            },
+            {
+              "title": {
+                "en": "Goods and services",
+                "fr": "Biens et services",
+                "mfe": "Bann prodwi ek servis"
+              },
+              "objectives": [
+                "Differentiate between goods and services",
+                "Classify local examples as goods or services",
+                "Explain why both are important to consumers"
+              ]
+            },
+            {
+              "title": {
+                "en": "Producers and consumers",
+                "fr": "Producteurs et consommateurs",
+                "mfe": "Prodikter ek konsomater"
+              },
+              "objectives": [
+                "Define the roles of producers and consumers",
+                "Describe how producers and consumers interact",
+                "Identify examples from the local market"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Introducing entrepreneurship",
+            "fr": "Introduction à l'entrepreneuriat",
+            "mfe": "Introdiksion a lantreprenerya"
+          },
+          "summary": {
+            "en": "Students explore what entrepreneurship means, the qualities of successful entrepreneurs, and inspiring examples from Mauritius.",
+            "fr": "Les élèves explorent ce que signifie l'entrepreneuriat, les qualités des entrepreneurs qui réussissent, et des exemples inspirants de Maurice.",
+            "mfe": "Bann etidian explor ki lantreprenerya vedir, bann kalite bon entreprener, ek bann lexanp ki inspire depi Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Who is an entrepreneur",
+                "fr": "Qui est un entrepreneur",
+                "mfe": "Kisannla enn entreprener"
+              },
+              "objectives": [
+                "Define the term entrepreneur",
+                "Describe examples of entrepreneurs in Mauritius",
+                "Explain the role entrepreneurs play in the economy"
+              ]
+            },
+            {
+              "title": {
+                "en": "Qualities of an entrepreneur",
+                "fr": "Qualités d'un entrepreneur",
+                "mfe": "Kalite enn entreprener"
+              },
+              "objectives": [
+                "List key qualities of successful entrepreneurs",
+                "Assess personal entrepreneurial qualities",
+                "Explain why creativity and risk-taking matter"
+              ]
+            },
+            {
+              "title": {
+                "en": "Spotting business opportunities",
+                "fr": "Identifier des opportunités d'affaires",
+                "mfe": "Rekonet loportinite biznes"
+              },
+              "objectives": [
+                "Explain how business opportunities arise",
+                "Identify simple opportunities in the local community",
+                "Discuss problems that businesses can solve"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mauritian entrepreneurs who inspire",
+                "fr": "Entrepreneurs mauriciens qui inspirent",
+                "mfe": "Entreprener morisien ki inspire"
+              },
+              "objectives": [
+                "Describe examples of successful local entrepreneurs",
+                "Explain the challenges they overcame",
+                "Reflect on lessons learnt from their stories"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Money and its uses",
+            "fr": "L'argent et ses usages",
+            "mfe": "Kas ek so lizaz"
+          },
+          "summary": {
+            "en": "This unit introduces the concept of money, its functions, and how people manage money through saving and spending decisions.",
+            "fr": "Cette unité présente le concept de l'argent, ses fonctions, et comment les gens gèrent l'argent à travers l'épargne et les dépenses.",
+            "mfe": "Sa lekol la introdir konsep kas, so bann fonksion, ek kouma dimoun jere kas atraver sparyen ek depans."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "What is money",
+                "fr": "Qu'est-ce que l'argent",
+                "mfe": "Ki sa kas"
+              },
+              "objectives": [
+                "Define money and its purpose",
+                "Explain the functions of money",
+                "Describe forms of money used in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Before money: bartering",
+                "fr": "Avant l'argent : le troc",
+                "mfe": "Avan kas: troke"
+              },
+              "objectives": [
+                "Explain how bartering worked",
+                "Identify problems with bartering",
+                "Compare bartering with using money"
+              ]
+            },
+            {
+              "title": {
+                "en": "Saving and spending wisely",
+                "fr": "Épargner et dépenser intelligemment",
+                "mfe": "Sparyen ek depans avek prekosion"
+              },
+              "objectives": [
+                "Explain the importance of saving money",
+                "Distinguish between needs-based and wants-based spending",
+                "Create a simple personal saving plan"
+              ]
+            },
+            {
+              "title": {
+                "en": "Introduction to budgeting",
+                "fr": "Introduction à la budgétisation",
+                "mfe": "Introdiksion a bidjer"
+              },
+              "objectives": [
+                "Define what a budget is",
+                "Explain why budgeting is useful",
+                "Prepare a simple weekly budget"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Types of business activity",
+            "fr": "Types d'activités commerciales",
+            "mfe": "Diferan tip aktivite biznes"
+          },
+          "summary": {
+            "en": "Students learn to classify business activities into primary, secondary and tertiary sectors, with examples from the Mauritian economy.",
+            "fr": "Les élèves apprennent à classer les activités commerciales en secteurs primaire, secondaire et tertiaire, avec des exemples de l'économie mauricienne.",
+            "mfe": "Etidian aprann klasifie aktivite biznes an sekter primer, sekonder ek tertyer, avek lexanp depi lekonomi morisien."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Primary sector activities",
+                "fr": "Activités du secteur primaire",
+                "mfe": "Aktivite sekter primer"
+              },
+              "objectives": [
+                "Define primary sector activities",
+                "Identify examples such as farming and fishing in Mauritius",
+                "Explain the importance of the primary sector"
+              ]
+            },
+            {
+              "title": {
+                "en": "Secondary sector activities",
+                "fr": "Activités du secteur secondaire",
+                "mfe": "Aktivite sekter sekonder"
+              },
+              "objectives": [
+                "Define secondary sector activities",
+                "Identify examples such as manufacturing and construction locally",
+                "Explain how raw materials become finished products"
+              ]
+            },
+            {
+              "title": {
+                "en": "Tertiary sector activities",
+                "fr": "Activités du secteur tertiaire",
+                "mfe": "Aktivite sekter tertyer"
+              },
+              "objectives": [
+                "Define tertiary sector activities",
+                "Identify examples such as tourism and banking in Mauritius",
+                "Explain the importance of services to the economy"
+              ]
+            },
+            {
+              "title": {
+                "en": "Linking the three sectors",
+                "fr": "Relier les trois secteurs",
+                "mfe": "Konekte bann trwa sekter"
+              },
+              "objectives": [
+                "Explain how the three sectors depend on each other",
+                "Trace a product from raw material to consumer",
+                "Discuss the balance of sectors in the Mauritian economy"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Setting up a simple business",
+            "fr": "Créer une petite entreprise",
+            "mfe": "Kree enn ti biznes"
+          },
+          "summary": {
+            "en": "An introduction to the basic steps and decisions involved in starting a very small business, using simple, relatable examples.",
+            "fr": "Une introduction aux étapes de base et aux décisions impliquées dans le démarrage d'une très petite entreprise, avec des exemples simples et pertinents.",
+            "mfe": "Enn introdiksion bann etap debaz ek desizion ki bezin kan demar enn tre ti biznes, avek lexanp senp ek relevan."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Choosing a business idea",
+                "fr": "Choisir une idée d'entreprise",
+                "mfe": "Choizir enn ide biznes"
+              },
+              "objectives": [
+                "Explain how to generate simple business ideas",
+                "Evaluate an idea based on skills and resources available",
+                "Select a suitable idea for a small project"
+              ]
+            },
+            {
+              "title": {
+                "en": "Who are my customers",
+                "fr": "Qui sont mes clients",
+                "mfe": "Kisannla mo klian"
+              },
+              "objectives": [
+                "Define what a customer is",
+                "Identify potential customers for a small business idea",
+                "Explain why understanding customers matters"
+              ]
+            },
+            {
+              "title": {
+                "en": "Costs and pricing basics",
+                "fr": "Bases des coûts et de la tarification",
+                "mfe": "Baz kout ek pri"
+              },
+              "objectives": [
+                "Identify basic costs involved in running a small business",
+                "Explain how to set a simple selling price",
+                "Calculate simple profit from a sale"
+              ]
+            },
+            {
+              "title": {
+                "en": "Promoting a small business",
+                "fr": "Promouvoir une petite entreprise",
+                "mfe": "Fer promosion enn ti biznes"
+              },
+              "objectives": [
+                "Explain what promotion means",
+                "Suggest simple ways to advertise a small business locally",
+                "Design a basic poster or message to attract customers"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Working together in business",
+            "fr": "Travailler ensemble en entreprise",
+            "mfe": "Travay ansam dan biznes"
+          },
+          "summary": {
+            "en": "This unit explores teamwork, division of labour, and the different roles people play within a business.",
+            "fr": "Cette unité explore le travail d'équipe, la division du travail, et les différents rôles que les gens jouent dans une entreprise.",
+            "mfe": "Sa lekol la explor travay lekip, divizyon travay, ek bann diferan rol dimoun zwe dan enn biznes."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Why teamwork matters",
+                "fr": "Pourquoi le travail d'équipe est important",
+                "mfe": "Kifer travay lekip inportan"
+              },
+              "objectives": [
+                "Explain the benefits of teamwork in business",
+                "Identify examples of teamwork in local businesses",
+                "Reflect on personal experiences of working in a team"
+              ]
+            },
+            {
+              "title": {
+                "en": "Division of labour",
+                "fr": "Division du travail",
+                "mfe": "Divizyon travay"
+              },
+              "objectives": [
+                "Define division of labour",
+                "Explain the advantages of dividing tasks in a business",
+                "Give examples from a local workplace or activity"
+              ]
+            },
+            {
+              "title": {
+                "en": "Roles within a business",
+                "fr": "Rôles au sein d'une entreprise",
+                "mfe": "Bann rol dan enn biznes"
+              },
+              "objectives": [
+                "Identify common roles found in a business",
+                "Describe responsibilities linked to each role",
+                "Match personal skills to possible business roles"
+              ]
+            },
+            {
+              "title": {
+                "en": "Communication in business",
+                "fr": "La communication en entreprise",
+                "mfe": "Kominikasion dan biznes"
+              },
+              "objectives": [
+                "Explain why good communication is important in business",
+                "Identify examples of clear and unclear communication",
+                "Practise giving simple, clear business instructions"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Business and the community",
+            "fr": "L'entreprise et la communauté",
+            "mfe": "Biznes ek kominote"
+          },
+          "summary": {
+            "en": "Students consider how businesses affect and are affected by the local community, including responsibility towards people and the environment.",
+            "fr": "Les élèves examinent comment les entreprises affectent et sont affectées par la communauté locale, y compris la responsabilité envers les gens et l'environnement.",
+            "mfe": "Etidian konsider kouma biznes afekte ek gagn afekte par kominote lokal, ansam ar responsabilite anver dimoun ek anvironnman."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Businesses in my community",
+                "fr": "Les entreprises dans ma communauté",
+                "mfe": "Biznes dan mo kominote"
+              },
+              "objectives": [
+                "Identify types of businesses found in a local community",
+                "Explain the services these businesses provide",
+                "Discuss why local businesses are important"
+              ]
+            },
+            {
+              "title": {
+                "en": "Business and the environment",
+                "fr": "L'entreprise et l'environnement",
+                "mfe": "Biznes ek anvironnman"
+              },
+              "objectives": [
+                "Explain how businesses can affect the environment",
+                "Identify examples of eco-friendly practices in Mauritius",
+                "Suggest simple ways a business can protect the environment"
+              ]
+            },
+            {
+              "title": {
+                "en": "Being a responsible consumer",
+                "fr": "Être un consommateur responsable",
+                "mfe": "Vinn enn konsomater responsab"
+              },
+              "objectives": [
+                "Explain what responsible consumption means",
+                "Identify examples of responsible and irresponsible consumer choices",
+                "Reflect on personal consumer habits"
+              ]
+            },
+            {
+              "title": {
+                "en": "Fairness in business",
+                "fr": "L'équité en entreprise",
+                "mfe": "Lekitab dan biznes"
+              },
+              "objectives": [
+                "Explain the importance of honesty and fairness in business dealings",
+                "Identify examples of unfair business practices",
+                "Discuss how fairness builds trust with customers"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "8": {
+      "units": [
+        {
+          "title": {
+            "en": "Understanding entrepreneurship",
+            "fr": "Comprendre l'entrepreneuriat",
+            "mfe": "Konpran lantreprenerya"
+          },
+          "summary": {
+            "en": "Students explore what entrepreneurship means, the qualities of successful entrepreneurs, and how new business ideas are born in Mauritius.",
+            "fr": "Les élèves explorent la signification de l'entrepreneuriat, les qualités des entrepreneurs prospères et la naissance des idées d'affaires à Maurice.",
+            "mfe": "Bann elev explor sinifikasyon lantreprenerya, bann kalite bann antreprener ki reisi, ek kouma bann nouvo lide biznes ne dan Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "What is entrepreneurship?",
+                "fr": "Qu'est-ce que l'entrepreneuriat ?",
+                "mfe": "Ki lantreprenerya ete?"
+              },
+              "objectives": [
+                "Define entrepreneurship and entrepreneur",
+                "Identify examples of local entrepreneurs",
+                "Explain why entrepreneurship matters to the Mauritian economy"
+              ]
+            },
+            {
+              "title": {
+                "en": "Qualities of an entrepreneur",
+                "fr": "Qualités d'un entrepreneur",
+                "mfe": "Bann kalite enn antreprener"
+              },
+              "objectives": [
+                "List key personal qualities of successful entrepreneurs",
+                "Assess personal strengths and weaknesses as a potential entrepreneur",
+                "Give examples of risk-taking in business"
+              ]
+            },
+            {
+              "title": {
+                "en": "Spotting a business opportunity",
+                "fr": "Repérer une opportunité d'affaires",
+                "mfe": "Rekonet enn oportinite biznes"
+              },
+              "objectives": [
+                "Describe how business ideas are generated",
+                "Identify unmet needs in the local community",
+                "Evaluate simple business ideas for feasibility"
+              ]
+            },
+            {
+              "title": {
+                "en": "From idea to small business",
+                "fr": "De l'idée à la petite entreprise",
+                "mfe": "Depi lide ziska ti biznes"
+              },
+              "objectives": [
+                "Outline basic steps to start a small business",
+                "Explain the importance of planning",
+                "Create a simple business idea proposal"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Forms of business ownership",
+            "fr": "Formes de propriété d'entreprise",
+            "mfe": "Bann form propriete biznes"
+          },
+          "summary": {
+            "en": "Learners study the main types of business ownership found in Mauritius, from sole traders to companies, and compare their advantages and disadvantages.",
+            "fr": "Les apprenants étudient les principaux types de propriété d'entreprise à Maurice, du commerçant individuel aux sociétés, et comparent leurs avantages et inconvénients.",
+            "mfe": "Bann aprenan etidye bann prinsipal tip propriete biznes ki ena Moris, depi komersan endividyel ziska konpayni, ek konpar zot avantaz ek dezavantaz."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Sole traders and partnerships",
+                "fr": "Commerçants individuels et sociétés en nom collectif",
+                "mfe": "Komersan endividyel ek partenarya"
+              },
+              "objectives": [
+                "Define sole trader and partnership",
+                "Compare advantages and disadvantages of each form",
+                "Give local examples of small family businesses"
+              ]
+            },
+            {
+              "title": {
+                "en": "Private and public companies",
+                "fr": "Sociétés privées et publiques",
+                "mfe": "Konpayni prive ek piblik"
+              },
+              "objectives": [
+                "Distinguish private limited from public limited companies",
+                "Explain the concept of limited liability",
+                "Identify well-known Mauritian companies"
+              ]
+            },
+            {
+              "title": {
+                "en": "Cooperatives and public sector businesses",
+                "fr": "Coopératives et entreprises publiques",
+                "mfe": "Kooperativ ek biznes sekter piblik"
+              },
+              "objectives": [
+                "Explain the purpose of cooperatives in Mauritius",
+                "Describe public sector enterprises and their role",
+                "Compare cooperative and private business goals"
+              ]
+            },
+            {
+              "title": {
+                "en": "Choosing the right ownership form",
+                "fr": "Choisir la bonne forme de propriété",
+                "mfe": "Swazir bon form propriete"
+              },
+              "objectives": [
+                "Evaluate factors influencing choice of ownership",
+                "Match business scenarios to suitable ownership forms",
+                "Justify a chosen form of ownership for a case study"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Business functions and organisation",
+            "fr": "Fonctions et organisation de l'entreprise",
+            "mfe": "Fonksyon ek organizasyon biznes"
+          },
+          "summary": {
+            "en": "This unit introduces the main departments of a business and how they work together, along with simple organisational structures.",
+            "fr": "Cette unité présente les principaux départements d'une entreprise et leur collaboration, ainsi que des structures organisationnelles simples.",
+            "mfe": "Sa linite prezante bann prinsipal depatman enn biznes ek kouma zot travay ansam, ansam ar bann striktir organizasyonel senp."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Departments of a business",
+                "fr": "Les départements d'une entreprise",
+                "mfe": "Bann depatman biznes"
+              },
+              "objectives": [
+                "Identify the main functional areas of a business",
+                "Describe the role of each department",
+                "Explain how departments depend on each other"
+              ]
+            },
+            {
+              "title": {
+                "en": "Understanding organisation charts",
+                "fr": "Comprendre les organigrammes",
+                "mfe": "Konpran orgagram"
+              },
+              "objectives": [
+                "Read a simple organisation chart",
+                "Explain terms such as manager and employee",
+                "Draw an organisation chart for a small business"
+              ]
+            },
+            {
+              "title": {
+                "en": "Roles of managers and employees",
+                "fr": "Rôles des gestionnaires et des employés",
+                "mfe": "Rol manager ek anplwaye"
+              },
+              "objectives": [
+                "Distinguish responsibilities of managers and employees",
+                "Explain the importance of teamwork",
+                "Describe good communication within a business"
+              ]
+            },
+            {
+              "title": {
+                "en": "Working together as a team",
+                "fr": "Travailler ensemble en équipe",
+                "mfe": "Travay ansam kouma enn lekip"
+              },
+              "objectives": [
+                "Explain benefits of teamwork in business",
+                "Identify barriers to effective teamwork",
+                "Suggest ways to improve cooperation among staff"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Marketing in business",
+            "fr": "Le marketing dans l'entreprise",
+            "mfe": "Marketing dan biznes"
+          },
+          "summary": {
+            "en": "Students learn how businesses identify customer needs and promote their products, focusing on the basics of the marketing mix.",
+            "fr": "Les élèves apprennent comment les entreprises identifient les besoins des clients et promeuvent leurs produits, en se concentrant sur les bases du marketing mix.",
+            "mfe": "Bann elev aprann kouma biznes idantifie bezwin kliyan ek promot zot prodwi, ar lasans lor baz marketing miks."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Identifying customer needs",
+                "fr": "Identifier les besoins des clients",
+                "mfe": "Idantifie bezwin kliyan"
+              },
+              "objectives": [
+                "Define market and customer needs",
+                "Explain the difference between wants and needs",
+                "Conduct a simple survey on customer preferences"
+              ]
+            },
+            {
+              "title": {
+                "en": "Introducing the marketing mix",
+                "fr": "Introduction au marketing mix",
+                "mfe": "Introdiksyon dan marketing miks"
+              },
+              "objectives": [
+                "List the four Ps of marketing",
+                "Explain the meaning of product, price, place and promotion",
+                "Apply the marketing mix to a local business example"
+              ]
+            },
+            {
+              "title": {
+                "en": "Advertising and promotion",
+                "fr": "Publicité et promotion",
+                "mfe": "Piblisite ek promosyon"
+              },
+              "objectives": [
+                "Identify common methods of advertising in Mauritius",
+                "Explain the purpose of promotion",
+                "Design a simple advertisement for a product"
+              ]
+            },
+            {
+              "title": {
+                "en": "Branding and packaging",
+                "fr": "Marque et emballage",
+                "mfe": "Mark ek anbalaz"
+              },
+              "objectives": [
+                "Explain the importance of branding",
+                "Describe features of effective packaging",
+                "Create a brand name and logo idea for a product"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Money, finance and record keeping",
+            "fr": "Argent, finance et tenue de comptes",
+            "mfe": "Larzan, finans ek gard rekor"
+          },
+          "summary": {
+            "en": "Learners explore how businesses manage money, including basic bookkeeping, income and expenses, and the role of banks.",
+            "fr": "Les apprenants explorent comment les entreprises gèrent l'argent, y compris la comptabilité de base, les revenus et dépenses, et le rôle des banques.",
+            "mfe": "Bann aprenan explor kouma biznes zer larzan, ki inklir konptabilite baz, revenir ek depans, ek rol labank."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Income and expenses",
+                "fr": "Revenus et dépenses",
+                "mfe": "Revenir ek depans"
+              },
+              "objectives": [
+                "Define income and expenses in a business context",
+                "Give examples of typical business expenses",
+                "Calculate simple profit or loss"
+              ]
+            },
+            {
+              "title": {
+                "en": "Keeping simple business records",
+                "fr": "Tenir des registres commerciaux simples",
+                "mfe": "Gard bann rekor biznes senp"
+              },
+              "objectives": [
+                "Explain why record keeping is important",
+                "Prepare a simple cash record",
+                "Identify tools used for keeping records"
+              ]
+            },
+            {
+              "title": {
+                "en": "The role of banks",
+                "fr": "Le rôle des banques",
+                "mfe": "Rol labank"
+              },
+              "objectives": [
+                "Explain services banks offer to businesses",
+                "Describe how businesses use loans and savings accounts",
+                "Discuss the importance of saving money"
+              ]
+            },
+            {
+              "title": {
+                "en": "Introduction to profit and loss",
+                "fr": "Introduction au profit et à la perte",
+                "mfe": "Introdiksyon dan profi ek pert"
+              },
+              "objectives": [
+                "Explain the concept of profit and loss",
+                "Distinguish between revenue and cost",
+                "Interpret a simple profit and loss statement"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Production and operations",
+            "fr": "Production et opérations",
+            "mfe": "Prodiksyon ek operasyon"
+          },
+          "summary": {
+            "en": "This unit looks at how goods and services are produced, the resources needed, and the importance of quality and efficiency.",
+            "fr": "Cette unité examine comment les biens et services sont produits, les ressources nécessaires, et l'importance de la qualité et de l'efficacité.",
+            "mfe": "Sa linite get kouma bann bien ek servis prodwir, bann resours neseser, ek linportans kalite ek lefikasite."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "What are resources of production?",
+                "fr": "Quelles sont les ressources de production ?",
+                "mfe": "Ki bann resours prodiksyon ete?"
+              },
+              "objectives": [
+                "Identify land, labour, capital and enterprise",
+                "Give examples of each resource in Mauritius",
+                "Explain how resources combine to produce goods"
+              ]
+            },
+            {
+              "title": {
+                "en": "Methods of production",
+                "fr": "Méthodes de production",
+                "mfe": "Metod prodiksyon"
+              },
+              "objectives": [
+                "Describe job, batch and mass production",
+                "Compare methods used by small and large businesses",
+                "Suggest suitable methods for given products"
+              ]
+            },
+            {
+              "title": {
+                "en": "Quality in production",
+                "fr": "La qualité dans la production",
+                "mfe": "Kalite dan prodiksyon"
+              },
+              "objectives": [
+                "Explain why quality matters to customers",
+                "Describe simple quality control checks",
+                "Identify consequences of poor quality"
+              ]
+            },
+            {
+              "title": {
+                "en": "Efficiency and waste reduction",
+                "fr": "Efficacité et réduction des déchets",
+                "mfe": "Lefikasite ek redir gaspiyaz"
+              },
+              "objectives": [
+                "Explain the concept of efficiency in production",
+                "Identify causes of waste in a business",
+                "Propose ways to reduce waste and costs"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Business, society and environment",
+            "fr": "Entreprise, société et environnement",
+            "mfe": "Biznes, sosyete ek lanvironnman"
+          },
+          "summary": {
+            "en": "Students examine the responsibilities businesses have towards society, consumers and the environment in the Mauritian context.",
+            "fr": "Les élèves examinent les responsabilités des entreprises envers la société, les consommateurs et l'environnement dans le contexte mauricien.",
+            "mfe": "Bann elev examine bann responsabilite biznes anver sosyete, konsomater ek lanvironnman dan kontekst morisien."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Business and the community",
+                "fr": "L'entreprise et la communauté",
+                "mfe": "Biznes ek kominote"
+              },
+              "objectives": [
+                "Explain how businesses affect local communities",
+                "Give examples of community involvement by businesses",
+                "Discuss mutual benefits of community engagement"
+              ]
+            },
+            {
+              "title": {
+                "en": "Consumer rights and protection",
+                "fr": "Droits et protection des consommateurs",
+                "mfe": "Drwa ek proteksyon konsomater"
+              },
+              "objectives": [
+                "Identify basic consumer rights",
+                "Explain the role of consumer protection laws",
+                "Describe how to handle a consumer complaint"
+              ]
+            },
+            {
+              "title": {
+                "en": "Business and the environment",
+                "fr": "L'entreprise et l'environnement",
+                "mfe": "Biznes ek lanvironnman"
+              },
+              "objectives": [
+                "Explain environmental impacts of business activities",
+                "Identify examples of eco-friendly business practices",
+                "Suggest ways businesses can reduce pollution"
+              ]
+            },
+            {
+              "title": {
+                "en": "Ethics in business",
+                "fr": "L'éthique dans les affaires",
+                "mfe": "Letik dan biznes"
+              },
+              "objectives": [
+                "Define business ethics",
+                "Identify examples of ethical and unethical business behaviour",
+                "Discuss the importance of honesty and fairness in trade"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "units": [
+        {
+          "title": {
+            "en": "Entrepreneurship and the Mauritian economy",
+            "fr": "L'entrepreneuriat et l'économie mauricienne",
+            "mfe": "Lantreprenaria ek lekonomi Moris"
+          },
+          "summary": {
+            "en": "Students explore what makes someone an entrepreneur and how small businesses contribute to Mauritius's economy.",
+            "fr": "Les élèves explorent ce qui fait un entrepreneur et comment les petites entreprises contribuent à l'économie mauricienne.",
+            "mfe": "Bann elev explor ki fer enn dimoun vinn enn lantreprener ek kouma bann piti lantrepriz kontribie dan lekonomi Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Who is an entrepreneur?",
+                "fr": "Qui est un entrepreneur?",
+                "mfe": "Kisannla enn lantreprener?"
+              },
+              "objectives": [
+                "Define the term entrepreneur",
+                "Identify qualities of successful Mauritian entrepreneurs",
+                "Distinguish between an entrepreneur and an employee"
+              ]
+            },
+            {
+              "title": {
+                "en": "Spotting business opportunities",
+                "fr": "Repérer des opportunités d'affaires",
+                "mfe": "Rekonet bann lokazion biznes"
+              },
+              "objectives": [
+                "Explain how needs and wants create business opportunities",
+                "Identify gaps in the local market",
+                "Generate simple business ideas"
+              ]
+            },
+            {
+              "title": {
+                "en": "Risk and reward in business",
+                "fr": "Le risque et la récompense en affaires",
+                "mfe": "Risk ek rekonpans dan biznes"
+              },
+              "objectives": [
+                "Explain the concept of business risk",
+                "Describe possible rewards of entrepreneurship",
+                "Discuss why some businesses fail"
+              ]
+            },
+            {
+              "title": {
+                "en": "Small businesses and the economy",
+                "fr": "Les petites entreprises et l'économie",
+                "mfe": "Piti biznes ek lekonomi"
+              },
+              "objectives": [
+                "Explain the role of small and medium enterprises in Mauritius",
+                "Describe how businesses create jobs and income",
+                "Discuss government support for entrepreneurs"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Forms of business ownership",
+            "fr": "Les formes de propriété d'entreprise",
+            "mfe": "Bann form propriete biznes"
+          },
+          "summary": {
+            "en": "This unit compares different ways a business can be owned and organised in Mauritius.",
+            "fr": "Cette unité compare les différentes façons dont une entreprise peut être détenue et organisée à Maurice.",
+            "mfe": "Sa linite-la konpar diferan fason enn biznes kapav ete posede ek organize dan Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Sole traders",
+                "fr": "Les entreprises individuelles",
+                "mfe": "Antrepriz endividyel"
+              },
+              "objectives": [
+                "Describe the features of a sole trader business",
+                "List advantages and disadvantages of sole trading",
+                "Identify examples of sole traders in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Partnerships",
+                "fr": "Les sociétés en partenariat",
+                "mfe": "Partenaria"
+              },
+              "objectives": [
+                "Explain how a partnership is formed",
+                "Compare partnerships with sole trading",
+                "Discuss advantages and disadvantages of partnerships"
+              ]
+            },
+            {
+              "title": {
+                "en": "Private and public companies",
+                "fr": "Sociétés privées et publiques",
+                "mfe": "Konpayni prive ek piblik"
+              },
+              "objectives": [
+                "Distinguish between private and public limited companies",
+                "Explain the concept of limited liability",
+                "Identify well-known Mauritian companies"
+              ]
+            },
+            {
+              "title": {
+                "en": "Cooperatives and family businesses",
+                "fr": "Coopératives et entreprises familiales",
+                "mfe": "Koperativ ek biznes fami"
+              },
+              "objectives": [
+                "Describe how a cooperative operates",
+                "Explain the role of family businesses in Mauritius",
+                "Compare cooperatives with other ownership forms"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Setting up a business",
+            "fr": "Créer une entreprise",
+            "mfe": "Kree enn biznes"
+          },
+          "summary": {
+            "en": "Students learn the practical steps and choices involved in starting a small business.",
+            "fr": "Les élèves apprennent les étapes pratiques et les choix impliqués dans la création d'une petite entreprise.",
+            "mfe": "Bann elev aprann bann letap pratik ek desizion pou kree enn piti biznes."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Choosing a location",
+                "fr": "Choisir un emplacement",
+                "mfe": "Swazir enn landrwa"
+              },
+              "objectives": [
+                "Identify factors affecting choice of business location",
+                "Compare rural and urban locations in Mauritius",
+                "Explain how location affects costs and customers"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sources of finance for a new business",
+                "fr": "Sources de financement pour une nouvelle entreprise",
+                "mfe": "Sours finansman pou enn nouvo biznes"
+              },
+              "objectives": [
+                "List sources of finance available to entrepreneurs",
+                "Distinguish between personal savings, loans and grants",
+                "Discuss the role of banks and microfinance in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing a simple business plan",
+                "fr": "Rédiger un plan d'affaires simple",
+                "mfe": "Ekrir enn plan biznes senp"
+              },
+              "objectives": [
+                "Explain the purpose of a business plan",
+                "Identify the key sections of a business plan",
+                "Draft a basic plan for a business idea"
+              ]
+            },
+            {
+              "title": {
+                "en": "Legal requirements for starting a business",
+                "fr": "Exigences légales pour démarrer une entreprise",
+                "mfe": "Kondision legal pou koumans enn biznes"
+              },
+              "objectives": [
+                "Identify basic registration requirements in Mauritius",
+                "Explain why licences and permits are needed",
+                "Discuss consequences of not following legal requirements"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Marketing and the customer",
+            "fr": "Le marketing et le client",
+            "mfe": "Marketing ek kliyan"
+          },
+          "summary": {
+            "en": "This unit introduces how businesses identify customer needs and promote their products.",
+            "fr": "Cette unité présente comment les entreprises identifient les besoins des clients et promeuvent leurs produits.",
+            "mfe": "Sa linite-la introdir kouma bann biznes idantifie bezwin kliyan ek promot zot prodwi."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Understanding customer needs",
+                "fr": "Comprendre les besoins des clients",
+                "mfe": "Konpran bezwin kliyan"
+              },
+              "objectives": [
+                "Explain the difference between needs and wants",
+                "Describe how businesses research customer needs",
+                "Identify examples of market research in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "The marketing mix: product and price",
+                "fr": "Le mix marketing : produit et prix",
+                "mfe": "Marketing miks: prodwi ek pri"
+              },
+              "objectives": [
+                "Explain the concept of the marketing mix",
+                "Describe factors affecting product design",
+                "Explain how businesses set prices"
+              ]
+            },
+            {
+              "title": {
+                "en": "The marketing mix: place and promotion",
+                "fr": "Le mix marketing : distribution et promotion",
+                "mfe": "Marketing miks: plas ek promosion"
+              },
+              "objectives": [
+                "Explain different methods of distribution",
+                "Describe common promotion methods used in Mauritius",
+                "Discuss the role of social media in promotion"
+              ]
+            },
+            {
+              "title": {
+                "en": "Advertising and consumer protection",
+                "fr": "Publicité et protection des consommateurs",
+                "mfe": "Piblisite ek proteksion konsomater"
+              },
+              "objectives": [
+                "Explain the purposes of advertising",
+                "Discuss ethical issues in advertising",
+                "Identify consumer rights in Mauritius"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Production and operations",
+            "fr": "Production et opérations",
+            "mfe": "Prodiksion ek operasion"
+          },
+          "summary": {
+            "en": "Students explore how goods and services are produced and how businesses manage resources.",
+            "fr": "Les élèves explorent comment les biens et services sont produits et comment les entreprises gèrent les ressources.",
+            "mfe": "Bann elev explor kouma bann bien ek servis prodwir ek kouma biznes zer resours."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Factors of production",
+                "fr": "Les facteurs de production",
+                "mfe": "Fakter prodiksion"
+              },
+              "objectives": [
+                "Identify the four factors of production",
+                "Explain how each factor contributes to production",
+                "Give Mauritian examples of each factor"
+              ]
+            },
+            {
+              "title": {
+                "en": "Methods of production",
+                "fr": "Les méthodes de production",
+                "mfe": "Metod prodiksion"
+              },
+              "objectives": [
+                "Describe job, batch and flow production",
+                "Compare advantages and disadvantages of each method",
+                "Identify examples used in Mauritian industries"
+              ]
+            },
+            {
+              "title": {
+                "en": "Quality and productivity",
+                "fr": "Qualité et productivité",
+                "mfe": "Kalite ek prodiktivite"
+              },
+              "objectives": [
+                "Explain the importance of quality in production",
+                "Describe ways businesses improve productivity",
+                "Discuss the impact of technology on production"
+              ]
+            },
+            {
+              "title": {
+                "en": "Managing stock and suppliers",
+                "fr": "Gérer les stocks et les fournisseurs",
+                "mfe": "Zer stok ek fourniser"
+              },
+              "objectives": [
+                "Explain why businesses hold stock",
+                "Describe the role of suppliers",
+                "Discuss problems caused by poor stock management"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Money and financial records",
+            "fr": "L'argent et les registres financiers",
+            "mfe": "Larzan ek rezis finansie"
+          },
+          "summary": {
+            "en": "This unit introduces basic money management and record keeping for small businesses.",
+            "fr": "Cette unité présente la gestion de base de l'argent et la tenue de registres pour les petites entreprises.",
+            "mfe": "Sa linite-la introdir zesyon debaz larzan ek gard rezis pou piti biznes."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Income, costs and profit",
+                "fr": "Revenus, coûts et profit",
+                "mfe": "Revenu, depans ek profi"
+              },
+              "objectives": [
+                "Define income, costs and profit",
+                "Distinguish between fixed and variable costs",
+                "Calculate simple profit for a business"
+              ]
+            },
+            {
+              "title": {
+                "en": "Keeping simple business records",
+                "fr": "Tenir des registres commerciaux simples",
+                "mfe": "Gard rezis biznes senp"
+              },
+              "objectives": [
+                "Explain why businesses keep records",
+                "Identify types of basic financial records",
+                "Complete a simple cash record"
+              ]
+            },
+            {
+              "title": {
+                "en": "Banking services for businesses",
+                "fr": "Services bancaires pour les entreprises",
+                "mfe": "Servis labank pou biznes"
+              },
+              "objectives": [
+                "Describe services banks offer to businesses",
+                "Explain the purpose of a business bank account",
+                "Discuss the role of digital payments in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Saving and budgeting for a business",
+                "fr": "Épargner et budgétiser pour une entreprise",
+                "mfe": "Ekonomize ek fer bidze pou enn biznes"
+              },
+              "objectives": [
+                "Explain the importance of budgeting",
+                "Create a simple budget for a business idea",
+                "Discuss the risks of poor financial planning"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Business, ethics and society",
+            "fr": "Entreprise, éthique et société",
+            "mfe": "Biznes, letik ek lasosiete"
+          },
+          "summary": {
+            "en": "Students consider the wider responsibilities businesses have towards people and the environment in Mauritius.",
+            "fr": "Les élèves examinent les responsabilités plus larges des entreprises envers les personnes et l'environnement à Maurice.",
+            "mfe": "Bann elev konsider bann responsabilite pli larz biznes anver dimoun ek lanvironnman dan Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Business ethics in practice",
+                "fr": "L'éthique des affaires en pratique",
+                "mfe": "Letik biznes an pratik"
+              },
+              "objectives": [
+                "Explain what is meant by ethical business behaviour",
+                "Identify examples of ethical and unethical practices",
+                "Discuss why honesty matters in business"
+              ]
+            },
+            {
+              "title": {
+                "en": "Businesses and the environment",
+                "fr": "Les entreprises et l'environnement",
+                "mfe": "Biznes ek lanvironnman"
+              },
+              "objectives": [
+                "Describe how businesses can harm or protect the environment",
+                "Explain the idea of sustainable business practice",
+                "Discuss examples of eco-friendly businesses in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Corporate social responsibility",
+                "fr": "La responsabilité sociale des entreprises",
+                "mfe": "Responsabilite sosial antrepriz"
+              },
+              "objectives": [
+                "Define corporate social responsibility",
+                "Give examples of CSR projects by Mauritian companies",
+                "Discuss benefits of CSR for business and society"
+              ]
+            },
+            {
+              "title": {
+                "en": "Presenting a business idea",
+                "fr": "Présenter une idée d'entreprise",
+                "mfe": "Prezant enn lide biznes"
+              },
+              "objectives": [
+                "Organise information to present a business idea clearly",
+                "Use visual aids to support a pitch",
+                "Give and receive constructive feedback on a business idea"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "units": [
+        {
+          "title": {
+            "en": "Business activity and enterprise",
+            "fr": "Activité commerciale et esprit d'entreprise",
+            "mfe": "Aktivite biznes ek lespri antreprener"
+          },
+          "summary": {
+            "en": "Introduces why businesses exist, how scarcity shapes choices, and the role of entrepreneurs in creating value in Mauritius and beyond.",
+            "fr": "Introduit les raisons d'être des entreprises, comment la rareté influence les choix et le rôle des entrepreneurs dans la création de valeur à Maurice et ailleurs.",
+            "mfe": "Introdir kifer biznes existe, kouma rarte influans desizyon, ek rol antreprener dan kre valer Moris ek partou."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Purpose of business activity",
+                "fr": "Le rôle de l'activité commerciale",
+                "mfe": "Rol aktivite biznes"
+              },
+              "objectives": [
+                "Explain why business activity satisfies needs and wants",
+                "Identify inputs, processes and outputs of a business",
+                "Describe the concept of adding value"
+              ]
+            },
+            {
+              "title": {
+                "en": "Needs, wants and scarcity",
+                "fr": "Besoins, désirs et rareté",
+                "mfe": "Bezwin, dezir ek rarte"
+              },
+              "objectives": [
+                "Distinguish between needs and wants",
+                "Explain scarcity and opportunity cost",
+                "Apply scarcity concepts to Mauritian examples"
+              ]
+            },
+            {
+              "title": {
+                "en": "The role of entrepreneurs",
+                "fr": "Le rôle des entrepreneurs",
+                "mfe": "Rol antreprener"
+              },
+              "objectives": [
+                "Describe qualities of a successful entrepreneur",
+                "Explain the risks and rewards entrepreneurs face",
+                "Give examples of Mauritian entrepreneurs"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing a business plan",
+                "fr": "Rédiger un plan d'affaires",
+                "mfe": "Ekrir enn plan biznes"
+              },
+              "objectives": [
+                "List key sections of a business plan",
+                "Explain why a business plan is important for funding",
+                "Draft a simple business idea outline"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Classification and forms of business",
+            "fr": "Classification et formes d'entreprises",
+            "mfe": "Klasifikasyon ek form biznes"
+          },
+          "summary": {
+            "en": "Explores how businesses are classified by sector and size, and compares legal structures available to entrepreneurs.",
+            "fr": "Explore comment les entreprises sont classées par secteur et taille, et compare les structures juridiques disponibles.",
+            "mfe": "Explor kouma biznes klasifye par sekter ek gran, ek konpar strikitir legal ki disponib."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Classifying business by sector",
+                "fr": "Classer les entreprises par secteur",
+                "mfe": "Klasifye biznes par sekter"
+              },
+              "objectives": [
+                "Define primary, secondary and tertiary sectors",
+                "Give Mauritian examples for each sector",
+                "Explain sector shifts in the Mauritian economy"
+              ]
+            },
+            {
+              "title": {
+                "en": "Private sector organisations",
+                "fr": "Organisations du secteur privé",
+                "mfe": "Organizasyon sekter prive"
+              },
+              "objectives": [
+                "Compare sole traders, partnerships and companies",
+                "Explain advantages and disadvantages of each form",
+                "Identify suitable structures for given scenarios"
+              ]
+            },
+            {
+              "title": {
+                "en": "Public sector and privatisation",
+                "fr": "Secteur public et privatisation",
+                "mfe": "Sekter piblik ek privatizasyon"
+              },
+              "objectives": [
+                "Describe public sector organisations in Mauritius",
+                "Explain reasons for privatisation",
+                "Discuss effects of privatisation on stakeholders"
+              ]
+            },
+            {
+              "title": {
+                "en": "Choosing a legal structure",
+                "fr": "Choisir une structure juridique",
+                "mfe": "Swazir enn strikitir legal"
+              },
+              "objectives": [
+                "Compare limited and unlimited liability",
+                "Evaluate factors influencing choice of structure",
+                "Recommend a structure for a business scenario"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Business growth and integration",
+            "fr": "Croissance et intégration des entreprises",
+            "mfe": "Kwasans ek integrasyon biznes"
+          },
+          "summary": {
+            "en": "Examines how and why businesses grow, methods of integration, and the challenges of scale and failure.",
+            "fr": "Examine comment et pourquoi les entreprises se développent, les méthodes d'intégration, et les défis liés à la taille et à l'échec.",
+            "mfe": "Examinn kouma ek kifer biznes grandi, metod integrasyon, ek difikilte lie ar gran ek fayit."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Reasons for business growth",
+                "fr": "Raisons de la croissance des entreprises",
+                "mfe": "Rezon kwasans biznes"
+              },
+              "objectives": [
+                "Explain internal and external growth",
+                "Identify motives for business expansion",
+                "Compare organic and inorganic growth"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mergers and takeovers",
+                "fr": "Fusions et acquisitions",
+                "mfe": "Fizyon ek repriz"
+              },
+              "objectives": [
+                "Define horizontal, vertical and conglomerate integration",
+                "Explain reasons for mergers and takeovers",
+                "Assess risks of integration for stakeholders"
+              ]
+            },
+            {
+              "title": {
+                "en": "Economies and diseconomies of scale",
+                "fr": "Économies et déséconomies d'échelle",
+                "mfe": "Ekonomi ek diz-ekonomi d'echel"
+              },
+              "objectives": [
+                "Explain internal economies of scale",
+                "Explain causes of diseconomies of scale",
+                "Apply concepts to a growing local business"
+              ]
+            },
+            {
+              "title": {
+                "en": "Why small businesses fail",
+                "fr": "Pourquoi les petites entreprises échouent",
+                "mfe": "Kifer ti biznes fayite"
+              },
+              "objectives": [
+                "Identify common causes of small business failure",
+                "Explain the importance of cash flow management",
+                "Suggest strategies to reduce failure risk"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Motivating and organising people",
+            "fr": "Motiver et organiser le personnel",
+            "mfe": "Motive ek organiz dimounn"
+          },
+          "summary": {
+            "en": "Covers organisational structures, leadership styles and motivation theories that help businesses manage people effectively.",
+            "fr": "Couvre les structures organisationnelles, les styles de leadership et les théories de motivation pour bien gérer le personnel.",
+            "mfe": "Kouver strikitir organizasyonel, stil lidership ek teori motivasyon pou byin zer dimounn."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Organisational structures",
+                "fr": "Structures organisationnelles",
+                "mfe": "Strikitir organizasyonel"
+              },
+              "objectives": [
+                "Explain hierarchy, span of control and chain of command",
+                "Compare tall and flat structures",
+                "Draw a simple organisation chart"
+              ]
+            },
+            {
+              "title": {
+                "en": "Leadership and management styles",
+                "fr": "Styles de leadership et de gestion",
+                "mfe": "Stil lidership ek zestion"
+              },
+              "objectives": [
+                "Compare autocratic, democratic and laissez-faire styles",
+                "Explain when each style is appropriate",
+                "Evaluate a manager's leadership approach"
+              ]
+            },
+            {
+              "title": {
+                "en": "Motivation theories in practice",
+                "fr": "Théories de la motivation appliquées",
+                "mfe": "Teori motivasyon dan pratik"
+              },
+              "objectives": [
+                "Summarise Maslow's hierarchy of needs",
+                "Summarise Herzberg's two-factor theory",
+                "Apply motivation theories to a workplace scenario"
+              ]
+            },
+            {
+              "title": {
+                "en": "Communication in business",
+                "fr": "La communication en entreprise",
+                "mfe": "Kominikasyon dan biznes"
+              },
+              "objectives": [
+                "Identify formal and informal communication channels",
+                "Explain barriers to effective communication",
+                "Recommend ways to improve workplace communication"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Human resource management",
+            "fr": "Gestion des ressources humaines",
+            "mfe": "Zestion resours imin"
+          },
+          "summary": {
+            "en": "Focuses on recruiting, training, appraising and rewarding employees to build an effective workforce.",
+            "fr": "Se concentre sur le recrutement, la formation, l'évaluation et la rémunération des employés pour bâtir une main-d'œuvre efficace.",
+            "mfe": "Fokis lor rekritman, formasyon, evalyasyon ek remin­nerasyon anplwaye pou konstrir enn lafors travay efikas."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Recruitment and selection",
+                "fr": "Recrutement et sélection",
+                "mfe": "Rekritman ek seleksyon"
+              },
+              "objectives": [
+                "Explain stages of the recruitment process",
+                "Compare internal and external recruitment",
+                "Describe methods of selecting candidates"
+              ]
+            },
+            {
+              "title": {
+                "en": "Training and development",
+                "fr": "Formation et développement",
+                "mfe": "Formasyon ek devlopman"
+              },
+              "objectives": [
+                "Compare on-the-job and off-the-job training",
+                "Explain benefits of training for employers and staff",
+                "Evaluate training methods for a business scenario"
+              ]
+            },
+            {
+              "title": {
+                "en": "Remuneration and appraisal",
+                "fr": "Rémunération et évaluation",
+                "mfe": "Remineresyon ek evalyasyon"
+              },
+              "objectives": [
+                "Compare methods of paying employees",
+                "Explain the purpose of performance appraisal",
+                "Discuss links between pay and motivation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Workforce planning",
+                "fr": "Planification des effectifs",
+                "mfe": "Planifikasyon lafors travay"
+              },
+              "objectives": [
+                "Explain the purpose of a workforce plan",
+                "Identify factors affecting staffing needs",
+                "Assess the impact of redundancy on stakeholders"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Marketing fundamentals",
+            "fr": "Principes fondamentaux du marketing",
+            "mfe": "Baz fondaman marketing"
+          },
+          "summary": {
+            "en": "Introduces the purpose of marketing, market research methods and how businesses target customer segments.",
+            "fr": "Introduit le but du marketing, les méthodes d'étude de marché et le ciblage des segments de clientèle.",
+            "mfe": "Introdir bi marketing, metod resers marse ek kouma biznes vize segman kliyantel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Purpose of marketing",
+                "fr": "Le but du marketing",
+                "mfe": "Bi marketing"
+              },
+              "objectives": [
+                "Define marketing and its objectives",
+                "Explain the difference between product and market orientation",
+                "Identify examples of marketing in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Market research methods",
+                "fr": "Méthodes d'étude de marché",
+                "mfe": "Metod resers marse"
+              },
+              "objectives": [
+                "Distinguish primary and secondary market research",
+                "Compare qualitative and quantitative research methods",
+                "Evaluate suitability of research methods for a business"
+              ]
+            },
+            {
+              "title": {
+                "en": "Market segmentation and targeting",
+                "fr": "Segmentation et ciblage du marché",
+                "mfe": "Segmentasyon ek sible marse"
+              },
+              "objectives": [
+                "Explain bases of market segmentation",
+                "Describe how businesses target market segments",
+                "Apply segmentation to a Mauritian product"
+              ]
+            },
+            {
+              "title": {
+                "en": "The product life cycle",
+                "fr": "Le cycle de vie du produit",
+                "mfe": "Sik lavi prodwi"
+              },
+              "objectives": [
+                "Identify stages of the product life cycle",
+                "Explain marketing strategies for each stage",
+                "Relate the life cycle to a real product example"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "The marketing mix in practice",
+            "fr": "Le marketing mix en pratique",
+            "mfe": "Melanz marketing dan pratik"
+          },
+          "summary": {
+            "en": "Explores how product, price, promotion and place decisions combine to satisfy customers and achieve business goals.",
+            "fr": "Explore comment les décisions de produit, prix, promotion et distribution se combinent pour satisfaire les clients.",
+            "mfe": "Explor kouma desizyon prodwi, pri, promosyon ek plas kombine pou satisfer kliyan."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Product and packaging decisions",
+                "fr": "Décisions relatives au produit et à l'emballage",
+                "mfe": "Desizyon prodwi ek anbalaz"
+              },
+              "objectives": [
+                "Explain the importance of product design and branding",
+                "Describe the role of packaging in marketing",
+                "Evaluate product decisions for a chosen business"
+              ]
+            },
+            {
+              "title": {
+                "en": "Pricing strategies",
+                "fr": "Stratégies de prix",
+                "mfe": "Stratezi pri"
+              },
+              "objectives": [
+                "Compare pricing strategies such as penetration and skimming",
+                "Explain factors influencing pricing decisions",
+                "Recommend a pricing strategy for a product"
+              ]
+            },
+            {
+              "title": {
+                "en": "Promotion methods",
+                "fr": "Méthodes de promotion",
+                "mfe": "Metod promosyon"
+              },
+              "objectives": [
+                "Compare above-the-line and below-the-line promotion",
+                "Explain the role of advertising and sales promotion",
+                "Evaluate promotional methods for a local business"
+              ]
+            },
+            {
+              "title": {
+                "en": "Place and distribution channels",
+                "fr": "Distribution et canaux de vente",
+                "mfe": "Plas ek kanal distribisyon"
+              },
+              "objectives": [
+                "Explain the function of distribution channels",
+                "Compare direct and indirect distribution",
+                "Assess channel choice for an online versus physical business"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "11": {
+      "units": [
+        {
+          "title": {
+            "en": "Marketing strategy and the marketing mix",
+            "fr": "Stratégie marketing et le marketing mix",
+            "mfe": "Stratezi marketing ek marketing mix"
+          },
+          "summary": {
+            "en": "Building on Grade 10 basics, students explore how businesses develop marketing strategies using market research, segmentation and the marketing mix to compete effectively in Mauritian and global markets.",
+            "fr": "En s'appuyant sur les bases de la Grade 10, les élèves explorent comment les entreprises développent des stratégies marketing en utilisant l'étude de marché, la segmentation et le marketing mix pour rivaliser efficacement sur les marchés mauriciens et mondiaux.",
+            "mfe": "An baze lor bann baz Grade 10, bann elev explor kouma bann antrepriz devlop stratezi marketing par servi rises marse, segmantasyon ek marketing mix pou konkirans efikasman lor marse Moris ek internasyonal."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Market segmentation and targeting",
+                "fr": "Segmentation et ciblage du marché",
+                "mfe": "Segmantasyon ek siblaz marse"
+              },
+              "objectives": [
+                "Define market segmentation and its purpose",
+                "Identify bases for segmenting markets in Mauritius",
+                "Explain how businesses select target markets"
+              ]
+            },
+            {
+              "title": {
+                "en": "Product and product life cycle",
+                "fr": "Produit et cycle de vie du produit",
+                "mfe": "Prodwi ek sik lavi prodwi"
+              },
+              "objectives": [
+                "Describe the stages of the product life cycle",
+                "Explain extension strategies",
+                "Evaluate product portfolio decisions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Pricing strategies and methods",
+                "fr": "Stratégies et méthodes de fixation des prix",
+                "mfe": "Stratezi ek metod fiksasyon pri"
+              },
+              "objectives": [
+                "Explain different pricing methods",
+                "Analyse factors influencing pricing decisions",
+                "Recommend suitable pricing strategies for a scenario"
+              ]
+            },
+            {
+              "title": {
+                "en": "Promotion and distribution channels",
+                "fr": "Promotion et canaux de distribution",
+                "mfe": "Promosyon ek kanal distribisyon"
+              },
+              "objectives": [
+                "Compare above-the-line and below-the-line promotion",
+                "Explain the role of distribution channels",
+                "Assess promotional mix choices for a business"
+              ]
+            },
+            {
+              "title": {
+                "en": "Developing an effective marketing plan",
+                "fr": "Élaborer un plan marketing efficace",
+                "mfe": "Devlop enn plan marketing efikas"
+              },
+              "objectives": [
+                "Integrate the marketing mix into a coherent plan",
+                "Evaluate the impact of budget constraints on marketing",
+                "Apply marketing concepts to a Mauritian case study"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Operations management",
+            "fr": "Gestion des opérations",
+            "mfe": "Zestion operasyon"
+          },
+          "summary": {
+            "en": "Students learn how businesses organise production, manage quality and control costs to operate efficiently, using examples from Mauritian manufacturing and services.",
+            "fr": "Les élèves apprennent comment les entreprises organisent la production, gèrent la qualité et contrôlent les coûts pour fonctionner efficacement, avec des exemples issus de l'industrie et des services mauriciens.",
+            "mfe": "Bann elev aprann kouma bann antrepriz organiz prodiksyon, zer kalite ek kontrol depans pou operer efikasman, avek bann exanp dan lindistri ek servis Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Methods of production",
+                "fr": "Méthodes de production",
+                "mfe": "Metod prodiksyon"
+              },
+              "objectives": [
+                "Distinguish job, batch and flow production",
+                "Evaluate suitability of production methods for different businesses",
+                "Explain the impact of technology on production"
+              ]
+            },
+            {
+              "title": {
+                "en": "Quality management and control",
+                "fr": "Gestion et contrôle de la qualité",
+                "mfe": "Zestion ek kontrol kalite"
+              },
+              "objectives": [
+                "Differentiate quality control and quality assurance",
+                "Explain total quality management approaches",
+                "Assess the benefits of quality certification for exports"
+              ]
+            },
+            {
+              "title": {
+                "en": "Managing inventory and supply chains",
+                "fr": "Gestion des stocks et de la chaîne d'approvisionnement",
+                "mfe": "Zestion stok ek lasenn lafourniti"
+              },
+              "objectives": [
+                "Explain stock control methods including just-in-time",
+                "Analyse the role of suppliers in the supply chain",
+                "Evaluate the impact of stock levels on costs"
+              ]
+            },
+            {
+              "title": {
+                "en": "Location and scale of operations",
+                "fr": "Emplacement et échelle des opérations",
+                "mfe": "Landrwa ek lekel operasyon"
+              },
+              "objectives": [
+                "Identify factors influencing business location decisions",
+                "Explain economies and diseconomies of scale",
+                "Apply location theory to a Mauritian business scenario"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Financial information and decision making",
+            "fr": "Information financière et prise de décision",
+            "mfe": "Lenformasyon finansye ek prizdesizyon"
+          },
+          "summary": {
+            "en": "Students develop skills to interpret financial statements, calculate costs and profits, and use financial information to support business decisions.",
+            "fr": "Les élèves développent des compétences pour interpréter les états financiers, calculer les coûts et les profits, et utiliser l'information financière pour appuyer les décisions commerciales.",
+            "mfe": "Bann elev devlop konpetans pou interprete deklarasyon finansye, kalkil depans ek profi, ek servi lenformasyon finansye pou siport desizyon biznes."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Sources of business finance",
+                "fr": "Sources de financement des entreprises",
+                "mfe": "Sours finansman biznes"
+              },
+              "objectives": [
+                "Distinguish internal and external sources of finance",
+                "Compare short-term and long-term finance options",
+                "Recommend suitable finance sources for a business scenario"
+              ]
+            },
+            {
+              "title": {
+                "en": "Costs, revenue and break-even analysis",
+                "fr": "Coûts, revenus et analyse du seuil de rentabilité",
+                "mfe": "Depans, revenu ek analiz sey-eganle"
+              },
+              "objectives": [
+                "Calculate fixed, variable and total costs",
+                "Construct and interpret break-even charts",
+                "Analyse the margin of safety in decision making"
+              ]
+            },
+            {
+              "title": {
+                "en": "Understanding the income statement",
+                "fr": "Comprendre le compte de résultat",
+                "mfe": "Konpran deklarasyon rezilta"
+              },
+              "objectives": [
+                "Explain the components of an income statement",
+                "Calculate gross and net profit",
+                "Interpret profitability for stakeholders"
+              ]
+            },
+            {
+              "title": {
+                "en": "Understanding the statement of financial position",
+                "fr": "Comprendre le bilan financier",
+                "mfe": "Konpran bilan finansye"
+              },
+              "objectives": [
+                "Explain assets, liabilities and equity",
+                "Construct a simple statement of financial position",
+                "Assess business liquidity using the statement"
+              ]
+            },
+            {
+              "title": {
+                "en": "Using ratios to analyse performance",
+                "fr": "Utiliser les ratios pour analyser la performance",
+                "mfe": "Servi ratio pou analiz performans"
+              },
+              "objectives": [
+                "Calculate profitability and liquidity ratios",
+                "Interpret ratio results for decision making",
+                "Compare business performance over time using ratios"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Human resource management",
+            "fr": "Gestion des ressources humaines",
+            "mfe": "Zestion resours imin"
+          },
+          "summary": {
+            "en": "Students examine how businesses recruit, train, motivate and manage employees to build an effective workforce in Mauritius's diverse workplace.",
+            "fr": "Les élèves examinent comment les entreprises recrutent, forment, motivent et gèrent les employés pour constituer une main-d'œuvre efficace dans le milieu de travail diversifié de Maurice.",
+            "mfe": "Bann elev examinn kouma bann antrepriz rekrit, form, motiv ek zer anplway pou konstrir enn lafors travay efikas dan milye travay divers Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Recruitment and selection process",
+                "fr": "Processus de recrutement et de sélection",
+                "mfe": "Prosesis rekritman ek seleksyon"
+              },
+              "objectives": [
+                "Explain the stages of recruitment and selection",
+                "Compare internal and external recruitment",
+                "Evaluate selection methods used by employers"
+              ]
+            },
+            {
+              "title": {
+                "en": "Training and development of staff",
+                "fr": "Formation et développement du personnel",
+                "mfe": "Formasyon ek devlopman anplway"
+              },
+              "objectives": [
+                "Distinguish on-the-job and off-the-job training",
+                "Explain the benefits of staff development",
+                "Assess training needs for a given business"
+              ]
+            },
+            {
+              "title": {
+                "en": "Motivation theories in practice",
+                "fr": "Théories de la motivation en pratique",
+                "mfe": "Teori motivasyon dan pratik"
+              },
+              "objectives": [
+                "Outline key motivation theories such as Maslow and Herzberg",
+                "Apply motivation theories to workplace scenarios",
+                "Evaluate financial and non-financial motivators"
+              ]
+            },
+            {
+              "title": {
+                "en": "Organisational structure and communication",
+                "fr": "Structure organisationnelle et communication",
+                "mfe": "Striktir organizasyonel ek komunikasyon"
+              },
+              "objectives": [
+                "Interpret organisation charts and hierarchy levels",
+                "Explain span of control and chain of command",
+                "Evaluate barriers to effective workplace communication"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "External influences on business",
+            "fr": "Influences externes sur les entreprises",
+            "mfe": "Lenflians externn lor biznes"
+          },
+          "summary": {
+            "en": "Students investigate how economic, legal, environmental and government factors shape business decisions and operations in Mauritius and beyond.",
+            "fr": "Les élèves étudient comment les facteurs économiques, juridiques, environnementaux et gouvernementaux façonnent les décisions et les opérations des entreprises à Maurice et ailleurs.",
+            "mfe": "Bann elev anket kouma bann fakter ekonomik, legal, anvironmantal ek gouvernman fason bann desizyon ek operasyon biznes dan Moris ek aletranze."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Economic factors affecting business",
+                "fr": "Facteurs économiques affectant les entreprises",
+                "mfe": "Fakter ekonomik ki afekte biznes"
+              },
+              "objectives": [
+                "Explain how inflation and interest rates affect business decisions",
+                "Analyse the impact of exchange rates on Mauritian exporters",
+                "Evaluate business responses to economic changes"
+              ]
+            },
+            {
+              "title": {
+                "en": "Government policy and business regulation",
+                "fr": "Politique gouvernementale et réglementation des entreprises",
+                "mfe": "Politik gouvernman ek regleman biznes"
+              },
+              "objectives": [
+                "Explain fiscal and monetary policy effects on business",
+                "Identify laws protecting consumers and employees in Mauritius",
+                "Assess the impact of government intervention on businesses"
+              ]
+            },
+            {
+              "title": {
+                "en": "Environmental and ethical considerations",
+                "fr": "Considérations environnementales et éthiques",
+                "mfe": "Konsiderasyon anvironmantal ek etik"
+              },
+              "objectives": [
+                "Explain the concept of corporate social responsibility",
+                "Evaluate environmental impacts of business activity",
+                "Discuss ethical dilemmas faced by businesses"
+              ]
+            },
+            {
+              "title": {
+                "en": "Globalisation and international trade",
+                "fr": "Mondialisation et commerce international",
+                "mfe": "Globalizasyon ek komers internasyonal"
+              },
+              "objectives": [
+                "Explain the impact of globalisation on Mauritian businesses",
+                "Identify opportunities and threats of international trade",
+                "Analyse the role of multinational companies"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Business organisation, growth and strategy",
+            "fr": "Organisation, croissance et stratégie des entreprises",
+            "mfe": "Organizasyon, kwasans ek stratezi biznes"
+          },
+          "summary": {
+            "en": "Students consolidate understanding of business structures, growth strategies and decision making as firms expand and adapt to change.",
+            "fr": "Les élèves consolident leur compréhension des structures d'entreprise, des stratégies de croissance et de la prise de décision à mesure que les entreprises se développent et s'adaptent au changement.",
+            "mfe": "Bann elev konsolid konpreansyon lor striktir biznes, stratezi kwasans ek prizdesizyon kan bann konpayni agrandi ek adapte ar sanzman."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Forms of business ownership revisited",
+                "fr": "Formes de propriété d'entreprise revisitées",
+                "mfe": "Form propriete biznes revizite"
+              },
+              "objectives": [
+                "Review advantages and disadvantages of business forms",
+                "Explain conditions for changing legal structure",
+                "Evaluate suitable ownership forms for growth"
+              ]
+            },
+            {
+              "title": {
+                "en": "Internal and external growth strategies",
+                "fr": "Stratégies de croissance interne et externe",
+                "mfe": "Stratezi kwasans intern ek extern"
+              },
+              "objectives": [
+                "Distinguish organic growth from mergers and acquisitions",
+                "Evaluate advantages and risks of business growth",
+                "Analyse growth strategies used by Mauritian companies"
+              ]
+            },
+            {
+              "title": {
+                "en": "Business objectives and stakeholders",
+                "fr": "Objectifs commerciaux et parties prenantes",
+                "mfe": "Obzektif biznes ek parti prenant"
+              },
+              "objectives": [
+                "Explain how business objectives change over time",
+                "Identify stakeholder groups and their interests",
+                "Analyse conflicts between stakeholder objectives"
+              ]
+            },
+            {
+              "title": {
+                "en": "Decision making in a changing environment",
+                "fr": "Prise de décision dans un environnement changeant",
+                "mfe": "Prizdesizyon dan enn lanvironnman ki sanze"
+              },
+              "objectives": [
+                "Apply decision-making tools such as SWOT analysis",
+                "Evaluate strategic options for a business case",
+                "Justify recommendations based on business data"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Examination preparation and case study skills",
+            "fr": "Préparation aux examens et compétences en étude de cas",
+            "mfe": "Preparasyon lexame ek konpetans etid ka"
+          },
+          "summary": {
+            "en": "Students consolidate the full syllabus, practise applying business concepts to case studies and develop exam techniques for the O Level examination.",
+            "fr": "Les élèves consolident l'ensemble du programme, s'entraînent à appliquer des concepts commerciaux à des études de cas et développent des techniques d'examen pour l'examen O Level.",
+            "mfe": "Bann elev konsolid tout program, pratik applik konsep biznes lor etid ka ek devlop teknik lexame pou lexame O Level."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Answering data-response questions effectively",
+                "fr": "Répondre efficacement aux questions à réponse basée sur des données",
+                "mfe": "Reponn kestyon repons-done efikasman"
+              },
+              "objectives": [
+                "Identify command words used in business exam questions",
+                "Structure answers using relevant business theory",
+                "Practise applying theory to case study data"
+              ]
+            },
+            {
+              "title": {
+                "en": "Integrating business functions in case studies",
+                "fr": "Intégrer les fonctions commerciales dans les études de cas",
+                "mfe": "Integre fonksyon biznes dan etid ka"
+              },
+              "objectives": [
+                "Link marketing, finance, operations and HR in analysis",
+                "Evaluate trade-offs between business functions",
+                "Produce balanced recommendations for a business scenario"
+              ]
+            },
+            {
+              "title": {
+                "en": "Revision of key business concepts",
+                "fr": "Révision des concepts commerciaux clés",
+                "mfe": "Revizyon konsep biznes kle"
+              },
+              "objectives": [
+                "Summarise key theories across all units",
+                "Self-assess understanding using past paper questions",
+                "Identify areas requiring further revision"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mock examination practice and feedback",
+                "fr": "Pratique d'examen blanc et retour d'information",
+                "mfe": "Pratik lexame blan ek fidbak"
+              },
+              "objectives": [
+                "Complete a timed past paper under exam conditions",
+                "Review model answers and mark schemes",
+                "Develop an action plan for final exam preparation"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "12": {
+      "units": [
+        {
+          "title": {
+            "en": "Enterprise and business structures",
+            "fr": "Entrepreneuriat et structures d'entreprise",
+            "mfe": "Lantreprenaria ek striktir biznes"
+          },
+          "summary": {
+            "en": "An introduction to why businesses exist, the qualities of successful entrepreneurs, and the main legal forms of business ownership used in Mauritius and internationally.",
+            "fr": "Une introduction sur les raisons d'existence des entreprises, les qualités des entrepreneurs performants et les principales formes juridiques d'entreprise utilisées à Maurice et à l'international.",
+            "mfe": "Enn lentrodiksion lor kifer biznes existe, bann kalite bon entrepreneur, ek bann prinsipal form legal proprieter biznes servi Moris ek internasional."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Nature of business activity",
+                "fr": "Nature de l'activité économique",
+                "mfe": "Nater lactivite biznes"
+              },
+              "objectives": [
+                "Explain the purpose of business activity in satisfying needs and wants",
+                "Identify the factors of production used by businesses",
+                "Describe the concept of adding value"
+              ]
+            },
+            {
+              "title": {
+                "en": "Entrepreneurship and enterprise",
+                "fr": "Entrepreneuriat et esprit d'entreprise",
+                "mfe": "Lantreprenaria ek lespri antreprenaria"
+              },
+              "objectives": [
+                "Define entrepreneurship and intrapreneurship",
+                "Describe the characteristics and skills of successful entrepreneurs",
+                "Discuss the role of business plans in starting a venture"
+              ]
+            },
+            {
+              "title": {
+                "en": "Legal forms of business ownership",
+                "fr": "Formes juridiques de propriété d'entreprise",
+                "mfe": "Form legal proprieter biznes"
+              },
+              "objectives": [
+                "Compare sole traders, partnerships and limited companies",
+                "Explain the concept of limited and unlimited liability",
+                "Evaluate the advantages and disadvantages of each business form"
+              ]
+            },
+            {
+              "title": {
+                "en": "Business size and growth",
+                "fr": "Taille et croissance de l'entreprise",
+                "mfe": "Gran ek kwasans biznes"
+              },
+              "objectives": [
+                "Measure business size using different indicators",
+                "Distinguish between internal and external growth",
+                "Assess reasons why some businesses remain small"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Business objectives and stakeholders",
+            "fr": "Objectifs de l'entreprise et parties prenantes",
+            "mfe": "Lobzektif biznes ek parti prenant"
+          },
+          "summary": {
+            "en": "Explores how businesses set aims and objectives, the different groups with an interest in a business, and the growing importance of ethical and socially responsible behaviour.",
+            "fr": "Explore comment les entreprises fixent leurs buts et objectifs, les différents groupes ayant un intérêt dans l'entreprise, et l'importance croissante d'un comportement éthique et socialement responsable.",
+            "mfe": "Explor kouma biznes etabli bi ek lobzektif, diferan group ki ena lintere dan enn biznes, ek limportans ki pe grandi lor konportman etik ek responsabilite sosial."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Mission, aims and objectives",
+                "fr": "Mission, buts et objectifs",
+                "mfe": "Misyon, bi ek lobzektif"
+              },
+              "objectives": [
+                "Distinguish between vision, mission, aims and objectives",
+                "Explain the concept of SMART objectives",
+                "Analyse how objectives change as a business grows"
+              ]
+            },
+            {
+              "title": {
+                "en": "Stakeholder groups and their interests",
+                "fr": "Groupes de parties prenantes et leurs intérêts",
+                "mfe": "Group parti prenant ek zot lintere"
+              },
+              "objectives": [
+                "Identify internal and external stakeholders",
+                "Describe the interests of each stakeholder group",
+                "Explain how stakeholder power can influence decisions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Managing stakeholder conflict",
+                "fr": "Gestion des conflits entre parties prenantes",
+                "mfe": "Zer konfli ant parti prenant"
+              },
+              "objectives": [
+                "Give examples of conflicts between stakeholder groups",
+                "Evaluate strategies used to manage stakeholder conflict",
+                "Discuss trade-offs businesses must make between stakeholders"
+              ]
+            },
+            {
+              "title": {
+                "en": "Business ethics and social responsibility",
+                "fr": "Éthique des affaires et responsabilité sociale",
+                "mfe": "Letik biznes ek responsabilite sosial"
+              },
+              "objectives": [
+                "Define corporate social responsibility",
+                "Discuss the costs and benefits of ethical business practice",
+                "Evaluate examples of CSR in Mauritian businesses"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "The external business environment",
+            "fr": "L'environnement externe de l'entreprise",
+            "mfe": "Lanvironnman ekstern biznes"
+          },
+          "summary": {
+            "en": "Examines how economic conditions, government policy, social change, technology and competition shape business decision-making.",
+            "fr": "Examine comment les conditions économiques, la politique gouvernementale, les changements sociaux, la technologie et la concurrence influencent les décisions de l'entreprise.",
+            "mfe": "Examinn kouma kondision ekonomik, politik gouvernman, sanzman sosial, teknolozi ek konkirans influans desizion biznes."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Economic influences on business",
+                "fr": "Influences économiques sur l'entreprise",
+                "mfe": "Lenfliyans ekonomik lor biznes"
+              },
+              "objectives": [
+                "Explain how inflation, unemployment and exchange rates affect businesses",
+                "Describe the stages of the economic cycle",
+                "Discuss how businesses respond to economic change"
+              ]
+            },
+            {
+              "title": {
+                "en": "Government policy and regulation",
+                "fr": "Politique gouvernementale et réglementation",
+                "mfe": "Politik gouvernman ek reglemantasion"
+              },
+              "objectives": [
+                "Explain fiscal and monetary policy tools",
+                "Describe how legislation affects business activity",
+                "Evaluate the impact of government support for small businesses"
+              ]
+            },
+            {
+              "title": {
+                "en": "Social and technological change",
+                "fr": "Changements sociaux et technologiques",
+                "mfe": "Sanzman sosial ek teknolozik"
+              },
+              "objectives": [
+                "Discuss the impact of demographic change on business",
+                "Explain how technology creates opportunities and threats",
+                "Evaluate the effects of e-commerce on traditional businesses"
+              ]
+            },
+            {
+              "title": {
+                "en": "Market structures and competition",
+                "fr": "Structures de marché et concurrence",
+                "mfe": "Striktir marse ek konkirans"
+              },
+              "objectives": [
+                "Distinguish between monopoly, oligopoly and perfect competition",
+                "Explain how market structure affects pricing decisions",
+                "Analyse the impact of competition on business strategy"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Marketing",
+            "fr": "Le marketing",
+            "mfe": "Marketing"
+          },
+          "summary": {
+            "en": "Covers the role of marketing, market research techniques, and how businesses use the marketing mix to meet customer needs and achieve objectives.",
+            "fr": "Couvre le rôle du marketing, les techniques d'étude de marché et l'utilisation du marketing mix par les entreprises pour répondre aux besoins des clients et atteindre leurs objectifs.",
+            "mfe": "Kouver rol marketing, teknik letid marse, ek kouma biznes servi marketing mix pou satisfer bezwen kliyan ek atenn lobzektif."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Marketing concepts and market research",
+                "fr": "Concepts marketing et étude de marché",
+                "mfe": "Konsep marketing ek letid marse"
+              },
+              "objectives": [
+                "Explain the difference between market orientation and product orientation",
+                "Distinguish between primary and secondary market research",
+                "Evaluate the reliability of different research methods"
+              ]
+            },
+            {
+              "title": {
+                "en": "Product and pricing decisions",
+                "fr": "Décisions de produit et de prix",
+                "mfe": "Desizion produi ek pri"
+              },
+              "objectives": [
+                "Describe the stages of the product life cycle",
+                "Explain different pricing strategies",
+                "Evaluate how the Boston Matrix guides product decisions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Promotion and place",
+                "fr": "Promotion et distribution",
+                "mfe": "Promosion ek distribisyon"
+              },
+              "objectives": [
+                "Compare above-the-line and below-the-line promotion",
+                "Explain factors influencing choice of distribution channel",
+                "Evaluate the role of digital marketing"
+              ]
+            },
+            {
+              "title": {
+                "en": "Developing a marketing strategy",
+                "fr": "Élaboration d'une stratégie marketing",
+                "mfe": "Devlop enn stratezi marketing"
+              },
+              "objectives": [
+                "Explain the purpose of market segmentation and targeting",
+                "Discuss how businesses position their products",
+                "Evaluate a marketing plan for a given business scenario"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Operations management",
+            "fr": "Gestion des opérations",
+            "mfe": "Zestion operasion"
+          },
+          "summary": {
+            "en": "Looks at how businesses organise production, manage quality, choose locations and control stock to operate efficiently.",
+            "fr": "Étudie comment les entreprises organisent la production, gèrent la qualité, choisissent l'emplacement et contrôlent les stocks pour fonctionner efficacement.",
+            "mfe": "Get kouma biznes organiz prodiksion, zer kalite, swazir lokasyon ek kontrol stok pou opere efikasman."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Methods of production",
+                "fr": "Méthodes de production",
+                "mfe": "Metod prodiksion"
+              },
+              "objectives": [
+                "Compare job, batch and flow production",
+                "Explain factors influencing choice of production method",
+                "Discuss the role of lean production"
+              ]
+            },
+            {
+              "title": {
+                "en": "Quality management",
+                "fr": "Gestion de la qualité",
+                "mfe": "Zestion kalite"
+              },
+              "objectives": [
+                "Distinguish between quality control and quality assurance",
+                "Explain the concept of total quality management",
+                "Evaluate the benefits of quality certification for a business"
+              ]
+            },
+            {
+              "title": {
+                "en": "Location decisions",
+                "fr": "Décisions de localisation",
+                "mfe": "Desizion lokasyon"
+              },
+              "objectives": [
+                "Identify factors influencing location decisions",
+                "Explain the impact of globalisation on location choices",
+                "Evaluate location options for a Mauritian business case"
+              ]
+            },
+            {
+              "title": {
+                "en": "Inventory and supply chain management",
+                "fr": "Gestion des stocks et de la chaîne d'approvisionnement",
+                "mfe": "Zestion stok ek sef lapprovizionnman"
+              },
+              "objectives": [
+                "Explain the purpose of stock control charts",
+                "Compare just-in-time and just-in-case inventory approaches",
+                "Discuss the importance of supplier relationships"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Human resource management",
+            "fr": "Gestion des ressources humaines",
+            "mfe": "Zestion resours imin"
+          },
+          "summary": {
+            "en": "Examines how businesses structure their workforce, recruit and motivate employees, and manage training and performance.",
+            "fr": "Examine comment les entreprises structurent leur main-d'œuvre, recrutent et motivent leurs employés, et gèrent la formation et la performance.",
+            "mfe": "Examinn kouma biznes striktir zot travayer, rekrit ek motiv anplwaye, ek zer formasion ek performans."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Organisational structure",
+                "fr": "Structure organisationnelle",
+                "mfe": "Striktir organizasion"
+              },
+              "objectives": [
+                "Explain concepts of hierarchy, span of control and delegation",
+                "Compare tall and flat organisational structures",
+                "Discuss the impact of centralisation versus decentralisation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Recruitment and selection",
+                "fr": "Recrutement et sélection",
+                "mfe": "Rekritman ek seleksion"
+              },
+              "objectives": [
+                "Describe the stages of the recruitment process",
+                "Compare internal and external recruitment",
+                "Evaluate different selection methods used by employers"
+              ]
+            },
+            {
+              "title": {
+                "en": "Motivation theories",
+                "fr": "Théories de la motivation",
+                "mfe": "Teori motivasion"
+              },
+              "objectives": [
+                "Explain Maslow's hierarchy of needs and Herzberg's two-factor theory",
+                "Compare financial and non-financial methods of motivation",
+                "Evaluate motivation strategies for a given business context"
+              ]
+            },
+            {
+              "title": {
+                "en": "Training and appraisal",
+                "fr": "Formation et évaluation",
+                "mfe": "Formasion ek levaliasion"
+              },
+              "objectives": [
+                "Distinguish between induction, on-the-job and off-the-job training",
+                "Explain the purpose of performance appraisal",
+                "Discuss the benefits and costs of staff training"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Finance and accounting",
+            "fr": "Finance et comptabilité",
+            "mfe": "Finans ek kontabilite"
+          },
+          "summary": {
+            "en": "Introduces sources of finance, costing, budgeting and financial statements that help businesses plan, control and evaluate their performance.",
+            "fr": "Introduit les sources de financement, les coûts, la budgétisation et les états financiers qui aident les entreprises à planifier, contrôler et évaluer leur performance.",
+            "mfe": "Introdir sours finansman, kalkil kou, bidzet ek deklarasion finansye ki ed biznes planifie, kontrole ek evalie zot performans."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Sources of finance",
+                "fr": "Sources de financement",
+                "mfe": "Sours finansman"
+              },
+              "objectives": [
+                "Distinguish between internal and external sources of finance",
+                "Compare short-term and long-term finance options",
+                "Evaluate suitable finance sources for different business situations"
+              ]
+            },
+            {
+              "title": {
+                "en": "Costs and break-even analysis",
+                "fr": "Coûts et analyse du seuil de rentabilité",
+                "mfe": "Kou ek analiz pwin ekilib"
+              },
+              "objectives": [
+                "Distinguish between fixed, variable and total costs",
+                "Construct and interpret a break-even chart",
+                "Evaluate the usefulness and limitations of break-even analysis"
+              ]
+            },
+            {
+              "title": {
+                "en": "Final accounts",
+                "fr": "Comptes annuels",
+                "mfe": "Kont final"
+              },
+              "objectives": [
+                "Explain the purpose of the income statement and statement of financial position",
+                "Interpret basic financial statements",
+                "Discuss the limitations of published accounts"
+              ]
+            },
+            {
+              "title": {
+                "en": "Budgeting and cash flow forecasting",
+                "fr": "Budgétisation et prévision de trésorerie",
+                "mfe": "Bidzet ek previzion kash flo"
+              },
+              "objectives": [
+                "Explain the purpose of budgets and cash flow forecasts",
+                "Construct a simple cash flow forecast",
+                "Discuss causes and solutions to cash flow problems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Ratio analysis",
+                "fr": "Analyse des ratios",
+                "mfe": "Analiz ratio"
+              },
+              "objectives": [
+                "Calculate profitability and liquidity ratios",
+                "Interpret ratio results to assess business performance",
+                "Evaluate the limitations of ratio analysis"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "13": {
+      "units": [
+        {
+          "title": {
+            "en": "Strategic analysis and position",
+            "fr": "Analyse et position stratégique",
+            "mfe": "Analiz ek pozisyon stratezik"
+          },
+          "summary": {
+            "en": "Students learn how businesses assess their current strategic position by analysing internal resources and the external environment, using models to inform strategic decisions.",
+            "fr": "Les élèves apprennent comment les entreprises évaluent leur position stratégique actuelle en analysant les ressources internes et l'environnement externe, à l'aide de modèles pour éclairer les décisions stratégiques.",
+            "mfe": "Bann elev aprann kouma bann biznes evalie zot pozisyon stratezik aktyel par analize resours intern ek lanvironnman ekstern, servi bann model pou eklerer desizion stratezik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Mission, objectives and corporate culture",
+                "fr": "Mission, objectifs et culture d'entreprise",
+                "mfe": "Misyon, obzektif ek kiltir korporatif"
+              },
+              "objectives": [
+                "Explain the purpose of a corporate mission statement",
+                "Distinguish between corporate and functional objectives",
+                "Analyse how corporate culture influences strategic direction",
+                "Evaluate the impact of stakeholder objectives on mission setting"
+              ]
+            },
+            {
+              "title": {
+                "en": "Internal analysis: SWOT and resource audit",
+                "fr": "Analyse interne : SWOT et audit des ressources",
+                "mfe": "Analiz intern: SWOT ek odit resours"
+              },
+              "objectives": [
+                "Conduct a SWOT analysis for a Mauritian organisation",
+                "Carry out a resource audit of a business",
+                "Assess the strategic significance of core competences",
+                "Evaluate the limitations of internal analysis tools"
+              ]
+            },
+            {
+              "title": {
+                "en": "External analysis: PESTEL and Porter's five forces",
+                "fr": "Analyse externe : PESTEL et les cinq forces de Porter",
+                "mfe": "Analiz ekstern: PESTEL ek senk fors Porter"
+              },
+              "objectives": [
+                "Apply PESTEL analysis to a business scenario",
+                "Apply Porter's five forces model to an industry",
+                "Assess competitive intensity in a given market",
+                "Evaluate the usefulness of external analysis models"
+              ]
+            },
+            {
+              "title": {
+                "en": "Strategic positioning tools",
+                "fr": "Outils de positionnement stratégique",
+                "mfe": "Bann zouti pozisyonnman stratezik"
+              },
+              "objectives": [
+                "Construct a BCG matrix for a product portfolio",
+                "Apply the Ansoff matrix to identify growth options",
+                "Interpret strategic clock positioning of businesses",
+                "Evaluate the strategic implications of positioning tools"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Strategic choice",
+            "fr": "Choix stratégique",
+            "mfe": "Swa stratezik"
+          },
+          "summary": {
+            "en": "This unit examines how businesses select strategies, including competitive strategies, growth options and decision-making techniques to evaluate alternatives.",
+            "fr": "Cette unité examine comment les entreprises sélectionnent des stratégies, y compris les stratégies concurrentielles, les options de croissance et les techniques de prise de décision pour évaluer les alternatives.",
+            "mfe": "Sa linite-la examinn kouma bann biznes swazir zot stratezi, ki inklir stratezi konkirans, opsyon kwasans ek teknik pran desizion pou evalie bann alternativ."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Porter's generic strategies",
+                "fr": "Les stratégies génériques de Porter",
+                "mfe": "Bann stratezi zenerik Porter"
+              },
+              "objectives": [
+                "Explain Porter's generic strategies",
+                "Apply cost leadership and differentiation strategies to examples",
+                "Evaluate the risks of being stuck in the middle",
+                "Recommend a suitable generic strategy for a business"
+              ]
+            },
+            {
+              "title": {
+                "en": "Growth strategies and business combinations",
+                "fr": "Stratégies de croissance et regroupements d'entreprises",
+                "mfe": "Stratezi kwasans ek konbinezon biznes"
+              },
+              "objectives": [
+                "Distinguish organic growth from inorganic growth",
+                "Explain mergers, acquisitions and joint ventures",
+                "Evaluate the benefits and risks of business combinations",
+                "Recommend an appropriate growth strategy for a scenario"
+              ]
+            },
+            {
+              "title": {
+                "en": "Diversification and strategic direction",
+                "fr": "Diversification et orientation stratégique",
+                "mfe": "Diversifikasyon ek direksyon stratezik"
+              },
+              "objectives": [
+                "Apply the Ansoff matrix to diversification decisions",
+                "Assess the risks of related and unrelated diversification",
+                "Evaluate strategic direction choices for a business",
+                "Justify a strategic direction using evidence"
+              ]
+            },
+            {
+              "title": {
+                "en": "Decision-making techniques for strategy",
+                "fr": "Techniques de prise de décision stratégique",
+                "mfe": "Teknik pran desizion pou stratezi"
+              },
+              "objectives": [
+                "Construct and interpret decision trees",
+                "Apply investment appraisal to strategic decisions",
+                "Evaluate the limitations of quantitative decision-making tools",
+                "Combine quantitative and qualitative factors in decisions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Evaluating strategic options",
+                "fr": "Évaluer les options stratégiques",
+                "mfe": "Evalie bann opsyon stratezik"
+              },
+              "objectives": [
+                "Apply cost-benefit analysis to strategic options",
+                "Assess risk and uncertainty in strategic choice",
+                "Evaluate strategic options using SFA framework",
+                "Justify a recommended strategic choice"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Strategic implementation",
+            "fr": "Mise en œuvre stratégique",
+            "mfe": "Mizanplas stratezik"
+          },
+          "summary": {
+            "en": "Students explore how strategies are implemented, the management of change, and the factors that determine success or failure of strategic plans.",
+            "fr": "Les élèves explorent comment les stratégies sont mises en œuvre, la gestion du changement et les facteurs qui déterminent le succès ou l'échec des plans stratégiques.",
+            "mfe": "Bann elev explor kouma bann stratezi implimante, gestion sanzman, ek bann fakter ki determinn sikse ouswa ek bann plan stratezik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Business plans and implementation",
+                "fr": "Plans d'affaires et mise en œuvre",
+                "mfe": "Plan biznes ek mizanplas"
+              },
+              "objectives": [
+                "Explain the role of a business plan in implementation",
+                "Identify resources needed for strategic implementation",
+                "Assess barriers to successful implementation",
+                "Evaluate the link between planning and implementation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Managing change",
+                "fr": "Gérer le changement",
+                "mfe": "Zere sanzman"
+              },
+              "objectives": [
+                "Explain models of managing change such as Lewin's model",
+                "Identify sources of resistance to change",
+                "Evaluate strategies for overcoming resistance to change",
+                "Recommend an approach to managing organisational change"
+              ]
+            },
+            {
+              "title": {
+                "en": "Contingency planning and crisis management",
+                "fr": "Planification de contingence et gestion de crise",
+                "mfe": "Planifikasyon kontinzans ek zestion kriz"
+              },
+              "objectives": [
+                "Explain the purpose of contingency planning",
+                "Distinguish contingency planning from crisis management",
+                "Evaluate the effectiveness of crisis management responses",
+                "Assess the strategic importance of preparedness for businesses"
+              ]
+            },
+            {
+              "title": {
+                "en": "Influences on strategic implementation",
+                "fr": "Influences sur la mise en œuvre stratégique",
+                "mfe": "Lenfliyans lor mizanplas stratezik"
+              },
+              "objectives": [
+                "Assess how leadership style influences implementation",
+                "Evaluate the role of corporate culture in implementation",
+                "Analyse the impact of stakeholder power on strategy execution",
+                "Recommend ways to align culture with strategy"
+              ]
+            },
+            {
+              "title": {
+                "en": "Problems in strategic implementation",
+                "fr": "Problèmes dans la mise en œuvre stratégique",
+                "mfe": "Problem dan mizanplas stratezik"
+              },
+              "objectives": [
+                "Identify common causes of implementation failure",
+                "Evaluate case studies of failed strategic implementation",
+                "Assess the role of monitoring and control in implementation",
+                "Recommend solutions to implementation problems"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Marketing strategy",
+            "fr": "Stratégie marketing",
+            "mfe": "Stratezi marketing"
+          },
+          "summary": {
+            "en": "This unit develops strategic marketing planning, segmentation and positioning, and digital marketing approaches used by businesses to compete effectively.",
+            "fr": "Cette unité développe la planification marketing stratégique, la segmentation et le positionnement, ainsi que les approches de marketing numérique utilisées par les entreprises pour rivaliser efficacement.",
+            "mfe": "Sa linite-la devlop planifikasyon marketing stratezik, segmentasyon ek pozisyonnman, ek bann laprosh marketing dizital ki bann biznes servi pou konpetitif efikasman."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Marketing planning and objectives",
+                "fr": "Planification et objectifs marketing",
+                "mfe": "Planifikasyon ek obzektif marketing"
+              },
+              "objectives": [
+                "Explain the components of a marketing plan",
+                "Set SMART marketing objectives for a business",
+                "Evaluate the link between marketing and corporate objectives",
+                "Assess factors influencing marketing planning"
+              ]
+            },
+            {
+              "title": {
+                "en": "Segmentation, targeting and positioning",
+                "fr": "Segmentation, ciblage et positionnement",
+                "mfe": "Segmentasyon, siblaz ek pozisyonnman"
+              },
+              "objectives": [
+                "Explain the process of market segmentation",
+                "Evaluate methods of targeting market segments",
+                "Construct a perceptual map for positioning",
+                "Recommend a positioning strategy for a product"
+              ]
+            },
+            {
+              "title": {
+                "en": "International marketing mix strategy",
+                "fr": "Stratégie du mix marketing international",
+                "mfe": "Stratezi mix marketing internasyonal"
+              },
+              "objectives": [
+                "Explain adaptations to the marketing mix for global markets",
+                "Evaluate standardisation versus adaptation strategies",
+                "Assess the impact of culture on international marketing",
+                "Recommend a marketing mix strategy for market entry"
+              ]
+            },
+            {
+              "title": {
+                "en": "Digital marketing and e-commerce strategy",
+                "fr": "Stratégie de marketing numérique et e-commerce",
+                "mfe": "Stratezi marketing dizital ek e-commerce"
+              },
+              "objectives": [
+                "Explain the growth of e-commerce and digital marketing",
+                "Evaluate the benefits and risks of digital marketing strategies",
+                "Assess the impact of social media on marketing strategy",
+                "Recommend digital marketing approaches for a business"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Operations strategy",
+            "fr": "Stratégie des opérations",
+            "mfe": "Stratezi operasyon"
+          },
+          "summary": {
+            "en": "Students study strategic operational decisions including innovation, quality management, location, and supply chain strategies that support competitiveness.",
+            "fr": "Les élèves étudient les décisions opérationnelles stratégiques, notamment l'innovation, la gestion de la qualité, la localisation et les stratégies de chaîne d'approvisionnement qui soutiennent la compétitivité.",
+            "mfe": "Bann elev etidie bann desizion operasyonel stratezik ki inklir inovasyon, zestion kalite, lokalizasyon, ek stratezi sipla-chain ki soutenir konpetitivite."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Operations objectives and strategy",
+                "fr": "Objectifs et stratégie des opérations",
+                "mfe": "Obzektif ek stratezi operasyon"
+              },
+              "objectives": [
+                "Explain operations objectives such as cost, quality and flexibility",
+                "Evaluate trade-offs between operational objectives",
+                "Assess how operations strategy supports corporate strategy",
+                "Recommend operational priorities for a business scenario"
+              ]
+            },
+            {
+              "title": {
+                "en": "Innovation and research and development",
+                "fr": "Innovation et recherche et développement",
+                "mfe": "Inovasyon ek rise-devlopman"
+              },
+              "objectives": [
+                "Explain the strategic importance of innovation",
+                "Evaluate the risks and rewards of research and development",
+                "Assess factors affecting the pace of innovation",
+                "Recommend strategies for fostering innovation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Quality management strategy",
+                "fr": "Stratégie de gestion de la qualité",
+                "mfe": "Stratezi zestion kalite"
+              },
+              "objectives": [
+                "Explain total quality management and lean production",
+                "Evaluate the impact of quality strategies on competitiveness",
+                "Assess the costs and benefits of quality assurance systems",
+                "Recommend a quality strategy for a business"
+              ]
+            },
+            {
+              "title": {
+                "en": "Location and scale decisions",
+                "fr": "Décisions de localisation et d'échelle",
+                "mfe": "Desizion lokalizasyon ek lesel"
+              },
+              "objectives": [
+                "Evaluate factors influencing location decisions",
+                "Assess the implications of economies and diseconomies of scale",
+                "Analyse the strategic impact of relocation decisions",
+                "Recommend an optimal scale of operations"
+              ]
+            },
+            {
+              "title": {
+                "en": "Supply chain and outsourcing strategy",
+                "fr": "Stratégie de chaîne d'approvisionnement et d'externalisation",
+                "mfe": "Stratezi sipla-chain ek outsourcing"
+              },
+              "objectives": [
+                "Explain the strategic role of supply chain management",
+                "Evaluate the benefits and risks of outsourcing",
+                "Assess ethical issues in global supply chains",
+                "Recommend supply chain strategies for a business"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Finance strategy",
+            "fr": "Stratégie financière",
+            "mfe": "Stratezi finansye"
+          },
+          "summary": {
+            "en": "This unit covers strategic financial objectives, sources of finance, investment appraisal, and the use of financial information to support strategic decisions.",
+            "fr": "Cette unité couvre les objectifs financiers stratégiques, les sources de financement, l'évaluation des investissements et l'utilisation de l'information financière pour appuyer les décisions stratégiques.",
+            "mfe": "Sa linite-la kouver obzektif finansye stratezik, sours finansman, evalyasyon lenvestisman, ek servis linformasyon finansye pou soutenir desizion stratezik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Financial objectives and strategy",
+                "fr": "Objectifs et stratégie financiers",
+                "mfe": "Obzektif ek stratezi finansye"
+              },
+              "objectives": [
+                "Explain the link between financial and corporate objectives",
+                "Evaluate financial objectives such as profitability and shareholder value",
+                "Assess how financial constraints affect strategy",
+                "Recommend appropriate financial objectives for a business"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sources of finance for strategic decisions",
+                "fr": "Sources de financement pour décisions stratégiques",
+                "mfe": "Sours finansman pou desizion stratezik"
+              },
+              "objectives": [
+                "Evaluate internal and external sources of finance",
+                "Assess the suitability of finance sources for strategic projects",
+                "Analyse the cost implications of different financing methods",
+                "Recommend a financing strategy for expansion"
+              ]
+            },
+            {
+              "title": {
+                "en": "Investment appraisal techniques",
+                "fr": "Techniques d'évaluation des investissements",
+                "mfe": "Teknik evalyasyon lenvestisman"
+              },
+              "objectives": [
+                "Apply payback, ARR and NPV methods to investment decisions",
+                "Evaluate the strengths and weaknesses of appraisal techniques",
+                "Assess the impact of risk on investment appraisal",
+                "Recommend an investment decision using appraisal data"
+              ]
+            },
+            {
+              "title": {
+                "en": "Financial statements and ratio analysis for strategy",
+                "fr": "États financiers et analyse des ratios pour la stratégie",
+                "mfe": "Deklarasyon finansye ek analiz rasyo pou stratezi"
+              },
+              "objectives": [
+                "Interpret financial statements to assess business performance",
+                "Calculate and interpret key financial ratios",
+                "Evaluate the strategic implications of financial ratios",
+                "Assess the limitations of ratio analysis"
+              ]
+            },
+            {
+              "title": {
+                "en": "Budgeting and variance analysis",
+                "fr": "Budgétisation et analyse des écarts",
+                "mfe": "Bidzetizasyon ek analiz varyans"
+              },
+              "objectives": [
+                "Explain the purpose of budgeting in strategic control",
+                "Calculate and interpret budget variances",
+                "Evaluate the benefits and limitations of budgeting",
+                "Recommend corrective action based on variance analysis"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Human resource strategy",
+            "fr": "Stratégie des ressources humaines",
+            "mfe": "Stratezi resours imin"
+          },
+          "summary": {
+            "en": "Students examine strategic human resource decisions including workforce planning, organisational structure, leadership and managing culture and change.",
+            "fr": "Les élèves examinent les décisions stratégiques en matière de ressources humaines, notamment la planification des effectifs, la structure organisationnelle, le leadership et la gestion de la culture et du changement.",
+            "mfe": "Bann elev examinn desizion stratezik resours imin ki inklir planifikasyon lame-douv, striktir organizasyonel, leadership ek zestion kiltir ek sanzman."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "HR objectives and workforce planning",
+                "fr": "Objectifs RH et planification des effectifs",
+                "mfe": "Obzektif RI ek planifikasyon lame-douv"
+              },
+              "objectives": [
+                "Explain the link between HR objectives and corporate strategy",
+                "Analyse the process of strategic workforce planning",
+                "Evaluate factors affecting workforce planning decisions",
+                "Recommend workforce planning strategies for a business"
+              ]
+            },
+            {
+              "title": {
+                "en": "Organisational structure and strategy",
+                "fr": "Structure organisationnelle et stratégie",
+                "mfe": "Striktir organizasyonel ek stratezi"
+              },
+              "objectives": [
+                "Evaluate different organisational structures",
+                "Assess the relationship between structure and strategy",
+                "Analyse the impact of delayering and centralisation decisions",
+                "Recommend a structure suited to a business strategy"
+              ]
+            },
+            {
+              "title": {
+                "en": "Leadership and management styles",
+                "fr": "Styles de leadership et de gestion",
+                "mfe": "Stil leadership ek zestion"
+              },
+              "objectives": [
+                "Evaluate leadership and management styles at strategic level",
+                "Assess the impact of leadership style on strategy implementation",
+                "Analyse the relationship between leadership and organisational culture",
+                "Recommend an appropriate leadership style for a scenario"
+              ]
+            },
+            {
+              "title": {
+                "en": "Managing culture and organisational change",
+                "fr": "Gérer la culture et le changement organisationnel",
+                "mfe": "Zere kiltir ek sanzman organizasyonel"
+              },
+              "objectives": [
+                "Explain models of organisational culture",
+                "Evaluate the impact of culture on strategic success",
+                "Assess strategies for managing cultural change",
+                "Recommend approaches to align culture with strategic goals"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Globalisation and international strategy",
+            "fr": "Mondialisation et stratégie internationale",
+            "mfe": "Globalizasyon ek stratezi internasyonal"
+          },
+          "summary": {
+            "en": "This unit explores globalisation, multinational business strategy, trade policy, exchange rates and ethical considerations in international business.",
+            "fr": "Cette unité explore la mondialisation, la stratégie des entreprises multinationales, la politique commerciale, les taux de change et les considérations éthiques dans les affaires internationales.",
+            "mfe": "Sa linite-la explor globalizasyon, stratezi biznes miltinasyonal, politik komers, to sanz, ek konsiderasyon etik dan biznes internasyonal."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Globalisation and its impact on business",
+                "fr": "La mondialisation et son impact sur les entreprises",
+                "mfe": "Globalizasyon ek so lenfliyans lor biznes"
+              },
+              "objectives": [
+                "Explain the causes of globalisation",
+                "Evaluate the opportunities globalisation creates for businesses",
+                "Assess the threats globalisation poses to businesses",
+                "Analyse the impact of globalisation on Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Multinational corporations and strategy",
+                "fr": "Entreprises multinationales et stratégie",
+                "mfe": "Konpayni miltinasyonal ek stratezi"
+              },
+              "objectives": [
+                "Explain the characteristics of multinational corporations",
+                "Evaluate strategies for entering international markets",
+                "Assess the benefits and drawbacks of multinational operations",
+                "Recommend an international expansion strategy"
+              ]
+            },
+            {
+              "title": {
+                "en": "Trade blocs, tariffs and protectionism",
+                "fr": "Blocs commerciaux, tarifs et protectionnisme",
+                "mfe": "Blok komersyal, tarif ek protectionnism"
+              },
+              "objectives": [
+                "Explain the purpose of trade blocs and trade agreements",
+                "Evaluate the impact of tariffs and quotas on business",
+                "Assess arguments for and against protectionism",
+                "Analyse the effect of trade policy on Mauritian businesses"
+              ]
+            },
+            {
+              "title": {
+                "en": "Exchange rates and international business",
+                "fr": "Taux de change et affaires internationales",
+                "mfe": "To sanz ek biznes internasyonal"
+              },
+              "objectives": [
+                "Explain how exchange rates are determined",
+                "Evaluate the impact of exchange rate fluctuations on business",
+                "Assess strategies for managing exchange rate risk",
+                "Recommend responses to exchange rate changes for exporters"
+              ]
+            },
+            {
+              "title": {
+                "en": "Ethics, CSR and sustainability globally",
+                "fr": "Éthique, RSE et durabilité à l'échelle mondiale",
+                "mfe": "Letik, RSE ek dirabilite globalman"
+              },
+              "objectives": [
+                "Evaluate the role of ethics in international business decisions",
+                "Assess corporate social responsibility practices of multinationals",
+                "Analyse the impact of sustainability concerns on global strategy",
+                "Recommend ethical strategies for international operations"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -39,6 +39,17 @@ test("students cannot read or change each other's data", async () => {
       .insert({ user_id: a!.id, day: "2026-01-01", seconds: 86400 });
     expect(studyError).not.toBeNull();
 
+    // Lesson progress feeds mastery, so students cannot write it directly.
+    const { data: someLesson } = await client.from("lessons").select("id").limit(1).single();
+    const { error: progressError } = await client
+      .from("lesson_progress")
+      .insert({ user_id: a!.id, lesson_id: someLesson!.id, status: "completed", best_score: 100 });
+    expect(progressError).not.toBeNull();
+    const { error: masteryError } = await client
+      .from("topic_mastery")
+      .insert({ user_id: a!.id, unit_id: "7899c924-4998-5184-bbda-1a63f3c18c3b", level: "mastered", score: 100 });
+    expect(masteryError).not.toBeNull();
+
     // Signed-out visitors see no curriculum or profiles.
     const anon = createClient(process.env.NEXT_PUBLIC_SUPABASE_URL!, process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!, {
       auth: { persistSession: false },

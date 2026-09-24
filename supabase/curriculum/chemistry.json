@@ -1,0 +1,3211 @@
+{
+  "subject": "chemistry",
+  "grades": {
+    "7": {
+      "units": [
+        {
+          "title": {
+            "en": "Introducing science and the laboratory",
+            "fr": "Introduction à la science et au laboratoire",
+            "mfe": "Introdiksyon a lasyans ek laboratwar"
+          },
+          "summary": {
+            "en": "Students learn what science is, how scientists work, and how to stay safe while using laboratory equipment.",
+            "fr": "Les élèves découvrent ce qu'est la science, comment travaillent les scientifiques, et comment rester en sécurité en utilisant le matériel de laboratoire.",
+            "mfe": "Bann etidyan aprann ki lasyans ete, kouma bann syantis travay, ek kouma reste an sekirite kan zot servi materyel laboratwar."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "What is science",
+                "fr": "Qu'est-ce que la science",
+                "mfe": "Ki eski lasyans"
+              },
+              "objectives": [
+                "Define science and describe its branches",
+                "Explain why scientists use observation and experiments",
+                "Identify examples of science in daily Mauritian life"
+              ]
+            },
+            {
+              "title": {
+                "en": "Laboratory rules and safety",
+                "fr": "Règles et sécurité au laboratoire",
+                "mfe": "Regleman ek sekirite laboratwar"
+              },
+              "objectives": [
+                "List common laboratory safety rules",
+                "Recognise hazard warning symbols",
+                "Explain what to do in case of an accident"
+              ]
+            },
+            {
+              "title": {
+                "en": "Common laboratory apparatus",
+                "fr": "Matériel de laboratoire courant",
+                "mfe": "Materyel laboratwar ki servi souvan"
+              },
+              "objectives": [
+                "Name common laboratory apparatus",
+                "Describe the use of each apparatus",
+                "Draw simple diagrams of apparatus"
+              ]
+            },
+            {
+              "title": {
+                "en": "Making scientific measurements",
+                "fr": "Effectuer des mesures scientifiques",
+                "mfe": "Fer bann mezir syantifik"
+              },
+              "objectives": [
+                "Use appropriate units for length, mass, volume and temperature",
+                "Read scales on measuring instruments accurately",
+                "Record measurements in a results table"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Matter and its states",
+            "fr": "La matière et ses états",
+            "mfe": "Matyer ek so leta"
+          },
+          "summary": {
+            "en": "Students explore the properties of solids, liquids and gases and how matter changes state.",
+            "fr": "Les élèves explorent les propriétés des solides, liquides et gaz et comment la matière change d'état.",
+            "mfe": "Bann etidyan explor propriete solid, likid ek gaz ek kouma matyer sanz leta."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Properties of solids, liquids and gases",
+                "fr": "Propriétés des solides, liquides et gaz",
+                "mfe": "Propriete solid, likid ek gaz"
+              },
+              "objectives": [
+                "Describe the properties of the three states of matter",
+                "Compare shape and volume of solids, liquids and gases",
+                "Give everyday examples of each state"
+              ]
+            },
+            {
+              "title": {
+                "en": "The particle theory of matter",
+                "fr": "La théorie particulaire de la matière",
+                "mfe": "Teori partikil matyer"
+              },
+              "objectives": [
+                "Describe how particles are arranged in each state",
+                "Explain particle movement in solids, liquids and gases",
+                "Relate particle arrangement to properties of matter"
+              ]
+            },
+            {
+              "title": {
+                "en": "Changing states of matter",
+                "fr": "Les changements d'état de la matière",
+                "mfe": "Sanzman leta matyer"
+              },
+              "objectives": [
+                "Name the processes of melting, freezing, evaporation, condensation and sublimation",
+                "Explain what happens to particles during a change of state",
+                "Interpret a simple heating and cooling curve"
+              ]
+            },
+            {
+              "title": {
+                "en": "Diffusion and Brownian motion",
+                "fr": "Diffusion et mouvement brownien",
+                "mfe": "Difizyon ek mouvman brownyen"
+              },
+              "objectives": [
+                "Define diffusion using particle theory",
+                "Describe simple experiments demonstrating diffusion",
+                "Explain evidence for the existence of particles"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Elements, compounds and mixtures",
+            "fr": "Éléments, composés et mélanges",
+            "mfe": "Element, konpoze ek melanz"
+          },
+          "summary": {
+            "en": "Students distinguish between elements, compounds and mixtures and learn to represent substances using symbols.",
+            "fr": "Les élèves font la distinction entre éléments, composés et mélanges et apprennent à représenter les substances par des symboles.",
+            "mfe": "Bann etidyan diferansye element, konpoze ek melanz ek aprann reprezant sibstans avek senbol."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "What are elements",
+                "fr": "Que sont les éléments",
+                "mfe": "Ki eski element"
+              },
+              "objectives": [
+                "Define an element",
+                "Identify common elements and their symbols",
+                "Locate elements on a simple periodic table"
+              ]
+            },
+            {
+              "title": {
+                "en": "Compounds and chemical formulae",
+                "fr": "Composés et formules chimiques",
+                "mfe": "Konpoze ek formil sime"
+              },
+              "objectives": [
+                "Define a compound",
+                "Give examples of common compounds",
+                "Write simple chemical formulae"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mixtures around us",
+                "fr": "Les mélanges qui nous entourent",
+                "mfe": "Melanz otour nou"
+              },
+              "objectives": [
+                "Define a mixture",
+                "Distinguish mixtures from pure substances",
+                "Identify examples of mixtures in daily life"
+              ]
+            },
+            {
+              "title": {
+                "en": "Comparing elements, compounds and mixtures",
+                "fr": "Comparer éléments, composés et mélanges",
+                "mfe": "Konpar element, konpoze ek melanz"
+              },
+              "objectives": [
+                "Compare the properties of elements, compounds and mixtures",
+                "Classify substances into the correct category",
+                "Explain the difference between a mixture and a compound"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Separating mixtures",
+            "fr": "Séparer les mélanges",
+            "mfe": "Separ melanz"
+          },
+          "summary": {
+            "en": "Students learn practical techniques used to separate different kinds of mixtures.",
+            "fr": "Les élèves apprennent les techniques pratiques utilisées pour séparer différents types de mélanges.",
+            "mfe": "Bann etidyan aprann bann teknik pratik pou separ diferan tip melanz."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Filtration and sieving",
+                "fr": "Filtration et tamisage",
+                "mfe": "Filtrasyon ek tamizaz"
+              },
+              "objectives": [
+                "Explain when filtration is used",
+                "Describe the steps of filtration",
+                "Identify residue and filtrate"
+              ]
+            },
+            {
+              "title": {
+                "en": "Evaporation and crystallisation",
+                "fr": "Évaporation et cristallisation",
+                "mfe": "Evaporasyon ek kristalizasyon"
+              },
+              "objectives": [
+                "Explain how evaporation separates a dissolved solid from a liquid",
+                "Describe the process of crystallisation",
+                "Give examples where these methods are used, such as salt production"
+              ]
+            },
+            {
+              "title": {
+                "en": "Distillation",
+                "fr": "La distillation",
+                "mfe": "Distilasyon"
+              },
+              "objectives": [
+                "Explain the principle behind distillation",
+                "Describe simple distillation apparatus",
+                "Give examples of distillation used in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Chromatography",
+                "fr": "La chromatographie",
+                "mfe": "Kromatografi"
+              },
+              "objectives": [
+                "Explain the principle of chromatography",
+                "Describe how to carry out a simple chromatography experiment",
+                "Interpret a chromatogram"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Acids, bases and indicators",
+            "fr": "Acides, bases et indicateurs",
+            "mfe": "Asid, baz ek endikater"
+          },
+          "summary": {
+            "en": "Students investigate the properties of acids and bases and how indicators are used to identify them.",
+            "fr": "Les élèves étudient les propriétés des acides et des bases et comment les indicateurs sont utilisés pour les identifier.",
+            "mfe": "Bann etidyan gete propriete asid ek baz ek kouma endikater servi pou idantifye zot."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Properties of acids and bases",
+                "fr": "Propriétés des acides et des bases",
+                "mfe": "Propriete asid ek baz"
+              },
+              "objectives": [
+                "Describe properties of common acids and bases",
+                "Give examples of acids and bases found at home",
+                "Explain safety precautions when handling acids and bases"
+              ]
+            },
+            {
+              "title": {
+                "en": "Using indicators and the pH scale",
+                "fr": "Utiliser les indicateurs et l'échelle de pH",
+                "mfe": "Servi endikater ek lesel pH"
+              },
+              "objectives": [
+                "Explain the purpose of an indicator",
+                "Use litmus paper to test substances",
+                "Relate pH values to acidity, neutrality and alkalinity"
+              ]
+            },
+            {
+              "title": {
+                "en": "Neutralisation reactions",
+                "fr": "Les réactions de neutralisation",
+                "mfe": "Reaksyon netralizasyon"
+              },
+              "objectives": [
+                "Define neutralisation",
+                "Describe what happens when an acid reacts with a base",
+                "Give everyday examples of neutralisation"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Introducing chemical reactions",
+            "fr": "Introduction aux réactions chimiques",
+            "mfe": "Introdiksyon a reaksyon sime"
+          },
+          "summary": {
+            "en": "Students learn to recognise chemical changes and represent simple reactions.",
+            "fr": "Les élèves apprennent à reconnaître les changements chimiques et à représenter des réactions simples.",
+            "mfe": "Bann etidyan aprann rekonet sanzman sime ek reprezant reaksyon senp."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Physical versus chemical changes",
+                "fr": "Changements physiques versus chimiques",
+                "mfe": "Sanzman fizik konpare sanzman sime"
+              },
+              "objectives": [
+                "Distinguish between physical and chemical changes",
+                "Give examples of each type of change",
+                "Identify signs of a chemical reaction"
+              ]
+            },
+            {
+              "title": {
+                "en": "Signs of a chemical reaction",
+                "fr": "Signes d'une réaction chimique",
+                "mfe": "Siny enn reaksyon sime"
+              },
+              "objectives": [
+                "List observable signs of chemical reactions",
+                "Describe simple experiments showing these signs",
+                "Record observations accurately"
+              ]
+            },
+            {
+              "title": {
+                "en": "Word equations",
+                "fr": "Équations en mots",
+                "mfe": "Ekwasyon an mo"
+              },
+              "objectives": [
+                "Write simple word equations for reactions",
+                "Identify reactants and products",
+                "Interpret a word equation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Burning and combustion",
+                "fr": "La combustion",
+                "mfe": "Konbistyon"
+              },
+              "objectives": [
+                "Describe the conditions needed for combustion",
+                "Explain the products of burning fuels",
+                "Discuss the effects of combustion on the environment"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Metals and non-metals",
+            "fr": "Métaux et non-métaux",
+            "mfe": "Metal ek non-metal"
+          },
+          "summary": {
+            "en": "Students compare the properties of metals and non-metals and explore their everyday uses.",
+            "fr": "Les élèves comparent les propriétés des métaux et des non-métaux et explorent leurs usages quotidiens.",
+            "mfe": "Bann etidyan konpar propriete metal ek non-metal ek explor zot lizaz o zour lezour."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Physical properties of metals",
+                "fr": "Propriétés physiques des métaux",
+                "mfe": "Propriete fizik metal"
+              },
+              "objectives": [
+                "List physical properties of metals",
+                "Give examples of common metals",
+                "Relate properties of metals to their uses"
+              ]
+            },
+            {
+              "title": {
+                "en": "Physical properties of non-metals",
+                "fr": "Propriétés physiques des non-métaux",
+                "mfe": "Propriete fizik non-metal"
+              },
+              "objectives": [
+                "List physical properties of non-metals",
+                "Give examples of common non-metals",
+                "Compare non-metals with metals"
+              ]
+            },
+            {
+              "title": {
+                "en": "Uses of metals and non-metals in Mauritius",
+                "fr": "Utilisations des métaux et non-métaux à Maurice",
+                "mfe": "Lizaz metal ek non-metal Moris"
+              },
+              "objectives": [
+                "Identify uses of metals and non-metals in local industries",
+                "Explain why particular materials are chosen for specific uses",
+                "Discuss recycling of metals"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "8": {
+      "units": [
+        {
+          "title": {
+            "en": "States of matter and particle theory",
+            "fr": "Les états de la matière et la théorie particulaire",
+            "mfe": "Leta lamater ek teori partikil"
+          },
+          "summary": {
+            "en": "Students explore the three states of matter and use the particle model to explain heating, cooling, melting and boiling.",
+            "fr": "Les élèves explorent les trois états de la matière et utilisent le modèle particulaire pour expliquer le chauffage, le refroidissement, la fusion et l'ébullition.",
+            "mfe": "Bann elev explor le trwa leta lamater ek servi model partikil pou explik sofaz, refrwadisman, fonn ek bwiyaz."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Solids, liquids and gases",
+                "fr": "Solides, liquides et gaz",
+                "mfe": "Solid, likid ek gaz"
+              },
+              "objectives": [
+                "Identify the three states of matter",
+                "Describe the properties of solids, liquids and gases",
+                "Compare arrangement of particles in each state"
+              ]
+            },
+            {
+              "title": {
+                "en": "The particle model of matter",
+                "fr": "Le modèle particulaire de la matière",
+                "mfe": "Model partikil lamater"
+              },
+              "objectives": [
+                "Explain matter using the particle model",
+                "Describe particle movement and spacing",
+                "Relate particle arrangement to state properties"
+              ]
+            },
+            {
+              "title": {
+                "en": "Changes of state",
+                "fr": "Les changements d'état",
+                "mfe": "Sanzman leta"
+              },
+              "objectives": [
+                "Define melting, freezing, boiling and condensation",
+                "Explain changes of state using particle theory",
+                "Interpret simple heating and cooling curves"
+              ]
+            },
+            {
+              "title": {
+                "en": "Diffusion and evaporation",
+                "fr": "La diffusion et l'évaporation",
+                "mfe": "Difizyon ek evaporasyon"
+              },
+              "objectives": [
+                "Describe diffusion in gases and liquids",
+                "Explain evaporation using particle theory",
+                "Give everyday Mauritian examples of diffusion"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Elements, compounds and mixtures",
+            "fr": "Éléments, composés et mélanges",
+            "mfe": "Elman, konpoze ek melanz"
+          },
+          "summary": {
+            "en": "This unit introduces elements, compounds and mixtures and how to classify materials found in everyday Mauritian life.",
+            "fr": "Cette unité présente les éléments, les composés et les mélanges ainsi que la classification des matériaux du quotidien mauricien.",
+            "mfe": "Sa linite-la introdir elman, konpoze ek melanz ek kimanyer klasifie materyo dan lavi kotidyen Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "What are elements?",
+                "fr": "Qu'est-ce qu'un élément ?",
+                "mfe": "Kisannla elman?"
+              },
+              "objectives": [
+                "Define an element using particle ideas",
+                "Recognise common element symbols",
+                "List examples of metals and non-metals"
+              ]
+            },
+            {
+              "title": {
+                "en": "Compounds and chemical formulae",
+                "fr": "Les composés et les formules chimiques",
+                "mfe": "Konpoze ek formil kimik"
+              },
+              "objectives": [
+                "Define a compound as combined elements",
+                "Write simple chemical formulae",
+                "Distinguish compounds from elements"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mixtures around us",
+                "fr": "Les mélanges autour de nous",
+                "mfe": "Melanz otour nou"
+              },
+              "objectives": [
+                "Define a mixture and give local examples",
+                "Differentiate mixtures from compounds",
+                "Classify substances as elements, compounds or mixtures"
+              ]
+            },
+            {
+              "title": {
+                "en": "Pure substances versus mixtures",
+                "fr": "Substances pures et mélanges",
+                "mfe": "Sibstans pir ek melanz"
+              },
+              "objectives": [
+                "Explain the meaning of a pure substance",
+                "Compare properties of pure substances and mixtures",
+                "Apply melting point ideas to test purity"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Separating mixtures",
+            "fr": "La séparation des mélanges",
+            "mfe": "Separasyon melanz"
+          },
+          "summary": {
+            "en": "Students learn practical techniques used to separate mixtures, linking methods to properties of the substances involved.",
+            "fr": "Les élèves apprennent des techniques pratiques pour séparer les mélanges, en reliant les méthodes aux propriétés des substances.",
+            "mfe": "Bann elev aprann teknik pratik pou separe melanz, an lyene metod ar propriete sibstans."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Filtration and sieving",
+                "fr": "La filtration et le tamisage",
+                "mfe": "Filtrasyon ek tamizaz"
+              },
+              "objectives": [
+                "Explain how filtration separates insoluble solids",
+                "Describe sieving for solid mixtures",
+                "Identify suitable everyday examples"
+              ]
+            },
+            {
+              "title": {
+                "en": "Evaporation and crystallisation",
+                "fr": "L'évaporation et la cristallisation",
+                "mfe": "Evaporasyon ek kristalizasyon"
+              },
+              "objectives": [
+                "Describe evaporation to recover dissolved solids",
+                "Explain crystallisation for salt production",
+                "Relate methods to Mauritian salt pans"
+              ]
+            },
+            {
+              "title": {
+                "en": "Distillation",
+                "fr": "La distillation",
+                "mfe": "Distilasyon"
+              },
+              "objectives": [
+                "Explain simple distillation to separate liquids",
+                "Describe the role of boiling and condensation",
+                "Give an example using seawater"
+              ]
+            },
+            {
+              "title": {
+                "en": "Chromatography",
+                "fr": "La chromatographie",
+                "mfe": "Kromatografi"
+              },
+              "objectives": [
+                "Describe paper chromatography of dyes",
+                "Interpret a simple chromatogram",
+                "Explain how components separate by solubility"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Atoms and the periodic table",
+            "fr": "Les atomes et le tableau périodique",
+            "mfe": "Zatom ek tablo periodik"
+          },
+          "summary": {
+            "en": "This unit introduces the basic structure of atoms and how elements are arranged in the periodic table.",
+            "fr": "Cette unité présente la structure de base des atomes et l'organisation des éléments dans le tableau périodique.",
+            "mfe": "Sa linite-la introdir striktir debaz zatom ek kimanyer elman aranze dan tablo periodik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Inside the atom",
+                "fr": "À l'intérieur de l'atome",
+                "mfe": "Anndan zatom"
+              },
+              "objectives": [
+                "Name the main particles in an atom",
+                "Describe the location of protons, neutrons and electrons",
+                "Explain that atoms are mostly empty space"
+              ]
+            },
+            {
+              "title": {
+                "en": "Introducing the periodic table",
+                "fr": "Découvrir le tableau périodique",
+                "mfe": "Dekouver tablo periodik"
+              },
+              "objectives": [
+                "Describe the arrangement of elements into groups and periods",
+                "Locate metals and non-metals on the table",
+                "Identify a few common elements by symbol"
+              ]
+            },
+            {
+              "title": {
+                "en": "Patterns in groups",
+                "fr": "Les tendances dans les groupes",
+                "mfe": "Modèl dan bann group"
+              },
+              "objectives": [
+                "Explain why elements in a group have similar properties",
+                "Describe trends for Group I and Group VII elements",
+                "Predict properties of an element from its group"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Acids, bases and indicators",
+            "fr": "Acides, bases et indicateurs",
+            "mfe": "Asid, baz ek endikater"
+          },
+          "summary": {
+            "en": "Students investigate acids and bases, use indicators to test substances and relate pH to everyday materials.",
+            "fr": "Les élèves étudient les acides et les bases, utilisent des indicateurs pour tester des substances et relient le pH aux matériaux du quotidien.",
+            "mfe": "Bann elev examinn asid ek baz, servi endikater pou teste sibstans ek lyene pH ar materyo lavi toulezour."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Identifying acids and bases",
+                "fr": "Identifier les acides et les bases",
+                "mfe": "Idantifie asid ek baz"
+              },
+              "objectives": [
+                "Describe common properties of acids and bases",
+                "Give household and Mauritian food examples",
+                "Use litmus paper to test substances"
+              ]
+            },
+            {
+              "title": {
+                "en": "The pH scale",
+                "fr": "L'échelle de pH",
+                "mfe": "Lesel pH"
+              },
+              "objectives": [
+                "Explain what the pH scale measures",
+                "Classify substances as acidic, neutral or alkaline",
+                "Use universal indicator to estimate pH"
+              ]
+            },
+            {
+              "title": {
+                "en": "Neutralisation reactions",
+                "fr": "Les réactions de neutralisation",
+                "mfe": "Reaksyon netralizasyon"
+              },
+              "objectives": [
+                "Describe what happens during neutralisation",
+                "Write simple word equations for acid-base reactions",
+                "Explain uses of neutralisation in daily life"
+              ]
+            },
+            {
+              "title": {
+                "en": "Acids and bases in agriculture",
+                "fr": "Acides et bases en agriculture",
+                "mfe": "Asid ek baz dan agrikiltir"
+              },
+              "objectives": [
+                "Explain why farmers test soil pH",
+                "Describe how lime is used to treat acidic soil",
+                "Relate soil pH to plant growth in Mauritius"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Metals and non-metals",
+            "fr": "Métaux et non-métaux",
+            "mfe": "Metal ek non-metal"
+          },
+          "summary": {
+            "en": "This unit compares physical and chemical properties of metals and non-metals and looks at simple metal reactions.",
+            "fr": "Cette unité compare les propriétés physiques et chimiques des métaux et des non-métaux et examine des réactions simples des métaux.",
+            "mfe": "Sa linite-la konpar propriete fizik ek kimik metal ek non-metal ek gete reaksyon senp metal."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Properties of metals",
+                "fr": "Les propriétés des métaux",
+                "mfe": "Propriete metal"
+              },
+              "objectives": [
+                "List physical properties of metals",
+                "Explain uses of metals based on their properties",
+                "Give examples of metals used in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Properties of non-metals",
+                "fr": "Les propriétés des non-métaux",
+                "mfe": "Propriete non-metal"
+              },
+              "objectives": [
+                "List physical properties of non-metals",
+                "Compare non-metal properties to metals",
+                "Identify everyday uses of non-metals"
+              ]
+            },
+            {
+              "title": {
+                "en": "Reactions of metals with acids",
+                "fr": "Réactions des métaux avec les acides",
+                "mfe": "Reaksyon metal ar asid"
+              },
+              "objectives": [
+                "Describe reactions of metals with dilute acids",
+                "Identify the gas produced in these reactions",
+                "Write simple word equations"
+              ]
+            },
+            {
+              "title": {
+                "en": "Rusting and corrosion",
+                "fr": "La rouille et la corrosion",
+                "mfe": "Larouy ek korozyon"
+              },
+              "objectives": [
+                "Explain the conditions needed for rusting",
+                "Describe methods to prevent corrosion",
+                "Relate rusting to Mauritius's coastal climate"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Physical and chemical changes",
+            "fr": "Changements physiques et chimiques",
+            "mfe": "Sanzman fizik ek kimik"
+          },
+          "summary": {
+            "en": "Students distinguish between physical and chemical changes and learn to recognise signs of chemical reactions.",
+            "fr": "Les élèves distinguent les changements physiques et chimiques et apprennent à reconnaître les signes des réactions chimiques.",
+            "mfe": "Bann elev distenge sanzman fizik ek kimik ek aprann rekonet siyn reaksyon kimik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Physical changes",
+                "fr": "Les changements physiques",
+                "mfe": "Sanzman fizik"
+              },
+              "objectives": [
+                "Define physical change with examples",
+                "Explain that physical changes are usually reversible",
+                "Identify physical changes in daily life"
+              ]
+            },
+            {
+              "title": {
+                "en": "Chemical changes",
+                "fr": "Les changements chimiques",
+                "mfe": "Sanzman kimik"
+              },
+              "objectives": [
+                "Define chemical change with examples",
+                "Explain that new substances form during chemical change",
+                "Distinguish chemical from physical changes"
+              ]
+            },
+            {
+              "title": {
+                "en": "Signs of a chemical reaction",
+                "fr": "Les signes d'une réaction chimique",
+                "mfe": "Siyn enn reaksyon kimik"
+              },
+              "objectives": [
+                "List observable signs of chemical reactions",
+                "Describe simple experiments showing these signs",
+                "Record observations in a table"
+              ]
+            },
+            {
+              "title": {
+                "en": "Everyday chemical reactions",
+                "fr": "Les réactions chimiques du quotidien",
+                "mfe": "Reaksyon kimik toulezour"
+              },
+              "objectives": [
+                "Give Mauritian examples of chemical reactions",
+                "Explain cooking and burning as chemical changes",
+                "Discuss safety when observing reactions"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "units": [
+        {
+          "title": {
+            "en": "The particulate nature of matter",
+            "fr": "La nature particulaire de la matière",
+            "mfe": "Nature partikilaire lamater"
+          },
+          "summary": {
+            "en": "Students explore how matter is made of tiny particles, explaining states of matter, diffusion and changes of state using the kinetic particle theory.",
+            "fr": "Les élèves découvrent comment la matière est constituée de minuscules particules, en expliquant les états de la matière, la diffusion et les changements d'état grâce à la théorie cinétique des particules.",
+            "mfe": "Bann elev explor kouma lamater fer ar bann tigit partikil, e explik bann eta lamater, difizyon ek sanzman eta ar teori sinetik bann partikil."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "States of matter and kinetic theory",
+                "fr": "Les états de la matière et la théorie cinétique",
+                "mfe": "Bann eta lamater ek teori sinetik"
+              },
+              "objectives": [
+                "Describe the arrangement and movement of particles in solids, liquids and gases",
+                "Explain the kinetic particle theory",
+                "Relate particle arrangement to physical properties of a substance"
+              ]
+            },
+            {
+              "title": {
+                "en": "Diffusion and Brownian motion",
+                "fr": "La diffusion et le mouvement brownien",
+                "mfe": "Difizyon ek mouvman brownyen"
+              },
+              "objectives": [
+                "Define diffusion in gases and liquids",
+                "Explain Brownian motion as evidence for particle movement",
+                "Describe factors affecting the rate of diffusion"
+              ]
+            },
+            {
+              "title": {
+                "en": "Changes of state and energy",
+                "fr": "Les changements d'état et l'énergie",
+                "mfe": "Sanzman eta ek lenerzi"
+              },
+              "objectives": [
+                "Describe melting, boiling, freezing, condensation and sublimation",
+                "Explain energy changes during changes of state",
+                "Interpret heating and cooling curves"
+              ]
+            },
+            {
+              "title": {
+                "en": "Measuring and using the particle model",
+                "fr": "Mesurer et utiliser le modèle particulaire",
+                "mfe": "Mezire ek servi model partikil"
+              },
+              "objectives": [
+                "Use the particle model to explain everyday phenomena",
+                "Relate temperature to particle kinetic energy",
+                "Apply the particle model to explain pressure in gases"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Atoms, elements and the periodic table",
+            "fr": "Les atomes, les éléments et le tableau périodique",
+            "mfe": "Bann atom, elman ek tablo peryodik"
+          },
+          "summary": {
+            "en": "This unit introduces atomic structure, subatomic particles and isotopes, and shows how elements are arranged in the periodic table according to their properties.",
+            "fr": "Cette unité introduit la structure atomique, les particules subatomiques et les isotopes, et montre comment les éléments sont organisés dans le tableau périodique selon leurs propriétés.",
+            "mfe": "Sa linite-la introdir striktir atomik, bann partikil sou-atomik ek izotop, e montre kouma bann elman aranze dan tablo peryodik selon zot prop."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Structure of the atom",
+                "fr": "La structure de l'atome",
+                "mfe": "Striktir atom"
+              },
+              "objectives": [
+                "Describe the basic structure of an atom",
+                "Identify the location and charge of protons, neutrons and electrons",
+                "Explain atomic number and mass number"
+              ]
+            },
+            {
+              "title": {
+                "en": "Protons, neutrons, electrons and isotopes",
+                "fr": "Protons, neutrons, électrons et isotopes",
+                "mfe": "Proton, netron, elektron ek izotop"
+              },
+              "objectives": [
+                "Calculate the number of protons, neutrons and electrons in an atom",
+                "Define isotopes and give examples",
+                "Explain uses of isotopes in everyday life"
+              ]
+            },
+            {
+              "title": {
+                "en": "Electronic configuration",
+                "fr": "La configuration électronique",
+                "mfe": "Konfigirasyon elektronik"
+              },
+              "objectives": [
+                "Draw electron arrangements for the first twenty elements",
+                "Relate electron arrangement to group position",
+                "Explain the stability of full outer shells"
+              ]
+            },
+            {
+              "title": {
+                "en": "The periodic table arrangement and groups",
+                "fr": "L'organisation du tableau périodique et les groupes",
+                "mfe": "Aranzman tablo peryodik ek gropp"
+              },
+              "objectives": [
+                "Describe how elements are arranged by atomic number",
+                "Identify groups and periods on the periodic table",
+                "Relate position in the periodic table to chemical properties"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Mixtures, elements and compounds",
+            "fr": "Mélanges, éléments et composés",
+            "mfe": "Melanz, elman ek konpoze"
+          },
+          "summary": {
+            "en": "Students distinguish elements, compounds and mixtures, and learn practical techniques for separating substances found in everyday and local contexts.",
+            "fr": "Les élèves distinguent les éléments, les composés et les mélanges, et apprennent des techniques pratiques pour séparer des substances dans des contextes quotidiens et locaux.",
+            "mfe": "Bann elev distingie elman, konpoze ek melanz, e aprann bann teknik pratik pou separ substans dan kontex tou-le-zour ek lokal."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Elements, compounds and mixtures",
+                "fr": "Éléments, composés et mélanges",
+                "mfe": "Elman, konpoze ek melanz"
+              },
+              "objectives": [
+                "Define elements, compounds and mixtures with examples",
+                "Distinguish between pure substances and mixtures",
+                "Identify examples from Mauritian daily life"
+              ]
+            },
+            {
+              "title": {
+                "en": "Separating mixtures: filtration and evaporation",
+                "fr": "Séparer les mélanges : filtration et évaporation",
+                "mfe": "Separ melanz: filtrasyon ek evaporasyon"
+              },
+              "objectives": [
+                "Explain how filtration separates insoluble solids from liquids",
+                "Explain how evaporation separates a dissolved solid from a solution",
+                "Choose the appropriate method for a given mixture"
+              ]
+            },
+            {
+              "title": {
+                "en": "Separating mixtures: distillation and chromatography",
+                "fr": "Séparer les mélanges : distillation et chromatographie",
+                "mfe": "Separ melanz: distilasyon ek kromatografi"
+              },
+              "objectives": [
+                "Explain the principle of simple distillation",
+                "Describe how chromatography separates dissolved substances",
+                "Apply separation techniques to local examples such as sugar cane juice"
+              ]
+            },
+            {
+              "title": {
+                "en": "Formulae and simple compound naming",
+                "fr": "Formules et nomenclature simple des composés",
+                "mfe": "Formil ek nom senp konpoze"
+              },
+              "objectives": [
+                "Write chemical formulae for simple compounds",
+                "Name simple compounds from their formulae",
+                "Interpret formulae in terms of ratios of atoms"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Chemical bonding",
+            "fr": "La liaison chimique",
+            "mfe": "Lyezon simik"
+          },
+          "summary": {
+            "en": "This unit explains how atoms combine through ionic and covalent bonding and links bonding type to the physical properties of substances.",
+            "fr": "Cette unité explique comment les atomes se combinent par des liaisons ioniques et covalentes et relie le type de liaison aux propriétés physiques des substances.",
+            "mfe": "Sa linite-la explik kouma bann atom kombine par lyezon ionik ek kovalan, e lir tip lyezon ar prop fizik bann substans."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Ionic bonding",
+                "fr": "La liaison ionique",
+                "mfe": "Lyezon ionik"
+              },
+              "objectives": [
+                "Explain how ions are formed by loss or gain of electrons",
+                "Describe the formation of ionic bonds between metals and non-metals",
+                "Draw simple dot-and-cross diagrams for ionic compounds"
+              ]
+            },
+            {
+              "title": {
+                "en": "Covalent bonding",
+                "fr": "La liaison covalente",
+                "mfe": "Lyezon kovalan"
+              },
+              "objectives": [
+                "Explain how covalent bonds form by sharing electrons",
+                "Draw simple dot-and-cross diagrams for covalent molecules",
+                "Give examples of common covalent substances"
+              ]
+            },
+            {
+              "title": {
+                "en": "Comparing ionic and covalent substances",
+                "fr": "Comparer les substances ioniques et covalentes",
+                "mfe": "Konpar substans ionik ek kovalan"
+              },
+              "objectives": [
+                "Compare melting points, conductivity and solubility of ionic and covalent substances",
+                "Relate bonding type to physical properties",
+                "Classify substances as ionic or covalent from given data"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Chemical reactions and equations",
+            "fr": "Les réactions chimiques et les équations",
+            "mfe": "Reaksyon simik ek ekwasyon"
+          },
+          "summary": {
+            "en": "Students learn to represent chemical reactions using word and symbol equations, and explore different types of chemical change.",
+            "fr": "Les élèves apprennent à représenter les réactions chimiques à l'aide d'équations en mots et en symboles, et explorent différents types de changements chimiques.",
+            "mfe": "Bann elev aprann reprezant reaksyon simik ar ekwasyon mo ek senbol, e explor diferan tip sanzman simik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Physical versus chemical change",
+                "fr": "Changement physique et changement chimique",
+                "mfe": "Sanzman fizik kont sanzman simik"
+              },
+              "objectives": [
+                "Distinguish between physical and chemical changes",
+                "Identify evidence that a chemical reaction has occurred",
+                "Give examples of each type of change"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing word and symbol equations",
+                "fr": "Écrire des équations en mots et en symboles",
+                "mfe": "Ekrir ekwasyon mo ek senbol"
+              },
+              "objectives": [
+                "Write word equations for simple reactions",
+                "Convert word equations into symbol equations",
+                "Use correct chemical formulae in equations"
+              ]
+            },
+            {
+              "title": {
+                "en": "Balancing chemical equations",
+                "fr": "Équilibrer les équations chimiques",
+                "mfe": "Balans ekwasyon simik"
+              },
+              "objectives": [
+                "Apply the law of conservation of mass to balance equations",
+                "Balance simple chemical equations step by step",
+                "Check equations for correct balancing"
+              ]
+            },
+            {
+              "title": {
+                "en": "Types of reactions: combustion and oxidation",
+                "fr": "Types de réactions : combustion et oxydation",
+                "mfe": "Tip reaksyon: konbistyon ek oksidasyon"
+              },
+              "objectives": [
+                "Describe combustion reactions and their products",
+                "Explain oxidation as a reaction with oxygen",
+                "Give everyday examples of combustion and oxidation"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Acids, bases and salts",
+            "fr": "Acides, bases et sels",
+            "mfe": "Asid, baz ek sel"
+          },
+          "summary": {
+            "en": "This unit covers the properties of acids and bases, the pH scale, neutralisation and simple methods of preparing salts.",
+            "fr": "Cette unité couvre les propriétés des acides et des bases, l'échelle de pH, la neutralisation et des méthodes simples de préparation des sels.",
+            "mfe": "Sa linite-la kouver prop asid ek baz, lesel pH, netralizasyon ek metod senp pou prepar sel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Properties of acids and bases",
+                "fr": "Propriétés des acides et des bases",
+                "mfe": "Prop asid ek baz"
+              },
+              "objectives": [
+                "Describe the general properties of acids and bases",
+                "Identify common acids and bases found at home",
+                "Test substances using litmus paper"
+              ]
+            },
+            {
+              "title": {
+                "en": "The pH scale and indicators",
+                "fr": "L'échelle de pH et les indicateurs",
+                "mfe": "Lesel pH ek endikater"
+              },
+              "objectives": [
+                "Explain the pH scale from 0 to 14",
+                "Use indicators to determine whether a substance is acidic, neutral or alkaline",
+                "Relate pH values to strength of acids and bases"
+              ]
+            },
+            {
+              "title": {
+                "en": "Neutralisation reactions",
+                "fr": "Les réactions de neutralisation",
+                "mfe": "Reaksyon netralizasyon"
+              },
+              "objectives": [
+                "Explain what happens during a neutralisation reaction",
+                "Write word and symbol equations for neutralisation",
+                "Give practical applications of neutralisation, such as treating soil acidity"
+              ]
+            },
+            {
+              "title": {
+                "en": "Making salts",
+                "fr": "Fabriquer des sels",
+                "mfe": "Fer sel"
+              },
+              "objectives": [
+                "Describe simple methods for preparing soluble salts",
+                "Explain the reaction between an acid and a metal, base or carbonate",
+                "Identify uses of common salts in daily life"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Metals and their reactivity",
+            "fr": "Les métaux et leur réactivité",
+            "mfe": "Metal ek zot reaktivite"
+          },
+          "summary": {
+            "en": "Students study the physical properties of metals, compare their reactivity, and get an introduction to how metals are extracted from ores.",
+            "fr": "Les élèves étudient les propriétés physiques des métaux, comparent leur réactivité et découvrent une introduction à l'extraction des métaux à partir de leurs minerais.",
+            "mfe": "Bann elev etidye prop fizik metal, konpar zot reaktivite, e gagn enn introdiksyon lor kouma metal ekstre depi minre."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Physical properties of metals",
+                "fr": "Propriétés physiques des métaux",
+                "mfe": "Prop fizik metal"
+              },
+              "objectives": [
+                "Describe general physical properties of metals",
+                "Compare properties of metals and non-metals",
+                "Relate metal properties to their everyday uses"
+              ]
+            },
+            {
+              "title": {
+                "en": "The reactivity series",
+                "fr": "La série de réactivité",
+                "mfe": "Seri reaktivite"
+              },
+              "objectives": [
+                "List common metals in order of reactivity",
+                "Predict reactions based on the reactivity series",
+                "Explain displacement reactions between metals and metal compounds"
+              ]
+            },
+            {
+              "title": {
+                "en": "Reactions of metals with acids and water",
+                "fr": "Réactions des métaux avec les acides et l'eau",
+                "mfe": "Reaksyon metal ar asid ek delo"
+              },
+              "objectives": [
+                "Describe reactions of metals with dilute acids",
+                "Describe reactions of metals with water or steam",
+                "Write word equations for metal reactions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Introduction to metal extraction",
+                "fr": "Introduction à l'extraction des métaux",
+                "mfe": "Introdiksyon ekstraksyon metal"
+              },
+              "objectives": [
+                "Explain why some metals occur naturally while others occur as ores",
+                "Relate extraction method to position in the reactivity series",
+                "Describe a simple example of metal extraction"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Air, water and environmental chemistry",
+            "fr": "L'air, l'eau et la chimie environnementale",
+            "mfe": "Ler, delo ek simi lanvironnman"
+          },
+          "summary": {
+            "en": "This unit examines the composition of air and water, methods of testing purity, and the chemistry behind environmental issues relevant to Mauritius.",
+            "fr": "Cette unité examine la composition de l'air et de l'eau, les méthodes de test de pureté, et la chimie derrière les problèmes environnementaux pertinents pour Maurice.",
+            "mfe": "Sa linite-la examin konpozision ler ek delo, metod pou teste pirte, ek simi ki dan problem lanvironnman relevan pou Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Composition of air",
+                "fr": "La composition de l'air",
+                "mfe": "Konpozision ler"
+              },
+              "objectives": [
+                "State the approximate percentage composition of clean air",
+                "Describe experiments to determine the percentage of oxygen in air",
+                "Explain the role of gases in air for life on Earth"
+              ]
+            },
+            {
+              "title": {
+                "en": "Water: properties and testing purity",
+                "fr": "L'eau : propriétés et test de pureté",
+                "mfe": "Delo: prop ek teste pirte"
+              },
+              "objectives": [
+                "Describe physical and chemical properties of water",
+                "Explain simple tests for the purity of water",
+                "Discuss sources of drinking water in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Pollution and environmental chemistry",
+                "fr": "La pollution et la chimie environnementale",
+                "mfe": "Polisyon ek simi lanvironnman"
+              },
+              "objectives": [
+                "Identify common causes of air and water pollution in Mauritius",
+                "Explain the chemical basis of issues such as coral bleaching or lagoon pollution",
+                "Suggest simple measures to reduce pollution"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "units": [
+        {
+          "title": {
+            "en": "States of matter and experimental techniques",
+            "fr": "États de la matière et techniques expérimentales",
+            "mfe": "Leta lamater ek teknik esperimantal"
+          },
+          "summary": {
+            "en": "This unit revises the three states of matter through kinetic particle theory and introduces key laboratory techniques used to separate and purify substances.",
+            "fr": "Cette unité révise les trois états de la matière à travers la théorie cinétique des particules et présente les principales techniques de laboratoire utilisées pour séparer et purifier des substances.",
+            "mfe": "Sa linite-la fer revizyon lor trwa leta lamater atraver teori sinetik patikil ek prezant bann teknik laboratwar inportan pou separ ek pirifye bann sibstans."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Kinetic particle theory",
+                "fr": "Théorie cinétique des particules",
+                "mfe": "Teori sinetik patikil"
+              },
+              "objectives": [
+                "Describe the arrangement and movement of particles in solids, liquids and gases",
+                "Explain changes of state using kinetic particle theory",
+                "Relate temperature to particle energy"
+              ]
+            },
+            {
+              "title": {
+                "en": "Diffusion and Brownian motion",
+                "fr": "Diffusion et mouvement brownien",
+                "mfe": "Difizyon ek mouvman brownyen"
+              },
+              "objectives": [
+                "Define diffusion in gases and liquids",
+                "Explain factors affecting rate of diffusion",
+                "Describe evidence for particle motion from Brownian motion experiments"
+              ]
+            },
+            {
+              "title": {
+                "en": "Methods of purification",
+                "fr": "Méthodes de purification",
+                "mfe": "Metod pirifikasyon"
+              },
+              "objectives": [
+                "Describe filtration, evaporation and crystallisation techniques",
+                "Explain simple and fractional distillation",
+                "Compare paper chromatography for separating mixtures"
+              ]
+            },
+            {
+              "title": {
+                "en": "Testing for purity of substances",
+                "fr": "Test de pureté des substances",
+                "mfe": "Teste pirte bann sibstans"
+              },
+              "objectives": [
+                "Use melting and boiling points to test purity",
+                "Interpret chromatograms to identify substances",
+                "Explain the importance of purity in everyday products"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Atomic structure and periodic table",
+            "fr": "Structure atomique et tableau périodique",
+            "mfe": "Striktir atomik ek tablo periodik"
+          },
+          "summary": {
+            "en": "Learners explore the structure of atoms, electron arrangement, isotopes and how these determine an element's position and properties in the periodic table.",
+            "fr": "Les élèves explorent la structure des atomes, la disposition des électrons, les isotopes et comment ceux-ci déterminent la position et les propriétés d'un élément dans le tableau périodique.",
+            "mfe": "Bann elev pou explor striktir bann atom, arangman elektron, izotop ek kouma sa bann kitsoz-la determinn pozision ek proprite enn elman dan tablo periodik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Structure of the atom",
+                "fr": "Structure de l'atome",
+                "mfe": "Striktir atom"
+              },
+              "objectives": [
+                "Identify protons, neutrons and electrons",
+                "State the relative charge and mass of subatomic particles",
+                "Explain proton number and nucleon number"
+              ]
+            },
+            {
+              "title": {
+                "en": "Electronic configuration",
+                "fr": "Configuration électronique",
+                "mfe": "Konfigirasyon elektronik"
+              },
+              "objectives": [
+                "Draw electronic structures of the first twenty elements",
+                "Relate electron arrangement to group number",
+                "Explain how electron shells fill with increasing atomic number"
+              ]
+            },
+            {
+              "title": {
+                "en": "Isotopes and relative atomic mass",
+                "fr": "Isotopes et masse atomique relative",
+                "mfe": "Izotop ek mas atomik relatif"
+              },
+              "objectives": [
+                "Define isotopes with examples",
+                "Calculate relative atomic mass from isotopic abundance",
+                "Describe uses of isotopes in Mauritius and beyond"
+              ]
+            },
+            {
+              "title": {
+                "en": "Trends in the periodic table",
+                "fr": "Tendances dans le tableau périodique",
+                "mfe": "Tandans dan tablo periodik"
+              },
+              "objectives": [
+                "Describe how the periodic table is arranged by proton number",
+                "Explain trends in metallic and non-metallic properties across periods",
+                "Relate group number to chemical behaviour"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Chemical bonding",
+            "fr": "Liaisons chimiques",
+            "mfe": "Lyezon simik"
+          },
+          "summary": {
+            "en": "This unit explains how atoms combine through ionic, covalent and metallic bonding, and links bonding types to the physical properties of substances.",
+            "fr": "Cette unité explique comment les atomes se combinent par liaisons ioniques, covalentes et métalliques, et relie les types de liaisons aux propriétés physiques des substances.",
+            "mfe": "Sa linite-la explik kouma bann atom kombine par lyezon ionik, kovalan ek metalik, ek li relye tip lyezon ar proprite fizik bann sibstans."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Ionic bonding",
+                "fr": "Liaison ionique",
+                "mfe": "Lyezon ionik"
+              },
+              "objectives": [
+                "Describe formation of ions by electron transfer",
+                "Draw dot-and-cross diagrams for ionic compounds",
+                "Explain properties of ionic compounds"
+              ]
+            },
+            {
+              "title": {
+                "en": "Covalent bonding",
+                "fr": "Liaison covalente",
+                "mfe": "Lyezon kovalan"
+              },
+              "objectives": [
+                "Describe formation of covalent bonds by electron sharing",
+                "Draw simple molecular structures",
+                "Explain properties of simple molecular substances"
+              ]
+            },
+            {
+              "title": {
+                "en": "Giant covalent structures",
+                "fr": "Structures covalentes géantes",
+                "mfe": "Striktir kovalan zean"
+              },
+              "objectives": [
+                "Describe structures of diamond and graphite",
+                "Explain properties related to giant covalent structures",
+                "Compare uses of diamond and graphite"
+              ]
+            },
+            {
+              "title": {
+                "en": "Metallic bonding",
+                "fr": "Liaison métallique",
+                "mfe": "Lyezon metalik"
+              },
+              "objectives": [
+                "Describe the structure of metals in terms of metallic bonding",
+                "Explain electrical conductivity and malleability of metals",
+                "Relate metallic structure to everyday uses of metals"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Stoichiometry and chemical formulae",
+            "fr": "Stœchiométrie et formules chimiques",
+            "mfe": "Stekyometri ek formil simik"
+          },
+          "summary": {
+            "en": "Students learn to calculate relative masses, use the mole concept, and apply chemical equations to solve quantitative problems in chemistry.",
+            "fr": "Les élèves apprennent à calculer les masses relatives, à utiliser le concept de mole et à appliquer les équations chimiques pour résoudre des problèmes quantitatifs en chimie.",
+            "mfe": "Bann elev aprann kalkil mas relatif, servi konsep mol, ek aplik ekwasyon simik pou rezoud problem kantitatif dan simi."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Relative masses and the mole",
+                "fr": "Masses relatives et la mole",
+                "mfe": "Mas relatif ek mol"
+              },
+              "objectives": [
+                "Define relative atomic and molecular mass",
+                "Explain the mole as a unit of amount of substance",
+                "Calculate number of moles from mass"
+              ]
+            },
+            {
+              "title": {
+                "en": "Chemical formulae and equations",
+                "fr": "Formules chimiques et équations",
+                "mfe": "Formil simik ek ekwasyon"
+              },
+              "objectives": [
+                "Write formulae of common compounds",
+                "Balance chemical equations",
+                "Interpret symbols and state symbols in equations"
+              ]
+            },
+            {
+              "title": {
+                "en": "Calculations from equations",
+                "fr": "Calculs à partir des équations",
+                "mfe": "Kalkil apartir ekwasyon"
+              },
+              "objectives": [
+                "Calculate reacting masses using balanced equations",
+                "Determine limiting reagents in a reaction",
+                "Apply mole ratios to solve problems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Concentration of solutions",
+                "fr": "Concentration des solutions",
+                "mfe": "Konsantrasyon solisyon"
+              },
+              "objectives": [
+                "Define concentration in mol per dm3",
+                "Calculate concentration from mass and volume data",
+                "Solve problems involving dilution of solutions"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Chemical energetics",
+            "fr": "Énergétique chimique",
+            "mfe": "Enerzetik simik"
+          },
+          "summary": {
+            "en": "This unit examines energy changes during chemical reactions, distinguishing exothermic and endothermic processes and explaining them using bond energies.",
+            "fr": "Cette unité examine les changements d'énergie lors des réactions chimiques, en distinguant les processus exothermiques et endothermiques et en les expliquant à l'aide des énergies de liaison.",
+            "mfe": "Sa linite-la examine sanzman enerzi pandan reaksyon simik, distinge prosesis exotermik ek andotermik ek explik zot atraver enerzi lyezon."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Exothermic and endothermic reactions",
+                "fr": "Réactions exothermiques et endothermiques",
+                "mfe": "Reaksyon exotermik ek andotermik"
+              },
+              "objectives": [
+                "Distinguish exothermic and endothermic reactions with examples",
+                "Measure temperature changes during simple reactions",
+                "Relate energy changes to bond breaking and forming"
+              ]
+            },
+            {
+              "title": {
+                "en": "Energy level diagrams",
+                "fr": "Diagrammes de niveaux d'énergie",
+                "mfe": "Diagram nivo enerzi"
+              },
+              "objectives": [
+                "Draw energy level diagrams for exothermic and endothermic reactions",
+                "Label activation energy on a diagram",
+                "Interpret energy profile diagrams"
+              ]
+            },
+            {
+              "title": {
+                "en": "Bond energy calculations",
+                "fr": "Calculs d'énergie de liaison",
+                "mfe": "Kalkil enerzi lyezon"
+              },
+              "objectives": [
+                "Define bond energy",
+                "Calculate energy change of a reaction using bond energies",
+                "Explain why some reactions release or absorb energy"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Rates of reaction",
+            "fr": "Vitesse de réaction",
+            "mfe": "Vites reaksyon"
+          },
+          "summary": {
+            "en": "Learners investigate the factors that affect how fast chemical reactions occur and explain these effects using collision theory.",
+            "fr": "Les élèves étudient les facteurs qui influencent la vitesse des réactions chimiques et expliquent ces effets à l'aide de la théorie des collisions.",
+            "mfe": "Bann elev investige bann fakter ki afekte vites reaksyon simik ek explik zot par teori kolizyon."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Collision theory",
+                "fr": "Théorie des collisions",
+                "mfe": "Teori kolizyon"
+              },
+              "objectives": [
+                "Explain reaction rate in terms of particle collisions",
+                "Define activation energy",
+                "Relate energy of collisions to successful reactions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Factors affecting reaction rate",
+                "fr": "Facteurs influençant la vitesse de réaction",
+                "mfe": "Fakter ki afekte vites reaksyon"
+              },
+              "objectives": [
+                "Investigate effect of concentration, temperature and surface area on rate",
+                "Interpret rate graphs from experimental data",
+                "Explain results using collision theory"
+              ]
+            },
+            {
+              "title": {
+                "en": "Catalysts",
+                "fr": "Catalyseurs",
+                "mfe": "Katalizer"
+              },
+              "objectives": [
+                "Define a catalyst and its role in reactions",
+                "Describe examples of catalysts in industry and biology",
+                "Explain how catalysts affect activation energy"
+              ]
+            },
+            {
+              "title": {
+                "en": "Investigating rate practically",
+                "fr": "Investigation pratique de la vitesse",
+                "mfe": "Investigasyon pratik lor vites"
+              },
+              "objectives": [
+                "Design a simple experiment to measure reaction rate",
+                "Record and plot rate data accurately",
+                "Draw conclusions from rate experiments"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Acids, bases and salts",
+            "fr": "Acides, bases et sels",
+            "mfe": "Asid, baz ek sel"
+          },
+          "summary": {
+            "en": "This unit covers the properties of acids and bases, the pH scale, neutralisation, and methods for preparing common salts.",
+            "fr": "Cette unité couvre les propriétés des acides et des bases, l'échelle de pH, la neutralisation et les méthodes de préparation des sels courants.",
+            "mfe": "Sa linite-la kouver proprite asid ek baz, lesel pH, netralizasyon, ek metod pou prepar bann sel komen."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Properties of acids and bases",
+                "fr": "Propriétés des acides et des bases",
+                "mfe": "Proprite asid ek baz"
+              },
+              "objectives": [
+                "Describe characteristic properties of acids and alkalis",
+                "Use indicators to classify substances",
+                "Write general equations for acid reactions"
+              ]
+            },
+            {
+              "title": {
+                "en": "The pH scale",
+                "fr": "L'échelle de pH",
+                "mfe": "Lesel pH"
+              },
+              "objectives": [
+                "Explain the pH scale from 0 to 14",
+                "Relate pH to acidity and alkalinity",
+                "Use universal indicator to estimate pH"
+              ]
+            },
+            {
+              "title": {
+                "en": "Oxides and their classification",
+                "fr": "Oxydes et leur classification",
+                "mfe": "Oksid ek zot klasifikasyon"
+              },
+              "objectives": [
+                "Classify oxides as acidic, basic, neutral or amphoteric",
+                "Give examples of each oxide type",
+                "Relate oxide type to position in the periodic table"
+              ]
+            },
+            {
+              "title": {
+                "en": "Preparation of salts",
+                "fr": "Préparation des sels",
+                "mfe": "Preparasyon sel"
+              },
+              "objectives": [
+                "Describe methods for preparing soluble and insoluble salts",
+                "Explain titration as a method of salt preparation",
+                "Carry out calculations related to salt preparation"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Electrochemistry",
+            "fr": "Électrochimie",
+            "mfe": "Elektrosimi"
+          },
+          "summary": {
+            "en": "Students learn the principles of electrolysis, including the electrolysis of molten compounds and aqueous solutions, and its industrial applications.",
+            "fr": "Les élèves apprennent les principes de l'électrolyse, y compris l'électrolyse des composés fondus et des solutions aqueuses, ainsi que ses applications industrielles.",
+            "mfe": "Bann elev aprann prinsip elektrolis, ki inklir elektrolis konpoze fonn ek solisyon akeu, ek zot aplikasyon endistriyel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Introduction to electrolysis",
+                "fr": "Introduction à l'électrolyse",
+                "mfe": "Introdiksyon a elektrolis"
+              },
+              "objectives": [
+                "Define electrolysis and identify electrolytes",
+                "Describe the roles of the anode and cathode",
+                "Explain movement of ions during electrolysis"
+              ]
+            },
+            {
+              "title": {
+                "en": "Electrolysis of molten compounds",
+                "fr": "Électrolyse de composés fondus",
+                "mfe": "Elektrolis konpoze fonn"
+              },
+              "objectives": [
+                "Describe electrolysis of molten lead bromide",
+                "Predict products at each electrode",
+                "Write half equations for electrode reactions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Electrolysis of aqueous solutions",
+                "fr": "Électrolyse de solutions aqueuses",
+                "mfe": "Elektrolis solisyon akeu"
+              },
+              "objectives": [
+                "Describe electrolysis of dilute sulfuric acid and copper sulfate solution",
+                "Explain factors affecting products formed",
+                "Predict products using ion discharge rules"
+              ]
+            },
+            {
+              "title": {
+                "en": "Applications of electrolysis",
+                "fr": "Applications de l'électrolyse",
+                "mfe": "Aplikasyon elektrolis"
+              },
+              "objectives": [
+                "Describe electroplating and its uses",
+                "Explain extraction of aluminium by electrolysis",
+                "Discuss economic and environmental aspects of electrolysis"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "11": {
+      "units": [
+        {
+          "title": {
+            "en": "Acids, bases and salts",
+            "fr": "Acides, bases et sels",
+            "mfe": "Lasid, baz ek sel"
+          },
+          "summary": {
+            "en": "Students study the properties of acids and bases, the pH scale, and methods for preparing and identifying salts, building on qualitative reactions from Grade 10.",
+            "fr": "Les élèves étudient les propriétés des acides et des bases, l'échelle de pH, ainsi que les méthodes de préparation et d'identification des sels, en s'appuyant sur les réactions qualitatives vues en 4e.",
+            "mfe": "Bann elev etidie proprite lasid ek baz, lesel pH, ek bann metod pou prepar ek idantifie sel, an sapui lor bann reaksion kalitatif ki finn get dan Grade 10."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Properties of acids and bases",
+                "fr": "Propriétés des acides et des bases",
+                "mfe": "Proprite lasid ek baz"
+              },
+              "objectives": [
+                "Describe the general properties of acids and bases",
+                "Classify common substances as acidic, basic or neutral",
+                "Explain the concept of neutralisation"
+              ]
+            },
+            {
+              "title": {
+                "en": "pH scale and indicators",
+                "fr": "Échelle de pH et indicateurs",
+                "mfe": "Lesel pH ek endikater"
+              },
+              "objectives": [
+                "Explain the pH scale from 0 to 14",
+                "Use indicators to determine acidity or alkalinity",
+                "Relate pH values to hydrogen ion concentration"
+              ]
+            },
+            {
+              "title": {
+                "en": "Preparing salts",
+                "fr": "Préparation des sels",
+                "mfe": "Prepar sel"
+              },
+              "objectives": [
+                "Describe methods for preparing soluble and insoluble salts",
+                "Select an appropriate method based on salt solubility",
+                "Carry out a titration to prepare a soluble salt"
+              ]
+            },
+            {
+              "title": {
+                "en": "Reactions of acids and carbonates",
+                "fr": "Réactions des acides et des carbonates",
+                "mfe": "Reaksion lasid ek karbonat"
+              },
+              "objectives": [
+                "Write equations for reactions of acids with metals, bases and carbonates",
+                "Identify gases produced in these reactions",
+                "Test for carbon dioxide gas"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Redox reactions and electrolysis",
+            "fr": "Réactions redox et électrolyse",
+            "mfe": "Reaksion redoks ek elektroliz"
+          },
+          "summary": {
+            "en": "Students explore oxidation and reduction in terms of electron transfer, and examine electrolysis of molten and aqueous compounds with industrial applications.",
+            "fr": "Les élèves explorent l'oxydation et la réduction en termes de transfert d'électrons, et étudient l'électrolyse de composés fondus et aqueux avec leurs applications industrielles.",
+            "mfe": "Bann elev explor oksidasion ek reduksion an term transfer elektron, ek examine elektroliz konpoze fonn ek akez avek zot lapikasion endistriel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Oxidation and reduction",
+                "fr": "Oxydation et réduction",
+                "mfe": "Oksidasion ek reduksion"
+              },
+              "objectives": [
+                "Define oxidation and reduction in terms of electron transfer",
+                "Identify oxidising and reducing agents in reactions",
+                "Assign oxidation states to elements in compounds"
+              ]
+            },
+            {
+              "title": {
+                "en": "Electrolysis of molten compounds",
+                "fr": "Électrolyse des composés fondus",
+                "mfe": "Elektroliz konpoze fonn"
+              },
+              "objectives": [
+                "Explain the process of electrolysis",
+                "Predict products formed at electrodes during electrolysis of molten salts",
+                "Describe the movement of ions during electrolysis"
+              ]
+            },
+            {
+              "title": {
+                "en": "Electrolysis of aqueous solutions",
+                "fr": "Électrolyse des solutions aqueuses",
+                "mfe": "Elektroliz solision akez"
+              },
+              "objectives": [
+                "Predict products of electrolysis of aqueous solutions",
+                "Explain factors affecting selective discharge of ions",
+                "Compare electrolysis of concentrated and dilute solutions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Applications of electrolysis",
+                "fr": "Applications de l'électrolyse",
+                "mfe": "Lapikasion elektroliz"
+              },
+              "objectives": [
+                "Describe the extraction of aluminium by electrolysis",
+                "Explain electroplating and its uses",
+                "Discuss the purification of copper by electrolysis"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "The periodic table",
+            "fr": "Le tableau périodique",
+            "mfe": "Tablo periodik"
+          },
+          "summary": {
+            "en": "This unit examines the arrangement of the periodic table and trends in properties across periods and down groups, focusing on Groups I, VII and transition elements.",
+            "fr": "Cette unité examine l'organisation du tableau périodique et les tendances des propriétés à travers les périodes et les groupes, en se concentrant sur les groupes I, VII et les métaux de transition.",
+            "mfe": "Sa linite-la examine kouma tablo periodik organize ek bann tandans proprite atraver period ek group, ki fokis lor Group I, VII ek bann metal transision."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Structure of the periodic table",
+                "fr": "Structure du tableau périodique",
+                "mfe": "Striktir tablo periodik"
+              },
+              "objectives": [
+                "Describe how elements are arranged by atomic number",
+                "Relate electronic configuration to position in the table",
+                "Distinguish between groups and periods"
+              ]
+            },
+            {
+              "title": {
+                "en": "Group I: alkali metals",
+                "fr": "Groupe I : métaux alcalins",
+                "mfe": "Group I: metal alkalin"
+              },
+              "objectives": [
+                "Describe physical and chemical properties of Group I metals",
+                "Explain trends in reactivity down Group I",
+                "Predict reactions of alkali metals with water and oxygen"
+              ]
+            },
+            {
+              "title": {
+                "en": "Group VII: halogens",
+                "fr": "Groupe VII : halogènes",
+                "mfe": "Group VII: alozenn"
+              },
+              "objectives": [
+                "Describe physical and chemical properties of halogens",
+                "Explain trends in reactivity down Group VII",
+                "Describe displacement reactions between halogens"
+              ]
+            },
+            {
+              "title": {
+                "en": "Transition elements",
+                "fr": "Métaux de transition",
+                "mfe": "Metal transision"
+              },
+              "objectives": [
+                "Describe characteristic properties of transition elements",
+                "Explain the use of transition metals as catalysts",
+                "Give examples of coloured compounds formed by transition metals"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Metals and reactivity",
+            "fr": "Métaux et réactivité",
+            "mfe": "Metal ek reaktivite"
+          },
+          "summary": {
+            "en": "Students study the reactivity series of metals, methods of extraction, common alloys, and how corrosion can be prevented.",
+            "fr": "Les élèves étudient la série de réactivité des métaux, les méthodes d'extraction, les alliages courants et les moyens de prévenir la corrosion.",
+            "mfe": "Bann elev etidie seri reaktivite metal, metod ekstraksion, bann aliaz komin ek kouma prevenir korozion."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Reactivity series of metals",
+                "fr": "Série de réactivité des métaux",
+                "mfe": "Seri reaktivite metal"
+              },
+              "objectives": [
+                "Arrange common metals in order of reactivity",
+                "Predict displacement reactions between metals and their salts",
+                "Relate reactivity to extraction methods"
+              ]
+            },
+            {
+              "title": {
+                "en": "Extraction of metals",
+                "fr": "Extraction des métaux",
+                "mfe": "Ekstraksion metal"
+              },
+              "objectives": [
+                "Describe the extraction of iron in the blast furnace",
+                "Explain the extraction of aluminium by electrolysis",
+                "Relate extraction method to the position of a metal in the reactivity series"
+              ]
+            },
+            {
+              "title": {
+                "en": "Alloys and their uses",
+                "fr": "Alliages et leurs usages",
+                "mfe": "Aliaz ek zot lizaz"
+              },
+              "objectives": [
+                "Define an alloy and explain why alloys are useful",
+                "Describe the composition and uses of common alloys such as steel and brass",
+                "Compare properties of pure metals with alloys"
+              ]
+            },
+            {
+              "title": {
+                "en": "Corrosion and its prevention",
+                "fr": "Corrosion et sa prévention",
+                "mfe": "Korozion ek so prevansion"
+              },
+              "objectives": [
+                "Explain the process of rusting of iron",
+                "Describe methods used to prevent corrosion",
+                "Evaluate sacrificial protection and galvanising"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Air, water and the environment",
+            "fr": "Air, eau et environnement",
+            "mfe": "Ler, delo ek lanvironnman"
+          },
+          "summary": {
+            "en": "This unit covers the composition of air, causes and effects of pollution, water treatment, and key natural chemical cycles relevant to Mauritius.",
+            "fr": "Cette unité couvre la composition de l'air, les causes et effets de la pollution, le traitement de l'eau et les principaux cycles chimiques naturels pertinents pour Maurice.",
+            "mfe": "Sa linite-la kouver konpozision ler, koz ek lefe polision, tretman delo, ek bann sik simik natirel enportan pou Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Composition and uses of air",
+                "fr": "Composition et usages de l'air",
+                "mfe": "Konpozision ek lizaz ler"
+              },
+              "objectives": [
+                "Describe the composition of clean air",
+                "Explain industrial uses of gases in the air",
+                "Describe experiments to determine the percentage of oxygen in air"
+              ]
+            },
+            {
+              "title": {
+                "en": "Air pollution and climate change",
+                "fr": "Pollution atmosphérique et changement climatique",
+                "mfe": "Polision ler ek sanzman klima"
+              },
+              "objectives": [
+                "Identify sources and effects of common air pollutants",
+                "Explain the greenhouse effect and global warming",
+                "Discuss measures to reduce air pollution in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Water treatment and testing",
+                "fr": "Traitement et analyse de l'eau",
+                "mfe": "Tretman ek tes delo"
+              },
+              "objectives": [
+                "Describe stages of water treatment for domestic supply",
+                "Explain simple tests for water purity",
+                "Discuss the importance of clean water for health"
+              ]
+            },
+            {
+              "title": {
+                "en": "Carbon and nitrogen cycles",
+                "fr": "Cycles du carbone et de l'azote",
+                "mfe": "Sik karbonn ek azot"
+              },
+              "objectives": [
+                "Describe the main stages of the carbon cycle",
+                "Describe the main stages of the nitrogen cycle",
+                "Explain the role of these cycles in maintaining ecological balance"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Organic chemistry",
+            "fr": "Chimie organique",
+            "mfe": "Simi organik"
+          },
+          "summary": {
+            "en": "Students are introduced to hydrocarbons, alcohols and carboxylic acids, and learn about polymers, laying the foundation for organic chemistry at higher levels.",
+            "fr": "Les élèves découvrent les hydrocarbures, les alcools et les acides carboxyliques, et étudient les polymères, posant les bases de la chimie organique pour les niveaux supérieurs.",
+            "mfe": "Bann elev dekouver idrokarbir, alkol ek lasid karboksilik, ek aprann lor polimer, ki poz bann baz pou simi organik dan bann nivo pli o."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Introduction to hydrocarbons",
+                "fr": "Introduction aux hydrocarbures",
+                "mfe": "Introdiksion a idrokarbir"
+              },
+              "objectives": [
+                "Define organic compounds and hydrocarbons",
+                "Distinguish between saturated and unsaturated hydrocarbons",
+                "Name simple alkanes and alkenes using IUPAC rules"
+              ]
+            },
+            {
+              "title": {
+                "en": "Alkanes and alkenes",
+                "fr": "Alcanes et alcènes",
+                "mfe": "Alkann ek alkenn"
+              },
+              "objectives": [
+                "Describe properties and reactions of alkanes",
+                "Describe properties and reactions of alkenes",
+                "Use bromine water to distinguish alkanes from alkenes"
+              ]
+            },
+            {
+              "title": {
+                "en": "Alcohols and carboxylic acids",
+                "fr": "Alcools et acides carboxyliques",
+                "mfe": "Alkol ek lasid karboksilik"
+              },
+              "objectives": [
+                "Describe the preparation and properties of ethanol",
+                "Describe properties of carboxylic acids",
+                "Explain the reaction between an alcohol and a carboxylic acid to form an ester"
+              ]
+            },
+            {
+              "title": {
+                "en": "Polymers and macromolecules",
+                "fr": "Polymères et macromolécules",
+                "mfe": "Polimer ek makromolekil"
+              },
+              "objectives": [
+                "Distinguish between addition and condensation polymerisation",
+                "Describe the formation of common polymers such as polythene",
+                "Discuss environmental issues linked to plastic waste"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Industrial chemistry and analysis",
+            "fr": "Chimie industrielle et analyse",
+            "mfe": "Simi endistriel ek analiz"
+          },
+          "summary": {
+            "en": "This final unit examines major industrial processes such as the Haber and Contact processes, qualitative analysis techniques, and revision of key stoichiometric calculations for the SC examination.",
+            "fr": "Cette dernière unité examine les principaux procédés industriels tels que les procédés Haber et Contact, les techniques d'analyse qualitative, ainsi qu'une révision des calculs stœchiométriques clés pour l'examen du SC.",
+            "mfe": "Sa dernie linite-la examine bann gran prosesis endistriel kouma prosesis Haber ek Contact, teknik analiz kalitatif, ek revizion bann kalkil stekiometrik kle pou lexame SC."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "The Haber process",
+                "fr": "Le procédé Haber",
+                "mfe": "Prosesis Haber"
+              },
+              "objectives": [
+                "Describe the conditions used in the Haber process",
+                "Explain the industrial production of ammonia",
+                "Discuss uses of ammonia in fertiliser production"
+              ]
+            },
+            {
+              "title": {
+                "en": "The Contact process",
+                "fr": "Le procédé de contact",
+                "mfe": "Prosesis Contact"
+              },
+              "objectives": [
+                "Describe the stages of the Contact process",
+                "Explain the industrial production of sulfuric acid",
+                "Discuss uses and environmental impacts of sulfuric acid production"
+              ]
+            },
+            {
+              "title": {
+                "en": "Qualitative analysis of ions and gases",
+                "fr": "Analyse qualitative des ions et des gaz",
+                "mfe": "Analiz kalitatif ion ek gaz"
+              },
+              "objectives": [
+                "Carry out tests to identify common cations and anions",
+                "Carry out tests to identify common gases",
+                "Interpret observations to identify unknown substances"
+              ]
+            },
+            {
+              "title": {
+                "en": "Revision: stoichiometry and calculations",
+                "fr": "Révision : stœchiométrie et calculs",
+                "mfe": "Revizion: stekiometri ek kalkil"
+              },
+              "objectives": [
+                "Perform calculations involving moles, masses and volumes",
+                "Solve problems using balanced chemical equations",
+                "Apply stoichiometric principles to practical chemistry problems"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "12": {
+      "units": [
+        {
+          "title": {
+            "en": "Atomic structure",
+            "fr": "Structure atomique",
+            "mfe": "Striktir atomik"
+          },
+          "summary": {
+            "en": "Explore the structure of the atom, isotopes, electron arrangement and periodic trends in ionisation energy, building the foundation for AS Level chemistry.",
+            "fr": "Explorer la structure de l'atome, les isotopes, la disposition des électrons et les tendances périodiques de l'énergie d'ionisation, base de la chimie de niveau AS.",
+            "mfe": "Explor striktir atom, izotop, arondisman elektron ek tandans periodik dan energi ionizasion, ki form baz kimi AS Level."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Protons, neutrons and electrons",
+                "fr": "Protons, neutrons et électrons",
+                "mfe": "Proton, netron ek elektron"
+              },
+              "objectives": [
+                "Describe the structure of the atom in terms of subatomic particles",
+                "Explain the significance of proton number and nucleon number",
+                "Relate atomic structure to the position of elements in the periodic table"
+              ]
+            },
+            {
+              "title": {
+                "en": "Isotopes and mass spectrometry",
+                "fr": "Isotopes et spectrométrie de masse",
+                "mfe": "Izotop ek spektrometri mas"
+              },
+              "objectives": [
+                "Define isotopes and explain their properties",
+                "Interpret mass spectra to determine relative atomic mass",
+                "Calculate relative atomic mass from isotopic abundance data"
+              ]
+            },
+            {
+              "title": {
+                "en": "Electron configuration and orbitals",
+                "fr": "Configuration électronique et orbitales",
+                "mfe": "Konfigirasion elektron ek orbital"
+              },
+              "objectives": [
+                "Describe the shapes of s and p orbitals",
+                "Write electron configurations for atoms and ions",
+                "Explain the arrangement of electrons in shells, subshells and orbitals"
+              ]
+            },
+            {
+              "title": {
+                "en": "Ionisation energy trends",
+                "fr": "Tendances de l'énergie d'ionisation",
+                "mfe": "Tandans energi ionizasion"
+              },
+              "objectives": [
+                "Define first and successive ionisation energies",
+                "Explain trends in ionisation energy across a period and down a group",
+                "Use ionisation energy data to deduce electron configurations"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Atoms, moles and stoichiometry",
+            "fr": "Atomes, moles et stœchiométrie",
+            "mfe": "Atom, mol ek stesiometri"
+          },
+          "summary": {
+            "en": "Develop quantitative chemistry skills including the mole concept, formulae and calculations used in titrations and reacting quantities.",
+            "fr": "Développer des compétences en chimie quantitative, notamment le concept de mole, les formules et les calculs utilisés dans les titrages et les quantités réactionnelles.",
+            "mfe": "Devlop konpetans kimi kantitatif ki inklir konsep mol, formil ek kalkil servi dan titraz ek kantite reaksion."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "The mole and Avogadro's constant",
+                "fr": "La mole et la constante d'Avogadro",
+                "mfe": "Mol ek konstant Avogadro"
+              },
+              "objectives": [
+                "Define the mole and Avogadro's constant",
+                "Calculate the number of particles, moles and mass in a sample",
+                "Apply the mole concept to gas volumes at room temperature and pressure"
+              ]
+            },
+            {
+              "title": {
+                "en": "Empirical and molecular formulae",
+                "fr": "Formules empiriques et moléculaires",
+                "mfe": "Formil empirik ek molekiler"
+              },
+              "objectives": [
+                "Determine empirical formula from composition data",
+                "Calculate molecular formula from empirical formula and molar mass",
+                "Interpret combustion analysis data"
+              ]
+            },
+            {
+              "title": {
+                "en": "Calculations from equations",
+                "fr": "Calculs à partir des équations",
+                "mfe": "Kalkil apartir ekwasion"
+              },
+              "objectives": [
+                "Balance chemical equations",
+                "Calculate reacting masses and volumes using mole ratios",
+                "Solve problems involving limiting reagents and percentage yield"
+              ]
+            },
+            {
+              "title": {
+                "en": "Volumetric analysis and titrations",
+                "fr": "Analyse volumétrique et titrages",
+                "mfe": "Analiz volimetrik ek titraz"
+              },
+              "objectives": [
+                "Describe the technique of acid-base titration",
+                "Calculate concentrations from titration results",
+                "Perform calculations involving standard solutions"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Chemical bonding",
+            "fr": "Liaison chimique",
+            "mfe": "Lyezon simik"
+          },
+          "summary": {
+            "en": "Study the types of chemical bonding, molecular shapes and intermolecular forces that determine the properties of substances.",
+            "fr": "Étudier les types de liaisons chimiques, les formes moléculaires et les forces intermoléculaires qui déterminent les propriétés des substances.",
+            "mfe": "Etidie diferan tip lyezon simik, form molekil ek fors entermolekiler ki determinn proprite sibstans."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Ionic bonding and lattice structures",
+                "fr": "Liaison ionique et structures cristallines",
+                "mfe": "Lyezon ionik ek striktir kristal"
+              },
+              "objectives": [
+                "Explain the formation of ionic bonds",
+                "Describe the structure of ionic lattices",
+                "Relate lattice energy to ionic properties"
+              ]
+            },
+            {
+              "title": {
+                "en": "Covalent and dative bonding",
+                "fr": "Liaison covalente et de coordination",
+                "mfe": "Lyezon kovalan ek koordinasion"
+              },
+              "objectives": [
+                "Explain the formation of covalent and dative covalent bonds",
+                "Draw dot-and-cross diagrams for simple molecules",
+                "Explain bond polarity and electronegativity"
+              ]
+            },
+            {
+              "title": {
+                "en": "Shapes of molecules",
+                "fr": "Formes des molécules",
+                "mfe": "Form molekil"
+              },
+              "objectives": [
+                "Apply VSEPR theory to predict molecular shapes",
+                "Explain bond angles in simple molecules and ions",
+                "Relate electron pair repulsion to molecular geometry"
+              ]
+            },
+            {
+              "title": {
+                "en": "Metallic bonding and intermolecular forces",
+                "fr": "Liaison métallique et forces intermoléculaires",
+                "mfe": "Lyezon metalik ek fors entermolekiler"
+              },
+              "objectives": [
+                "Describe metallic bonding and its effect on properties",
+                "Compare van der Waals forces, dipole-dipole forces and hydrogen bonding",
+                "Explain how intermolecular forces affect boiling points"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "States of matter",
+            "fr": "États de la matière",
+            "mfe": "Leta matyer"
+          },
+          "summary": {
+            "en": "Examine the gaseous, liquid and solid states, using the ideal gas equation and models of structure to explain physical properties.",
+            "fr": "Examiner les états gazeux, liquide et solide, en utilisant l'équation des gaz parfaits et des modèles de structure pour expliquer les propriétés physiques.",
+            "mfe": "Egzamin leta gaze, likid ek solid, servi lekwasion gaz ideal ek model striktir pou explik proprite fizik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "The gaseous state",
+                "fr": "L'état gazeux",
+                "mfe": "Leta gaze"
+              },
+              "objectives": [
+                "State the assumptions of the ideal gas equation",
+                "Use pV = nRT to calculate gas properties",
+                "Explain deviations from ideal gas behaviour"
+              ]
+            },
+            {
+              "title": {
+                "en": "The liquid state",
+                "fr": "L'état liquide",
+                "mfe": "Leta likid"
+              },
+              "objectives": [
+                "Describe the arrangement of particles in liquids",
+                "Explain properties such as viscosity and surface tension",
+                "Relate intermolecular forces to boiling points of liquids"
+              ]
+            },
+            {
+              "title": {
+                "en": "The solid state",
+                "fr": "L'état solide",
+                "mfe": "Leta solid"
+              },
+              "objectives": [
+                "Classify solids as ionic, molecular, giant covalent or metallic",
+                "Describe the structures of diamond, graphite and ice",
+                "Relate structure and bonding to physical properties of solids"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Chemical energetics",
+            "fr": "Énergétique chimique",
+            "mfe": "Enerzetik simik"
+          },
+          "summary": {
+            "en": "Investigate enthalpy changes in chemical reactions, applying Hess's law and bond energies to calculate reaction enthalpies.",
+            "fr": "Étudier les variations d'enthalpie dans les réactions chimiques, en appliquant la loi de Hess et les énergies de liaison pour calculer les enthalpies de réaction.",
+            "mfe": "Envestig sanzman antalpi dan reaksion simik, aplik lalwa Hess ek energi lyezon pou kalkil antalpi reaksion."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Enthalpy changes and calorimetry",
+                "fr": "Variations d'enthalpie et calorimétrie",
+                "mfe": "Sanzman antalpi ek kalorimetri"
+              },
+              "objectives": [
+                "Define enthalpy change of reaction, formation and combustion",
+                "Measure enthalpy changes experimentally using calorimetry",
+                "Draw and interpret enthalpy level diagrams"
+              ]
+            },
+            {
+              "title": {
+                "en": "Hess's law and enthalpy cycles",
+                "fr": "Loi de Hess et cycles d'enthalpie",
+                "mfe": "Lalwa Hess ek sikl antalpi"
+              },
+              "objectives": [
+                "State Hess's law of constant heat summation",
+                "Construct enthalpy cycles to calculate unknown enthalpy changes",
+                "Apply Hess's law to formation and combustion data"
+              ]
+            },
+            {
+              "title": {
+                "en": "Bond energies and calculations",
+                "fr": "Énergies de liaison et calculs",
+                "mfe": "Energi lyezon ek kalkil"
+              },
+              "objectives": [
+                "Define average bond energy",
+                "Calculate enthalpy changes using bond energies",
+                "Explain why bond energy calculations give approximate values"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Redox reactions and electrochemistry",
+            "fr": "Réactions redox et électrochimie",
+            "mfe": "Reaksion redoks ek elektrosimi"
+          },
+          "summary": {
+            "en": "Understand oxidation and reduction processes, electrode potentials and electrochemical cells, with practical applications in Mauritius.",
+            "fr": "Comprendre les processus d'oxydation et de réduction, les potentiels d'électrode et les piles électrochimiques, avec des applications pratiques à Maurice.",
+            "mfe": "Konpran prosesis oksidasion ek redwiksion, potansiel elektrod ek pil elektrosimik, avek aplikasion pratik dan Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Oxidation states and redox equations",
+                "fr": "Nombres d'oxydation et équations redox",
+                "mfe": "Nonb oksidasion ek ekwasion redoks"
+              },
+              "objectives": [
+                "Assign oxidation states to elements in compounds",
+                "Identify oxidising and reducing agents in reactions",
+                "Balance redox equations using half-equations"
+              ]
+            },
+            {
+              "title": {
+                "en": "Electrochemical cells and electrode potentials",
+                "fr": "Piles électrochimiques et potentiels d'électrode",
+                "mfe": "Pil elektrosimik ek potansiel elektrod"
+              },
+              "objectives": [
+                "Describe the construction of simple electrochemical cells",
+                "Explain standard electrode potentials and their measurement",
+                "Use electrode potentials to predict feasibility of reactions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Applications of electrochemistry",
+                "fr": "Applications de l'électrochimie",
+                "mfe": "Aplikasion elektrosimi"
+              },
+              "objectives": [
+                "Explain the working principle of common batteries",
+                "Describe electrolysis and its industrial applications",
+                "Discuss the use of electrochemistry in corrosion prevention"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Reaction kinetics and chemical equilibria",
+            "fr": "Cinétique réactionnelle et équilibres chimiques",
+            "mfe": "Sinetik reaksion ek ekilib simik"
+          },
+          "summary": {
+            "en": "Study the rates of chemical reactions and the concept of dynamic equilibrium, including equilibrium constants and Le Chatelier's principle.",
+            "fr": "Étudier les vitesses des réactions chimiques et le concept d'équilibre dynamique, y compris les constantes d'équilibre et le principe de Le Chatelier.",
+            "mfe": "Etidie vites reaksion simik ek konsep ekilib dinamik, ki inklir konstant ekilib ek prinsip Le Chatelier."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Collision theory and reaction rates",
+                "fr": "Théorie des collisions et vitesses de réaction",
+                "mfe": "Teori kolizion ek vites reaksion"
+              },
+              "objectives": [
+                "Explain reaction rate using collision theory",
+                "Interpret Boltzmann distribution curves",
+                "Describe the effect of catalysts on activation energy"
+              ]
+            },
+            {
+              "title": {
+                "en": "Factors affecting reaction rate",
+                "fr": "Facteurs influençant la vitesse de réaction",
+                "mfe": "Fakter ki afekte vites reaksion"
+              },
+              "objectives": [
+                "Investigate the effect of concentration, temperature and surface area on rate",
+                "Interpret rate-concentration graphs",
+                "Design simple experiments to measure reaction rates"
+              ]
+            },
+            {
+              "title": {
+                "en": "Dynamic equilibrium and Le Chatelier's principle",
+                "fr": "Équilibre dynamique et principe de Le Chatelier",
+                "mfe": "Ekilib dinamik ek prinsip Le Chatelier"
+              },
+              "objectives": [
+                "Explain the concept of dynamic equilibrium",
+                "Apply Le Chatelier's principle to predict shifts in equilibrium",
+                "Discuss equilibrium in industrial processes such as the Haber process"
+              ]
+            },
+            {
+              "title": {
+                "en": "Equilibrium constants Kc and Kp",
+                "fr": "Constantes d'équilibre Kc et Kp",
+                "mfe": "Konstant ekilib Kc ek Kp"
+              },
+              "objectives": [
+                "Write expressions for Kc and Kp",
+                "Calculate equilibrium constants from concentration and pressure data",
+                "Explain the effect of changing conditions on the value of Kc"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Periodicity, group 2 and group 17",
+            "fr": "Périodicité, groupe 2 et groupe 17",
+            "mfe": "Periodisite, group 2 ek group 17"
+          },
+          "summary": {
+            "en": "Explore periodic trends in physical and chemical properties, focusing on the reactivity of group 2 metals and group 17 halogens.",
+            "fr": "Explorer les tendances périodiques des propriétés physiques et chimiques, en se concentrant sur la réactivité des métaux du groupe 2 et des halogènes du groupe 17.",
+            "mfe": "Explor tandans periodik dan proprite fizik ek simik, konsantre lor reaktivite metal group 2 ek alozenn group 17."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Periodic trends in physical properties",
+                "fr": "Tendances périodiques des propriétés physiques",
+                "mfe": "Tandans periodik proprite fizik"
+              },
+              "objectives": [
+                "Describe trends in atomic radius and melting point across a period",
+                "Explain the periodic trend in electronegativity",
+                "Relate periodic trends to atomic structure"
+              ]
+            },
+            {
+              "title": {
+                "en": "Group 2 metals: reactions and trends",
+                "fr": "Métaux du groupe 2 : réactions et tendances",
+                "mfe": "Metal group 2: reaksion ek tandans"
+              },
+              "objectives": [
+                "Describe reactions of group 2 metals with water and oxygen",
+                "Explain trends in reactivity down group 2",
+                "Describe the thermal decomposition of group 2 carbonates"
+              ]
+            },
+            {
+              "title": {
+                "en": "Group 17 halogens: reactions and trends",
+                "fr": "Halogènes du groupe 17 : réactions et tendances",
+                "mfe": "Alozenn group 17: reaksion ek tandans"
+              },
+              "objectives": [
+                "Describe the displacement reactions of halogens and halides",
+                "Explain trends in oxidising power down group 17",
+                "Describe the disproportionation reactions of chlorine"
+              ]
+            },
+            {
+              "title": {
+                "en": "Uses of group 2 and group 17 compounds",
+                "fr": "Utilisations des composés des groupes 2 et 17",
+                "mfe": "Servis konpoze group 2 ek group 17"
+              },
+              "objectives": [
+                "Discuss everyday and industrial uses of group 2 compounds",
+                "Explain the use of chlorine in water treatment in Mauritius",
+                "Evaluate risks and benefits of halogen compounds in society"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "13": {
+      "units": [
+        {
+          "title": {
+            "en": "Lattice energy and Born-Haber cycles",
+            "fr": "Énergie réticulaire et cycles de Born-Haber",
+            "mfe": "Enerzi resosiye ek sik Born-Haber"
+          },
+          "summary": {
+            "en": "Students explore energy changes in ionic compound formation using Born-Haber cycles, lattice energy, and enthalpy of solution and hydration.",
+            "fr": "Les élèves explorent les changements d'énergie lors de la formation des composés ioniques à l'aide des cycles de Born-Haber, de l'énergie réticulaire et des enthalpies de solution et d'hydratation.",
+            "mfe": "Bann elev explor sanzman lenerzi dan formasyon konpoze ionik atraver sik Born-Haber, enerzi resosiye, ek antalpi disolision ek idratasyon."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Defining lattice energy and enthalpy changes",
+                "fr": "Définir l'énergie réticulaire et les changements d'enthalpie",
+                "mfe": "Defini enerzi resosiye ek sanzman antalpi"
+              },
+              "objectives": [
+                "Define lattice energy, enthalpy of formation, and enthalpy of atomisation",
+                "Explain the significance of standard state conditions",
+                "Describe first electron affinity with an equation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Constructing Born-Haber cycles",
+                "fr": "Construire des cycles de Born-Haber",
+                "mfe": "Konstrir sik Born-Haber"
+              },
+              "objectives": [
+                "Construct a Born-Haber cycle for a simple ionic compound",
+                "Apply Hess's law to calculate lattice energy",
+                "Identify each enthalpy term in the cycle"
+              ]
+            },
+            {
+              "title": {
+                "en": "Factors affecting lattice energy",
+                "fr": "Facteurs influençant l'énergie réticulaire",
+                "mfe": "Fakter ki afekte enerzi resosiye"
+              },
+              "objectives": [
+                "Explain how ionic charge and radius affect lattice energy",
+                "Compare theoretical and experimental lattice energies",
+                "Discuss evidence for covalent character in ionic bonds"
+              ]
+            },
+            {
+              "title": {
+                "en": "Enthalpy of solution and hydration",
+                "fr": "Enthalpie de solution et d'hydratation",
+                "mfe": "Antalpi disolision ek idratasyon"
+              },
+              "objectives": [
+                "Define enthalpy of solution and enthalpy of hydration",
+                "Construct an energy cycle linking lattice energy, hydration and solution enthalpies",
+                "Predict solubility trends using enthalpy data"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Electrochemistry and electrode potentials",
+            "fr": "Électrochimie et potentiels d'électrode",
+            "mfe": "Elektrosimi ek potansyel elektrod"
+          },
+          "summary": {
+            "en": "This unit covers standard electrode potentials, electrochemical cells, and their use in predicting redox reaction feasibility.",
+            "fr": "Cette unité couvre les potentiels d'électrode standard, les piles électrochimiques et leur utilisation pour prédire la faisabilité des réactions redox.",
+            "mfe": "Sa lini la kouver potansyel elektrod standard, pil elektrosimik, ek zot itilizasyon pou predir fezabilite reaksyon redoks."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Standard electrode potentials",
+                "fr": "Potentiels d'électrode standard",
+                "mfe": "Potansyel elektrod standard"
+              },
+              "objectives": [
+                "Define standard electrode potential and standard hydrogen electrode",
+                "Describe how to measure standard electrode potentials",
+                "Explain the standard conditions required for measurement"
+              ]
+            },
+            {
+              "title": {
+                "en": "Electrochemical cells and cell diagrams",
+                "fr": "Piles électrochimiques et diagrammes de pile",
+                "mfe": "Pil elektrosimik ek diagram pil"
+              },
+              "objectives": [
+                "Construct a simple electrochemical cell",
+                "Draw and interpret conventional cell diagrams",
+                "Calculate EMF of a cell from electrode potentials"
+              ]
+            },
+            {
+              "title": {
+                "en": "Predicting feasibility of redox reactions",
+                "fr": "Prédire la faisabilité des réactions redox",
+                "mfe": "Predir fezabilite bann reaksyon redoks"
+              },
+              "objectives": [
+                "Use electrode potentials to predict the direction of redox reactions",
+                "Explain limitations of predictions based on electrode potentials",
+                "Apply the concept to industrial and everyday examples"
+              ]
+            },
+            {
+              "title": {
+                "en": "Batteries and fuel cells",
+                "fr": "Batteries et piles à combustible",
+                "mfe": "Batri ek pil konbistib"
+              },
+              "objectives": [
+                "Describe the operation of common rechargeable batteries",
+                "Explain the working principle of a hydrogen-oxygen fuel cell",
+                "Discuss advantages and limitations of fuel cells for Mauritius"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Further equilibria: acids, bases and buffers",
+            "fr": "Équilibres approfondis : acides, bases et tampons",
+            "mfe": "Ekilib avanse: asid, baz ek tanpon"
+          },
+          "summary": {
+            "en": "Students extend equilibrium concepts to pH calculations, weak acids and bases, buffer solutions, and solubility product.",
+            "fr": "Les élèves approfondissent les concepts d'équilibre avec les calculs de pH, les acides et bases faibles, les solutions tampons et le produit de solubilité.",
+            "mfe": "Bann elev pouse konsep ekilib ar kalkil pH, asid ek baz feb, solisyon tanpon, ek prodwi solibilite."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "pH and the ionic product of water",
+                "fr": "pH et produit ionique de l'eau",
+                "mfe": "pH ek prodwi ionik dilo"
+              },
+              "objectives": [
+                "Define pH and Kw",
+                "Calculate pH of strong acids and bases",
+                "Explain the temperature dependence of Kw"
+              ]
+            },
+            {
+              "title": {
+                "en": "Weak acids and Ka",
+                "fr": "Acides faibles et Ka",
+                "mfe": "Asid feb ek Ka"
+              },
+              "objectives": [
+                "Define Ka and pKa for weak acids",
+                "Calculate pH of weak acid solutions using Ka",
+                "Compare strength of acids using Ka values"
+              ]
+            },
+            {
+              "title": {
+                "en": "Buffer solutions",
+                "fr": "Solutions tampons",
+                "mfe": "Solisyon tanpon"
+              },
+              "objectives": [
+                "Explain how buffer solutions resist pH change",
+                "Describe preparation of acidic and basic buffers",
+                "Calculate pH of a buffer using the Henderson-Hasselbalch approach"
+              ]
+            },
+            {
+              "title": {
+                "en": "Solubility product and titration curves",
+                "fr": "Produit de solubilité et courbes de titrage",
+                "mfe": "Prodwi solibilite ek korb titraz"
+              },
+              "objectives": [
+                "Define solubility product Ksp",
+                "Interpret pH titration curves for various acid-base combinations",
+                "Select appropriate indicators using titration curve data"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Reaction kinetics and rate equations",
+            "fr": "Cinétique réactionnelle et équations de vitesse",
+            "mfe": "Sinetik reaksyon ek ekwasyon vites"
+          },
+          "summary": {
+            "en": "This unit develops quantitative treatment of reaction rates, including orders of reaction, rate equations, and reaction mechanisms.",
+            "fr": "Cette unité développe un traitement quantitatif des vitesses de réaction, incluant les ordres de réaction, les équations de vitesse et les mécanismes réactionnels.",
+            "mfe": "Sa lini la devlop enn tretman kantitatif lor vites reaksyon, ki inklir lord reaksyon, ekwasyon vites, ek mekanism reaksyon."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Orders of reaction and rate equations",
+                "fr": "Ordres de réaction et équations de vitesse",
+                "mfe": "Lord reaksyon ek ekwasyon vites"
+              },
+              "objectives": [
+                "Define order of reaction and rate constant",
+                "Determine order of reaction from concentration-time data",
+                "Write a rate equation from experimental data"
+              ]
+            },
+            {
+              "title": {
+                "en": "Determining rate equations experimentally",
+                "fr": "Déterminer les équations de vitesse expérimentalement",
+                "mfe": "Determin ekwasyon vites experimantalman"
+              },
+              "objectives": [
+                "Use the initial rates method to find reaction order",
+                "Interpret graphs to determine rate constants",
+                "Calculate units of rate constants for different orders"
+              ]
+            },
+            {
+              "title": {
+                "en": "Rate-determining step and mechanisms",
+                "fr": "Étape déterminante et mécanismes réactionnels",
+                "mfe": "Letap ki determinn vites ek mekanism"
+              },
+              "objectives": [
+                "Explain the concept of a rate-determining step",
+                "Relate reaction mechanisms to experimental rate equations",
+                "Predict a plausible mechanism consistent with kinetic data"
+              ]
+            },
+            {
+              "title": {
+                "en": "The Arrhenius equation and catalysis",
+                "fr": "L'équation d'Arrhenius et la catalyse",
+                "mfe": "Ekwasyon Arrhenius ek katalis"
+              },
+              "objectives": [
+                "State and use the Arrhenius equation",
+                "Explain the effect of temperature on rate constant",
+                "Describe how catalysts affect activation energy and rate"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Carbonyl compounds and carboxylic acids",
+            "fr": "Composés carbonylés et acides carboxyliques",
+            "mfe": "Konpoze karbonil ek asid karboksilik"
+          },
+          "summary": {
+            "en": "Students study the structure, reactions and preparation of aldehydes, ketones, carboxylic acids and their derivatives.",
+            "fr": "Les élèves étudient la structure, les réactions et la préparation des aldéhydes, cétones, acides carboxyliques et leurs dérivés.",
+            "mfe": "Bann elev etidye striktir, reaksyon ek preparasyon aldeid, seton, asid karboksilik ek zot derive."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Aldehydes and ketones: structure and tests",
+                "fr": "Aldéhydes et cétones : structure et tests",
+                "mfe": "Aldeid ek seton: striktir ek test"
+              },
+              "objectives": [
+                "Describe the structure and naming of aldehydes and ketones",
+                "Distinguish aldehydes from ketones using Tollens' and Fehling's tests",
+                "Describe nucleophilic addition reactions of carbonyl compounds"
+              ]
+            },
+            {
+              "title": {
+                "en": "Reactions of carbonyl compounds",
+                "fr": "Réactions des composés carbonylés",
+                "mfe": "Reaksyon konpoze karbonil"
+              },
+              "objectives": [
+                "Describe reduction of aldehydes and ketones to alcohols",
+                "Explain reaction with HCN to form hydroxynitriles",
+                "Describe the mechanism of nucleophilic addition"
+              ]
+            },
+            {
+              "title": {
+                "en": "Carboxylic acids and derivatives",
+                "fr": "Acides carboxyliques et dérivés",
+                "mfe": "Asid karboksilik ek derive"
+              },
+              "objectives": [
+                "Describe preparation and properties of carboxylic acids",
+                "Explain formation of esters, acyl chlorides and amides",
+                "Compare reactivity of acyl chlorides with esters"
+              ]
+            },
+            {
+              "title": {
+                "en": "Esters and their uses",
+                "fr": "Esters et leurs usages",
+                "mfe": "Ester ek zot itilizasyon"
+              },
+              "objectives": [
+                "Describe esterification and hydrolysis of esters",
+                "Explain the use of esters in fragrances and food flavouring",
+                "Relate ester properties to everyday Mauritian products"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Nitrogen compounds and polymers",
+            "fr": "Composés azotés et polymères",
+            "mfe": "Konpoze nitrozenn ek polimer"
+          },
+          "summary": {
+            "en": "This unit examines amines, amides, amino acids, and the chemistry of condensation and addition polymers.",
+            "fr": "Cette unité examine les amines, amides, acides aminés et la chimie des polymères de condensation et d'addition.",
+            "mfe": "Sa lini la examinn amin, amid, asid amine, ek simi polimer kondansasyon ek adisyon."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Amines: structure and basicity",
+                "fr": "Amines : structure et basicité",
+                "mfe": "Amin: striktir ek basisite"
+              },
+              "objectives": [
+                "Describe preparation of primary amines",
+                "Explain the basicity of amines compared to ammonia",
+                "Describe reactions of amines with acids and acyl chlorides"
+              ]
+            },
+            {
+              "title": {
+                "en": "Amino acids and proteins",
+                "fr": "Acides aminés et protéines",
+                "mfe": "Asid amine ek proteinn"
+              },
+              "objectives": [
+                "Describe the general structure of amino acids",
+                "Explain zwitterion formation and isoelectric point",
+                "Describe formation of peptide bonds"
+              ]
+            },
+            {
+              "title": {
+                "en": "Condensation polymers",
+                "fr": "Polymères de condensation",
+                "mfe": "Polimer kondansasyon"
+              },
+              "objectives": [
+                "Describe formation of polyesters and polyamides",
+                "Relate monomer structure to polymer properties",
+                "Discuss biodegradability of condensation polymers"
+              ]
+            },
+            {
+              "title": {
+                "en": "Addition polymers and environmental impact",
+                "fr": "Polymères d'addition et impact environnemental",
+                "mfe": "Polimer adisyon ek lenpak lor lanvironnman"
+              },
+              "objectives": [
+                "Describe formation of addition polymers from alkenes",
+                "Discuss environmental issues of plastic waste in Mauritius",
+                "Explain approaches to polymer recycling and disposal"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Transition elements",
+            "fr": "Éléments de transition",
+            "mfe": "Element transisyon"
+          },
+          "summary": {
+            "en": "Students explore the characteristic properties of transition elements, including variable oxidation states, complex ion formation and catalytic behaviour.",
+            "fr": "Les élèves explorent les propriétés caractéristiques des éléments de transition, incluant les états d'oxydation variables, la formation d'ions complexes et le comportement catalytique.",
+            "mfe": "Bann elev explor bann propriete karakteristik element transisyon, ki inklir eta oksidasyon variab, formasyon ion konplex ek konportman katalitik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Electronic configuration and properties",
+                "fr": "Configuration électronique et propriétés",
+                "mfe": "Konfigirasyon elektronik ek propriete"
+              },
+              "objectives": [
+                "Write electronic configurations of transition metal atoms and ions",
+                "Explain why transition elements show variable oxidation states",
+                "Relate electron configuration to characteristic properties"
+              ]
+            },
+            {
+              "title": {
+                "en": "Complex ions and ligands",
+                "fr": "Ions complexes et ligands",
+                "mfe": "Ion konplex ek ligann"
+              },
+              "objectives": [
+                "Define ligand and coordination number",
+                "Describe shapes of common complex ions",
+                "Explain ligand exchange reactions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Colour and catalytic properties",
+                "fr": "Couleur et propriétés catalytiques",
+                "mfe": "Kouler ek propriete katalitik"
+              },
+              "objectives": [
+                "Explain the origin of colour in transition metal complexes",
+                "Describe catalytic roles of transition metals in industrial processes",
+                "Give examples of heterogeneous and homogeneous catalysis"
+              ]
+            },
+            {
+              "title": {
+                "en": "Redox reactions of transition metals",
+                "fr": "Réactions redox des métaux de transition",
+                "mfe": "Reaksyon redoks bann metal transisyon"
+              },
+              "objectives": [
+                "Describe redox reactions involving common transition metal ions",
+                "Use standard electrode potentials to predict transition metal redox behaviour",
+                "Explain the use of transition metal ions as oxidising or reducing agents"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Analytical techniques in chemistry",
+            "fr": "Techniques analytiques en chimie",
+            "mfe": "Teknik analitik dan simi"
+          },
+          "summary": {
+            "en": "This unit introduces modern instrumental techniques used to identify and analyse chemical compounds, including chromatography and spectroscopy.",
+            "fr": "Cette unité introduit les techniques instrumentales modernes utilisées pour identifier et analyser les composés chimiques, y compris la chromatographie et la spectroscopie.",
+            "mfe": "Sa lini la introdir bann teknik enstrimantal modern ki servi pou idantifie ek analize konpoze simik, ki inklir kromatografi ek spektroskopi."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Chromatography techniques",
+                "fr": "Techniques de chromatographie",
+                "mfe": "Teknik kromatografi"
+              },
+              "objectives": [
+                "Describe the principles of paper and thin-layer chromatography",
+                "Explain the use of Rf values in identifying compounds",
+                "Describe applications of gas chromatography"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mass spectrometry",
+                "fr": "Spectrométrie de masse",
+                "mfe": "Spektrometri mas"
+              },
+              "objectives": [
+                "Interpret a simple mass spectrum to determine molecular mass",
+                "Explain fragmentation patterns for structure determination",
+                "Identify isotopes from mass spectral data"
+              ]
+            },
+            {
+              "title": {
+                "en": "Infrared spectroscopy",
+                "fr": "Spectroscopie infrarouge",
+                "mfe": "Spektroskopi enfraroz"
+              },
+              "objectives": [
+                "Identify functional groups from characteristic infrared absorptions",
+                "Interpret an infrared spectrum for a simple organic molecule",
+                "Relate infrared spectroscopy to environmental monitoring"
+              ]
+            },
+            {
+              "title": {
+                "en": "Nuclear magnetic resonance spectroscopy",
+                "fr": "Spectroscopie de résonance magnétique nucléaire",
+                "mfe": "Spektroskopi rezonans manyetik nikleer"
+              },
+              "objectives": [
+                "Interpret proton NMR spectra including chemical shift and splitting patterns",
+                "Use NMR data to deduce molecular structures",
+                "Combine spectroscopic techniques to identify unknown compounds"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

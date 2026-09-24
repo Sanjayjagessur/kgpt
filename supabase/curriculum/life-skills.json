@@ -1,0 +1,1333 @@
+{
+  "subject": "life-skills",
+  "grades": {
+    "7": {
+      "units": [
+        {
+          "title": {
+            "en": "Understanding myself",
+            "fr": "Me comprendre moi-même",
+            "mfe": "Konpran mwa mem"
+          },
+          "summary": {
+            "en": "Students explore their identity, strengths, emotions and personal values to build a strong sense of self-awareness.",
+            "fr": "Les élèves explorent leur identité, leurs forces, leurs émotions et leurs valeurs personnelles afin de développer une bonne conscience de soi.",
+            "mfe": "Bann elev explor zot idantite, zot pwin for, zot lemosion ek zot valer personel pou devlop enn bon konesans lor zotmem."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Who am I",
+                "fr": "Qui suis-je",
+                "mfe": "Kisannla mwa"
+              },
+              "objectives": [
+                "Identify personal qualities and interests",
+                "Describe aspects of one's own identity",
+                "Recognise diversity in identities among classmates"
+              ]
+            },
+            {
+              "title": {
+                "en": "My strengths and weaknesses",
+                "fr": "Mes forces et mes faiblesses",
+                "mfe": "Mo bann pwin for ek pwin febles"
+              },
+              "objectives": [
+                "List personal strengths and areas for growth",
+                "Explain how strengths can help achieve goals",
+                "Accept weaknesses as opportunities to improve"
+              ]
+            },
+            {
+              "title": {
+                "en": "Understanding my emotions",
+                "fr": "Comprendre mes émotions",
+                "mfe": "Konpran mo bann lemosion"
+              },
+              "objectives": [
+                "Name common emotions and their triggers",
+                "Describe how emotions affect behaviour",
+                "Practise identifying feelings in daily situations"
+              ]
+            },
+            {
+              "title": {
+                "en": "My values and beliefs",
+                "fr": "Mes valeurs et croyances",
+                "mfe": "Mo bann valer ek krwayans"
+              },
+              "objectives": [
+                "Define personal values",
+                "Explain how values guide choices",
+                "Respect that others may hold different values"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Communicating with others",
+            "fr": "Communiquer avec les autres",
+            "mfe": "Kominik avek lezot"
+          },
+          "summary": {
+            "en": "Students learn effective verbal and non-verbal communication skills to express themselves clearly and listen to others.",
+            "fr": "Les élèves apprennent des compétences de communication verbale et non verbale pour s'exprimer clairement et écouter les autres.",
+            "mfe": "Bann elev aprann bann konpetans kominikasion verbal ek non-verbal pou exprim zotmem kler ek ekout lezot."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Listening actively",
+                "fr": "Écouter activement",
+                "mfe": "Ekout aktivman"
+              },
+              "objectives": [
+                "Describe features of active listening",
+                "Practise listening without interrupting",
+                "Give feedback to show understanding"
+              ]
+            },
+            {
+              "title": {
+                "en": "Speaking with confidence",
+                "fr": "Parler avec confiance",
+                "mfe": "Koze avek konfians"
+              },
+              "objectives": [
+                "Use clear language to express ideas",
+                "Practise speaking in front of a small group",
+                "Manage nervousness when speaking"
+              ]
+            },
+            {
+              "title": {
+                "en": "Body language and gestures",
+                "fr": "Le langage corporel et les gestes",
+                "mfe": "Langaz lekor ek zes"
+              },
+              "objectives": [
+                "Identify examples of non-verbal communication",
+                "Interpret body language in different situations",
+                "Adjust body language to communicate respect"
+              ]
+            },
+            {
+              "title": {
+                "en": "Resolving misunderstandings",
+                "fr": "Résoudre les malentendus",
+                "mfe": "Regle bann malantandi"
+              },
+              "objectives": [
+                "Recognise causes of miscommunication",
+                "Apply strategies to clarify messages",
+                "Practise apologising and forgiving in conflicts"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Making good decisions",
+            "fr": "Prendre de bonnes décisions",
+            "mfe": "Pran bon desizion"
+          },
+          "summary": {
+            "en": "Students develop skills to make thoughtful decisions by weighing choices, consequences and responsibilities.",
+            "fr": "Les élèves développent des compétences pour prendre des décisions réfléchies en évaluant les choix, les conséquences et les responsabilités.",
+            "mfe": "Bann elev devlop konpetans pou pran desizion reflesi an pez bann swa, konsekans ek responsabilite."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Steps in decision making",
+                "fr": "Les étapes de la prise de décision",
+                "mfe": "Bann letap dan pran desizion"
+              },
+              "objectives": [
+                "Outline steps of a decision-making process",
+                "Apply the steps to a simple everyday choice",
+                "Explain why planning helps decision making"
+              ]
+            },
+            {
+              "title": {
+                "en": "Thinking about consequences",
+                "fr": "Penser aux conséquences",
+                "mfe": "Panse lor konsekans"
+              },
+              "objectives": [
+                "Identify possible consequences of choices",
+                "Compare short-term and long-term outcomes",
+                "Evaluate a decision using its consequences"
+              ]
+            },
+            {
+              "title": {
+                "en": "Peer pressure and choices",
+                "fr": "La pression des pairs et les choix",
+                "mfe": "Presion kamarad ek desizion"
+              },
+              "objectives": [
+                "Recognise signs of peer pressure",
+                "Explain strategies to resist negative pressure",
+                "Practise saying no assertively"
+              ]
+            },
+            {
+              "title": {
+                "en": "Being responsible for my choices",
+                "fr": "Être responsable de mes choix",
+                "mfe": "Asim mo bann desizion"
+              },
+              "objectives": [
+                "Explain the link between choices and responsibility",
+                "Reflect on a personal decision and its outcome",
+                "Suggest ways to make better choices next time"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Staying healthy in body and mind",
+            "fr": "Rester en bonne santé physique et mentale",
+            "mfe": "Res an bonn sante lekor ek lespri"
+          },
+          "summary": {
+            "en": "Students explore habits that support physical health, mental wellbeing and safety in daily life.",
+            "fr": "Les élèves explorent les habitudes qui favorisent la santé physique, le bien-être mental et la sécurité au quotidien.",
+            "mfe": "Bann elev explor bann labitid ki ed sante fizik, byennet mantal ek sekirite dan lavi toulezour."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Eating well and staying active",
+                "fr": "Bien manger et rester actif",
+                "mfe": "Bien manze ek res aktif"
+              },
+              "objectives": [
+                "List components of a balanced diet",
+                "Explain benefits of regular physical activity",
+                "Plan a healthy daily routine"
+              ]
+            },
+            {
+              "title": {
+                "en": "Managing stress",
+                "fr": "Gérer le stress",
+                "mfe": "Zer stress"
+              },
+              "objectives": [
+                "Identify common sources of stress for teenagers",
+                "Describe simple relaxation techniques",
+                "Practise a stress-management activity"
+              ]
+            },
+            {
+              "title": {
+                "en": "Staying safe online",
+                "fr": "Rester en sécurité en ligne",
+                "mfe": "Res an sekirite lor internet"
+              },
+              "objectives": [
+                "Identify online risks such as cyberbullying",
+                "Explain rules for safe internet use",
+                "Practise reporting inappropriate online content"
+              ]
+            },
+            {
+              "title": {
+                "en": "Personal hygiene and self-care",
+                "fr": "Hygiène personnelle et bien-être",
+                "mfe": "Ladministrer prop ek pran swin lekor"
+              },
+              "objectives": [
+                "Describe good hygiene practices",
+                "Explain the link between hygiene and health",
+                "Create a personal self-care checklist"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Building healthy relationships",
+            "fr": "Construire des relations saines",
+            "mfe": "Konstrir bann relasion sain"
+          },
+          "summary": {
+            "en": "Students learn about friendship, respect and cooperation to build positive relationships with family and peers.",
+            "fr": "Les élèves apprennent l'amitié, le respect et la coopération pour construire des relations positives avec la famille et les pairs.",
+            "mfe": "Bann elev aprann lamitie, respe ek koperasion pou konstrir bann relasion pozitif avek fami ek kamarad."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Qualities of a good friend",
+                "fr": "Les qualités d'un bon ami",
+                "mfe": "Kalite enn bon kamarad"
+              },
+              "objectives": [
+                "List qualities that make a good friendship",
+                "Reflect on one's own friendship behaviours",
+                "Explain the importance of trust in friendship"
+              ]
+            },
+            {
+              "title": {
+                "en": "Respecting differences",
+                "fr": "Respecter les différences",
+                "mfe": "Respe diferans"
+              },
+              "objectives": [
+                "Recognise diversity in culture, religion and ability",
+                "Explain the value of respecting differences",
+                "Practise inclusive behaviour towards others"
+              ]
+            },
+            {
+              "title": {
+                "en": "Working well in a team",
+                "fr": "Bien travailler en équipe",
+                "mfe": "Bien travay an lekip"
+              },
+              "objectives": [
+                "Identify roles within a team activity",
+                "Practise cooperating to complete a task",
+                "Give constructive feedback to teammates"
+              ]
+            },
+            {
+              "title": {
+                "en": "Family relationships",
+                "fr": "Les relations familiales",
+                "mfe": "Relasion familial"
+              },
+              "objectives": [
+                "Describe roles and responsibilities within a family",
+                "Explain how communication strengthens family bonds",
+                "Suggest ways to help at home"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Being a responsible citizen",
+            "fr": "Être un citoyen responsable",
+            "mfe": "Vinn enn sitwayin responsab"
+          },
+          "summary": {
+            "en": "Students explore rights, responsibilities and ways to contribute positively to their school and community.",
+            "fr": "Les élèves explorent les droits, les responsabilités et les moyens de contribuer positivement à leur école et communauté.",
+            "mfe": "Bann elev explor bann drwa, responsabilite ek fason pou kontribie pozitivman dan zot lekol ek kominote."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "My rights and responsibilities",
+                "fr": "Mes droits et responsabilités",
+                "mfe": "Mo bann drwa ek responsabilite"
+              },
+              "objectives": [
+                "Identify basic rights of a child",
+                "Explain related responsibilities",
+                "Give examples of exercising rights responsibly"
+              ]
+            },
+            {
+              "title": {
+                "en": "Rules and why we need them",
+                "fr": "Les règles et leur importance",
+                "mfe": "Bann regleman ek zot lenportans"
+              },
+              "objectives": [
+                "Explain the purpose of rules at school and home",
+                "Identify consequences of breaking rules",
+                "Discuss how rules support fairness"
+              ]
+            },
+            {
+              "title": {
+                "en": "Caring for our community",
+                "fr": "Prendre soin de notre communauté",
+                "mfe": "Pran swin nou kominote"
+              },
+              "objectives": [
+                "Identify community needs in Mauritius",
+                "Suggest ways students can help their community",
+                "Plan a simple community service idea"
+              ]
+            },
+            {
+              "title": {
+                "en": "Living in a multicultural Mauritius",
+                "fr": "Vivre dans une île Maurice multiculturelle",
+                "mfe": "Viv dan enn Moris multikiltirel"
+              },
+              "objectives": [
+                "Describe Mauritius's cultural and religious diversity",
+                "Explain the value of unity in diversity",
+                "Practise respectful ways of celebrating differences"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Protecting our environment",
+            "fr": "Protéger notre environnement",
+            "mfe": "Proteze nou lanvironnman"
+          },
+          "summary": {
+            "en": "Students examine environmental issues in Mauritius and learn practical actions to protect natural resources.",
+            "fr": "Les élèves examinent les enjeux environnementaux à Maurice et apprennent des actions concrètes pour protéger les ressources naturelles.",
+            "mfe": "Bann elev examinn bann problem lanvironnman Moris ek aprann bann aksion pratik pou proteze resurs natirel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Our natural environment",
+                "fr": "Notre environnement naturel",
+                "mfe": "Nou lanvironnman natirel"
+              },
+              "objectives": [
+                "Identify key natural resources of Mauritius",
+                "Explain why the environment matters to health and life",
+                "Describe threats facing the local environment"
+              ]
+            },
+            {
+              "title": {
+                "en": "Reducing, reusing and recycling",
+                "fr": "Réduire, réutiliser et recycler",
+                "mfe": "Redwir, resertifie ek resikle"
+              },
+              "objectives": [
+                "Explain the concept of the three Rs",
+                "Give examples of reducing waste at home and school",
+                "Plan a simple recycling activity"
+              ]
+            },
+            {
+              "title": {
+                "en": "Saving water and energy",
+                "fr": "Économiser l'eau et l'énergie",
+                "mfe": "Ekonomiz dilo ek lenerzi"
+              },
+              "objectives": [
+                "List ways to save water and electricity",
+                "Explain benefits of conservation for Mauritius",
+                "Commit to a personal conservation habit"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "8": {
+      "units": [
+        {
+          "title": {
+            "en": "Understanding myself",
+            "fr": "Se comprendre soi-même",
+            "mfe": "Konpran mwa mem"
+          },
+          "summary": {
+            "en": "Students explore self-awareness, personal strengths and areas for growth, and how identity develops during adolescence.",
+            "fr": "Les élèves explorent la conscience de soi, leurs forces personnelles et leurs axes de progrès, ainsi que le développement de l'identité à l'adolescence.",
+            "mfe": "Bann elev explor konesans lor zot prop-la, zot pwin for ek pwin pou ameliore, ek kouma zot ladantite devlope pandan ladolesans."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Who am I becoming",
+                "fr": "Qui suis-je en train de devenir",
+                "mfe": "Kisannla mo pe vinn"
+              },
+              "objectives": [
+                "Identify key aspects of personal identity",
+                "Describe changes happening during adolescence",
+                "Reflect on personal values and beliefs"
+              ]
+            },
+            {
+              "title": {
+                "en": "My strengths and talents",
+                "fr": "Mes forces et mes talents",
+                "mfe": "Mo bann pwin for ek talan"
+              },
+              "objectives": [
+                "List personal strengths and talents",
+                "Explain how strengths can be used positively",
+                "Recognise achievements without arrogance"
+              ]
+            },
+            {
+              "title": {
+                "en": "Facing my weaknesses",
+                "fr": "Affronter mes faiblesses",
+                "mfe": "Fer fas ar mo bann febles"
+              },
+              "objectives": [
+                "Identify personal areas for improvement",
+                "Develop a simple plan to work on a weakness",
+                "Understand that mistakes are part of growth"
+              ]
+            },
+            {
+              "title": {
+                "en": "Managing my emotions",
+                "fr": "Gérer mes émotions",
+                "mfe": "Gere mo bann santiman"
+              },
+              "objectives": [
+                "Name common emotions and their triggers",
+                "Practise techniques to calm strong emotions",
+                "Explain the link between emotions and behaviour"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Communicating with others",
+            "fr": "Communiquer avec les autres",
+            "mfe": "Kominik avek lezot"
+          },
+          "summary": {
+            "en": "Students develop skills in listening, expressing themselves clearly and communicating respectfully in different situations.",
+            "fr": "Les élèves développent des compétences d'écoute, d'expression claire et de communication respectueuse dans différentes situations.",
+            "mfe": "Bann elev devlop kapasite pou ekout, eksprim zot kler ek kominik avek respe dan diferan sitiasion."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Active listening skills",
+                "fr": "L'écoute active",
+                "mfe": "Ekout aktif"
+              },
+              "objectives": [
+                "Define active listening",
+                "Practise listening without interrupting",
+                "Show understanding through body language"
+              ]
+            },
+            {
+              "title": {
+                "en": "Expressing myself clearly",
+                "fr": "M'exprimer clairement",
+                "mfe": "Eksprim mwa kler"
+              },
+              "objectives": [
+                "Use clear language to share ideas",
+                "Distinguish between facts and opinions",
+                "Practise giving feedback politely"
+              ]
+            },
+            {
+              "title": {
+                "en": "Understanding body language",
+                "fr": "Comprendre le langage corporel",
+                "mfe": "Konpran langaz lekor"
+              },
+              "objectives": [
+                "Identify common non-verbal signals",
+                "Explain how body language affects communication",
+                "Match verbal and non-verbal messages"
+              ]
+            },
+            {
+              "title": {
+                "en": "Communicating across cultures",
+                "fr": "Communiquer entre cultures",
+                "mfe": "Kominik ant kiltir"
+              },
+              "objectives": [
+                "Recognise Mauritius's cultural diversity in communication",
+                "Show respect for different communication styles",
+                "Avoid stereotypes when interacting with others"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Making good decisions",
+            "fr": "Prendre de bonnes décisions",
+            "mfe": "Pran bon desizion"
+          },
+          "summary": {
+            "en": "Students learn a decision-making process and apply it to everyday challenges and peer situations.",
+            "fr": "Les élèves apprennent un processus de prise de décision et l'appliquent à des défis quotidiens et à des situations entre pairs.",
+            "mfe": "Bann elev aprann enn prose pou pran desizion ek aplik li dan defi ki zot fer fas sak zour ek dan sitiasion ant kamarad."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Steps to good decisions",
+                "fr": "Les étapes d'une bonne décision",
+                "mfe": "Bann etap pou pran bon desizion"
+              },
+              "objectives": [
+                "List steps of a decision-making process",
+                "Apply the process to a simple problem",
+                "Evaluate possible consequences of choices"
+              ]
+            },
+            {
+              "title": {
+                "en": "Dealing with peer pressure",
+                "fr": "Faire face à la pression des pairs",
+                "mfe": "Fer fas ar presion kamarad"
+              },
+              "objectives": [
+                "Recognise signs of peer pressure",
+                "Practise ways to say no assertively",
+                "Explain the value of standing by one's values"
+              ]
+            },
+            {
+              "title": {
+                "en": "Problem solving together",
+                "fr": "Résoudre des problèmes ensemble",
+                "mfe": "Rezoud problem ansam"
+              },
+              "objectives": [
+                "Identify steps for group problem solving",
+                "Practise negotiating a compromise",
+                "Value different viewpoints in a group"
+              ]
+            },
+            {
+              "title": {
+                "en": "Learning from mistakes",
+                "fr": "Apprendre de ses erreurs",
+                "mfe": "Aprann ar so bann erer"
+              },
+              "objectives": [
+                "Reflect on a past decision and its outcome",
+                "Identify lessons learned from mistakes",
+                "Plan how to make better choices next time"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Staying healthy and safe",
+            "fr": "Rester en bonne santé et en sécurité",
+            "mfe": "Reste an bonn sante ek an sekirite"
+          },
+          "summary": {
+            "en": "Students explore habits for physical and mental wellbeing, and how to stay safe in daily life.",
+            "fr": "Les élèves explorent des habitudes pour le bien-être physique et mental, ainsi que la sécurité au quotidien.",
+            "mfe": "Bann elev explor bann labitid pou byennet fizik ek mantal, ek kouma reste an sekirite dan lavi toulezour."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Healthy eating and exercise",
+                "fr": "Alimentation saine et exercice",
+                "mfe": "Manze sen ek fer lexersis"
+              },
+              "objectives": [
+                "Describe components of a balanced diet",
+                "Explain benefits of regular physical activity",
+                "Plan a simple healthy daily routine"
+              ]
+            },
+            {
+              "title": {
+                "en": "Understanding stress",
+                "fr": "Comprendre le stress",
+                "mfe": "Konpran stres"
+              },
+              "objectives": [
+                "Identify common causes of stress in teenagers",
+                "Describe healthy ways to manage stress",
+                "Recognise when to seek help"
+              ]
+            },
+            {
+              "title": {
+                "en": "Staying safe online",
+                "fr": "Rester en sécurité en ligne",
+                "mfe": "Reste an sekirite lor internet"
+              },
+              "objectives": [
+                "Identify online risks such as cyberbullying",
+                "Practise safe sharing of personal information",
+                "Know how to report unsafe online content"
+              ]
+            },
+            {
+              "title": {
+                "en": "Avoiding risky behaviours",
+                "fr": "Éviter les comportements à risque",
+                "mfe": "Evit bann konportman riske"
+              },
+              "objectives": [
+                "Identify risks of substance use",
+                "Explain reasons teenagers may take risks",
+                "Practise refusal skills in risky situations"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Building healthy relationships",
+            "fr": "Construire des relations saines",
+            "mfe": "Batir bann relasion ki sain"
+          },
+          "summary": {
+            "en": "Students examine friendship, respect and conflict resolution to build positive relationships with family and peers.",
+            "fr": "Les élèves examinent l'amitié, le respect et la résolution des conflits pour construire des relations positives avec la famille et les pairs.",
+            "mfe": "Bann elev examinn lamitie, respe ek rezolision konfli pou batir bann relasion posit avek fami ek kamarad."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "What makes a good friend",
+                "fr": "Qu'est-ce qu'un bon ami",
+                "mfe": "Kisannla enn bon kamarad"
+              },
+              "objectives": [
+                "Describe qualities of a good friendship",
+                "Reflect on personal friendships",
+                "Identify signs of an unhealthy friendship"
+              ]
+            },
+            {
+              "title": {
+                "en": "Resolving conflicts peacefully",
+                "fr": "Résoudre les conflits pacifiquement",
+                "mfe": "Rezoud konfli avek lape"
+              },
+              "objectives": [
+                "Identify common causes of conflict",
+                "Practise peaceful conflict resolution steps",
+                "Explain the value of compromise"
+              ]
+            },
+            {
+              "title": {
+                "en": "Respect within the family",
+                "fr": "Le respect au sein de la famille",
+                "mfe": "Respe dan fami"
+              },
+              "objectives": [
+                "Discuss roles and responsibilities in the family",
+                "Practise respectful communication with family members",
+                "Recognise the value of family support"
+              ]
+            },
+            {
+              "title": {
+                "en": "Bullying and how to respond",
+                "fr": "Le harcèlement et comment réagir",
+                "mfe": "Bullying ek kouma reponn"
+              },
+              "objectives": [
+                "Define different forms of bullying",
+                "Explain effects of bullying on victims",
+                "Identify safe ways to seek help"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Being an active citizen",
+            "fr": "Être un citoyen actif",
+            "mfe": "Vinn enn sitwayen aktif"
+          },
+          "summary": {
+            "en": "Students explore rights, responsibilities and ways to contribute positively to their school and community.",
+            "fr": "Les élèves explorent les droits, les responsabilités et les moyens de contribuer positivement à leur école et à leur communauté.",
+            "mfe": "Bann elev explor bann drwa, responsabilite ek fason pou kontribie dan zot lekol ek kominote."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "My rights and responsibilities",
+                "fr": "Mes droits et mes responsabilités",
+                "mfe": "Mo bann drwa ek responsabilite"
+              },
+              "objectives": [
+                "Identify basic rights of children and young people",
+                "Explain related responsibilities",
+                "Give examples from school life"
+              ]
+            },
+            {
+              "title": {
+                "en": "Respecting diversity in Mauritius",
+                "fr": "Respecter la diversité à Maurice",
+                "mfe": "Respekte diversite Moris"
+              },
+              "objectives": [
+                "Describe Mauritius's ethnic and cultural diversity",
+                "Explain the value of living together in harmony",
+                "Identify actions that promote inclusion"
+              ]
+            },
+            {
+              "title": {
+                "en": "Protecting our environment",
+                "fr": "Protéger notre environnement",
+                "mfe": "Protez nou lanvironnman"
+              },
+              "objectives": [
+                "Identify local environmental challenges",
+                "Explain simple actions to protect the environment",
+                "Plan a small community environmental action"
+              ]
+            },
+            {
+              "title": {
+                "en": "Contributing to my community",
+                "fr": "Contribuer à ma communauté",
+                "mfe": "Kontribie dan mo kominote"
+              },
+              "objectives": [
+                "Identify ways students can help their community",
+                "Describe the benefits of volunteering",
+                "Plan a simple community service idea"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Planning for the future",
+            "fr": "Planifier son avenir",
+            "mfe": "Planifie so lavenir"
+          },
+          "summary": {
+            "en": "Students begin thinking about goals, interests and choices that will shape their future pathways.",
+            "fr": "Les élèves commencent à réfléchir à leurs objectifs, intérêts et choix qui façonneront leur avenir.",
+            "mfe": "Bann elev koumans reflesi lor zot bann bi, lintere ek swa ki pou fasonn zot lavenir."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Setting personal goals",
+                "fr": "Fixer des objectifs personnels",
+                "mfe": "Fikse bann bi personel"
+              },
+              "objectives": [
+                "Explain the difference between short and long term goals",
+                "Set a realistic personal goal",
+                "Identify steps to achieve a goal"
+              ]
+            },
+            {
+              "title": {
+                "en": "Discovering my interests",
+                "fr": "Découvrir mes centres d'intérêt",
+                "mfe": "Dekouver mo bann lintere"
+              },
+              "objectives": [
+                "Identify personal interests and hobbies",
+                "Link interests to possible future subjects",
+                "Reflect on how interests can guide choices"
+              ]
+            },
+            {
+              "title": {
+                "en": "Overcoming challenges",
+                "fr": "Surmonter les obstacles",
+                "mfe": "Sirmont bann defi"
+              },
+              "objectives": [
+                "Identify common challenges students face",
+                "Describe strategies to build resilience",
+                "Reflect on a personal experience of overcoming a difficulty"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "units": [
+        {
+          "title": {
+            "en": "Understanding myself",
+            "fr": "Se comprendre soi-même",
+            "mfe": "Konpran mwa-mem"
+          },
+          "summary": {
+            "en": "Students explore their identity, strengths, emotions and personal values as they move through early adolescence.",
+            "fr": "Les élèves explorent leur identité, leurs forces, leurs émotions et leurs valeurs personnelles durant le début de l'adolescence.",
+            "mfe": "Bann elev explor zot lidantite, zot pwin for, zot lemosion ek zot valer personel pandan koumansman zot ladolesans."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "My identity and values",
+                "fr": "Mon identité et mes valeurs",
+                "mfe": "Mo lidantite ek mo valer"
+              },
+              "objectives": [
+                "Identify personal values that guide behaviour",
+                "Describe how identity is shaped by family and culture",
+                "Reflect on what makes each person unique"
+              ]
+            },
+            {
+              "title": {
+                "en": "Recognising my emotions",
+                "fr": "Reconnaître mes émotions",
+                "mfe": "Rekonet mo bann lemosion"
+              },
+              "objectives": [
+                "Name a range of emotions and their triggers",
+                "Explain how emotions affect thoughts and actions",
+                "Practise naming feelings using a feelings vocabulary"
+              ]
+            },
+            {
+              "title": {
+                "en": "Building self-esteem",
+                "fr": "Renforcer l'estime de soi",
+                "mfe": "Ranforsi lestim swa"
+              },
+              "objectives": [
+                "Describe the meaning of self-esteem",
+                "Identify personal strengths and achievements",
+                "Practise positive self-talk techniques"
+              ]
+            },
+            {
+              "title": {
+                "en": "Coping with change and puberty",
+                "fr": "Faire face aux changements et à la puberté",
+                "mfe": "Fer fas ar chanzman ek piberte"
+              },
+              "objectives": [
+                "Describe physical and emotional changes during puberty",
+                "Identify healthy ways to cope with change",
+                "Recognise trusted adults to talk to about concerns"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Communicating with confidence",
+            "fr": "Communiquer avec assurance",
+            "mfe": "Kominik avek konfians"
+          },
+          "summary": {
+            "en": "Students strengthen verbal and non-verbal communication skills for respectful, effective interactions at school and home.",
+            "fr": "Les élèves renforcent leurs compétences de communication verbale et non verbale pour des échanges respectueux et efficaces à l'école et à la maison.",
+            "mfe": "Bann elev ranforsi zot konpetans kominikasion verbal ek non-verbal pou bann lesanz respekte ek efikas kot lekol ek lakaz."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Active listening skills",
+                "fr": "Les compétences d'écoute active",
+                "mfe": "Konpetans ekout aktif"
+              },
+              "objectives": [
+                "Define active listening and its importance",
+                "Practise listening without interrupting",
+                "Use body language that shows attentiveness"
+              ]
+            },
+            {
+              "title": {
+                "en": "Expressing myself assertively",
+                "fr": "S'exprimer avec assurance",
+                "mfe": "Eksprim mwa avek fermte"
+              },
+              "objectives": [
+                "Distinguish between passive, aggressive and assertive communication",
+                "Practise using 'I' statements to express needs",
+                "Apply assertiveness in everyday school situations"
+              ]
+            },
+            {
+              "title": {
+                "en": "Non-verbal communication",
+                "fr": "La communication non verbale",
+                "mfe": "Kominikasion non-verbal"
+              },
+              "objectives": [
+                "Identify types of non-verbal cues",
+                "Interpret body language and tone of voice",
+                "Match verbal and non-verbal messages appropriately"
+              ]
+            },
+            {
+              "title": {
+                "en": "Communicating across cultures",
+                "fr": "Communiquer entre les cultures",
+                "mfe": "Kominik ant diferan kiltir"
+              },
+              "objectives": [
+                "Recognise communication differences across Mauritian communities",
+                "Show respect for different customs and languages",
+                "Practise inclusive communication in group settings"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Making responsible decisions",
+            "fr": "Prendre des décisions responsables",
+            "mfe": "Pran desizion responsab"
+          },
+          "summary": {
+            "en": "Students learn structured approaches to decision making and problem solving that consider consequences and values.",
+            "fr": "Les élèves apprennent des approches structurées de prise de décision et de résolution de problèmes tenant compte des conséquences et des valeurs.",
+            "mfe": "Bann elev aprann bann fason striktire pou pran desizion ek rezoud problem, an tenir kont konsekans ek valer."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Steps in decision making",
+                "fr": "Les étapes de la prise de décision",
+                "mfe": "Bann letap pou pran desizion"
+              },
+              "objectives": [
+                "List the steps of a decision-making process",
+                "Apply the steps to a real-life school scenario",
+                "Evaluate possible outcomes before choosing"
+              ]
+            },
+            {
+              "title": {
+                "en": "Facing peer pressure",
+                "fr": "Faire face à la pression des pairs",
+                "mfe": "Fer fas ar presion kamarad"
+              },
+              "objectives": [
+                "Identify situations involving peer pressure",
+                "Practise strategies to resist negative pressure",
+                "Explain the value of standing up for one's beliefs"
+              ]
+            },
+            {
+              "title": {
+                "en": "Solving everyday problems",
+                "fr": "Résoudre les problèmes du quotidien",
+                "mfe": "Rezoud problem toulezour"
+              },
+              "objectives": [
+                "Break down a problem into manageable parts",
+                "Brainstorm multiple possible solutions",
+                "Select and justify the best solution"
+              ]
+            },
+            {
+              "title": {
+                "en": "Thinking about consequences",
+                "fr": "Réfléchir aux conséquences",
+                "mfe": "Reflesi lor konsekans"
+              },
+              "objectives": [
+                "Distinguish short-term and long-term consequences",
+                "Predict outcomes of different choices",
+                "Reflect on a past decision and its impact"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Wellbeing and healthy living",
+            "fr": "Bien-être et vie saine",
+            "mfe": "Byennet ek lavi an sante"
+          },
+          "summary": {
+            "en": "Students examine habits and choices that support physical, mental and social wellbeing during adolescence.",
+            "fr": "Les élèves examinent les habitudes et choix qui favorisent le bien-être physique, mental et social durant l'adolescence.",
+            "mfe": "Bann elev examinn bann labitid ek swa ki sipport byennet fizik, mantal ek sosial pandan ladolesans."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Managing stress",
+                "fr": "Gérer le stress",
+                "mfe": "Zer stres"
+              },
+              "objectives": [
+                "Identify common sources of stress for teenagers",
+                "Describe healthy stress management techniques",
+                "Practise a relaxation exercise"
+              ]
+            },
+            {
+              "title": {
+                "en": "Balanced nutrition and exercise",
+                "fr": "Alimentation équilibrée et exercice",
+                "mfe": "Manzer ekilibre ek exersis"
+              },
+              "objectives": [
+                "Explain the components of a balanced diet",
+                "Identify benefits of regular physical activity",
+                "Plan a healthy daily routine"
+              ]
+            },
+            {
+              "title": {
+                "en": "Avoiding risky behaviours",
+                "fr": "Éviter les comportements à risque",
+                "mfe": "Evit bann konportman riske"
+              },
+              "objectives": [
+                "Identify risks linked to substance use",
+                "Explain the influence of media and peers on choices",
+                "Practise refusal skills in risky situations"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sleep and screen habits",
+                "fr": "Sommeil et habitudes d'écran",
+                "mfe": "Somey ek labitid ekran"
+              },
+              "objectives": [
+                "Explain the importance of sleep for teenagers",
+                "Identify effects of excessive screen time",
+                "Set personal goals for healthier routines"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Healthy relationships",
+            "fr": "Des relations saines",
+            "mfe": "Bann relasion an sante"
+          },
+          "summary": {
+            "en": "Students explore respectful friendships, family relationships and conflict resolution skills.",
+            "fr": "Les élèves explorent les amitiés respectueuses, les relations familiales et les compétences de résolution de conflits.",
+            "mfe": "Bann elev explor lamitie respekte, relasion familial ek konpetans rezolision konfli."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Qualities of good friendships",
+                "fr": "Les qualités d'une bonne amitié",
+                "mfe": "Bann kalite bon lamitie"
+              },
+              "objectives": [
+                "Identify characteristics of healthy friendships",
+                "Recognise signs of unhealthy relationships",
+                "Practise setting boundaries with peers"
+              ]
+            },
+            {
+              "title": {
+                "en": "Resolving conflicts peacefully",
+                "fr": "Résoudre les conflits pacifiquement",
+                "mfe": "Rezoud konfli anpe"
+              },
+              "objectives": [
+                "Describe common causes of conflict among peers",
+                "Apply steps for peaceful conflict resolution",
+                "Practise mediation in a role-play scenario"
+              ]
+            },
+            {
+              "title": {
+                "en": "Family relationships and roles",
+                "fr": "Relations et rôles familiaux",
+                "mfe": "Relasion ek rol dan fami"
+              },
+              "objectives": [
+                "Discuss changing roles within the family",
+                "Identify ways to show respect to family members",
+                "Explain the importance of family support"
+              ]
+            },
+            {
+              "title": {
+                "en": "Recognising and preventing bullying",
+                "fr": "Reconnaître et prévenir le harcèlement",
+                "mfe": "Rekonet ek anpes intimidasion"
+              },
+              "objectives": [
+                "Define bullying and cyberbullying",
+                "Identify the roles of victim, bully and bystander",
+                "Describe steps to report and stop bullying"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Digital life and safety",
+            "fr": "Vie numérique et sécurité",
+            "mfe": "Lavi dizital ek sekirite"
+          },
+          "summary": {
+            "en": "Students develop responsible and safe habits for using technology and social media.",
+            "fr": "Les élèves développent des habitudes responsables et sûres pour l'utilisation de la technologie et des réseaux sociaux.",
+            "mfe": "Bann elev devlop bann labitid responsab ek an sekirite pou servi teknolozi ek rezo sosial."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Staying safe online",
+                "fr": "Rester en sécurité en ligne",
+                "mfe": "Reste an sekirite lor internet"
+              },
+              "objectives": [
+                "Identify common online risks for teenagers",
+                "Explain how to protect personal information",
+                "Practise reporting unsafe online content"
+              ]
+            },
+            {
+              "title": {
+                "en": "Digital footprint and reputation",
+                "fr": "Empreinte numérique et réputation",
+                "mfe": "Lanpreint dizital ek reputasion"
+              },
+              "objectives": [
+                "Explain what a digital footprint is",
+                "Discuss how online actions affect reputation",
+                "Reflect on responsible posting habits"
+              ]
+            },
+            {
+              "title": {
+                "en": "Managing screen time and social media",
+                "fr": "Gérer le temps d'écran et les réseaux sociaux",
+                "mfe": "Zer letan ekran ek rezo sosial"
+              },
+              "objectives": [
+                "Assess personal screen time habits",
+                "Identify signs of unhealthy social media use",
+                "Set realistic goals for balanced technology use"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Citizenship in a diverse society",
+            "fr": "La citoyenneté dans une société diverse",
+            "mfe": "Sitwayennte dan enn sosiete divers"
+          },
+          "summary": {
+            "en": "Students examine rights, responsibilities and respect for diversity as active citizens of Mauritius.",
+            "fr": "Les élèves examinent les droits, responsabilités et le respect de la diversité en tant que citoyens actifs de Maurice.",
+            "mfe": "Bann elev examinn bann drwa, responsabilite ek respe pou diversite kouma sitwayen aktif Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Rights and responsibilities",
+                "fr": "Droits et responsabilités",
+                "mfe": "Drwa ek responsabilite"
+              },
+              "objectives": [
+                "Identify basic rights of children and young people",
+                "Explain the link between rights and responsibilities",
+                "Give examples of responsible citizenship at school"
+              ]
+            },
+            {
+              "title": {
+                "en": "Celebrating Mauritian diversity",
+                "fr": "Célébrer la diversité mauricienne",
+                "mfe": "Selebre diversite morisien"
+              },
+              "objectives": [
+                "Describe the cultural and religious diversity of Mauritius",
+                "Explain the value of unity in diversity",
+                "Show respect for different traditions and beliefs"
+              ]
+            },
+            {
+              "title": {
+                "en": "Protecting our environment",
+                "fr": "Protéger notre environnement",
+                "mfe": "Protez nou lanvironnman"
+              },
+              "objectives": [
+                "Identify local environmental challenges",
+                "Explain individual responsibility for sustainability",
+                "Propose an action to protect the environment"
+              ]
+            },
+            {
+              "title": {
+                "en": "Being an active citizen",
+                "fr": "Être un citoyen actif",
+                "mfe": "Vinn enn sitwayen aktif"
+              },
+              "objectives": [
+                "Describe ways young people can contribute to their community",
+                "Explain the importance of volunteering",
+                "Plan a simple community service activity"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Planning for the future",
+            "fr": "Planifier son avenir",
+            "mfe": "Planifie lavenir"
+          },
+          "summary": {
+            "en": "Students reflect on goal setting, learning skills and future pathways as they prepare for upper secondary school.",
+            "fr": "Les élèves réfléchissent à la fixation d'objectifs, aux compétences d'apprentissage et aux parcours futurs en préparation du secondaire supérieur.",
+            "mfe": "Bann elev reflesi lor fixe lobzektif, konpetans aprantisaz ek shemin lavenir pou prepar segonder siperie."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Setting personal goals",
+                "fr": "Fixer des objectifs personnels",
+                "mfe": "Fixe lobzektif personel"
+              },
+              "objectives": [
+                "Distinguish between short-term and long-term goals",
+                "Apply SMART criteria to set a goal",
+                "Create an action plan to reach a personal goal"
+              ]
+            },
+            {
+              "title": {
+                "en": "Developing study skills",
+                "fr": "Développer des compétences d'étude",
+                "mfe": "Devlop konpetans letid"
+              },
+              "objectives": [
+                "Identify effective study techniques",
+                "Create a personal study timetable",
+                "Evaluate personal learning strengths and weaknesses"
+              ]
+            },
+            {
+              "title": {
+                "en": "Exploring future pathways",
+                "fr": "Explorer les parcours d'avenir",
+                "mfe": "Explor bann shemin lavenir"
+              },
+              "objectives": [
+                "Identify subject choices available after grade 9",
+                "Relate interests and strengths to possible pathways",
+                "Discuss where to seek guidance about the future"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

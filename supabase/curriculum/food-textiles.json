@@ -1,0 +1,2413 @@
+{
+  "subject": "food-textiles",
+  "grades": {
+    "7": {
+      "units": [
+        {
+          "title": {
+            "en": "Safety and hygiene in the workroom",
+            "fr": "Sécurité et hygiène en salle de travail",
+            "mfe": "Sekirite ek ladministrasion dan salle travay"
+          },
+          "summary": {
+            "en": "Students learn essential safety rules and hygiene practices for working safely in the food and textile room.",
+            "fr": "Les élèves apprennent les règles de sécurité et les pratiques d'hygiène essentielles pour travailler en toute sécurité dans la salle de cuisine et textile.",
+            "mfe": "Bann zelev aprann bann regleman sekirite ek prinsip ladministrasion pou travay san danze dan salle manze ek tisi."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Rules of the food and textile room",
+                "fr": "Règles de la salle de cuisine et textile",
+                "mfe": "Regleman salle manze ek tisi"
+              },
+              "objectives": [
+                "Identify safety rules for the food and textile room",
+                "Explain why rules are needed to prevent accidents",
+                "Describe correct dress code for practical lessons"
+              ]
+            },
+            {
+              "title": {
+                "en": "Personal hygiene practices",
+                "fr": "Pratiques d'hygiène personnelle",
+                "mfe": "Prinsip ladministrasion personel"
+              },
+              "objectives": [
+                "Explain the importance of personal hygiene before cooking or sewing",
+                "Demonstrate correct handwashing technique",
+                "Identify hygiene habits that prevent contamination"
+              ]
+            },
+            {
+              "title": {
+                "en": "Storing food safely",
+                "fr": "Conserver les aliments en toute sécurité",
+                "mfe": "Konserv manze an sekirite"
+              },
+              "objectives": [
+                "Classify foods by correct storage method",
+                "Explain risks of poor food storage",
+                "Identify signs of food spoilage"
+              ]
+            },
+            {
+              "title": {
+                "en": "First aid basics for the workroom",
+                "fr": "Notions de premiers secours en salle de travail",
+                "mfe": "Baz premie sekour dan salle travay"
+              },
+              "objectives": [
+                "List common accidents in the food and textile room",
+                "Describe basic first aid for cuts and burns",
+                "Explain when to seek adult help"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Tools and equipment for food and textiles",
+            "fr": "Outils et équipements de cuisine et textile",
+            "mfe": "Zouti ek lekipman pou manze ek tisi"
+          },
+          "summary": {
+            "en": "Students identify and learn to use common kitchen and sewing tools safely and correctly.",
+            "fr": "Les élèves identifient et apprennent à utiliser correctement et en toute sécurité les outils courants de cuisine et de couture.",
+            "mfe": "Bann zelev idantifie ek aprann servi bann zouti manze ek koud an sekirite."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Common kitchen tools and their uses",
+                "fr": "Outils de cuisine courants et leurs usages",
+                "mfe": "Zouti kwizinn ki pli servi ek zot lizaz"
+              },
+              "objectives": [
+                "Name common kitchen tools and equipment",
+                "Match tools to their correct uses",
+                "Explain safe handling of sharp tools"
+              ]
+            },
+            {
+              "title": {
+                "en": "Common sewing tools and their uses",
+                "fr": "Outils de couture courants et leurs usages",
+                "mfe": "Zouti kouti ki pli servi ek zot lizaz"
+              },
+              "objectives": [
+                "Name common sewing tools",
+                "Match sewing tools to their functions",
+                "Demonstrate safe handling of needles and pins"
+              ]
+            },
+            {
+              "title": {
+                "en": "Using small equipment safely",
+                "fr": "Utiliser le petit équipement en toute sécurité",
+                "mfe": "Servi ti lekipman an sekirite"
+              },
+              "objectives": [
+                "Demonstrate correct use of measuring equipment",
+                "Explain safety precautions when using electrical appliances",
+                "Identify hazards linked to equipment misuse"
+              ]
+            },
+            {
+              "title": {
+                "en": "Caring for tools and equipment",
+                "fr": "Entretenir les outils et équipements",
+                "mfe": "Pran swin zouti ek lekipman"
+              },
+              "objectives": [
+                "Explain how to clean and store tools correctly",
+                "Describe consequences of poor tool maintenance",
+                "List steps for checking equipment before use"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Basic food preparation skills",
+            "fr": "Compétences de base en préparation culinaire",
+            "mfe": "Konpetans debaz preparasion manze"
+          },
+          "summary": {
+            "en": "Students practise fundamental food preparation techniques such as measuring, cutting and cooking.",
+            "fr": "Les élèves pratiquent des techniques fondamentales de préparation culinaire telles que mesurer, couper et cuisiner.",
+            "mfe": "Bann zelev pratik teknik debaz preparasion manze kouma mezire, koupe ek kuit."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Measuring ingredients accurately",
+                "fr": "Mesurer les ingrédients avec précision",
+                "mfe": "Mezire lengredien korekteman"
+              },
+              "objectives": [
+                "Use measuring tools to measure ingredients accurately",
+                "Convert between common units of measurement",
+                "Explain why accurate measuring matters in recipes"
+              ]
+            },
+            {
+              "title": {
+                "en": "Basic cutting and preparation techniques",
+                "fr": "Techniques de base de découpe et préparation",
+                "mfe": "Teknik debaz koupe ek prepare"
+              },
+              "objectives": [
+                "Demonstrate safe cutting techniques for vegetables",
+                "Describe different preparation methods such as peeling and slicing",
+                "Explain knife safety rules"
+              ]
+            },
+            {
+              "title": {
+                "en": "Introduction to cooking methods",
+                "fr": "Introduction aux méthodes de cuisson",
+                "mfe": "Introdiksion bann metod kwisinn"
+              },
+              "objectives": [
+                "Identify common cooking methods such as boiling and frying",
+                "Explain how heat changes food",
+                "Compare advantages of different cooking methods"
+              ]
+            },
+            {
+              "title": {
+                "en": "Preparing a simple dish",
+                "fr": "Préparer un plat simple",
+                "mfe": "Prepar enn plat sinp"
+              },
+              "objectives": [
+                "Follow a simple recipe step by step",
+                "Apply safe food handling during preparation",
+                "Evaluate the finished dish for taste and appearance"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Nutrition and food groups",
+            "fr": "Nutrition et groupes alimentaires",
+            "mfe": "Nitrision ek group manze"
+          },
+          "summary": {
+            "en": "Students explore the main food groups and their role in a balanced diet, including familiar Mauritian foods.",
+            "fr": "Les élèves explorent les principaux groupes alimentaires et leur rôle dans une alimentation équilibrée, y compris des aliments mauriciens familiers.",
+            "mfe": "Bann zelev explor bann group manze prensipal ek zot rol dan enn manze ekilibre, ki inklir manze Morisien familie."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "The main food groups",
+                "fr": "Les principaux groupes alimentaires",
+                "mfe": "Bann group manze prensipal"
+              },
+              "objectives": [
+                "Identify the main food groups",
+                "Classify common foods into their food groups",
+                "Explain the function of each food group in the body"
+              ]
+            },
+            {
+              "title": {
+                "en": "Building a balanced diet",
+                "fr": "Construire une alimentation équilibrée",
+                "mfe": "Konstrir enn manze ekilibre"
+              },
+              "objectives": [
+                "Explain what makes a diet balanced",
+                "Design a simple balanced meal plate",
+                "Identify risks of an unbalanced diet"
+              ]
+            },
+            {
+              "title": {
+                "en": "Exploring local Mauritian foods",
+                "fr": "Découvrir les aliments locaux mauriciens",
+                "mfe": "Explor manze lokal Morisien"
+              },
+              "objectives": [
+                "Identify traditional Mauritian foods and their food groups",
+                "Explain the cultural importance of local dishes",
+                "Compare nutritional value of local and imported foods"
+              ]
+            },
+            {
+              "title": {
+                "en": "Reading food labels",
+                "fr": "Lire les étiquettes alimentaires",
+                "mfe": "Lir etiket manze"
+              },
+              "objectives": [
+                "Identify key information found on food labels",
+                "Explain the meaning of nutritional values on labels",
+                "Use labels to compare healthiness of products"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Introduction to fibres and fabrics",
+            "fr": "Introduction aux fibres et tissus",
+            "mfe": "Introdiksion fib ek tisi"
+          },
+          "summary": {
+            "en": "Students learn about different types of fibres and fabrics and their suitability for various uses.",
+            "fr": "Les élèves découvrent différents types de fibres et de tissus et leur adéquation à divers usages.",
+            "mfe": "Bann zelev aprann diferan tip fib ek tisi ek zot lizaz apropriye."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Natural fibres",
+                "fr": "Fibres naturelles",
+                "mfe": "Fib natirel"
+              },
+              "objectives": [
+                "Identify common natural fibres such as cotton and wool",
+                "Describe the source of natural fibres",
+                "Explain properties of natural fibres"
+              ]
+            },
+            {
+              "title": {
+                "en": "Synthetic fibres",
+                "fr": "Fibres synthétiques",
+                "mfe": "Fib sintetik"
+              },
+              "objectives": [
+                "Identify common synthetic fibres such as polyester",
+                "Describe how synthetic fibres are made",
+                "Compare synthetic and natural fibre properties"
+              ]
+            },
+            {
+              "title": {
+                "en": "Fabric properties and testing",
+                "fr": "Propriétés et tests des tissus",
+                "mfe": "Proprite ek test tisi"
+              },
+              "objectives": [
+                "Test simple fabric properties such as strength and absorbency",
+                "Describe how fabric properties affect use",
+                "Record observations from fabric tests"
+              ]
+            },
+            {
+              "title": {
+                "en": "Choosing fabric for a purpose",
+                "fr": "Choisir un tissu selon son usage",
+                "mfe": "Swazir tisi selon lizaz"
+              },
+              "objectives": [
+                "Match fabric types to suitable uses",
+                "Explain factors influencing fabric choice",
+                "Justify fabric choice for a given item"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Hand sewing basics",
+            "fr": "Bases de la couture à la main",
+            "mfe": "Baz kouti amenn"
+          },
+          "summary": {
+            "en": "Students develop foundational hand sewing skills including basic stitches and simple repairs.",
+            "fr": "Les élèves développent des compétences de base en couture à la main, y compris les points de base et les petites réparations.",
+            "mfe": "Bann zelev devlop konpetans debaz kouti amenn ki inklir bann pwin baz ek ti reparasion."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Threading a needle and knotting thread",
+                "fr": "Enfiler une aiguille et nouer le fil",
+                "mfe": "Anfil zegwi ek fer ne fil"
+              },
+              "objectives": [
+                "Thread a needle correctly",
+                "Tie a secure knot in thread",
+                "Demonstrate safe needle handling"
+              ]
+            },
+            {
+              "title": {
+                "en": "Basic hand stitches",
+                "fr": "Points de couture à la main de base",
+                "mfe": "Bann pwin kouti amenn debaz"
+              },
+              "objectives": [
+                "Demonstrate running stitch and backstitch",
+                "Explain when each stitch is used",
+                "Practise even, neat stitching"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sewing on a button",
+                "fr": "Coudre un bouton",
+                "mfe": "Kouti enn bouton"
+              },
+              "objectives": [
+                "Attach a button securely to fabric",
+                "Explain steps to reinforce a button",
+                "Identify common button types"
+              ]
+            },
+            {
+              "title": {
+                "en": "Simple hemming techniques",
+                "fr": "Techniques simples d'ourlet",
+                "mfe": "Teknik sinp pou fer lourle"
+              },
+              "objectives": [
+                "Demonstrate a simple hem stitch",
+                "Measure and fold fabric for hemming",
+                "Explain the purpose of hemming garments"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Planning simple meals",
+            "fr": "Planifier des repas simples",
+            "mfe": "Planifie manze sinp"
+          },
+          "summary": {
+            "en": "Students learn to plan simple, affordable meals considering nutrition, season and presentation.",
+            "fr": "Les élèves apprennent à planifier des repas simples et abordables en tenant compte de la nutrition, de la saison et de la présentation.",
+            "mfe": "Bann zelev aprann planifie manze sinp ek abordab an konsider nitrision, sezon ek prezantasion."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Planning a simple meal",
+                "fr": "Planifier un repas simple",
+                "mfe": "Planifie enn manze sinp"
+              },
+              "objectives": [
+                "Plan a simple meal that meets basic nutritional needs",
+                "Sequence steps needed to prepare a meal",
+                "Explain time management when cooking"
+              ]
+            },
+            {
+              "title": {
+                "en": "Budgeting for food",
+                "fr": "Établir un budget alimentaire",
+                "mfe": "Fer bidze pou manze"
+              },
+              "objectives": [
+                "Estimate cost of ingredients for a simple meal",
+                "Compare costs of different food choices",
+                "Explain ways to reduce food costs"
+              ]
+            },
+            {
+              "title": {
+                "en": "Using seasonal ingredients",
+                "fr": "Utiliser des ingrédients de saison",
+                "mfe": "Servi lengredien sezoner"
+              },
+              "objectives": [
+                "Identify seasonal fruits and vegetables in Mauritius",
+                "Explain benefits of using seasonal produce",
+                "Plan a dish using seasonal ingredients"
+              ]
+            },
+            {
+              "title": {
+                "en": "Presenting food attractively",
+                "fr": "Présenter les plats de façon attrayante",
+                "mfe": "Prezant manze dan enn fason atiran"
+              },
+              "objectives": [
+                "Explain principles of attractive food presentation",
+                "Apply simple garnishing techniques",
+                "Evaluate presentation of a finished dish"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Caring for textiles and simple projects",
+            "fr": "Entretien des textiles et petits projets",
+            "mfe": "Pran swin tisi ek ti proze"
+          },
+          "summary": {
+            "en": "Students learn to care for fabrics and apply their sewing skills to complete a simple textile project.",
+            "fr": "Les élèves apprennent à entretenir les tissus et appliquent leurs compétences en couture pour réaliser un petit projet textile.",
+            "mfe": "Bann zelev aprann pran swin tisi ek aplik zot konpetans kouti pou realiz enn ti proze tisi."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Washing and caring for fabrics",
+                "fr": "Laver et entretenir les tissus",
+                "mfe": "Lav ek pran swin tisi"
+              },
+              "objectives": [
+                "Read and interpret care labels on garments",
+                "Explain correct washing methods for different fabrics",
+                "Identify effects of poor fabric care"
+              ]
+            },
+            {
+              "title": {
+                "en": "Simple mending techniques",
+                "fr": "Techniques simples de réparation",
+                "mfe": "Teknik sinp pou reparasion"
+              },
+              "objectives": [
+                "Repair a small tear using hand stitching",
+                "Explain when mending is preferable to discarding",
+                "Demonstrate patching a fabric hole"
+              ]
+            },
+            {
+              "title": {
+                "en": "Adding decorative stitches",
+                "fr": "Ajouter des points décoratifs",
+                "mfe": "Azout pwin dekoratif"
+              },
+              "objectives": [
+                "Demonstrate a simple decorative stitch",
+                "Explain how decoration can personalise an item",
+                "Design a small decorative pattern"
+              ]
+            },
+            {
+              "title": {
+                "en": "Completing a mini textile project",
+                "fr": "Réaliser un mini projet textile",
+                "mfe": "Realiz enn ti proze tisi"
+              },
+              "objectives": [
+                "Plan and create a simple textile item using learnt skills",
+                "Apply safety and hygiene practices throughout the project",
+                "Evaluate the finished project against set criteria"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "8": {
+      "units": [
+        {
+          "title": {
+            "en": "Nutrients and healthy eating",
+            "fr": "Les nutriments et une alimentation saine",
+            "mfe": "Nitriman ek manze en fason lasante"
+          },
+          "summary": {
+            "en": "Students study the main nutrient groups, their functions and food sources, and learn how to plan balanced meals suited to Mauritian eating habits.",
+            "fr": "Les élèves étudient les principaux groupes de nutriments, leurs fonctions et sources alimentaires, et apprennent à planifier des repas équilibrés adaptés aux habitudes alimentaires mauriciennes.",
+            "mfe": "Bann elev etidie bann prinsipal group nitriman, zot fonksion ek sours manze, ek aprann kouma planifie repa ekilibre ki adapte ar labitid manze Morisien."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Carbohydrates and fats in our diet",
+                "fr": "Les glucides et les lipides dans notre alimentation",
+                "mfe": "Karbohidrat ek lagres dan nou manze"
+              },
+              "objectives": [
+                "Identify food sources rich in carbohydrates and fats",
+                "Explain the function of carbohydrates and fats in the body",
+                "Compare local staple foods for their carbohydrate and fat content"
+              ]
+            },
+            {
+              "title": {
+                "en": "Proteins for growth and repair",
+                "fr": "Les protéines pour la croissance et la réparation",
+                "mfe": "Protein pou grandi ek repar lekor"
+              },
+              "objectives": [
+                "Describe the role of protein in the body",
+                "List animal and plant sources of protein common in Mauritius",
+                "Explain why teenagers need adequate protein intake"
+              ]
+            },
+            {
+              "title": {
+                "en": "Vitamins and minerals",
+                "fr": "Les vitamines et les minéraux",
+                "mfe": "Vitamin ek mineral"
+              },
+              "objectives": [
+                "Name key vitamins and minerals and their food sources",
+                "Describe deficiency effects of common vitamins and minerals",
+                "Suggest ways to include micronutrients in daily meals"
+              ]
+            },
+            {
+              "title": {
+                "en": "Planning a balanced meal",
+                "fr": "Planifier un repas équilibré",
+                "mfe": "Planifie enn repa ekilibre"
+              },
+              "objectives": [
+                "Apply the food guide to plan a balanced meal",
+                "Design a one-day menu using local ingredients",
+                "Evaluate a given menu for nutritional balance"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Fruits and vegetables in Mauritius",
+            "fr": "Les fruits et légumes à Maurice",
+            "mfe": "Fri ek legim Moris"
+          },
+          "summary": {
+            "en": "This unit explores the seasonal fruits and vegetables grown locally, their nutritional value, and how to prepare and store them to reduce waste.",
+            "fr": "Cette unité explore les fruits et légumes de saison cultivés localement, leur valeur nutritionnelle, ainsi que leur préparation et conservation pour réduire le gaspillage.",
+            "mfe": "Sa linite-la explor bann fri ek legim sezon ki kiltive lokalman, zot valer nitrisyonel, ek kouma prepar ek konserv zot pou diminie gaspiyaz."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Seasonal produce of Mauritius",
+                "fr": "Les produits de saison à Maurice",
+                "mfe": "Prodwi sezon Moris"
+              },
+              "objectives": [
+                "Identify fruits and vegetables that are in season locally",
+                "Explain benefits of eating seasonal local produce",
+                "Compare imported and local produce availability"
+              ]
+            },
+            {
+              "title": {
+                "en": "Preparing fruits and vegetables safely",
+                "fr": "Préparer fruits et légumes en toute sécurité",
+                "mfe": "Prepar fri ek legim an sekirite"
+              },
+              "objectives": [
+                "Demonstrate correct washing and cutting techniques",
+                "Explain how preparation methods affect nutrient loss",
+                "Apply hygiene rules when handling produce"
+              ]
+            },
+            {
+              "title": {
+                "en": "Cooking methods for vegetables",
+                "fr": "Méthodes de cuisson des légumes",
+                "mfe": "Metod pou kwi legim"
+              },
+              "objectives": [
+                "Compare boiling, steaming and stir-frying methods",
+                "Explain how each method affects vitamin content",
+                "Select an appropriate method for a given vegetable"
+              ]
+            },
+            {
+              "title": {
+                "en": "Storing produce to reduce waste",
+                "fr": "Conserver les produits pour réduire le gaspillage",
+                "mfe": "Konserv prodwi pou diminie gaspiyaz"
+              },
+              "objectives": [
+                "Describe correct storage conditions for fruits and vegetables",
+                "Explain causes of food spoilage",
+                "Suggest ways households can reduce food waste"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Cereals, meat, fish and dairy",
+            "fr": "Céréales, viande, poisson et produits laitiers",
+            "mfe": "Serial, laviann, pwason ek prodwi lete"
+          },
+          "summary": {
+            "en": "Students learn about the characteristics, selection and basic preparation of cereals, meat, fish and dairy products commonly used in Mauritian cooking.",
+            "fr": "Les élèves découvrent les caractéristiques, la sélection et la préparation de base des céréales, viandes, poissons et produits laitiers courants dans la cuisine mauricienne.",
+            "mfe": "Bann elev aprann karakteristik, seleksion ek preparasion baz serial, laviann, pwason ek prodwi lete ki souvan servi dan lakwizinn Morisien."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Rice and other cereals",
+                "fr": "Le riz et autres céréales",
+                "mfe": "Diri ek lezot serial"
+              },
+              "objectives": [
+                "Identify types of cereals used in Mauritian households",
+                "Describe basic methods of cooking rice and cereals",
+                "Explain the nutritional contribution of cereals to the diet"
+              ]
+            },
+            {
+              "title": {
+                "en": "Selecting and storing meat and fish",
+                "fr": "Choisir et conserver viande et poisson",
+                "mfe": "Swazir ek konserv laviann ek pwason"
+              },
+              "objectives": [
+                "Explain how to identify fresh meat and fish",
+                "Describe safe storage practices for meat and fish",
+                "Discuss hygiene risks linked to poor storage"
+              ]
+            },
+            {
+              "title": {
+                "en": "Basic cooking of meat and fish",
+                "fr": "Cuisson de base de la viande et du poisson",
+                "mfe": "Kwi baz laviann ek pwason"
+              },
+              "objectives": [
+                "Demonstrate simple cooking methods for meat and fish",
+                "Explain why thorough cooking prevents food poisoning",
+                "Compare frying, grilling and boiling methods"
+              ]
+            },
+            {
+              "title": {
+                "en": "Dairy products and eggs",
+                "fr": "Produits laitiers et œufs",
+                "mfe": "Prodwi lete ek dizef"
+              },
+              "objectives": [
+                "List common dairy products and their uses",
+                "Explain the nutritional value of milk and eggs",
+                "Describe correct storage of dairy products and eggs"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Food safety and hygiene in the kitchen",
+            "fr": "Sécurité alimentaire et hygiène en cuisine",
+            "mfe": "Sekirite alimanter ek ligyenn dan lakwizinn"
+          },
+          "summary": {
+            "en": "This unit covers safe kitchen practices, causes of food contamination and how to prevent food-borne illness at home.",
+            "fr": "Cette unité couvre les pratiques sécuritaires en cuisine, les causes de contamination alimentaire et la prévention des maladies d'origine alimentaire à la maison.",
+            "mfe": "Sa linite-la kouver bann prtik sekirite dan lakwizinn, koz kontaminasion manze ek kouma anpes maladi ki relye ar manze dan lakaz."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Causes of food contamination",
+                "fr": "Causes de la contamination alimentaire",
+                "mfe": "Bann koz kontaminasion manze"
+              },
+              "objectives": [
+                "Identify sources of microbial contamination in food",
+                "Explain how bacteria multiply in food",
+                "Describe conditions that favour bacterial growth"
+              ]
+            },
+            {
+              "title": {
+                "en": "Safe kitchen practices",
+                "fr": "Pratiques sécuritaires en cuisine",
+                "mfe": "Prtik sekirite dan lakwizinn"
+              },
+              "objectives": [
+                "Demonstrate correct handwashing and equipment cleaning",
+                "Explain the importance of separating raw and cooked food",
+                "List rules for safe food handling at home"
+              ]
+            },
+            {
+              "title": {
+                "en": "Preventing food poisoning",
+                "fr": "Prévenir les intoxications alimentaires",
+                "mfe": "Anpes lentoksikasion alimanter"
+              },
+              "objectives": [
+                "Describe common symptoms of food poisoning",
+                "Explain how correct cooking and storage prevent illness",
+                "Discuss the importance of use-by dates"
+              ]
+            },
+            {
+              "title": {
+                "en": "Kitchen safety and accident prevention",
+                "fr": "Sécurité en cuisine et prévention des accidents",
+                "mfe": "Sekirite lakwizinn ek anpes aksidan"
+              },
+              "objectives": [
+                "Identify common kitchen hazards",
+                "Explain safe use of knives and hot equipment",
+                "Demonstrate basic first aid for minor kitchen injuries"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Fibres and fabric construction",
+            "fr": "Fibres et fabrication des tissus",
+            "mfe": "Fib ek fabrikasion tisi"
+          },
+          "summary": {
+            "en": "Students explore natural and synthetic fibres, how yarns are made into fabrics, and the basic properties of common textile materials.",
+            "fr": "Les élèves explorent les fibres naturelles et synthétiques, la fabrication des tissus à partir de fils, et les propriétés de base des matériaux textiles courants.",
+            "mfe": "Bann elev explor fib natirel ek sintetik, kouma fil transforme an tisi, ek bann proprite baz materyo tekstil ki souvan servi."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Natural fibres: cotton and wool",
+                "fr": "Fibres naturelles : coton et laine",
+                "mfe": "Fib natirel: koton ek lin"
+              },
+              "objectives": [
+                "Describe the source and properties of cotton and wool",
+                "Compare uses of cotton and wool in clothing",
+                "Explain why natural fibres suit Mauritius's climate"
+              ]
+            },
+            {
+              "title": {
+                "en": "Synthetic and blended fibres",
+                "fr": "Fibres synthétiques et mélangées",
+                "mfe": "Fib sintetik ek melanze"
+              },
+              "objectives": [
+                "Identify common synthetic fibres such as polyester and nylon",
+                "Explain advantages of blending natural and synthetic fibres",
+                "Compare durability and comfort of different fibre types"
+              ]
+            },
+            {
+              "title": {
+                "en": "From fibre to fabric",
+                "fr": "De la fibre au tissu",
+                "mfe": "Depi fib ziska tisi"
+              },
+              "objectives": [
+                "Describe the process of spinning fibres into yarn",
+                "Explain how weaving and knitting produce fabric",
+                "Compare woven and knitted fabric structures"
+              ]
+            },
+            {
+              "title": {
+                "en": "Testing fabric properties",
+                "fr": "Tester les propriétés des tissus",
+                "mfe": "Teste proprite tisi"
+              },
+              "objectives": [
+                "Conduct simple tests for fabric strength and absorbency",
+                "Record observations from fabric tests",
+                "Relate test results to suitable fabric uses"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Caring for textiles and clothing",
+            "fr": "Entretien des textiles et vêtements",
+            "mfe": "Antretien tisi ek linz"
+          },
+          "summary": {
+            "en": "This unit teaches correct methods of washing, drying, ironing and storing clothes to make them last longer and stay in good condition.",
+            "fr": "Cette unité enseigne les méthodes correctes de lavage, séchage, repassage et rangement des vêtements pour prolonger leur durée de vie.",
+            "mfe": "Sa linite-la ansegn bann bon metod pou lav, sey, repas ek range linz pou fer li dire pli lontan ek res an bon eta."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Reading care labels",
+                "fr": "Lire les étiquettes d'entretien",
+                "mfe": "Lir letiket antretien"
+              },
+              "objectives": [
+                "Interpret common care label symbols",
+                "Explain why care instructions vary by fabric type",
+                "Select the correct washing method from a care label"
+              ]
+            },
+            {
+              "title": {
+                "en": "Washing and drying clothes",
+                "fr": "Laver et sécher les vêtements",
+                "mfe": "Lav ek sey linz"
+              },
+              "objectives": [
+                "Describe correct hand and machine washing techniques",
+                "Explain how to sort clothes before washing",
+                "Discuss suitable drying methods for different fabrics"
+              ]
+            },
+            {
+              "title": {
+                "en": "Ironing and pressing techniques",
+                "fr": "Techniques de repassage",
+                "mfe": "Teknik repasaz"
+              },
+              "objectives": [
+                "Demonstrate safe use of an iron",
+                "Explain correct ironing temperatures for different fabrics",
+                "Describe how pressing improves garment appearance"
+              ]
+            },
+            {
+              "title": {
+                "en": "Storing and maintaining clothes",
+                "fr": "Ranger et entretenir les vêtements",
+                "mfe": "Range ek antretenir linz"
+              },
+              "objectives": [
+                "Explain correct storage to prevent damage from insects and damp",
+                "Describe simple mending techniques for minor repairs",
+                "Discuss how proper care extends the life of clothing"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Introduction to garment construction",
+            "fr": "Introduction à la confection de vêtements",
+            "mfe": "Introdiksion konstriksion vetman"
+          },
+          "summary": {
+            "en": "Students learn basic sewing tools, stitches and techniques used to construct simple textile items.",
+            "fr": "Les élèves apprennent les outils de couture de base, les points et techniques utilisés pour confectionner de simples articles textiles.",
+            "mfe": "Bann elev aprann bann zouti kouti baz, pwen ek teknik ki servi pou konstrir bann senp lartik tekstil."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Sewing tools and equipment",
+                "fr": "Outils et matériel de couture",
+                "mfe": "Zouti ek ekipman kouti"
+              },
+              "objectives": [
+                "Identify common hand-sewing and machine tools",
+                "Explain the safe use of sewing equipment",
+                "Describe the function of each tool in garment making"
+              ]
+            },
+            {
+              "title": {
+                "en": "Basic hand stitches",
+                "fr": "Points de couture à la main",
+                "mfe": "Pwen kouti amen"
+              },
+              "objectives": [
+                "Demonstrate running stitch, backstitch and hemming stitch",
+                "Explain when each stitch type is used",
+                "Practise neat and even stitching on fabric samples"
+              ]
+            },
+            {
+              "title": {
+                "en": "Using a sewing machine safely",
+                "fr": "Utiliser une machine à coudre en sécurité",
+                "mfe": "Servi masinn kouti an sekirite"
+              },
+              "objectives": [
+                "Identify parts of a sewing machine",
+                "Demonstrate threading and basic machine operation",
+                "Explain safety precautions when using a sewing machine"
+              ]
+            },
+            {
+              "title": {
+                "en": "Making a simple textile item",
+                "fr": "Confectionner un article textile simple",
+                "mfe": "Fer enn senp lartik tekstil"
+              },
+              "objectives": [
+                "Plan the steps to make a simple item such as a pouch",
+                "Apply stitching and finishing techniques learned",
+                "Evaluate the quality of a finished textile project"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "units": [
+        {
+          "title": {
+            "en": "Nutrients and healthy eating",
+            "fr": "Nutriments et alimentation saine",
+            "mfe": "Nitriman ek manze an sante"
+          },
+          "summary": {
+            "en": "Revise and deepen understanding of nutrients, their functions and how to build a balanced diet.",
+            "fr": "Réviser et approfondir la compréhension des nutriments, de leurs fonctions et de la construction d'une alimentation équilibrée.",
+            "mfe": "Revize ek apronfondi konpreansyon lor nitriman, zot fonksyon ek kouma bati enn rezim alimanter ekilibre."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Macronutrients revisited",
+                "fr": "Les macronutriments revisités",
+                "mfe": "Makronitriman revize"
+              },
+              "objectives": [
+                "Recall the main macronutrients and their sources",
+                "Explain the functions of proteins, fats and carbohydrates",
+                "Compare foods rich in each macronutrient"
+              ]
+            },
+            {
+              "title": {
+                "en": "Micronutrients: vitamins and minerals",
+                "fr": "Micronutriments : vitamines et minéraux",
+                "mfe": "Mikronitriman: vitamin ek mineral"
+              },
+              "objectives": [
+                "Identify major vitamins and minerals",
+                "Describe deficiency diseases linked to lack of nutrients",
+                "Suggest foods that provide key micronutrients"
+              ]
+            },
+            {
+              "title": {
+                "en": "Water and fibre in the diet",
+                "fr": "L'eau et les fibres dans l'alimentation",
+                "mfe": "Delo ek fib dan alimantasyon"
+              },
+              "objectives": [
+                "Explain the role of water in the body",
+                "Describe sources and benefits of dietary fibre",
+                "Discuss consequences of insufficient fibre or water intake"
+              ]
+            },
+            {
+              "title": {
+                "en": "Balanced diet and food guide",
+                "fr": "Alimentation équilibrée et guide alimentaire",
+                "mfe": "Rezim ekilibre ek gid alimanter"
+              },
+              "objectives": [
+                "Use a food guide to plan balanced meals",
+                "Assess a sample menu for nutritional balance",
+                "Adapt meals to meet daily nutrient needs"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Meal planning for different needs",
+            "fr": "Planification des repas selon les besoins",
+            "mfe": "Planifikasyon repa selon bezwen"
+          },
+          "summary": {
+            "en": "Learn to plan meals considering age, budget and special dietary requirements.",
+            "fr": "Apprendre à planifier des repas en tenant compte de l'âge, du budget et des besoins alimentaires particuliers.",
+            "mfe": "Aprann planifye repa an tenir kont laz, bidze ek bezwen alimanter spesyal."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Factors affecting meal planning",
+                "fr": "Facteurs influençant la planification des repas",
+                "mfe": "Fakter ki influans planifikasyon repa"
+              },
+              "objectives": [
+                "List factors that influence meal choices",
+                "Explain how culture and religion affect meal planning",
+                "Discuss the impact of lifestyle on food choices"
+              ]
+            },
+            {
+              "title": {
+                "en": "Planning meals for various age groups",
+                "fr": "Planifier des repas pour différents groupes d'âge",
+                "mfe": "Planifye repa pou diferan gran group laz"
+              },
+              "objectives": [
+                "Identify nutritional needs of infants, teenagers and elderly",
+                "Design sample menus for different age groups",
+                "Explain why nutrient needs change across life stages"
+              ]
+            },
+            {
+              "title": {
+                "en": "Special dietary needs",
+                "fr": "Besoins alimentaires particuliers",
+                "mfe": "Bezwen alimanter partikilye"
+              },
+              "objectives": [
+                "Describe diets for diabetics and people with allergies",
+                "Suggest suitable food substitutions",
+                "Explain the importance of reading food labels"
+              ]
+            },
+            {
+              "title": {
+                "en": "Budgeting for family meals",
+                "fr": "Établir un budget pour les repas familiaux",
+                "mfe": "Fer bidze pou repa fami"
+              },
+              "objectives": [
+                "Plan a weekly menu within a given budget",
+                "Compare costs of different food choices",
+                "Suggest ways to reduce food wastage and cost"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Food science and cooking methods",
+            "fr": "Science alimentaire et méthodes de cuisson",
+            "mfe": "Syans alimanter ek metod kwisin"
+          },
+          "summary": {
+            "en": "Explore how heat, additives and raising agents affect food during preparation and cooking.",
+            "fr": "Explorer comment la chaleur, les additifs et les agents levants affectent les aliments lors de la préparation et de la cuisson.",
+            "mfe": "Explor kouma saler, aditif ek ajan leve afekte manze pandan preparasyon ek kwisson."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Effects of heat on food",
+                "fr": "Effets de la chaleur sur les aliments",
+                "mfe": "Efe saler lor manze"
+              },
+              "objectives": [
+                "Explain physical and chemical changes caused by heat",
+                "Compare different cooking methods",
+                "Identify nutrient losses during cooking"
+              ]
+            },
+            {
+              "title": {
+                "en": "Raising agents and their uses",
+                "fr": "Agents levants et leurs utilisations",
+                "mfe": "Ajan leve ek zot itilizasyon"
+              },
+              "objectives": [
+                "Identify common raising agents used in baking",
+                "Explain how raising agents work",
+                "Compare results of baked goods using different agents"
+              ]
+            },
+            {
+              "title": {
+                "en": "Food additives and preservatives",
+                "fr": "Additifs alimentaires et conservateurs",
+                "mfe": "Aditif alimanter ek konservater"
+              },
+              "objectives": [
+                "Identify common food additives and their purposes",
+                "Discuss advantages and concerns about additives",
+                "Read and interpret food labels for additives"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sensory evaluation of food",
+                "fr": "Évaluation sensorielle des aliments",
+                "mfe": "Levalyasyon sansoryel manze"
+              },
+              "objectives": [
+                "Describe sensory properties of food",
+                "Conduct a simple taste test",
+                "Record and analyse sensory evaluation results"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Food safety and hygiene practices",
+            "fr": "Sécurité alimentaire et pratiques d'hygiène",
+            "mfe": "Sekirite alimanter ek pratik ladrog"
+          },
+          "summary": {
+            "en": "Understand causes of food poisoning and apply safe food handling and storage practices.",
+            "fr": "Comprendre les causes des intoxications alimentaires et appliquer des pratiques sûres de manipulation et de stockage des aliments.",
+            "mfe": "Konpran koz anpwazonnman alimanter ek aplik bon pratik manipilasyon ek stokaz manze."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Causes and prevention of food poisoning",
+                "fr": "Causes et prévention des intoxications alimentaires",
+                "mfe": "Koz ek prevansyon anpwazonnman alimanter"
+              },
+              "objectives": [
+                "Identify common causes of food poisoning",
+                "Describe symptoms of foodborne illness",
+                "Explain methods to prevent contamination"
+              ]
+            },
+            {
+              "title": {
+                "en": "Safe food storage",
+                "fr": "Stockage sécuritaire des aliments",
+                "mfe": "Stokaz sekiritaire manze"
+              },
+              "objectives": [
+                "Explain correct storage temperatures for different foods",
+                "Describe methods to prevent cross-contamination",
+                "Organise a fridge or pantry for food safety"
+              ]
+            },
+            {
+              "title": {
+                "en": "Kitchen hygiene and safety rules",
+                "fr": "Règles d'hygiène et de sécurité en cuisine",
+                "mfe": "Regleman ladrog ek sekirite dan lakwizinn"
+              },
+              "objectives": [
+                "List hygiene rules for food handlers",
+                "Identify safety hazards in the kitchen",
+                "Demonstrate safe use of kitchen equipment"
+              ]
+            },
+            {
+              "title": {
+                "en": "Cleaning materials and equipment",
+                "fr": "Matériaux et équipements de nettoyage",
+                "mfe": "Materyo ek lekipman netwayaz"
+              },
+              "objectives": [
+                "Identify appropriate cleaning agents for different surfaces",
+                "Explain correct use and storage of cleaning materials",
+                "Describe environmental considerations in cleaning"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Introduction to textile fibres",
+            "fr": "Introduction aux fibres textiles",
+            "mfe": "Introdiksyon a fib teksil"
+          },
+          "summary": {
+            "en": "Study the origin, properties and uses of natural and man-made fibres and fabric construction methods.",
+            "fr": "Étudier l'origine, les propriétés et les usages des fibres naturelles et synthétiques ainsi que les méthodes de fabrication des tissus.",
+            "mfe": "Etidye lorizinn, propriete ek itilizasyon fib natirel ek sintetik ek metod fabrikasyon tisi."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Natural fibres: origin and properties",
+                "fr": "Fibres naturelles : origine et propriétés",
+                "mfe": "Fib natirel: lorizinn ek propriete"
+              },
+              "objectives": [
+                "Identify sources of natural fibres like cotton and wool",
+                "Describe properties of natural fibres",
+                "Compare uses of different natural fibres"
+              ]
+            },
+            {
+              "title": {
+                "en": "Synthetic and man-made fibres",
+                "fr": "Fibres synthétiques et artificielles",
+                "mfe": "Fib sintetik ek fabrike par lom"
+              },
+              "objectives": [
+                "Identify common synthetic fibres",
+                "Explain how synthetic fibres are produced",
+                "Compare advantages and disadvantages of synthetic fibres"
+              ]
+            },
+            {
+              "title": {
+                "en": "Fabric construction: weaving and knitting",
+                "fr": "Construction des tissus : tissage et tricotage",
+                "mfe": "Konstriksyon tisi: tisaz ek trikotaz"
+              },
+              "objectives": [
+                "Explain the process of weaving fabric",
+                "Explain the process of knitting fabric",
+                "Compare woven and knitted fabrics"
+              ]
+            },
+            {
+              "title": {
+                "en": "Choosing fabrics for purpose",
+                "fr": "Choisir des tissus selon l'usage",
+                "mfe": "Swazir tisi selon lizaz"
+              },
+              "objectives": [
+                "Match fabric properties to intended use",
+                "Justify fabric choice for specific garments",
+                "Evaluate suitability of a fabric sample"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Clothing construction skills",
+            "fr": "Compétences en confection de vêtements",
+            "mfe": "Konpetans konstriksyon linz"
+          },
+          "summary": {
+            "en": "Develop practical skills in measuring, pattern use and basic garment construction.",
+            "fr": "Développer des compétences pratiques de mesure, d'utilisation de patrons et de confection de base.",
+            "mfe": "Devlop konpetans pratik pou pran mezir, servi patron ek konstrir enn linz senp."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Taking body measurements",
+                "fr": "Prendre les mesures du corps",
+                "mfe": "Pran mezir lekor"
+              },
+              "objectives": [
+                "Identify key body measurement points",
+                "Take accurate measurements using a tape measure",
+                "Record measurements correctly"
+              ]
+            },
+            {
+              "title": {
+                "en": "Using a paper pattern",
+                "fr": "Utiliser un patron en papier",
+                "mfe": "Servi enn patron papye"
+              },
+              "objectives": [
+                "Interpret pattern markings and symbols",
+                "Lay out and pin a pattern on fabric",
+                "Cut fabric accurately following a pattern"
+              ]
+            },
+            {
+              "title": {
+                "en": "Basic hand and machine stitches",
+                "fr": "Points de couture à la main et à la machine",
+                "mfe": "Pwin koutir amanwel ek amasinn"
+              },
+              "objectives": [
+                "Demonstrate basic hand stitches",
+                "Thread and use a sewing machine safely",
+                "Practise straight and zigzag machine stitching"
+              ]
+            },
+            {
+              "title": {
+                "en": "Simple garment construction project",
+                "fr": "Projet de confection d'un vêtement simple",
+                "mfe": "Prozet konstriksyon enn linz senp"
+              },
+              "objectives": [
+                "Plan steps to construct a simple item",
+                "Apply sewing skills to complete a project",
+                "Evaluate the finished item against a checklist"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Textile care and consumer awareness",
+            "fr": "Entretien des textiles et sensibilisation du consommateur",
+            "mfe": "Lantretyen teksil ek konsyantizasyon konsomater"
+          },
+          "summary": {
+            "en": "Learn to care for textiles correctly and make informed choices as a textile consumer.",
+            "fr": "Apprendre à entretenir correctement les textiles et à faire des choix éclairés en tant que consommateur.",
+            "mfe": "Aprann pran swin teksil korekteman ek fer bon swa kouma enn konsomater teksil."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Care labels and washing symbols",
+                "fr": "Étiquettes d'entretien et symboles de lavage",
+                "mfe": "Etiket lantretyen ek senbol lavaz"
+              },
+              "objectives": [
+                "Interpret common care label symbols",
+                "Explain appropriate washing methods for fabrics",
+                "Sort garments correctly for laundering"
+              ]
+            },
+            {
+              "title": {
+                "en": "Stain removal techniques",
+                "fr": "Techniques d'élimination des taches",
+                "mfe": "Teknik anlev tas"
+              },
+              "objectives": [
+                "Identify common types of stains",
+                "Select appropriate stain removal methods",
+                "Explain precautions when treating stains"
+              ]
+            },
+            {
+              "title": {
+                "en": "Recycling and upcycling textiles",
+                "fr": "Recyclage et surcyclage des textiles",
+                "mfe": "Rekiklaz ek revaloriz teksil"
+              },
+              "objectives": [
+                "Explain the environmental impact of textile waste",
+                "Suggest ways to reuse or upcycle old textiles",
+                "Design a simple upcycled item"
+              ]
+            },
+            {
+              "title": {
+                "en": "Consumer rights when buying textiles",
+                "fr": "Droits des consommateurs lors de l'achat de textiles",
+                "mfe": "Drwa konsomater kan aste teksil"
+              },
+              "objectives": [
+                "Explain consumer rights related to quality and labelling",
+                "Compare textile products for value and durability",
+                "Identify where to seek help for consumer complaints"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Mauritian food culture and preservation",
+            "fr": "Culture alimentaire mauricienne et conservation",
+            "mfe": "Kiltir alimanter morisyen ek konservasyon"
+          },
+          "summary": {
+            "en": "Explore traditional Mauritian dishes, cultural food practices and methods of food preservation.",
+            "fr": "Explorer les plats traditionnels mauriciens, les pratiques alimentaires culturelles et les méthodes de conservation des aliments.",
+            "mfe": "Explor manze tradisyonel morisyen, pratik alimanter kiltirel ek metod konservasyon manze."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Traditional Mauritian dishes and ingredients",
+                "fr": "Plats et ingrédients traditionnels mauriciens",
+                "mfe": "Manze ek lengredyan tradisyonel morisyen"
+              },
+              "objectives": [
+                "Identify key ingredients used in Mauritian cuisine",
+                "Describe the origin of popular local dishes",
+                "Explain the influence of different cultures on local food"
+              ]
+            },
+            {
+              "title": {
+                "en": "Methods of food preservation",
+                "fr": "Méthodes de conservation des aliments",
+                "mfe": "Metod konservasyon manze"
+              },
+              "objectives": [
+                "Describe common preservation methods such as drying and pickling",
+                "Explain how preservation prevents spoilage",
+                "Compare traditional and modern preservation techniques"
+              ]
+            },
+            {
+              "title": {
+                "en": "Cultural and religious food practices",
+                "fr": "Pratiques alimentaires culturelles et religieuses",
+                "mfe": "Pratik alimanter kiltirel ek relizye"
+              },
+              "objectives": [
+                "Describe food practices linked to major religions in Mauritius",
+                "Explain the significance of food during festivals",
+                "Show respect for diverse dietary customs"
+              ]
+            },
+            {
+              "title": {
+                "en": "Planning a multicultural meal",
+                "fr": "Planifier un repas multiculturel",
+                "mfe": "Planifye enn repa miltikiltirel"
+              },
+              "objectives": [
+                "Design a menu representing Mauritius's diverse cultures",
+                "Justify food choices based on nutritional and cultural value",
+                "Present a plan for a multicultural meal event"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "units": [
+        {
+          "title": {
+            "en": "Nutrients and healthy eating",
+            "fr": "Les nutriments et une alimentation saine",
+            "mfe": "Nitriman ek manzer an sante"
+          },
+          "summary": {
+            "en": "Students study the main nutrients, their functions and sources, and learn how to plan a balanced diet suitable for good health.",
+            "fr": "Les élèves étudient les principaux nutriments, leurs fonctions et sources, et apprennent à planifier une alimentation équilibrée pour une bonne santé.",
+            "mfe": "Bann elev etidie bann prinsipal nitriman, zot fonksion ek sours, ek aprann kouma planifie enn rezim alimanter ekilibre pou enn bon sante."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Macronutrients: carbohydrates, proteins and fats",
+                "fr": "Macronutriments : glucides, protéines et lipides",
+                "mfe": "Makronitriman: glisid, protein ek lipid"
+              },
+              "objectives": [
+                "Identify the main macronutrients and their sources",
+                "Explain the functions of carbohydrates, proteins and fats in the body",
+                "Classify foods according to their macronutrient content"
+              ]
+            },
+            {
+              "title": {
+                "en": "Micronutrients: vitamins and minerals",
+                "fr": "Micronutriments : vitamines et minéraux",
+                "mfe": "Mikronitriman: vitamin ek mineral"
+              },
+              "objectives": [
+                "List key vitamins and minerals and their food sources",
+                "Describe deficiency diseases linked to specific micronutrients",
+                "Explain the role of vitamins and minerals in maintaining health"
+              ]
+            },
+            {
+              "title": {
+                "en": "Water and dietary fibre",
+                "fr": "L'eau et les fibres alimentaires",
+                "mfe": "Delo ek fib alimanter"
+              },
+              "objectives": [
+                "Explain the importance of water for body functions",
+                "Describe the role of dietary fibre in digestion",
+                "Identify food sources rich in fibre and water"
+              ]
+            },
+            {
+              "title": {
+                "en": "Planning a balanced diet",
+                "fr": "Planifier une alimentation équilibrée",
+                "mfe": "Planifie enn rezim alimanter ekilibre"
+              },
+              "objectives": [
+                "Define what constitutes a balanced diet",
+                "Apply the food pyramid or plate model to daily meals",
+                "Evaluate a sample menu for nutritional balance"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Nutrition through the life stages",
+            "fr": "La nutrition aux différentes étapes de la vie",
+            "mfe": "Nitrision dan diferan etap lavi"
+          },
+          "summary": {
+            "en": "This unit explores how nutritional needs change from infancy to old age, including special requirements during pregnancy and adolescence.",
+            "fr": "Cette unité explore comment les besoins nutritionnels changent de la petite enfance à la vieillesse, y compris les besoins particuliers pendant la grossesse et l'adolescence.",
+            "mfe": "Sa lini-la explore kouma bezwin nitrisionel sanze depi baba ziska vye laz, ek osi bezwin spesial pandan gestasion ek adolesans."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Feeding infants and young children",
+                "fr": "Alimenter les nourrissons et les jeunes enfants",
+                "mfe": "Nouri bann baba ek zenn zanfan"
+              },
+              "objectives": [
+                "Describe nutritional needs of infants and toddlers",
+                "Explain the importance of breastfeeding and weaning",
+                "Identify suitable foods for young children"
+              ]
+            },
+            {
+              "title": {
+                "en": "Nutrition for adolescents",
+                "fr": "La nutrition pour les adolescents",
+                "mfe": "Nitrision pou adolesan"
+              },
+              "objectives": [
+                "Explain the increased nutritional needs during growth spurts",
+                "Identify common nutritional problems among teenagers",
+                "Suggest healthy eating habits for adolescents"
+              ]
+            },
+            {
+              "title": {
+                "en": "Nutrition for adults and pregnant women",
+                "fr": "La nutrition pour les adultes et les femmes enceintes",
+                "mfe": "Nitrision pou adilt ek fam ansint"
+              },
+              "objectives": [
+                "Describe nutritional needs of adults",
+                "Explain special dietary requirements during pregnancy",
+                "Identify risks associated with poor maternal nutrition"
+              ]
+            },
+            {
+              "title": {
+                "en": "Nutrition for the elderly",
+                "fr": "La nutrition pour les personnes âgées",
+                "mfe": "Nitrision pou bann vye dimoun"
+              },
+              "objectives": [
+                "Explain how nutritional needs change with ageing",
+                "Identify common health issues linked to diet in old age",
+                "Suggest dietary adjustments for elderly people"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Food commodities",
+            "fr": "Les denrées alimentaires",
+            "mfe": "Bann komodite alimanter"
+          },
+          "summary": {
+            "en": "Students learn about the composition, nutritional value, selection and storage of major food commodities used in Mauritian cooking.",
+            "fr": "Les élèves apprennent la composition, la valeur nutritive, la sélection et le stockage des principales denrées utilisées dans la cuisine mauricienne.",
+            "mfe": "Bann elev aprann konpozision, valer nitritif, seleksion ek stokaz bann prinsipal komodite alimanter ki servi dan lakwizinn morisien."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Cereals and starchy foods",
+                "fr": "Céréales et aliments féculents",
+                "mfe": "Serial ek manze feklan"
+              },
+              "objectives": [
+                "Identify common cereals and starchy foods used in Mauritius",
+                "Describe the nutritional value of cereals and starches",
+                "Explain methods of storing cereals and starchy foods"
+              ]
+            },
+            {
+              "title": {
+                "en": "Meat, fish, eggs and milk",
+                "fr": "Viande, poisson, œufs et lait",
+                "mfe": "Lavian, pwason, dizef ek dile"
+              },
+              "objectives": [
+                "Describe the nutritional value of meat, fish, eggs and milk",
+                "Explain how to select fresh animal products",
+                "Identify safe storage methods for protein foods"
+              ]
+            },
+            {
+              "title": {
+                "en": "Fruits and vegetables",
+                "fr": "Fruits et légumes",
+                "mfe": "Fri ek legim"
+              },
+              "objectives": [
+                "Classify fruits and vegetables grown in Mauritius",
+                "Explain the nutritional benefits of fruits and vegetables",
+                "Describe methods to reduce nutrient loss during preparation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Fats and oils",
+                "fr": "Matières grasses et huiles",
+                "mfe": "Lagres ek lwil"
+              },
+              "objectives": [
+                "Identify sources of fats and oils used in cooking",
+                "Compare saturated and unsaturated fats",
+                "Explain health implications of excessive fat consumption"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Food safety and hygiene",
+            "fr": "Sécurité alimentaire et hygiène",
+            "mfe": "Sekirite alimanter ek ladigiene"
+          },
+          "summary": {
+            "en": "This unit covers causes of food contamination, safe storage practices and hygiene rules to prevent food poisoning.",
+            "fr": "Cette unité couvre les causes de contamination alimentaire, les pratiques de stockage sûr et les règles d'hygiène pour prévenir les intoxications alimentaires.",
+            "mfe": "Sa lini-la kouver bann kozes kontaminasion alimanter, bon pratik stokaz ek regleman ladigiene pou anpes lintoksikasion alimanter."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Causes of food contamination",
+                "fr": "Causes de la contamination alimentaire",
+                "mfe": "Bann kozes kontaminasion alimanter"
+              },
+              "objectives": [
+                "Identify biological, chemical and physical contaminants",
+                "Explain how food becomes contaminated",
+                "Describe conditions that favour bacterial growth"
+              ]
+            },
+            {
+              "title": {
+                "en": "Safe food storage",
+                "fr": "Stockage sûr des aliments",
+                "mfe": "Stokaz sekiritik manze"
+              },
+              "objectives": [
+                "Explain correct storage temperatures for different foods",
+                "Describe methods to prevent cross-contamination",
+                "Identify signs of food spoilage"
+              ]
+            },
+            {
+              "title": {
+                "en": "Personal and kitchen hygiene",
+                "fr": "Hygiène personnelle et de la cuisine",
+                "mfe": "Ladigiene personel ek lakwizinn"
+              },
+              "objectives": [
+                "Describe good personal hygiene practices when handling food",
+                "Explain hygienic practices for kitchen equipment and surfaces",
+                "Identify hazards linked to poor kitchen hygiene"
+              ]
+            },
+            {
+              "title": {
+                "en": "Food poisoning and its prevention",
+                "fr": "Les intoxications alimentaires et leur prévention",
+                "mfe": "Lintoksikasion alimanter ek so prevansion"
+              },
+              "objectives": [
+                "Identify common causes and symptoms of food poisoning",
+                "Explain preventive measures against food poisoning",
+                "Describe the role of food handlers in preventing outbreaks"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Cooking methods and meal planning",
+            "fr": "Méthodes de cuisson et planification des repas",
+            "mfe": "Metod kwisin ek planifikasion repa"
+          },
+          "summary": {
+            "en": "Students explore different cooking methods, their effects on nutrients, and how to plan balanced meals for various needs.",
+            "fr": "Les élèves explorent différentes méthodes de cuisson, leurs effets sur les nutriments, et comment planifier des repas équilibrés pour divers besoins.",
+            "mfe": "Bann elev explore diferan metod kwisin, zot lefe lor nitriman, ek kouma planifie repa ekilibre pou diferan bezwin."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Methods of cooking food",
+                "fr": "Méthodes de cuisson des aliments",
+                "mfe": "Metod pou kwi manze"
+              },
+              "objectives": [
+                "Identify common methods of cooking used in Mauritian cuisine",
+                "Compare moist and dry heat cooking methods",
+                "Explain advantages and disadvantages of each cooking method"
+              ]
+            },
+            {
+              "title": {
+                "en": "Effects of heat on nutrients",
+                "fr": "Effets de la chaleur sur les nutriments",
+                "mfe": "Lefe saler lor nitriman"
+              },
+              "objectives": [
+                "Explain how cooking affects vitamins and minerals",
+                "Identify methods that minimise nutrient loss",
+                "Suggest ways to retain nutritional value during cooking"
+              ]
+            },
+            {
+              "title": {
+                "en": "Planning balanced meals",
+                "fr": "Planifier des repas équilibrés",
+                "mfe": "Planifie repa ekilibre"
+              },
+              "objectives": [
+                "Apply nutritional knowledge to plan a day's meals",
+                "Consider budget and availability when planning menus",
+                "Evaluate a meal plan for nutritional adequacy"
+              ]
+            },
+            {
+              "title": {
+                "en": "Planning for special diets",
+                "fr": "Planifier pour des régimes spéciaux",
+                "mfe": "Planifie pou rezim spesial"
+              },
+              "objectives": [
+                "Identify dietary needs for diabetics, vegetarians and allergy sufferers",
+                "Adapt recipes to meet special dietary requirements",
+                "Explain considerations for religious and cultural food practices"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Textile fibres and fabrics",
+            "fr": "Fibres textiles et tissus",
+            "mfe": "Fib teksil ek tisi"
+          },
+          "summary": {
+            "en": "This unit introduces natural and synthetic fibres, how fabrics are constructed, and the properties that affect fabric choice and care.",
+            "fr": "Cette unité présente les fibres naturelles et synthétiques, la construction des tissus et les propriétés qui influencent le choix et l'entretien des tissus.",
+            "mfe": "Sa lini-la prezant bann fib natirel ek sintetik, kouma tisi konstrwir, ek bann proprite ki afekte swa ek antretien tisi."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Natural fibres",
+                "fr": "Fibres naturelles",
+                "mfe": "Fib natirel"
+              },
+              "objectives": [
+                "Classify natural fibres by origin: plant, animal, mineral",
+                "Describe properties of cotton, wool and silk",
+                "Identify uses of natural fibres in clothing"
+              ]
+            },
+            {
+              "title": {
+                "en": "Synthetic and man-made fibres",
+                "fr": "Fibres synthétiques et artificielles",
+                "mfe": "Fib sintetik ek fabrike-par-lom"
+              },
+              "objectives": [
+                "Describe how synthetic fibres are produced",
+                "Compare properties of synthetic and natural fibres",
+                "Identify common uses of synthetic fibres"
+              ]
+            },
+            {
+              "title": {
+                "en": "How fabrics are constructed",
+                "fr": "Comment les tissus sont fabriqués",
+                "mfe": "Kouma tisi konstrwir"
+              },
+              "objectives": [
+                "Explain the processes of weaving and knitting",
+                "Distinguish between woven and knitted fabrics",
+                "Describe non-woven fabric construction"
+              ]
+            },
+            {
+              "title": {
+                "en": "Fabric properties and performance",
+                "fr": "Propriétés et performance des tissus",
+                "mfe": "Proprite ek performans tisi"
+              },
+              "objectives": [
+                "Identify properties such as absorbency, elasticity and durability",
+                "Relate fabric properties to suitability for specific garments",
+                "Test simple fabric properties through observation"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Clothing choices and care",
+            "fr": "Choix et entretien des vêtements",
+            "mfe": "Swa ek antretien vetma"
+          },
+          "summary": {
+            "en": "Students learn to make informed clothing choices, interpret care labels, and understand consumer rights and sustainability in textiles.",
+            "fr": "Les élèves apprennent à faire des choix vestimentaires éclairés, interpréter les étiquettes d'entretien et comprendre les droits des consommateurs et la durabilité des textiles.",
+            "mfe": "Bann elev aprann fer bon swa vetma, konpran etiket antretien, ek konpran drwa konsomater ek diriabilite dan teksil."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Factors influencing clothing selection",
+                "fr": "Facteurs influençant le choix des vêtements",
+                "mfe": "Fakter ki influans swa vetma"
+              },
+              "objectives": [
+                "Identify factors such as climate, occasion and budget in clothing choice",
+                "Explain how fabric properties influence garment suitability",
+                "Discuss cultural influences on clothing choices in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Care labels and laundering",
+                "fr": "Étiquettes d'entretien et lessive",
+                "mfe": "Etiket antretien ek lavaz"
+              },
+              "objectives": [
+                "Interpret common care label symbols",
+                "Explain appropriate washing and drying methods for different fabrics",
+                "Describe correct storage to prolong garment life"
+              ]
+            },
+            {
+              "title": {
+                "en": "Consumer rights in textiles",
+                "fr": "Droits des consommateurs dans le textile",
+                "mfe": "Drwa konsomater dan teksil"
+              },
+              "objectives": [
+                "Explain consumer rights when purchasing clothing",
+                "Identify quality indicators to look for when buying garments",
+                "Describe how to handle faulty textile products"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sustainable and ethical textiles",
+                "fr": "Textiles durables et éthiques",
+                "mfe": "Teksil diriab ek etik"
+              },
+              "objectives": [
+                "Explain the environmental impact of textile production",
+                "Identify sustainable practices such as recycling and upcycling",
+                "Discuss ethical considerations in the fashion industry"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "11": {
+      "units": [
+        {
+          "title": {
+            "en": "Nutrients and energy balance",
+            "fr": "Nutriments et équilibre énergétique",
+            "mfe": "Nitriman ek balans lenerzi"
+          },
+          "summary": {
+            "en": "A deeper study of macronutrients, micronutrients and energy needs, building on Grade 9 knowledge for SC level.",
+            "fr": "Une étude approfondie des macronutriments, des micronutriments et des besoins énergétiques, en s'appuyant sur les connaissances de la 9e année pour le niveau SC.",
+            "mfe": "Enn letid pli fon lor makronitriman, mikronitriman ek bezwin lenerzi, base lor konesans Grade 9 pou nivo SC."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Carbohydrates, fats and proteins revisited",
+                "fr": "Glucides, lipides et protéines revisités",
+                "mfe": "Glisid, lipid ek protein re-egzamine"
+              },
+              "objectives": [
+                "Classify carbohydrates, fats and proteins by chemical structure",
+                "Explain the functions of each macronutrient in the body",
+                "Identify food sources rich in each macronutrient",
+                "Compare biological value of different protein sources"
+              ]
+            },
+            {
+              "title": {
+                "en": "Vitamins and minerals in detail",
+                "fr": "Vitamines et minéraux en détail",
+                "mfe": "Vitamin ek mineral an detay"
+              },
+              "objectives": [
+                "Describe the functions of fat-soluble and water-soluble vitamins",
+                "Explain the role of calcium, iron and iodine in the body",
+                "Identify deficiency diseases linked to specific nutrients",
+                "Recommend food sources to prevent nutrient deficiencies"
+              ]
+            },
+            {
+              "title": {
+                "en": "Energy requirements and BMR",
+                "fr": "Besoins énergétiques et métabolisme de base",
+                "mfe": "Bezwin lenerzi ek metabolism debaz"
+              },
+              "objectives": [
+                "Define basal metabolic rate and factors affecting it",
+                "Calculate approximate daily energy requirements",
+                "Explain the relationship between energy intake and activity level",
+                "Discuss consequences of energy imbalance"
+              ]
+            },
+            {
+              "title": {
+                "en": "Water, fibre and a balanced diet",
+                "fr": "Eau, fibres et régime équilibré",
+                "mfe": "Dilo, fib ek enn rezim ekilibre"
+              },
+              "objectives": [
+                "Explain the importance of water and dietary fibre",
+                "Apply the concept of a balanced diet to daily meals",
+                "Evaluate a given diet for nutritional adequacy",
+                "Suggest improvements to an unbalanced meal plan"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Diet through different life stages",
+            "fr": "Alimentation aux différentes étapes de la vie",
+            "mfe": "Nourritir dan diferan etap lavi"
+          },
+          "summary": {
+            "en": "Explores nutritional needs of infants, children, teenagers, adults, the elderly and special groups such as pregnant women.",
+            "fr": "Explore les besoins nutritionnels des nourrissons, enfants, adolescents, adultes, personnes âgées et groupes spéciaux comme les femmes enceintes.",
+            "mfe": "Explor bezwin nitrisyonel bebe, zanfan, adolesan, adilt, vye dimoun ek group spesyal kouma fam ansint."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Feeding infants and young children",
+                "fr": "Alimentation des nourrissons et jeunes enfants",
+                "mfe": "Nouri bebe ek zenn zanfan"
+              },
+              "objectives": [
+                "Describe weaning and its recommended timing",
+                "Identify suitable first foods for infants",
+                "Explain nutritional needs of toddlers and pre-schoolers",
+                "Discuss common feeding problems in young children"
+              ]
+            },
+            {
+              "title": {
+                "en": "Nutrition for teenagers and adults",
+                "fr": "Nutrition pour adolescents et adultes",
+                "mfe": "Nitrisyon pou adolesan ek adilt"
+              },
+              "objectives": [
+                "Explain increased nutrient needs during adolescence",
+                "Identify risks of poor diet in teenagers",
+                "Compare nutritional needs of active and sedentary adults",
+                "Suggest a balanced daily menu for a teenager"
+              ]
+            },
+            {
+              "title": {
+                "en": "Diet for pregnancy and elderly people",
+                "fr": "Alimentation pour la grossesse et les personnes âgées",
+                "mfe": "Nourritir pou gwoses ek vye dimoun"
+              },
+              "objectives": [
+                "Describe special nutrient needs during pregnancy",
+                "Explain dietary changes needed in old age",
+                "Identify foods to avoid during pregnancy",
+                "Plan a meal suitable for an elderly person"
+              ]
+            },
+            {
+              "title": {
+                "en": "Diet-related diseases and special diets",
+                "fr": "Maladies liées à l'alimentation et régimes spéciaux",
+                "mfe": "Maladi lie ar nourritir ek rezim spesyal"
+              },
+              "objectives": [
+                "Explain causes of obesity, diabetes and coronary heart disease",
+                "Describe dietary management for diabetes and hypertension",
+                "Identify food intolerances and allergies",
+                "Adapt a recipe for a person with a special dietary need"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Food commodities and cooking methods",
+            "fr": "Denrées alimentaires et méthodes de cuisson",
+            "mfe": "Prodwi alimenter ek metod kwisin"
+          },
+          "summary": {
+            "en": "Examines the composition, selection and cooking of key food commodities used in Mauritian and international cuisine.",
+            "fr": "Examine la composition, la sélection et la cuisson des principales denrées alimentaires utilisées dans la cuisine mauricienne et internationale.",
+            "mfe": "Examinn konpozisyon, seleksion ek kwisson prinsipal prodwi alimenter itilize dan kwizinn morisien ek internasional."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Cereals, rice and pasta",
+                "fr": "Céréales, riz et pâtes",
+                "mfe": "Serial, diri ek pat"
+              },
+              "objectives": [
+                "Describe the structure and nutritional value of cereal grains",
+                "Explain methods of cooking rice and pasta correctly",
+                "Compare refined and wholegrain cereal products",
+                "Suggest ways to include cereals in a balanced menu"
+              ]
+            },
+            {
+              "title": {
+                "en": "Meat, fish and eggs",
+                "fr": "Viande, poisson et œufs",
+                "mfe": "Vyann, pwason ek dizef"
+              },
+              "objectives": [
+                "Describe the structure of meat and fish and effects of cooking",
+                "Explain the nutritional value of eggs and their functions in cooking",
+                "Select appropriate cooking methods for different cuts of meat",
+                "Identify signs of freshness and spoilage in meat and fish"
+              ]
+            },
+            {
+              "title": {
+                "en": "Milk, cheese and dairy alternatives",
+                "fr": "Lait, fromage et alternatives laitières",
+                "mfe": "Dile, fromaz ek alternativ leti"
+              },
+              "objectives": [
+                "Describe the composition and nutritional value of milk and cheese",
+                "Explain the process of pasteurisation and homogenisation",
+                "Compare dairy products with plant-based alternatives",
+                "Suggest uses of dairy products in Mauritian recipes"
+              ]
+            },
+            {
+              "title": {
+                "en": "Fruits, vegetables and pulses",
+                "fr": "Fruits, légumes et légumineuses",
+                "mfe": "Frwi, legim ek legiminez"
+              },
+              "objectives": [
+                "Classify fruits, vegetables and pulses by type",
+                "Explain effects of cooking on nutrients in vegetables",
+                "Describe methods to reduce nutrient loss during preparation",
+                "Plan a dish highlighting local seasonal produce"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Food safety and preservation",
+            "fr": "Sécurité alimentaire et conservation",
+            "mfe": "Sekirite alimenter ek konservasion"
+          },
+          "summary": {
+            "en": "Covers food hygiene, causes of food poisoning and traditional and modern preservation methods.",
+            "fr": "Couvre l'hygiène alimentaire, les causes d'intoxication alimentaire et les méthodes de conservation traditionnelles et modernes.",
+            "mfe": "Kouver ijenn alimenter, koz entoksikasion alimenter ek metod konservasion tradisionel ek modern."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Causes and prevention of food poisoning",
+                "fr": "Causes et prévention des intoxications alimentaires",
+                "mfe": "Koz ek prevansion entoksikasion alimenter"
+              },
+              "objectives": [
+                "Identify common bacteria responsible for food poisoning",
+                "Explain conditions that favour bacterial growth",
+                "Describe symptoms and prevention of food-borne illness",
+                "Apply safe food handling practices in the kitchen"
+              ]
+            },
+            {
+              "title": {
+                "en": "Kitchen hygiene and safety practices",
+                "fr": "Hygiène et sécurité en cuisine",
+                "mfe": "Ijenn ek sekirite dan lakwizinn"
+              },
+              "objectives": [
+                "Explain personal hygiene rules for food handlers",
+                "Describe safe storage of raw and cooked food",
+                "Identify hazards in the kitchen and how to prevent accidents",
+                "Demonstrate correct use of a temperature danger zone chart"
+              ]
+            },
+            {
+              "title": {
+                "en": "Traditional methods of food preservation",
+                "fr": "Méthodes traditionnelles de conservation des aliments",
+                "mfe": "Metod tradisionel konservasion manze"
+              },
+              "objectives": [
+                "Describe drying, salting and pickling as preservation methods",
+                "Explain how sugar and vinegar preserve food",
+                "Compare traditional Mauritian preservation techniques",
+                "Evaluate advantages and disadvantages of each method"
+              ]
+            },
+            {
+              "title": {
+                "en": "Modern food preservation and additives",
+                "fr": "Conservation alimentaire moderne et additifs",
+                "mfe": "Konservasion alimenter modern ek aditif"
+              },
+              "objectives": [
+                "Explain freezing, canning and vacuum packing",
+                "Describe the role of food additives and preservatives",
+                "Interpret information found on food labels",
+                "Discuss consumer concerns about processed food"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Meal planning and menu design",
+            "fr": "Planification des repas et conception de menus",
+            "mfe": "Planifikasion repa ek konsepsion menu"
+          },
+          "summary": {
+            "en": "Develops skills in planning balanced, economical and appealing meals for different occasions and budgets.",
+            "fr": "Développe des compétences pour planifier des repas équilibrés, économiques et attrayants pour différentes occasions et budgets.",
+            "mfe": "Devlop konpetans pou planifie repa ekilibre, ekonomik ek atiran pou diferan lokazion ek bidze."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Principles of menu planning",
+                "fr": "Principes de planification des menus",
+                "mfe": "Prinsip planifikasion menu"
+              },
+              "objectives": [
+                "Explain factors to consider when planning a menu",
+                "Apply nutritional guidelines to a family menu",
+                "Balance colour, texture and flavour in a meal",
+                "Design a menu suitable for a given occasion"
+              ]
+            },
+            {
+              "title": {
+                "en": "Budgeting and economical cooking",
+                "fr": "Budgétisation et cuisine économique",
+                "mfe": "Bidzetizasion ek kwisin ekonomik"
+              },
+              "objectives": [
+                "Compare costs of different food choices",
+                "Plan a meal within a specified budget",
+                "Suggest ways to reduce food waste at home",
+                "Evaluate value for money of convenience foods"
+              ]
+            },
+            {
+              "title": {
+                "en": "Meals for special occasions",
+                "fr": "Repas pour occasions spéciales",
+                "mfe": "Repa pou lokazion spesyal"
+              },
+              "objectives": [
+                "Plan a festive meal reflecting Mauritius's multicultural traditions",
+                "Adapt recipes for large numbers of guests",
+                "Consider presentation and garnishing techniques",
+                "Evaluate the success of a planned menu"
+              ]
+            },
+            {
+              "title": {
+                "en": "Catering for dietary needs and preferences",
+                "fr": "Répondre aux besoins et préférences alimentaires",
+                "mfe": "Repond bezwin ek preferans alimenter"
+              },
+              "objectives": [
+                "Plan menus for vegetarians and other dietary preferences",
+                "Adapt recipes to remove allergens",
+                "Consider cultural and religious food practices in menu planning",
+                "Justify menu choices based on nutritional needs"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Textile fibres and fabric properties",
+            "fr": "Fibres textiles et propriétés des tissus",
+            "mfe": "Fib tekstil ek propriete tisi"
+          },
+          "summary": {
+            "en": "Studies natural and synthetic fibres, fabric construction and how properties affect fabric use.",
+            "fr": "Étudie les fibres naturelles et synthétiques, la construction des tissus et l'influence des propriétés sur leur usage.",
+            "mfe": "Etidie fib natirel ek sintetik, konstriksion tisi ek kouma propriete afekte itilizasion tisi."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Natural fibres and their properties",
+                "fr": "Fibres naturelles et leurs propriétés",
+                "mfe": "Fib natirel ek zot propriete"
+              },
+              "objectives": [
+                "Classify natural fibres by plant or animal origin",
+                "Describe properties of cotton, wool, silk and linen",
+                "Explain how fibre structure affects fabric performance",
+                "Match fibre types to suitable garment uses"
+              ]
+            },
+            {
+              "title": {
+                "en": "Synthetic and blended fibres",
+                "fr": "Fibres synthétiques et mélangées",
+                "mfe": "Fib sintetik ek melanz"
+              },
+              "objectives": [
+                "Describe the production of common synthetic fibres",
+                "Explain advantages of blending fibres together",
+                "Compare properties of synthetic and blended fabrics",
+                "Evaluate suitability of fabrics for specific purposes"
+              ]
+            },
+            {
+              "title": {
+                "en": "Fabric construction methods",
+                "fr": "Méthodes de construction des tissus",
+                "mfe": "Metod konstriksion tisi"
+              },
+              "objectives": [
+                "Explain the process of weaving and knitting",
+                "Compare woven and knitted fabric structures",
+                "Describe non-woven fabric production methods",
+                "Identify fabric construction from sample examination"
+              ]
+            },
+            {
+              "title": {
+                "en": "Fabric finishes and fibre testing",
+                "fr": "Finitions des tissus et tests de fibres",
+                "mfe": "Finision tisi ek tes fib"
+              },
+              "objectives": [
+                "Describe common fabric finishes and their purposes",
+                "Explain simple tests used to identify fibre content",
+                "Interpret care label symbols related to fabric type",
+                "Recommend finishes suitable for specific garments"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Clothing choice, care and consumers",
+            "fr": "Choix, entretien et consommation vestimentaire",
+            "mfe": "Swa, lantretien ek konsomasion vestimanter"
+          },
+          "summary": {
+            "en": "Looks at factors influencing clothing choice, garment care and consumer rights in the textile industry.",
+            "fr": "Examine les facteurs influençant le choix des vêtements, l'entretien des vêtements et les droits des consommateurs dans l'industrie textile.",
+            "mfe": "Get bann fakter ki enfliyans swa vestimanter, lantretien vestimanter ek drwa konsomater dan lindistri tekstil."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Factors influencing clothing choices",
+                "fr": "Facteurs influençant les choix vestimentaires",
+                "mfe": "Fakter ki enfliyans swa vestimanter"
+              },
+              "objectives": [
+                "Identify factors affecting choice of clothing",
+                "Explain influence of climate, occasion and lifestyle on clothing",
+                "Discuss the role of fashion trends and culture",
+                "Evaluate suitability of an outfit for a given situation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Garment care and maintenance",
+                "fr": "Entretien et maintenance des vêtements",
+                "mfe": "Lantretien ek mentenans vestimanter"
+              },
+              "objectives": [
+                "Interpret international care labelling symbols",
+                "Explain appropriate washing, drying and ironing methods",
+                "Describe simple repair techniques to extend garment life",
+                "Recommend storage methods to protect different fabrics"
+              ]
+            },
+            {
+              "title": {
+                "en": "Consumer rights and textile labelling",
+                "fr": "Droits des consommateurs et étiquetage textile",
+                "mfe": "Drwa konsomater ek etiketaz tekstil"
+              },
+              "objectives": [
+                "Explain consumer rights when purchasing textile goods",
+                "Interpret information found on garment labels",
+                "Discuss issues of quality, price and value for money",
+                "Identify sources of consumer advice in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sustainability in the textile industry",
+                "fr": "Durabilité dans l'industrie textile",
+                "mfe": "Dirabilite dan lindistri tekstil"
+              },
+              "objectives": [
+                "Discuss environmental impacts of textile production",
+                "Explain the concept of recycling and upcycling fabrics",
+                "Evaluate ethical issues in garment manufacturing",
+                "Suggest sustainable choices for everyday clothing"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Practical skills for the SC examination",
+            "fr": "Compétences pratiques pour l'examen du SC",
+            "mfe": "Konpetans pratik pou lexamen SC"
+          },
+          "summary": {
+            "en": "Consolidates practical food preparation and textile skills alongside exam techniques for the School Certificate.",
+            "fr": "Consolide les compétences pratiques en préparation alimentaire et en textile, ainsi que les techniques d'examen pour le School Certificate.",
+            "mfe": "Konsolid konpetans pratik preparasion manze ek tekstil ansam ar teknik lexamen pou School Certificate."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Planning a practical food task",
+                "fr": "Planifier une tâche pratique alimentaire",
+                "mfe": "Planifie enn tas pratik alimenter"
+              },
+              "objectives": [
+                "Select appropriate dishes for a given practical brief",
+                "Plan a time plan for preparing several dishes",
+                "Justify choice of ingredients and methods used",
+                "Prepare a shopping list based on a planned menu"
+              ]
+            },
+            {
+              "title": {
+                "en": "Demonstrating cooking techniques",
+                "fr": "Démontrer des techniques de cuisson",
+                "mfe": "Demontre teknik kwisson"
+              },
+              "objectives": [
+                "Demonstrate accurate measuring and weighing techniques",
+                "Apply a range of cooking methods correctly",
+                "Present a dish attractively for evaluation",
+                "Evaluate the outcome of a practical cooking session"
+              ]
+            },
+            {
+              "title": {
+                "en": "Practical textile project skills",
+                "fr": "Compétences pratiques en projet textile",
+                "mfe": "Konpetans pratik dan proze tekstil"
+              },
+              "objectives": [
+                "Plan a simple textile project from design to finish",
+                "Apply basic sewing and finishing techniques accurately",
+                "Select suitable fabric and notions for a project",
+                "Evaluate the finished textile item against the design brief"
+              ]
+            },
+            {
+              "title": {
+                "en": "Exam preparation and revision strategies",
+                "fr": "Préparation à l'examen et stratégies de révision",
+                "mfe": "Preparasion lexamen ek stratezi revizion"
+              },
+              "objectives": [
+                "Analyse past examination questions on food and nutrition",
+                "Practise answering structured and essay-style questions",
+                "Apply time management strategies during a written exam",
+                "Review key terminology used in the SC syllabus"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

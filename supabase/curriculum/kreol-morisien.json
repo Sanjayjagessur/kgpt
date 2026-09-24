@@ -1,0 +1,2319 @@
+{
+  "subject": "kreol-morisien",
+  "grades": {
+    "7": {
+      "units": [
+        {
+          "title": {
+            "en": "Discovering Kreol Morisien",
+            "fr": "Découvrir le kreol morisien",
+            "mfe": "Dekouver Kreol Morisien"
+          },
+          "summary": {
+            "en": "An introduction to the history, status and identity of Kreol Morisien as the national language of Mauritius.",
+            "fr": "Une introduction à l'histoire, au statut et à l'identité du kreol morisien en tant que langue nationale de Maurice.",
+            "mfe": "Enn lentrodiksion lor listwar, stati ek ladantite Kreol Morisien kouma langaz nasional Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "What is Kreol Morisien",
+                "fr": "Qu'est-ce que le kreol morisien",
+                "mfe": "Kwa ki Kreol Morisien"
+              },
+              "objectives": [
+                "Define Kreol Morisien as a language",
+                "Identify Kreol Morisien among other languages spoken in Mauritius",
+                "Explain why Kreol Morisien is important for identity"
+              ]
+            },
+            {
+              "title": {
+                "en": "A short history of Kreol Morisien",
+                "fr": "Une brève histoire du kreol morisien",
+                "mfe": "Enn tigit listwar Kreol Morisien"
+              },
+              "objectives": [
+                "Describe how Kreol Morisien developed historically",
+                "Recognise influences from African, European and Asian languages",
+                "Discuss the role of Kreol in Mauritian society today"
+              ]
+            },
+            {
+              "title": {
+                "en": "Kreol Morisien in daily life",
+                "fr": "Le kreol morisien dans la vie quotidienne",
+                "mfe": "Kreol Morisien dan lavi toulezour"
+              },
+              "objectives": [
+                "List situations where Kreol Morisien is used",
+                "Compare formal and informal uses of Kreol",
+                "Appreciate the value of speaking Kreol confidently"
+              ]
+            },
+            {
+              "title": {
+                "en": "Meeting the Lortograf Kreol Morisien",
+                "fr": "Découvrir la Lortograf Kreol Morisien",
+                "mfe": "Fer konesans ar Lortograf Kreol Morisien"
+              },
+              "objectives": [
+                "Explain the purpose of a standard spelling system",
+                "Identify basic principles of Lortograf Kreol Morisien",
+                "Recognise simple words written in Lortograf"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Sounds and letters of Kreol",
+            "fr": "Sons et lettres du kreol",
+            "mfe": "Son ek let Kreol"
+          },
+          "summary": {
+            "en": "Students learn the sound system of Kreol Morisien and how it is represented using Lortograf Kreol Morisien.",
+            "fr": "Les élèves apprennent le système phonétique du kreol morisien et sa représentation selon la Lortograf Kreol Morisien.",
+            "mfe": "Bann elev aprann sistenm son Kreol Morisien ek kouma li ekrir dapre Lortograf Kreol Morisien."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Vowel sounds in Kreol Morisien",
+                "fr": "Les sons voyelles en kreol morisien",
+                "mfe": "Son bann vwayel dan Kreol Morisien"
+              },
+              "objectives": [
+                "Identify the vowel sounds used in Kreol Morisien",
+                "Pronounce vowels correctly in simple words",
+                "Write vowels using correct Lortograf symbols"
+              ]
+            },
+            {
+              "title": {
+                "en": "Consonant sounds and combinations",
+                "fr": "Les sons consonnes et leurs combinaisons",
+                "mfe": "Son bann konsonn ek zot kombinezon"
+              },
+              "objectives": [
+                "Identify common consonant sounds in Kreol Morisien",
+                "Recognise nasal sounds such as an, en, on",
+                "Spell simple words containing nasal sounds"
+              ]
+            },
+            {
+              "title": {
+                "en": "Syllables and word building",
+                "fr": "Syllabes et formation des mots",
+                "mfe": "Silab ek fabrikasion mo"
+              },
+              "objectives": [
+                "Break simple Kreol words into syllables",
+                "Combine syllables to form new words",
+                "Practise reading multisyllabic words aloud"
+              ]
+            },
+            {
+              "title": {
+                "en": "Common spelling rules",
+                "fr": "Règles orthographiques courantes",
+                "mfe": "Bann regleman lortograf frekan"
+              },
+              "objectives": [
+                "Apply basic Lortograf Kreol Morisien spelling rules",
+                "Avoid common spelling mistakes",
+                "Correct simple misspelled words"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Building sentences in Kreol",
+            "fr": "Construire des phrases en kreol",
+            "mfe": "Konstrir fraz an Kreol"
+          },
+          "summary": {
+            "en": "An introduction to basic grammar structures needed to form simple and correct sentences in Kreol Morisien.",
+            "fr": "Une introduction aux structures grammaticales de base nécessaires pour former des phrases simples et correctes en kreol morisien.",
+            "mfe": "Enn lentrodiksion bann striktir gramatikal debaz pou form fraz sinp ek korek an Kreol Morisien."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Nouns and articles",
+                "fr": "Les noms et les articles",
+                "mfe": "Nom ek atikl"
+              },
+              "objectives": [
+                "Identify common and proper nouns in Kreol",
+                "Use definite and indefinite articles correctly",
+                "Form plural nouns in Kreol Morisien"
+              ]
+            },
+            {
+              "title": {
+                "en": "Pronouns in Kreol Morisien",
+                "fr": "Les pronoms en kreol morisien",
+                "mfe": "Pronom dan Kreol Morisien"
+              },
+              "objectives": [
+                "Identify subject pronouns in Kreol Morisien",
+                "Use pronouns to replace nouns in sentences",
+                "Practise pronoun agreement in simple sentences"
+              ]
+            },
+            {
+              "title": {
+                "en": "Simple present verbs",
+                "fr": "Les verbes au présent simple",
+                "mfe": "Verb dan prezan sinp"
+              },
+              "objectives": [
+                "Recognise common verbs in Kreol Morisien",
+                "Conjugate verbs in the simple present",
+                "Construct simple present tense sentences"
+              ]
+            },
+            {
+              "title": {
+                "en": "Building simple sentences",
+                "fr": "Construire des phrases simples",
+                "mfe": "Konstrir fraz sinp"
+              },
+              "objectives": [
+                "Arrange words to form grammatically correct sentences",
+                "Use connectors such as ek and me",
+                "Write short sentences describing daily activities"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Reading in Kreol Morisien",
+            "fr": "La lecture en kreol morisien",
+            "mfe": "Lalektir an Kreol Morisien"
+          },
+          "summary": {
+            "en": "Students develop reading skills through short texts, building comprehension and vocabulary in Kreol Morisien.",
+            "fr": "Les élèves développent leurs compétences en lecture à travers de courts textes, enrichissant leur compréhension et vocabulaire en kreol morisien.",
+            "mfe": "Bann elev devlop zot konpetans lalektir atraver bann tigit text, pou ranforsi konprenansion ek vokabiler an Kreol Morisien."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Reading short stories",
+                "fr": "Lire de courtes histoires",
+                "mfe": "Lir tigit zistwar"
+              },
+              "objectives": [
+                "Read a short story fluently in Kreol Morisien",
+                "Identify main characters and events",
+                "Answer simple comprehension questions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Understanding informative texts",
+                "fr": "Comprendre des textes informatifs",
+                "mfe": "Konpran bann text informatif"
+              },
+              "objectives": [
+                "Identify the purpose of an informative text",
+                "Extract key information from a short passage",
+                "Summarise a text in a few sentences"
+              ]
+            },
+            {
+              "title": {
+                "en": "Reading poems in Kreol",
+                "fr": "Lire des poèmes en kreol",
+                "mfe": "Lir poem an Kreol"
+              },
+              "objectives": [
+                "Read a simple Kreol poem aloud with expression",
+                "Identify rhyme and rhythm in a poem",
+                "Discuss the meaning and feelings expressed"
+              ]
+            },
+            {
+              "title": {
+                "en": "Building vocabulary through reading",
+                "fr": "Enrichir son vocabulaire par la lecture",
+                "mfe": "Ranforsi vokabiler par lalektir"
+              },
+              "objectives": [
+                "Identify new words from a text",
+                "Use context to guess word meanings",
+                "Use new vocabulary in original sentences"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Speaking and listening in Kreol",
+            "fr": "S'exprimer et écouter en kreol",
+            "mfe": "Koze ek ekoute an Kreol"
+          },
+          "summary": {
+            "en": "Focus on oral communication skills, including listening comprehension and speaking confidently in different situations.",
+            "fr": "Accent sur les compétences de communication orale, y compris la compréhension à l'écoute et la prise de parole en confiance.",
+            "mfe": "Fokis lor konpetans komenikasion oral, ki inklir konprenansion ekoute ek koze avek konfians dan diferan sitiasion."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Greetings and introductions",
+                "fr": "Salutations et présentations",
+                "mfe": "Salitasion ek prezantasion"
+              },
+              "objectives": [
+                "Use appropriate greetings in Kreol Morisien",
+                "Introduce oneself and others politely",
+                "Practise a short dialogue with a partner"
+              ]
+            },
+            {
+              "title": {
+                "en": "Listening to a short talk",
+                "fr": "Écouter un court exposé",
+                "mfe": "Ekoute enn ti expoze"
+              },
+              "objectives": [
+                "Listen attentively to a spoken passage",
+                "Identify key points from listening",
+                "Answer questions based on what was heard"
+              ]
+            },
+            {
+              "title": {
+                "en": "Describing people and places",
+                "fr": "Décrire des personnes et des lieux",
+                "mfe": "Dekrir dimoun ek landrwa"
+              },
+              "objectives": [
+                "Use descriptive vocabulary in Kreol Morisien",
+                "Describe a familiar person or place orally",
+                "Give a short oral presentation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Expressing opinions politely",
+                "fr": "Exprimer son opinion poliment",
+                "mfe": "Exprim opinion avek respe"
+              },
+              "objectives": [
+                "Use polite expressions to give an opinion",
+                "Agree or disagree respectfully in a discussion",
+                "Practise turn-taking in conversation"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Writing in Kreol Morisien",
+            "fr": "Écrire en kreol morisien",
+            "mfe": "Ekrir an Kreol Morisien"
+          },
+          "summary": {
+            "en": "Students practise writing short texts correctly using Lortograf Kreol Morisien and basic composition skills.",
+            "fr": "Les élèves s'exercent à rédiger de courts textes correctement en utilisant la Lortograf Kreol Morisien et des compétences de base en rédaction.",
+            "mfe": "Bann elev pratik ekrir tigit text korekteman servi Lortograf Kreol Morisien ek konpetans debaz an konpozision."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Writing a personal message",
+                "fr": "Écrire un message personnel",
+                "mfe": "Ekrir enn mesaz personel"
+              },
+              "objectives": [
+                "Write a short personal message in Kreol Morisien",
+                "Use correct spelling and punctuation",
+                "Structure a message with greeting and closing"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing a short paragraph",
+                "fr": "Écrire un court paragraphe",
+                "mfe": "Ekrir enn tigit paragraf"
+              },
+              "objectives": [
+                "Organise ideas into a simple paragraph",
+                "Use connecting words to link sentences",
+                "Check spelling using Lortograf Kreol Morisien rules"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing a simple diary entry",
+                "fr": "Rédiger une entrée de journal simple",
+                "mfe": "Ekrir enn lantre zournal sinp"
+              },
+              "objectives": [
+                "Describe daily events in written form",
+                "Use past tense verbs correctly",
+                "Express feelings about an event"
+              ]
+            },
+            {
+              "title": {
+                "en": "Editing and improving writing",
+                "fr": "Réviser et améliorer un texte",
+                "mfe": "Korize ek amelior enn text"
+              },
+              "objectives": [
+                "Identify spelling and grammar errors in a text",
+                "Apply corrections using Lortograf Kreol Morisien",
+                "Rewrite a paragraph with improvements"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Kreol stories and oral traditions",
+            "fr": "Histoires et traditions orales kreol",
+            "mfe": "Zistwar ek tradision oral Kreol"
+          },
+          "summary": {
+            "en": "An exploration of Mauritian oral literature, including folktales, sega lyrics and proverbs in Kreol Morisien.",
+            "fr": "Une exploration de la littérature orale mauricienne, incluant contes, paroles de séga et proverbes en kreol morisien.",
+            "mfe": "Enn explorasion literatir oral morisien, ki inklir zistwar, parol sega ek proverb an Kreol Morisien."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Mauritian folktales",
+                "fr": "Les contes mauriciens",
+                "mfe": "Zistwar tradisionel morisien"
+              },
+              "objectives": [
+                "Listen to or read a traditional Mauritian folktale",
+                "Identify characters, setting and moral lessons",
+                "Retell a folktale in your own words"
+              ]
+            },
+            {
+              "title": {
+                "en": "Proverbs and their meanings",
+                "fr": "Les proverbes et leur signification",
+                "mfe": "Proverb ek zot sinifikasion"
+              },
+              "objectives": [
+                "Identify common Kreol proverbs",
+                "Explain the meaning of a proverb",
+                "Use a proverb appropriately in context"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sega lyrics and rhythm",
+                "fr": "Paroles de séga et rythme",
+                "mfe": "Parol sega ek ritm"
+              },
+              "objectives": [
+                "Recognise sega as part of Mauritian culture",
+                "Identify themes in sega lyrics",
+                "Discuss the importance of sega for Mauritian identity"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sharing stories from home",
+                "fr": "Partager des histoires de la maison",
+                "mfe": "Partaz zistwar ki sorti kot lakaz"
+              },
+              "objectives": [
+                "Collect a short story or saying from family",
+                "Present a family story to the class",
+                "Reflect on the value of oral heritage"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "8": {
+      "units": [
+        {
+          "title": {
+            "en": "Revising Lortograf Kreol Morisien",
+            "fr": "Révision de la Lortograf Kreol Morisien",
+            "mfe": "Revizion Lortograf Kreol Morisien"
+          },
+          "summary": {
+            "en": "Students revise the official spelling system of Kreol Morisien and consolidate rules learnt in Grade 7 before moving to more complex texts.",
+            "fr": "Les élèves révisent le système orthographique officiel du kreol morisien et consolident les règles apprises en 7e année avant d'aborder des textes plus complexes.",
+            "mfe": "Bann elev revize sistem lortograf ofisyel Kreol Morisien ek konsolid bann regle ki zot fin aprann dan Grade 7 avan pas lor bann text pli konplike."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Sounds and letters of Kreol Morisien",
+                "fr": "Sons et lettres du kreol morisien",
+                "mfe": "Son ek let dan Kreol Morisien"
+              },
+              "objectives": [
+                "Identify the graphemes used in Lortograf Kreol Morisien",
+                "Match sounds heard in speech to correct written letters",
+                "Correct common spelling errors in short texts"
+              ]
+            },
+            {
+              "title": {
+                "en": "Nasal sounds and accents",
+                "fr": "Sons nasaux et accents",
+                "mfe": "Son nazal ek aksan"
+              },
+              "objectives": [
+                "Recognise nasal vowels in Kreol Morisien words",
+                "Apply correct accents when writing nasal sounds",
+                "Distinguish words that differ only by nasalisation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Silent letters and double consonants",
+                "fr": "Lettres muettes et consonnes doubles",
+                "mfe": "Let mwet ek konsonn doub"
+              },
+              "objectives": [
+                "Explain why some letters are silent in Kreol Morisien",
+                "Write words containing double consonants correctly",
+                "Proofread a paragraph for spelling accuracy"
+              ]
+            },
+            {
+              "title": {
+                "en": "Punctuation in Kreol Morisien texts",
+                "fr": "Ponctuation dans les textes en kreol morisien",
+                "mfe": "Ponktiasion dan bann text Kreol Morisien"
+              },
+              "objectives": [
+                "Identify punctuation marks used in Kreol Morisien writing",
+                "Apply correct punctuation in sentences and dialogues",
+                "Rewrite an unpunctuated text with correct punctuation"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Building sentences and grammar",
+            "fr": "Construire des phrases et grammaire",
+            "mfe": "Konstrir fraz ek gramer"
+          },
+          "summary": {
+            "en": "This unit develops understanding of sentence structure, verb tenses and word classes in Kreol Morisien through practical exercises.",
+            "fr": "Cette unité développe la compréhension de la structure des phrases, des temps verbaux et des classes de mots en kreol morisien à travers des exercices pratiques.",
+            "mfe": "Sa linite-la devlop konpreansion striktir fraz, tan verb ek klas mo dan Kreol Morisien atraver bann exersis pratik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Types of sentences",
+                "fr": "Types de phrases",
+                "mfe": "Bann tip fraz"
+              },
+              "objectives": [
+                "Classify sentences as affirmative, negative, interrogative or exclamative",
+                "Transform sentences from one type to another",
+                "Use appropriate intonation markers in writing"
+              ]
+            },
+            {
+              "title": {
+                "en": "Verb tenses in everyday use",
+                "fr": "Temps verbaux dans l'usage quotidien",
+                "mfe": "Tan verb dan lavi toulezour"
+              },
+              "objectives": [
+                "Identify present, past and future markers in Kreol Morisien",
+                "Conjugate common verbs across different tenses",
+                "Write sentences describing daily routines using correct tense markers"
+              ]
+            },
+            {
+              "title": {
+                "en": "Nouns, pronouns and adjectives",
+                "fr": "Noms, pronoms et adjectifs",
+                "mfe": "Nom, pronom ek adzektif"
+              },
+              "objectives": [
+                "Distinguish nouns, pronouns and adjectives in a text",
+                "Replace nouns with appropriate pronouns",
+                "Describe objects and people using adjectives"
+              ]
+            },
+            {
+              "title": {
+                "en": "Connecting ideas with conjunctions",
+                "fr": "Relier les idées avec des conjonctions",
+                "mfe": "Relye lide ar konzonksion"
+              },
+              "objectives": [
+                "Recognise common conjunctions in Kreol Morisien",
+                "Combine short sentences using conjunctions",
+                "Write a coherent paragraph using linking words"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Reading and understanding texts",
+            "fr": "Lecture et compréhension de textes",
+            "mfe": "Lekti ek konpreansion text"
+          },
+          "summary": {
+            "en": "Students practise reading strategies to understand different types of texts, from stories to informative articles, in Kreol Morisien.",
+            "fr": "Les élèves pratiquent des stratégies de lecture pour comprendre différents types de textes, des histoires aux articles informatifs, en kreol morisien.",
+            "mfe": "Bann elev pratik strateji lekti pou konpran diferan tip text, depi zistwar ziska bann atik informatif, an Kreol Morisien."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Reading short narrative texts",
+                "fr": "Lire de courts textes narratifs",
+                "mfe": "Lir tikout text narativ"
+              },
+              "objectives": [
+                "Identify main characters and events in a short story",
+                "Answer comprehension questions about a narrative text",
+                "Summarise a story in a few sentences"
+              ]
+            },
+            {
+              "title": {
+                "en": "Reading informative articles",
+                "fr": "Lire des articles informatifs",
+                "mfe": "Lir bann atik informatif"
+              },
+              "objectives": [
+                "Locate key information in an informative text",
+                "Distinguish facts from opinions in an article",
+                "Answer questions requiring inference from a text"
+              ]
+            },
+            {
+              "title": {
+                "en": "Reading dialogues and comics",
+                "fr": "Lire des dialogues et bandes dessinées",
+                "mfe": "Lir dialog ek bann band desine"
+              },
+              "objectives": [
+                "Interpret spoken exchanges represented in written dialogue",
+                "Identify tone and emotion conveyed through dialogue",
+                "Role play a dialogue after reading it"
+              ]
+            },
+            {
+              "title": {
+                "en": "Vocabulary building through reading",
+                "fr": "Enrichir le vocabulaire par la lecture",
+                "mfe": "Anrisi vokabiler par lekti"
+              },
+              "objectives": [
+                "Identify new words from context in a reading passage",
+                "Use a dictionary to find meanings of unfamiliar words",
+                "Use newly learnt words in original sentences"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Writing clear and creative texts",
+            "fr": "Rédiger des textes clairs et créatifs",
+            "mfe": "Ekrir text kler ek kreatif"
+          },
+          "summary": {
+            "en": "Students learn to plan and write short creative and functional texts in Kreol Morisien, focusing on clarity and organisation.",
+            "fr": "Les élèves apprennent à planifier et rédiger de courts textes créatifs et fonctionnels en kreol morisien, en mettant l'accent sur la clarté et l'organisation.",
+            "mfe": "Bann elev aprann planifie ek ekrir tikout text kreatif ek fonksionel an Kreol Morisien, ar lakcan lor klarte ek lorganizasion."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Planning a short story",
+                "fr": "Planifier une courte histoire",
+                "mfe": "Planifie enn tikout zistwar"
+              },
+              "objectives": [
+                "Brainstorm ideas for a short story",
+                "Organise a story into beginning, middle and end",
+                "Draft a simple story outline"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing a personal letter",
+                "fr": "Écrire une lettre personnelle",
+                "mfe": "Ekrir enn let personel"
+              },
+              "objectives": [
+                "Identify the parts of a personal letter",
+                "Use appropriate greetings and closings in Kreol Morisien",
+                "Write a letter describing a personal experience"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing descriptive paragraphs",
+                "fr": "Rédiger des paragraphes descriptifs",
+                "mfe": "Ekrir paragraf deskriptif"
+              },
+              "objectives": [
+                "Use sensory details to describe a place or person",
+                "Organise descriptive details in a logical order",
+                "Revise a paragraph for clarity and vocabulary choice"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing a simple report",
+                "fr": "Rédiger un rapport simple",
+                "mfe": "Ekrir enn rapor senp"
+              },
+              "objectives": [
+                "Identify the structure of a simple report",
+                "Present information in a clear and organised way",
+                "Write a short report about a school event"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Speaking and listening in Kreol Morisien",
+            "fr": "Parler et écouter en kreol morisien",
+            "mfe": "Koze ek ekoute an Kreol Morisien"
+          },
+          "summary": {
+            "en": "This unit strengthens oral communication skills through discussions, presentations and listening activities in Kreol Morisien.",
+            "fr": "Cette unité renforce les compétences de communication orale à travers des discussions, des présentations et des activités d'écoute en kreol morisien.",
+            "mfe": "Sa linite-la ranforsi konpetans komunikasion oral atraver diskision, prezantasion ek aktivite ekoute an Kreol Morisien."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Giving a short oral presentation",
+                "fr": "Faire un court exposé oral",
+                "mfe": "Fer enn tikout prezantasion oral"
+              },
+              "objectives": [
+                "Organise ideas for a short oral presentation",
+                "Use appropriate vocabulary and clear pronunciation",
+                "Present a topic confidently to classmates"
+              ]
+            },
+            {
+              "title": {
+                "en": "Participating in group discussions",
+                "fr": "Participer à des discussions de groupe",
+                "mfe": "Partisip dan diskision an group"
+              },
+              "objectives": [
+                "Express opinions clearly during a discussion",
+                "Listen respectfully to others' viewpoints",
+                "Respond appropriately to counter-arguments"
+              ]
+            },
+            {
+              "title": {
+                "en": "Listening for specific information",
+                "fr": "Écouter pour des informations spécifiques",
+                "mfe": "Ekoute pou gagn linformasion presi"
+              },
+              "objectives": [
+                "Identify key details from a spoken recording",
+                "Take notes while listening to an audio text",
+                "Answer questions based on listening comprehension"
+              ]
+            },
+            {
+              "title": {
+                "en": "Interviewing and reporting",
+                "fr": "Interviewer et rapporter",
+                "mfe": "Fer enn intervyou ek rapor li"
+              },
+              "objectives": [
+                "Prepare questions for a simple interview",
+                "Conduct an interview with a classmate or family member",
+                "Report the interview findings orally to the class"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Discovering Mauritian oral literature",
+            "fr": "Découvrir la littérature orale mauricienne",
+            "mfe": "Dekouver literatir oral morisien"
+          },
+          "summary": {
+            "en": "Students explore traditional Mauritian oral literature such as tales, riddles and proverbs, understanding their cultural significance.",
+            "fr": "Les élèves explorent la littérature orale traditionnelle mauricienne telle que les contes, devinettes et proverbes, en comprenant leur importance culturelle.",
+            "mfe": "Bann elev explor literatir oral tradisionel morisien kouma kont, sirandann ek proverb, pou konpran zot valer kiltirel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Traditional Mauritian tales",
+                "fr": "Contes traditionnels mauriciens",
+                "mfe": "Bann kont tradisionel morisien"
+              },
+              "objectives": [
+                "Identify the structure of a traditional Mauritian tale",
+                "Discuss the moral lessons found in tales",
+                "Retell a tale in one's own words"
+              ]
+            },
+            {
+              "title": {
+                "en": "Riddles and word games",
+                "fr": "Devinettes et jeux de mots",
+                "mfe": "Sirandann ek zwe lamo"
+              },
+              "objectives": [
+                "Recognise the format of Mauritian riddles",
+                "Solve traditional riddles in Kreol Morisien",
+                "Create original riddles using wordplay"
+              ]
+            },
+            {
+              "title": {
+                "en": "Proverbs and their meanings",
+                "fr": "Proverbes et leurs significations",
+                "mfe": "Proverb ek zot sinifikasion"
+              },
+              "objectives": [
+                "Identify common Mauritian proverbs",
+                "Explain the meaning and context of a proverb",
+                "Use a proverb appropriately in a sentence"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sharing oral literature in class",
+                "fr": "Partager la littérature orale en classe",
+                "mfe": "Partaz literatir oral an klas"
+              },
+              "objectives": [
+                "Prepare a short oral performance of a tale or riddle",
+                "Perform confidently in front of classmates",
+                "Reflect on the cultural value of oral traditions"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Poetry and song in Kreol Morisien",
+            "fr": "Poésie et chansons en kreol morisien",
+            "mfe": "Lapoezi ek sante an Kreol Morisien"
+          },
+          "summary": {
+            "en": "Students study poems and songs written in Kreol Morisien to appreciate rhythm, imagery and cultural expression.",
+            "fr": "Les élèves étudient des poèmes et des chansons écrits en kreol morisien pour apprécier le rythme, les images et l'expression culturelle.",
+            "mfe": "Bann elev etidie poem ek sante ekrir an Kreol Morisien pou apresie ritm, limaz ek expresion kiltirel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Reading and reciting a poem",
+                "fr": "Lire et réciter un poème",
+                "mfe": "Lir ek resit enn poem"
+              },
+              "objectives": [
+                "Identify rhyme and rhythm in a Kreol Morisien poem",
+                "Practise reciting a poem with expression",
+                "Discuss the feelings conveyed by the poem"
+              ]
+            },
+            {
+              "title": {
+                "en": "Understanding imagery in poems",
+                "fr": "Comprendre les images dans les poèmes",
+                "mfe": "Konpran bann imaz dan poem"
+              },
+              "objectives": [
+                "Identify metaphors and comparisons in a poem",
+                "Explain how imagery creates meaning",
+                "Discuss personal reactions to imagery used"
+              ]
+            },
+            {
+              "title": {
+                "en": "Exploring sega and other songs",
+                "fr": "Explorer le séga et d'autres chansons",
+                "mfe": "Explor sega ek lezot sante"
+              },
+              "objectives": [
+                "Identify themes commonly found in sega songs",
+                "Analyse lyrics for meaning and cultural context",
+                "Discuss the role of music in Mauritian identity"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing a short poem",
+                "fr": "Écrire un court poème",
+                "mfe": "Ekrir enn tikout poem"
+              },
+              "objectives": [
+                "Choose a theme for an original poem",
+                "Use rhyme or rhythm in a short poem",
+                "Share the poem with classmates for feedback"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Culture and identity in Mauritius",
+            "fr": "Culture et identité à Maurice",
+            "mfe": "Kiltir ek ledantite dan Moris"
+          },
+          "summary": {
+            "en": "This unit connects language learning with the exploration of Mauritian traditions, festivals and multicultural identity.",
+            "fr": "Cette unité relie l'apprentissage de la langue à l'exploration des traditions mauriciennes, des festivals et de l'identité multiculturelle.",
+            "mfe": "Sa linite-la lie laprantisaz lalang ar exploration bann tradision morisien, festival ek ledantite miltikiltirel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Festivals celebrated in Mauritius",
+                "fr": "Festivals célébrés à Maurice",
+                "mfe": "Bann festival ki selebre dan Moris"
+              },
+              "objectives": [
+                "Describe major festivals celebrated by different communities",
+                "Explain the significance of at least one festival",
+                "Compare traditions across communities respectfully"
+              ]
+            },
+            {
+              "title": {
+                "en": "Traditional food and customs",
+                "fr": "Nourriture et coutumes traditionnelles",
+                "mfe": "Manze ek koutim tradisionel"
+              },
+              "objectives": [
+                "Describe traditional Mauritian dishes and their origins",
+                "Explain customs related to food sharing",
+                "Write a short text about a family tradition"
+              ]
+            },
+            {
+              "title": {
+                "en": "Multiculturalism and respect",
+                "fr": "Multiculturalisme et respect",
+                "mfe": "Miltikiltiralism ek respe"
+              },
+              "objectives": [
+                "Discuss the diversity of cultures in Mauritius",
+                "Explain the importance of mutual respect among communities",
+                "Reflect on personal experiences of multiculturalism"
+              ]
+            },
+            {
+              "title": {
+                "en": "Presenting a cultural project",
+                "fr": "Présenter un projet culturel",
+                "mfe": "Prezant enn proze kiltirel"
+              },
+              "objectives": [
+                "Plan a short project about a Mauritian tradition",
+                "Prepare visual or written material for presentation",
+                "Present the project clearly to the class"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "units": [
+        {
+          "title": {
+            "en": "Consolidating Kreol Morisien spelling",
+            "fr": "Consolider l'orthographe du kreol morisien",
+            "mfe": "Konsolid Lortograf Kreol Morisien"
+          },
+          "summary": {
+            "en": "Students revise and deepen their mastery of the official Lortograf Kreol Morisien spelling system, focusing on tricky sounds, accents and common errors.",
+            "fr": "Les élèves révisent et approfondissent leur maîtrise du système orthographique officiel du kreol morisien, en se concentrant sur les sons difficiles, les accents et les erreurs courantes.",
+            "mfe": "Bann elev revize ek apronfondi zot metriz Lortograf Kreol Morisien ofisyel, avek fokis lor son difisil, aksan ek erer frekan."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Reviewing basic spelling rules",
+                "fr": "Réviser les règles orthographiques de base",
+                "mfe": "Revize bann regleman lortograf debaz"
+              },
+              "objectives": [
+                "Recall the main principles of Lortograf Kreol Morisien",
+                "Apply basic spelling rules to short texts",
+                "Identify common spelling errors in sample sentences"
+              ]
+            },
+            {
+              "title": {
+                "en": "Tricky sounds and nasal vowels",
+                "fr": "Sons difficiles et voyelles nasales",
+                "mfe": "Son difisil ek vwayel nazal"
+              },
+              "objectives": [
+                "Distinguish nasal vowels from oral vowels in writing",
+                "Spell words containing nasal sounds correctly",
+                "Practise dictation exercises focusing on nasal vowels"
+              ]
+            },
+            {
+              "title": {
+                "en": "Using accents correctly",
+                "fr": "Utiliser correctement les accents",
+                "mfe": "Servi aksan korekteman"
+              },
+              "objectives": [
+                "Explain the role of accents in Kreol Morisien spelling",
+                "Apply accents correctly in writing exercises",
+                "Correct accent errors in given texts"
+              ]
+            },
+            {
+              "title": {
+                "en": "Common spelling mistakes and corrections",
+                "fr": "Erreurs orthographiques courantes et corrections",
+                "mfe": "Erer lortograf frekan ek korkeksyon"
+              },
+              "objectives": [
+                "Identify frequent spelling mistakes made by students",
+                "Correct errors in peer writing samples",
+                "Justify spelling choices using the official rules"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Advanced grammar and sentence structure",
+            "fr": "Grammaire avancée et structure de phrase",
+            "mfe": "Gramer avanse ek striktir fraz"
+          },
+          "summary": {
+            "en": "This unit explores more complex grammatical structures in Kreol Morisien, including verb tenses, connectors and sentence types.",
+            "fr": "Cette unité explore des structures grammaticales plus complexes en kreol morisien, notamment les temps verbaux, les connecteurs et les types de phrases.",
+            "mfe": "Sa linite la explor striktir gramatikal pli konplike dan Kreol Morisien, ki inklir tan verb, konektor ek tip fraz."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Verb tenses and aspects",
+                "fr": "Temps et aspects verbaux",
+                "mfe": "Tan ek aspe verb"
+              },
+              "objectives": [
+                "Identify different verb tenses used in Kreol Morisien",
+                "Use appropriate tense markers in sentences",
+                "Distinguish between completed and ongoing actions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Connectors and linking words",
+                "fr": "Connecteurs et mots de liaison",
+                "mfe": "Konektor ek mo lyezon"
+              },
+              "objectives": [
+                "Recognise common connectors used in Kreol Morisien",
+                "Use connectors to link ideas in writing",
+                "Improve text cohesion using appropriate linking words"
+              ]
+            },
+            {
+              "title": {
+                "en": "Types of sentences",
+                "fr": "Types de phrases",
+                "mfe": "Tip fraz"
+              },
+              "objectives": [
+                "Classify sentences as declarative, interrogative or exclamatory",
+                "Construct varied sentence types correctly",
+                "Punctuate different sentence types appropriately"
+              ]
+            },
+            {
+              "title": {
+                "en": "Complex sentence construction",
+                "fr": "Construction de phrases complexes",
+                "mfe": "Konstriksyon fraz konplex"
+              },
+              "objectives": [
+                "Combine simple sentences into complex ones",
+                "Use subordinate clauses appropriately",
+                "Analyse the structure of complex sentences"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Reading and understanding varied texts",
+            "fr": "Lire et comprendre des textes variés",
+            "mfe": "Lir ek konpran tekst varye"
+          },
+          "summary": {
+            "en": "Students develop reading comprehension skills through a variety of text types including narratives, articles and dialogues in Kreol Morisien.",
+            "fr": "Les élèves développent des compétences en compréhension écrite à travers divers types de textes, notamment des récits, des articles et des dialogues en kreol morisien.",
+            "mfe": "Bann elev devlop zot konpetans konpreansyon ekri atraver diferan tip tekst, ki inklir resi, atik ek dialog dan Kreol Morisien."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Reading narrative texts",
+                "fr": "Lire des textes narratifs",
+                "mfe": "Lir tekst naratif"
+              },
+              "objectives": [
+                "Identify the main elements of a narrative text",
+                "Summarise a short story in Kreol Morisien",
+                "Answer comprehension questions about characters and events"
+              ]
+            },
+            {
+              "title": {
+                "en": "Reading newspaper articles",
+                "fr": "Lire des articles de journaux",
+                "mfe": "Lir atik zournal"
+              },
+              "objectives": [
+                "Identify the purpose and structure of a newspaper article",
+                "Extract key information from an article",
+                "Discuss the reliability of different sources"
+              ]
+            },
+            {
+              "title": {
+                "en": "Reading dialogues and scripts",
+                "fr": "Lire des dialogues et des scripts",
+                "mfe": "Lir dialog ek skrip"
+              },
+              "objectives": [
+                "Recognise features of dialogue in written texts",
+                "Interpret tone and intention in dialogues",
+                "Perform a short dialogue with correct expression"
+              ]
+            },
+            {
+              "title": {
+                "en": "Inferring meaning from context",
+                "fr": "Déduire le sens à partir du contexte",
+                "mfe": "Deduir sinifikasyon depi kontex"
+              },
+              "objectives": [
+                "Use context clues to understand unfamiliar words",
+                "Infer the meaning of idiomatic expressions",
+                "Apply inference skills to short passages"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Creative and functional writing",
+            "fr": "Écriture créative et fonctionnelle",
+            "mfe": "Lekritir kreatif ek fonksyonel"
+          },
+          "summary": {
+            "en": "Students practise writing different text types, from creative stories to practical documents such as letters and notices.",
+            "fr": "Les élèves s'exercent à écrire différents types de textes, des histoires créatives aux documents pratiques tels que des lettres et des avis.",
+            "mfe": "Bann elev pratik ekrir diferan tip tekst, depi zistwar kreatif ziska dokiman pratik kouma let ek avi."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Writing a short story",
+                "fr": "Écrire une courte histoire",
+                "mfe": "Ekrir enn ti zistwar"
+              },
+              "objectives": [
+                "Plan a short story with a clear structure",
+                "Use descriptive language to create imagery",
+                "Write a coherent short story in Kreol Morisien"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing informal letters",
+                "fr": "Écrire des lettres informelles",
+                "mfe": "Ekrir let informel"
+              },
+              "objectives": [
+                "Identify the format of an informal letter",
+                "Write a letter to a friend or family member",
+                "Use appropriate tone and expressions in informal writing"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing notices and announcements",
+                "fr": "Écrire des avis et des annonces",
+                "mfe": "Ekrir avi ek anonsman"
+              },
+              "objectives": [
+                "Identify the purpose of notices and announcements",
+                "Write clear and concise notices",
+                "Use appropriate vocabulary for public announcements"
+              ]
+            },
+            {
+              "title": {
+                "en": "Editing and improving written work",
+                "fr": "Éditer et améliorer un travail écrit",
+                "mfe": "Edit ek ameliyor travay ekri"
+              },
+              "objectives": [
+                "Review a written text for spelling and grammar errors",
+                "Improve sentence structure and vocabulary choices",
+                "Provide constructive feedback on peer writing"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Oral communication and public speaking",
+            "fr": "Communication orale et prise de parole",
+            "mfe": "Kominikasyon oral ek expresyon piblik"
+          },
+          "summary": {
+            "en": "This unit builds students' confidence and skills in speaking Kreol Morisien clearly and effectively in different situations.",
+            "fr": "Cette unité renforce la confiance et les compétences des élèves pour s'exprimer clairement et efficacement en kreol morisien dans différentes situations.",
+            "mfe": "Sa linite la ranforsi konfyans ek konpetans bann elev pou koz Kreol Morisien kler ek efikas dan diferan sitiasyon."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Giving a short presentation",
+                "fr": "Faire une courte présentation",
+                "mfe": "Fer enn ti prezantasyon"
+              },
+              "objectives": [
+                "Organise ideas for a short oral presentation",
+                "Use appropriate vocabulary and tone when speaking",
+                "Present a topic clearly to an audience"
+              ]
+            },
+            {
+              "title": {
+                "en": "Participating in group discussions",
+                "fr": "Participer à des discussions de groupe",
+                "mfe": "Partisip dan diskisyon group"
+              },
+              "objectives": [
+                "Express opinions respectfully in group discussions",
+                "Listen actively and respond to others' ideas",
+                "Use appropriate discussion phrases in Kreol Morisien"
+              ]
+            },
+            {
+              "title": {
+                "en": "Interviewing skills",
+                "fr": "Compétences d'interview",
+                "mfe": "Konpetans pou fer interview"
+              },
+              "objectives": [
+                "Prepare relevant questions for an interview",
+                "Conduct a short interview with a classmate",
+                "Report interview findings orally"
+              ]
+            },
+            {
+              "title": {
+                "en": "Debating a topic",
+                "fr": "Débattre d'un sujet",
+                "mfe": "Fer deba lor enn size"
+              },
+              "objectives": [
+                "Identify arguments for and against a topic",
+                "Present a point of view convincingly",
+                "Respond respectfully to counterarguments"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Mauritian poetry and prose",
+            "fr": "Poésie et prose mauriciennes",
+            "mfe": "Powezi ek proz Morisyen"
+          },
+          "summary": {
+            "en": "Students explore selected poems and prose extracts by Mauritian authors, analysing themes, style and cultural context.",
+            "fr": "Les élèves explorent des poèmes et extraits en prose choisis d'auteurs mauriciens, en analysant les thèmes, le style et le contexte culturel.",
+            "mfe": "Bann elev explor bann powem ek extre proz swazi par bann oter Morisyen, an analiz tem, stil ek kontex kiltirel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Introduction to Mauritian poetry",
+                "fr": "Introduction à la poésie mauricienne",
+                "mfe": "Introdiksyon a powezi Morisyen"
+              },
+              "objectives": [
+                "Identify features of poetry written in Kreol Morisien",
+                "Recite a short poem with appropriate expression",
+                "Discuss the mood created by a poem"
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysing themes in poems",
+                "fr": "Analyser les thèmes des poèmes",
+                "mfe": "Analiz tem dan powem"
+              },
+              "objectives": [
+                "Identify major themes in selected poems",
+                "Explain how imagery conveys meaning",
+                "Compare themes across two poems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Reading prose extracts",
+                "fr": "Lire des extraits en prose",
+                "mfe": "Lir extre proz"
+              },
+              "objectives": [
+                "Identify narrative techniques used by Mauritian authors",
+                "Summarise the main ideas of a prose extract",
+                "Discuss characters and settings in the extract"
+              ]
+            },
+            {
+              "title": {
+                "en": "Author study and context",
+                "fr": "Étude d'un auteur et de son contexte",
+                "mfe": "Etid enn oter ek so kontex"
+              },
+              "objectives": [
+                "Research the background of a Mauritian author",
+                "Explain how personal or historical context shaped the writing",
+                "Present findings about the author to the class"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Culture and society through Kreol Morisien",
+            "fr": "Culture et société à travers le kreol morisien",
+            "mfe": "Kiltir ek sosyete atraver Kreol Morisien"
+          },
+          "summary": {
+            "en": "This unit examines Mauritian traditions, festivals and social values as expressed through the Kreol Morisien language.",
+            "fr": "Cette unité examine les traditions, les fêtes et les valeurs sociales mauriciennes telles qu'exprimées à travers la langue kreol morisien.",
+            "mfe": "Sa linite la examinn tradisyon, fet ek valer sosyal Morisyen kouma zot expriman atraver lang Kreol Morisien."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Festivals and traditions of Mauritius",
+                "fr": "Fêtes et traditions de Maurice",
+                "mfe": "Fet ek tradisyon Moris"
+              },
+              "objectives": [
+                "Describe major festivals celebrated in Mauritius",
+                "Explain the significance of a chosen festival",
+                "Use appropriate vocabulary to discuss traditions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Proverbs and sayings in Kreol Morisien",
+                "fr": "Proverbes et dictons en kreol morisien",
+                "mfe": "Proverb ek dikton dan Kreol Morisien"
+              },
+              "objectives": [
+                "Interpret the meaning of common Kreol Morisien proverbs",
+                "Explain how proverbs reflect cultural values",
+                "Use proverbs appropriately in speech or writing"
+              ]
+            },
+            {
+              "title": {
+                "en": "Music and oral traditions",
+                "fr": "Musique et traditions orales",
+                "mfe": "Mizik ek tradisyon oral"
+              },
+              "objectives": [
+                "Identify features of Mauritian oral traditions such as sega",
+                "Discuss the role of music in cultural identity",
+                "Analyse lyrics of a traditional song"
+              ]
+            },
+            {
+              "title": {
+                "en": "Multiculturalism and identity",
+                "fr": "Multiculturalisme et identité",
+                "mfe": "Miltikiltiralism ek indentite"
+              },
+              "objectives": [
+                "Discuss the multicultural nature of Mauritian society",
+                "Explain the role of Kreol Morisien in national identity",
+                "Reflect on personal and community identity"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "units": [
+        {
+          "title": {
+            "en": "Consolidating Lortograf Kreol Morisien",
+            "fr": "Consolidation de la Lortograf Kreol Morisien",
+            "mfe": "Konsolidasyon Lortograf Kreol Morisien"
+          },
+          "summary": {
+            "en": "Review and deepen mastery of the official Kreol Morisien spelling system, focusing on tricky cases and common errors found at SC level.",
+            "fr": "Revoir et approfondir la maîtrise du système orthographique officiel du kreol morisien, en se concentrant sur les cas difficiles et les erreurs fréquentes au niveau SC.",
+            "mfe": "Revize ek apronfondi lortograf ofisyel Kreol Morisien, ar bann kalite difisil ek fot ki students fer souvan nivo SC."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Recap of Lortograf Kreol Morisien basics",
+                "fr": "Rappel des bases de la Lortograf Kreol Morisien",
+                "mfe": "Rapel bann baz Lortograf Kreol Morisien"
+              },
+              "objectives": [
+                "Recall the main principles of the official Kreol Morisien spelling system",
+                "Identify common spelling patterns for vowels and consonants",
+                "Apply basic rules to correct simple spelling errors"
+              ]
+            },
+            {
+              "title": {
+                "en": "Tricky nasal sounds and their spelling",
+                "fr": "Sons nasaux difficiles et leur orthographe",
+                "mfe": "Son nazal difisil ek zot lortograf"
+              },
+              "objectives": [
+                "Recognise nasal sounds specific to Kreol Morisien",
+                "Spell words containing nasal vowels correctly",
+                "Distinguish between similar-sounding nasal words"
+              ]
+            },
+            {
+              "title": {
+                "en": "Silent letters and liaison in writing",
+                "fr": "Lettres muettes et liaison à l'écrit",
+                "mfe": "Let mue ek lyezon dan lekritir"
+              },
+              "objectives": [
+                "Identify silent letters retained from etymology",
+                "Apply liaison rules when writing connected speech",
+                "Correct texts containing liaison errors"
+              ]
+            },
+            {
+              "title": {
+                "en": "Common spelling errors and self-correction",
+                "fr": "Erreurs orthographiques courantes et autocorrection",
+                "mfe": "Fot lortograf komin ek oto-korezyon"
+              },
+              "objectives": [
+                "List frequent spelling mistakes made by SC students",
+                "Use a checklist to proofread written work",
+                "Correct a sample text using Lortograf rules"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Grammar structures in Kreol Morisien",
+            "fr": "Structures grammaticales du kreol morisien",
+            "mfe": "Striktir gramatikal Kreol Morisien"
+          },
+          "summary": {
+            "en": "Study advanced grammatical structures including verb markers, complex sentences and reported speech to strengthen written and spoken accuracy.",
+            "fr": "Étudier des structures grammaticales avancées, y compris les marqueurs verbaux, les phrases complexes et le discours rapporté, pour renforcer la précision écrite et orale.",
+            "mfe": "Etidye striktir gramatikal avanse, ki inklir marker verbal, fraz konplex ek diskour rapporte, pou ranforsi presizyon dan lekritir ek dan koze."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Verb markers and tense in Kreol Morisien",
+                "fr": "Marqueurs verbaux et temps en kreol morisien",
+                "mfe": "Marker verbal ek tan dan Kreol Morisien"
+              },
+              "objectives": [
+                "Identify verb markers such as pe, fin, ti, pou",
+                "Use correct markers to express past, present and future",
+                "Construct sentences showing different time frames"
+              ]
+            },
+            {
+              "title": {
+                "en": "Building complex sentences",
+                "fr": "Construire des phrases complexes",
+                "mfe": "Konstrir fraz konplex"
+              },
+              "objectives": [
+                "Combine clauses using conjunctions like parski, kan, si",
+                "Distinguish main and subordinate clauses",
+                "Write compound and complex sentences correctly"
+              ]
+            },
+            {
+              "title": {
+                "en": "Reported speech and dialogue",
+                "fr": "Discours rapporté et dialogue",
+                "mfe": "Diskour rapporte ek dyalog"
+              },
+              "objectives": [
+                "Convert direct speech into reported speech",
+                "Punctuate dialogue correctly in Kreol Morisien",
+                "Write a short dialogue using reported speech"
+              ]
+            },
+            {
+              "title": {
+                "en": "Pronouns and agreement in context",
+                "fr": "Pronoms et accord en contexte",
+                "mfe": "Pronom ek akor dan kontex"
+              },
+              "objectives": [
+                "Use personal, possessive and demonstrative pronouns accurately",
+                "Apply agreement rules within sentences",
+                "Edit texts to correct pronoun errors"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Reading comprehension strategies",
+            "fr": "Stratégies de compréhension de lecture",
+            "mfe": "Estrateji konpreansyon lekti"
+          },
+          "summary": {
+            "en": "Develop skills to analyse texts of different types, extract meaning, and answer comprehension questions typical of SC examinations.",
+            "fr": "Développer des compétences pour analyser différents types de textes, en extraire le sens et répondre à des questions de compréhension typiques des examens SC.",
+            "mfe": "Devlop konpetans pou analiz diferan kalite text, tir sinifikasyon, ek reponn kestyon konpreansyon tipik lexame SC."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Reading narrative texts closely",
+                "fr": "Lire attentivement des textes narratifs",
+                "mfe": "Lir tekst naratif ar atansyon"
+              },
+              "objectives": [
+                "Identify plot, characters and setting in a narrative",
+                "Infer meaning from context clues",
+                "Answer comprehension questions on a short story"
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysing informative and journalistic texts",
+                "fr": "Analyser des textes informatifs et journalistiques",
+                "mfe": "Analiz tekst enformatif ek zournalistik"
+              },
+              "objectives": [
+                "Distinguish fact from opinion in a text",
+                "Identify the purpose and audience of a text",
+                "Summarise the main ideas of an article"
+              ]
+            },
+            {
+              "title": {
+                "en": "Understanding poetic and figurative language",
+                "fr": "Comprendre le langage poétique et figuré",
+                "mfe": "Konpran langaz poetik ek figiratif"
+              },
+              "objectives": [
+                "Identify similes, metaphors and personification",
+                "Explain the effect of figurative language on meaning",
+                "Interpret a short poem in Kreol Morisien"
+              ]
+            },
+            {
+              "title": {
+                "en": "Answering comprehension questions effectively",
+                "fr": "Répondre efficacement aux questions de compréhension",
+                "mfe": "Reponn kestyon konpreansyon efikasman"
+              },
+              "objectives": [
+                "Apply strategies to locate relevant information quickly",
+                "Structure clear and complete written answers",
+                "Practise past comprehension exam questions"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Writing for different purposes",
+            "fr": "Écrire pour différents objectifs",
+            "mfe": "Ekrir pou diferan lobzektif"
+          },
+          "summary": {
+            "en": "Practise writing narrative, descriptive, argumentative and letter formats used in SC-level assessment.",
+            "fr": "S'exercer à écrire des textes narratifs, descriptifs, argumentatifs et des lettres utilisés dans l'évaluation au niveau SC.",
+            "mfe": "Pratik ekrir text naratif, deskriptif, argimantatif ek let ki servi dan levalyasyon nivo SC."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Writing a narrative composition",
+                "fr": "Rédiger une composition narrative",
+                "mfe": "Ekrir enn konpozisyon naratif"
+              },
+              "objectives": [
+                "Plan a story with clear structure",
+                "Use descriptive language to engage readers",
+                "Write a complete narrative composition"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing descriptive texts about people and places",
+                "fr": "Rédiger des textes descriptifs sur des personnes et des lieux",
+                "mfe": "Ekrir text deskriptif lor dimoun ek landrwa"
+              },
+              "objectives": [
+                "Use sensory details to describe a scene",
+                "Organise description logically",
+                "Write a descriptive paragraph about a Mauritian place"
+              ]
+            },
+            {
+              "title": {
+                "en": "Constructing an argumentative text",
+                "fr": "Construire un texte argumentatif",
+                "mfe": "Konstrir enn tekst argimantatif"
+              },
+              "objectives": [
+                "State a clear opinion with supporting reasons",
+                "Use linking words to structure arguments",
+                "Write a short argumentative essay on a local issue"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing formal and informal letters",
+                "fr": "Rédiger des lettres formelles et informelles",
+                "mfe": "Ekrir let formel ek enformel"
+              },
+              "objectives": [
+                "Identify the format of formal and informal letters",
+                "Use appropriate tone and vocabulary for each type",
+                "Write a letter suited to a given situation"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Oral communication skills",
+            "fr": "Compétences en communication orale",
+            "mfe": "Konpetans kominikasyon oral"
+          },
+          "summary": {
+            "en": "Strengthen speaking and listening skills through presentations, discussions and role-plays reflecting Mauritian social contexts.",
+            "fr": "Renforcer les compétences d'expression orale et d'écoute à travers des exposés, des discussions et des jeux de rôle reflétant les contextes sociaux mauriciens.",
+            "mfe": "Ranforsi konpetans koze ek ekout atraver prezantasyon, diskisyon ek ze rol ki reflet kontex sosyal Morisyen."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Preparing and giving a short presentation",
+                "fr": "Préparer et présenter un court exposé",
+                "mfe": "Prepar ek fer enn ti prezantasyon"
+              },
+              "objectives": [
+                "Organise ideas clearly for oral presentation",
+                "Use appropriate register and pace when speaking",
+                "Deliver a short presentation on a chosen topic"
+              ]
+            },
+            {
+              "title": {
+                "en": "Participating in group discussions",
+                "fr": "Participer à des discussions de groupe",
+                "mfe": "Partisip dan diskisyon an group"
+              },
+              "objectives": [
+                "Express opinions respectfully in a group setting",
+                "Listen actively and respond to others' views",
+                "Contribute constructively to a class debate"
+              ]
+            },
+            {
+              "title": {
+                "en": "Role-play in everyday situations",
+                "fr": "Jeux de rôle dans des situations quotidiennes",
+                "mfe": "Ze rol dan sitiasyon toulezour"
+              },
+              "objectives": [
+                "Use appropriate vocabulary for common social situations",
+                "Practise turn-taking in conversation",
+                "Perform a role-play with a partner"
+              ]
+            },
+            {
+              "title": {
+                "en": "Listening comprehension practice",
+                "fr": "Pratique de la compréhension orale",
+                "mfe": "Pratik konpreansyon ekout"
+              },
+              "objectives": [
+                "Identify key information from a spoken text",
+                "Take notes while listening",
+                "Answer questions based on an audio extract"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Exploring Mauritian literature",
+            "fr": "Explorer la littérature mauricienne",
+            "mfe": "Explor literatir Morisyen"
+          },
+          "summary": {
+            "en": "Introduce students to short stories, poems and extracts by Mauritian writers, analysing themes and style.",
+            "fr": "Initier les élèves à des nouvelles, poèmes et extraits d'auteurs mauriciens, en analysant les thèmes et le style.",
+            "mfe": "Introdir bann etidyan bann nouvel, poem ek extre ekrivin Morisyen, ar analiz tem ek stil."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Reading a Mauritian short story",
+                "fr": "Lire une nouvelle mauricienne",
+                "mfe": "Lir enn nouvel Morisyen"
+              },
+              "objectives": [
+                "Identify themes and characters in a Mauritian short story",
+                "Discuss the author's use of language",
+                "Relate the story's themes to Mauritian society"
+              ]
+            },
+            {
+              "title": {
+                "en": "Studying a Kreol Morisien poem",
+                "fr": "Étudier un poème en kreol morisien",
+                "mfe": "Etidye enn poem an Kreol Morisien"
+              },
+              "objectives": [
+                "Identify poetic devices used in the poem",
+                "Discuss the poem's message and tone",
+                "Recite an extract of the poem expressively"
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysing an extract of Mauritian theatre",
+                "fr": "Analyser un extrait de théâtre mauricien",
+                "mfe": "Analiz enn extre teat Morisyen"
+              },
+              "objectives": [
+                "Identify dramatic elements such as dialogue and stage directions",
+                "Discuss character motivations in the extract",
+                "Perform a short scene from the extract"
+              ]
+            },
+            {
+              "title": {
+                "en": "Comparing literary works and personal reflection",
+                "fr": "Comparer des œuvres littéraires et réflexion personnelle",
+                "mfe": "Konpar bann zev literer ek reflexion personel"
+              },
+              "objectives": [
+                "Compare themes across two Mauritian literary works",
+                "Express personal opinions about the texts studied",
+                "Write a short reflective response"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Culture, identity and heritage",
+            "fr": "Culture, identité et patrimoine",
+            "mfe": "Kiltir, ledantite ek patrimwan"
+          },
+          "summary": {
+            "en": "Examine aspects of Mauritian culture, multiculturalism and heritage through texts and discussions, linking language to identity.",
+            "fr": "Examiner des aspects de la culture mauricienne, du multiculturalisme et du patrimoine à travers des textes et des discussions, en reliant la langue à l'identité.",
+            "mfe": "Examinn aspe kiltir Morisyen, multikiltiralism ek patrimwan atraver text ek diskisyon, ki relye langaz ar ledantite."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Kreol Morisien as a marker of identity",
+                "fr": "Le kreol morisien comme marqueur d'identité",
+                "mfe": "Kreol Morisien kouma enn marker ledantite"
+              },
+              "objectives": [
+                "Explain the historical development of Kreol Morisien",
+                "Discuss the role of language in Mauritian identity",
+                "Reflect on personal connections to the language"
+              ]
+            },
+            {
+              "title": {
+                "en": "Festivals and traditions across communities",
+                "fr": "Fêtes et traditions à travers les communautés",
+                "mfe": "Fet ek tradisyon dan tou bann kominote"
+              },
+              "objectives": [
+                "Describe festivals celebrated by different communities in Mauritius",
+                "Compare traditions and shared values",
+                "Write a short text about a chosen festival"
+              ]
+            },
+            {
+              "title": {
+                "en": "Oral traditions: sega, storytelling and proverbs",
+                "fr": "Traditions orales : séga, contes et proverbes",
+                "mfe": "Tradisyon oral: sega, zistwar ek proverb"
+              },
+              "objectives": [
+                "Identify features of sega lyrics and traditional storytelling",
+                "Explain the meaning of common Kreol Morisien proverbs",
+                "Present a proverb and its cultural significance"
+              ]
+            },
+            {
+              "title": {
+                "en": "Heritage sites and cultural preservation",
+                "fr": "Sites patrimoniaux et préservation culturelle",
+                "mfe": "Sit patrimwan ek prezervasyon kiltirel"
+              },
+              "objectives": [
+                "Identify important heritage sites in Mauritius",
+                "Discuss the importance of preserving cultural heritage",
+                "Write a paragraph proposing ways to protect heritage"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "11": {
+      "units": [
+        {
+          "title": {
+            "en": "Consolidating Kreol Morisien spelling",
+            "fr": "Consolidation de l'orthographe du kreol morisien",
+            "mfe": "Konsolidasyon Lortograf Kreol Morisien"
+          },
+          "summary": {
+            "en": "Students refine their mastery of the official Lortograf Kreol Morisien through review of rules, tricky sounds and practical dictation exercises.",
+            "fr": "Les élèves consolident leur maîtrise de l'orthographe officielle du kreol morisien à travers la révision des règles, des sons difficiles et des exercices pratiques de dictée.",
+            "mfe": "Bann elev konsolid zot metriz Lortograf Kreol Morisien ofisyel atraver revizyon bann règ, son difisil ek exersis diktation pratik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Review of basic spelling rules",
+                "fr": "Révision des règles orthographiques de base",
+                "mfe": "Revizyon bann règ debaz Lortograf"
+              },
+              "objectives": [
+                "Recall the core principles of Lortograf Kreol Morisien",
+                "Apply spelling rules to common words",
+                "Correct common spelling errors in short texts"
+              ]
+            },
+            {
+              "title": {
+                "en": "Specific sounds and symbols",
+                "fr": "Sons et symboles spécifiques",
+                "mfe": "Bann sinbol ek son spesifik"
+              },
+              "objectives": [
+                "Identify nasal and specific consonant sounds in Kreol",
+                "Transcribe spoken words using correct symbols",
+                "Distinguish similar-sounding words through spelling"
+              ]
+            },
+            {
+              "title": {
+                "en": "Compound words and borrowed words",
+                "fr": "Mots composés et mots empruntés",
+                "mfe": "Ortograf mo konpoze ek mo prete"
+              },
+              "objectives": [
+                "Explain how compound words are formed in Kreol",
+                "Spell borrowed words according to official norms",
+                "Use compound words correctly in sentences"
+              ]
+            },
+            {
+              "title": {
+                "en": "Dictation practice and correction",
+                "fr": "Pratique de la dictée et correction",
+                "mfe": "Pratik dikte ek korveksyon"
+              },
+              "objectives": [
+                "Write dictated texts accurately",
+                "Detect and correct spelling mistakes",
+                "Evaluate peer work using the spelling code"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Advanced grammar and sentence structures",
+            "fr": "Grammaire avancée et structures de phrases",
+            "mfe": "Gramer ek striktir avanse"
+          },
+          "summary": {
+            "en": "This unit deepens understanding of Kreol Morisien grammar, focusing on verb aspects, complex sentences and logical connectors used in formal writing.",
+            "fr": "Cette unité approfondit la grammaire du kreol morisien, en mettant l'accent sur les aspects verbaux, les phrases complexes et les connecteurs logiques utilisés à l'écrit formel.",
+            "mfe": "Sa linite-la aprofondi gramer Kreol Morisien, ek fokis lor aspé verbal, fraz konplex ek marker lozik itilize dan lekritir fòmel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Noun and verb phrases",
+                "fr": "Groupes nominaux et verbaux",
+                "mfe": "Group nom ek group verb"
+              },
+              "objectives": [
+                "Identify noun and verb phrases in sentences",
+                "Analyse the structure of these phrases",
+                "Construct sentences using varied phrase structures"
+              ]
+            },
+            {
+              "title": {
+                "en": "Tense and verbal aspect markers",
+                "fr": "Temps et marqueurs d'aspect verbal",
+                "mfe": "Tan ek aspé verbal"
+              },
+              "objectives": [
+                "Explain the function of markers like fin, pou and ape",
+                "Use verbal aspect markers correctly in context",
+                "Compare aspect marking in Kreol with other languages"
+              ]
+            },
+            {
+              "title": {
+                "en": "Building complex sentences",
+                "fr": "Construction de phrases complexes",
+                "mfe": "Konstriksyon fraz konplex"
+              },
+              "objectives": [
+                "Combine simple sentences into complex ones",
+                "Use subordination to express relationships",
+                "Punctuate complex sentences correctly"
+              ]
+            },
+            {
+              "title": {
+                "en": "Logical connectors in writing",
+                "fr": "Connecteurs logiques à l'écrit",
+                "mfe": "Marker relasyon lozik"
+              },
+              "objectives": [
+                "Identify connectors such as parski and akoz",
+                "Use connectors to express cause and condition",
+                "Improve text coherence using logical connectors"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Reading comprehension skills",
+            "fr": "Compétences de compréhension de lecture",
+            "mfe": "Konpreansyon lekti"
+          },
+          "summary": {
+            "en": "Students develop strategies to understand, analyse and summarise a variety of texts including informational and narrative genres.",
+            "fr": "Les élèves développent des stratégies pour comprendre, analyser et résumer divers types de textes, informatifs et narratifs.",
+            "mfe": "Bann elev devlop stratezi pou konpran, analiz ek rezime diferan tip tex, informatif ek naratif."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Understanding informational texts",
+                "fr": "Comprendre les textes informatifs",
+                "mfe": "Konpran tex informatif"
+              },
+              "objectives": [
+                "Identify main ideas in informational texts",
+                "Extract specific information from a passage",
+                "Answer comprehension questions accurately"
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysing narrative texts",
+                "fr": "Analyser les textes narratifs",
+                "mfe": "Analiz tex naratif"
+              },
+              "objectives": [
+                "Identify narrative structure and elements",
+                "Analyse character motivations in a story",
+                "Discuss the sequence of events in a text"
+              ]
+            },
+            {
+              "title": {
+                "en": "Identifying viewpoint and tone",
+                "fr": "Identifier le point de vue et le ton",
+                "mfe": "Idantifye pwennvi ek ton"
+              },
+              "objectives": [
+                "Recognise the author's viewpoint in a text",
+                "Determine the tone used by the writer",
+                "Explain how word choice affects tone"
+              ]
+            },
+            {
+              "title": {
+                "en": "Summarising texts effectively",
+                "fr": "Résumer efficacement les textes",
+                "mfe": "Rezime tex"
+              },
+              "objectives": [
+                "Select key information from a text",
+                "Write a concise summary in Kreol",
+                "Evaluate summaries for accuracy and clarity"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Creative and functional writing",
+            "fr": "Écriture créative et fonctionnelle",
+            "mfe": "Lekritir kreatif ek fonksyonel"
+          },
+          "summary": {
+            "en": "Learners practise producing different text types in Kreol Morisien, from formal letters to short stories and newspaper articles.",
+            "fr": "Les apprenants s'exercent à produire différents types de textes en kreol morisien, des lettres formelles aux nouvelles et articles de journal.",
+            "mfe": "Bann aprenan pratik prodwir diferan tip tex an Kreol Morisien, depi let fòmel ziska resi kourt ek artik zournal."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Writing a formal letter",
+                "fr": "Rédiger une lettre formelle",
+                "mfe": "Ekrir enn let fòmel"
+              },
+              "objectives": [
+                "Identify the structure of a formal letter",
+                "Use appropriate register and vocabulary",
+                "Write a complete formal letter in Kreol"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing a short story",
+                "fr": "Rédiger une nouvelle",
+                "mfe": "Ekrir enn resi kourt"
+              },
+              "objectives": [
+                "Plan a short story with clear structure",
+                "Develop characters and setting",
+                "Write a coherent short story in Kreol"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing a newspaper article",
+                "fr": "Rédiger un article de journal",
+                "mfe": "Ekrir enn artik pou zournal"
+              },
+              "objectives": [
+                "Identify features of a newspaper article",
+                "Organise information using the inverted pyramid style",
+                "Write an article on a local event"
+              ]
+            },
+            {
+              "title": {
+                "en": "Description and dialogue techniques",
+                "fr": "Techniques de description et de dialogue",
+                "mfe": "Teknik deskripsyon ek dialog"
+              },
+              "objectives": [
+                "Use descriptive language to create imagery",
+                "Write natural-sounding dialogue",
+                "Integrate dialogue into a narrative"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Oral communication skills",
+            "fr": "Compétences de communication orale",
+            "mfe": "Kominikasyon oral"
+          },
+          "summary": {
+            "en": "This unit builds confidence and fluency in speaking Kreol Morisien through presentations, debates and active listening practice.",
+            "fr": "Cette unité renforce la confiance et l'aisance à l'oral en kreol morisien à travers des exposés, des débats et des exercices d'écoute active.",
+            "mfe": "Sa linite-la ranforsi konfyans ek fasilite pou koz Kreol Morisien atraver expoze, deba ek pratik ekout aktif."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Oral presentation techniques",
+                "fr": "Techniques d'exposé oral",
+                "mfe": "Teknik expoze oral"
+              },
+              "objectives": [
+                "Organise content for an oral presentation",
+                "Use appropriate body language and voice",
+                "Deliver a clear presentation on a chosen topic"
+              ]
+            },
+            {
+              "title": {
+                "en": "Debate and discussion",
+                "fr": "Débat et discussion",
+                "mfe": "Deba ek diskisyon"
+              },
+              "objectives": [
+                "Formulate arguments on a given topic",
+                "Respond respectfully to opposing views",
+                "Participate actively in a classroom debate"
+              ]
+            },
+            {
+              "title": {
+                "en": "Active listening and response",
+                "fr": "Écoute active et réponse",
+                "mfe": "Ekout aktif ek repons"
+              },
+              "objectives": [
+                "Practise techniques for active listening",
+                "Summarise a spoken message accurately",
+                "Respond appropriately to questions asked orally"
+              ]
+            },
+            {
+              "title": {
+                "en": "Pronunciation and intonation",
+                "fr": "Prononciation et intonation",
+                "mfe": "Prononsyasyon ek entonasyon"
+              },
+              "objectives": [
+                "Identify correct pronunciation of Kreol sounds",
+                "Use appropriate intonation patterns",
+                "Practise clear articulation in speech"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Kreol Morisien literature",
+            "fr": "Littérature en kreol morisien",
+            "mfe": "Literatir Kreol Morisien"
+          },
+          "summary": {
+            "en": "Students explore poems, short stories and theatre written in Kreol Morisien, analysing themes, characters and cultural context.",
+            "fr": "Les élèves explorent des poèmes, des nouvelles et des pièces de théâtre en kreol morisien, en analysant les thèmes, les personnages et le contexte culturel.",
+            "mfe": "Bann elev explor poem, resi kourt ek pyes teat an Kreol Morisien, ek analiz tem, personaz ek kontex kiltirel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Discovering Kreol poems",
+                "fr": "Découverte des poèmes en kreol",
+                "mfe": "Dekouver poem kreol"
+              },
+              "objectives": [
+                "Read and interpret poems in Kreol Morisien",
+                "Identify poetic devices used by authors",
+                "Discuss the meaning and message of a poem"
+              ]
+            },
+            {
+              "title": {
+                "en": "Studying Mauritian short stories",
+                "fr": "Étude des nouvelles mauriciennes",
+                "mfe": "Etid resi kourt Morisyen"
+              },
+              "objectives": [
+                "Identify key elements of Mauritian short stories",
+                "Analyse plot and setting in a chosen story",
+                "Compare themes across different short stories"
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysing characters and themes",
+                "fr": "Analyser les personnages et les thèmes",
+                "mfe": "Analiz personaz ek tem"
+              },
+              "objectives": [
+                "Describe character development in a literary text",
+                "Identify major themes explored by authors",
+                "Relate themes to Mauritian society"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mauritian Kreol theatre",
+                "fr": "Théâtre en kreol mauricien",
+                "mfe": "Teat Kreol Morisien"
+              },
+              "objectives": [
+                "Recognise features of Kreol theatre scripts",
+                "Analyse dialogue and stage directions",
+                "Perform or read aloud a short theatrical extract"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Culture and society of Mauritius",
+            "fr": "Culture et société de Maurice",
+            "mfe": "Kiltir ek sosyete Moris"
+          },
+          "summary": {
+            "en": "This unit connects language learning to Mauritian cultural diversity, oral traditions, festivals and identity expressed through Kreol.",
+            "fr": "Cette unité relie l'apprentissage de la langue à la diversité culturelle mauricienne, aux traditions orales, aux fêtes et à l'identité exprimée à travers le kreol.",
+            "mfe": "Sa linite-la relye laprantisaz lang ek divèsite kiltirel Morisyen, tradisyon oral, fet ek idantite exprime atraver Kreol."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Cultural diversity of Mauritius",
+                "fr": "Diversité culturelle de Maurice",
+                "mfe": "Divèsite kiltirel Moris"
+              },
+              "objectives": [
+                "Describe the cultural communities of Mauritius",
+                "Explain the role of Kreol as a unifying language",
+                "Discuss respect for cultural diversity"
+              ]
+            },
+            {
+              "title": {
+                "en": "Oral traditions and folktales",
+                "fr": "Traditions orales et contes",
+                "mfe": "Tradisyon oral ek kont"
+              },
+              "objectives": [
+                "Identify features of Mauritian oral storytelling",
+                "Retell a traditional folktale in Kreol",
+                "Discuss the moral lessons in folktales"
+              ]
+            },
+            {
+              "title": {
+                "en": "Festivals and celebrations",
+                "fr": "Fêtes et célébrations",
+                "mfe": "Fet ek selebrasyon"
+              },
+              "objectives": [
+                "Describe major festivals celebrated in Mauritius",
+                "Explain the cultural significance of festivals",
+                "Write a short text about a festival experience"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mauritian identity through language",
+                "fr": "Identité mauricienne à travers la langue",
+                "mfe": "Idantite Morisyen atraver lang"
+              },
+              "objectives": [
+                "Discuss the role of Kreol in Mauritian identity",
+                "Reflect on personal connection to the language",
+                "Present views on language and belonging"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Preparing for the SC examination",
+            "fr": "Préparation à l'examen du SC",
+            "mfe": "Preparasyon lexame SC"
+          },
+          "summary": {
+            "en": "Students consolidate skills across all areas of the syllabus and practise exam techniques to prepare for the School Certificate examination.",
+            "fr": "Les élèves consolident leurs compétences dans tous les domaines du programme et s'exercent aux techniques d'examen pour préparer le School Certificate.",
+            "mfe": "Bann elev konsolid zot konpetans dan tou domenn program ek pratik teknik lexame pou prepar School Certificate."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Structure of the SC Kreol Morisien exam",
+                "fr": "Structure de l'examen SC en kreol morisien",
+                "mfe": "Estrikti lexame SC Kreol Morisien"
+              },
+              "objectives": [
+                "Describe the format and sections of the exam",
+                "Identify mark allocation for each section",
+                "Plan time management for the exam"
+              ]
+            },
+            {
+              "title": {
+                "en": "Strategies for comprehension questions",
+                "fr": "Stratégies pour les questions de compréhension",
+                "mfe": "Estrateji reponn kestyon konpreansyon"
+              },
+              "objectives": [
+                "Apply techniques to answer comprehension questions",
+                "Identify command words used in questions",
+                "Practise answering past exam questions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Exam writing strategies",
+                "fr": "Stratégies de rédaction pour l'examen",
+                "mfe": "Estrateji ekrir sou lexame"
+              },
+              "objectives": [
+                "Plan a written response under time constraints",
+                "Structure answers clearly and coherently",
+                "Review and edit written work efficiently"
+              ]
+            },
+            {
+              "title": {
+                "en": "General revision session",
+                "fr": "Séance de révision générale",
+                "mfe": "Sesyon revizyon zeneral"
+              },
+              "objectives": [
+                "Review key grammar and spelling rules",
+                "Consolidate knowledge of literary texts studied",
+                "Self-assess readiness for the examination"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

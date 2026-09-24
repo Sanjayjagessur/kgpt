@@ -1,0 +1,3320 @@
+{
+  "subject": "design-technology",
+  "grades": {
+    "7": {
+      "units": [
+        {
+          "title": {
+            "en": "Introduction to design and technology",
+            "fr": "Introduction à la technologie et au design",
+            "mfe": "Introdiksion ar design ek teknoloji"
+          },
+          "summary": {
+            "en": "Students explore what design and technology means, why it matters in everyday life, and how it is studied in Mauritius, including careers linked to the subject.",
+            "fr": "Les élèves découvrent ce que signifie la technologie et le design, son importance dans la vie quotidienne, et comment elle est étudiée à Maurice, y compris les carrières liées à cette matière.",
+            "mfe": "Bann elev explor ki design ek teknoloji vedir, kifer li inportan dan lavi toulezour, ek kouma li anseigne dan Moris, avek bann karyer ki lie ar sa mater la."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "What is design and technology",
+                "fr": "Qu'est-ce que la technologie et le design",
+                "mfe": "Ki design ek teknoloji ete"
+              },
+              "objectives": [
+                "Define design and technology in simple terms",
+                "Identify examples of designed products around the home and school",
+                "Explain why design and technology is taught as a subject"
+              ]
+            },
+            {
+              "title": {
+                "en": "Design and technology in Mauritius",
+                "fr": "La technologie et le design à Maurice",
+                "mfe": "Design ek teknoloji dan Moris"
+              },
+              "objectives": [
+                "Describe local industries that use design and technology",
+                "Recognise Mauritian products created through design processes",
+                "Discuss careers related to design and technology"
+              ]
+            },
+            {
+              "title": {
+                "en": "Working safely in the workshop",
+                "fr": "Travailler en sécurité dans l'atelier",
+                "mfe": "Travay ansekirite dan lasel-atelie"
+              },
+              "objectives": [
+                "List basic safety rules in a design and technology workshop",
+                "Identify common hazards and protective equipment",
+                "Demonstrate correct behaviour when using shared tools"
+              ]
+            },
+            {
+              "title": {
+                "en": "Introducing the design brief",
+                "fr": "Introduction au cahier des charges",
+                "mfe": "Introdiksion ar 'design brief'"
+              },
+              "objectives": [
+                "Explain what a design brief is",
+                "Identify key information found in a simple brief",
+                "Write a short design brief for a familiar problem"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "The design process",
+            "fr": "Le processus de conception",
+            "mfe": "Prosesis design"
+          },
+          "summary": {
+            "en": "This unit introduces the stages of the design process, from identifying a problem to evaluating a finished solution, using simple everyday examples.",
+            "fr": "Cette unité présente les étapes du processus de conception, de l'identification d'un problème à l'évaluation d'une solution finale, à travers des exemples simples du quotidien.",
+            "mfe": "Sa linite la introduir bann letap dan prosesis design, depi idantifie enn problem ziska evalie enn solision final, ar bann lexanp senp dan lavi toulezour."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Identifying needs and problems",
+                "fr": "Identifier les besoins et les problèmes",
+                "mfe": "Idantifie bezwen ek problem"
+              },
+              "objectives": [
+                "Explain how design problems are identified",
+                "Give examples of needs in a school or home context",
+                "Write a simple problem statement"
+              ]
+            },
+            {
+              "title": {
+                "en": "Generating design ideas",
+                "fr": "Générer des idées de conception",
+                "mfe": "Zener bann lide design"
+              },
+              "objectives": [
+                "Use brainstorming to generate ideas",
+                "Sketch initial ideas for a simple product",
+                "Explain the value of considering multiple ideas"
+              ]
+            },
+            {
+              "title": {
+                "en": "Developing and modelling ideas",
+                "fr": "Développer et modéliser des idées",
+                "mfe": "Devlop ek fer modelaz bann lide"
+              },
+              "objectives": [
+                "Select the most suitable idea from several options",
+                "Create a simple model or mock-up",
+                "Explain why modelling helps improve a design"
+              ]
+            },
+            {
+              "title": {
+                "en": "Evaluating a design solution",
+                "fr": "Évaluer une solution de conception",
+                "mfe": "Evalie enn solision design"
+              },
+              "objectives": [
+                "Compare a finished solution against the original brief",
+                "Identify strengths and weaknesses of a design",
+                "Suggest improvements to a design"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Materials and their properties",
+            "fr": "Les matériaux et leurs propriétés",
+            "mfe": "Materyo ek zot proprite"
+          },
+          "summary": {
+            "en": "Students investigate common materials such as wood, metal, plastic and paper, learning about their properties and suitable uses in design projects.",
+            "fr": "Les élèves étudient des matériaux courants comme le bois, le métal, le plastique et le papier, en apprenant leurs propriétés et leurs usages appropriés dans des projets de conception.",
+            "mfe": "Bann elev examinn materyo komen kouma dibwa, metal, plastik ek papie, e aprann lor zot proprite ek kot bizin servi zot dan bann prozet design."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Types of materials around us",
+                "fr": "Types de matériaux qui nous entourent",
+                "mfe": "Bann tip materyo otour nou"
+              },
+              "objectives": [
+                "Classify materials into categories such as wood, metal, plastic and paper",
+                "Give examples of products made from each material",
+                "Explain why different materials suit different products"
+              ]
+            },
+            {
+              "title": {
+                "en": "Properties of wood and metal",
+                "fr": "Propriétés du bois et du métal",
+                "mfe": "Proprite dibwa ek metal"
+              },
+              "objectives": [
+                "Describe key properties of wood and metal",
+                "Compare strength, flexibility and durability of both materials",
+                "Suggest suitable uses based on their properties"
+              ]
+            },
+            {
+              "title": {
+                "en": "Properties of plastics and papers",
+                "fr": "Propriétés des plastiques et des papiers",
+                "mfe": "Proprite plastik ek papie"
+              },
+              "objectives": [
+                "Describe key properties of plastics and paper-based materials",
+                "Discuss advantages and disadvantages of using plastics",
+                "Identify environmentally friendly material choices"
+              ]
+            },
+            {
+              "title": {
+                "en": "Choosing materials for a project",
+                "fr": "Choisir des matériaux pour un projet",
+                "mfe": "Swazir materyo pou enn prozet"
+              },
+              "objectives": [
+                "Match materials to the requirements of a simple design brief",
+                "Justify material choices using properties learned",
+                "Consider cost and availability when choosing materials"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Tools, equipment and safety",
+            "fr": "Outils, équipement et sécurité",
+            "mfe": "Zouti, ekipman ek sekirite"
+          },
+          "summary": {
+            "en": "This unit covers the safe and correct use of common hand tools and equipment used in design and technology projects.",
+            "fr": "Cette unité couvre l'utilisation sûre et correcte des outils manuels et de l'équipement couramment utilisés dans les projets de technologie et de design.",
+            "mfe": "Sa linite la kouver servi bann zouti amen ek ekipman komen dan bann prozet design ek teknoloji dan enn fason ki sekirize ek korek."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Marking out and measuring tools",
+                "fr": "Outils de traçage et de mesure",
+                "mfe": "Zouti pou mark ek mezire"
+              },
+              "objectives": [
+                "Identify common marking and measuring tools",
+                "Demonstrate accurate measuring techniques",
+                "Explain the importance of precision in design work"
+              ]
+            },
+            {
+              "title": {
+                "en": "Cutting and shaping tools",
+                "fr": "Outils de coupe et de façonnage",
+                "mfe": "Zouti pou koup ek forme"
+              },
+              "objectives": [
+                "Identify tools used for cutting and shaping materials",
+                "Demonstrate safe handling of cutting tools",
+                "Select appropriate tools for a given material"
+              ]
+            },
+            {
+              "title": {
+                "en": "Joining and assembling tools",
+                "fr": "Outils d'assemblage",
+                "mfe": "Zouti pou zwenn ek monte"
+              },
+              "objectives": [
+                "Identify common joining methods such as glue, screws and nails",
+                "Demonstrate a simple joining technique",
+                "Explain when different joining methods are appropriate"
+              ]
+            },
+            {
+              "title": {
+                "en": "Maintaining a safe workshop",
+                "fr": "Maintenir un atelier sécurisé",
+                "mfe": "Gard enn atelie an sekirite"
+              },
+              "objectives": [
+                "List routine safety checks before workshop activities",
+                "Explain correct storage of tools and materials",
+                "Describe emergency procedures in a workshop"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Structures and mechanisms",
+            "fr": "Structures et mécanismes",
+            "mfe": "Striktir ek mekanism"
+          },
+          "summary": {
+            "en": "Students explore how structures stay stable and how simple mechanisms transfer movement and force, applying this knowledge to build small models.",
+            "fr": "Les élèves découvrent comment les structures restent stables et comment des mécanismes simples transmettent le mouvement et la force, en appliquant ces connaissances pour construire de petits modèles.",
+            "mfe": "Bann elev explor kouma striktir reste stab ek kouma mekanism senp transfer mouvman ek fors, apre zot aplik sa konesans la pou konstrir ti model."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "What makes a structure stable",
+                "fr": "Ce qui rend une structure stable",
+                "mfe": "Ki fer enn striktir stab"
+              },
+              "objectives": [
+                "Explain forces that act on structures such as tension and compression",
+                "Identify features that improve structural stability",
+                "Test the stability of a simple model structure"
+              ]
+            },
+            {
+              "title": {
+                "en": "Building simple frame structures",
+                "fr": "Construire des structures en cadre simples",
+                "mfe": "Konstrir striktir kad senp"
+              },
+              "objectives": [
+                "Construct a simple frame structure using card or straws",
+                "Explain how triangulation strengthens structures",
+                "Evaluate the strength of a constructed model"
+              ]
+            },
+            {
+              "title": {
+                "en": "Introduction to mechanisms",
+                "fr": "Introduction aux mécanismes",
+                "mfe": "Introdiksion ar mekanism"
+              },
+              "objectives": [
+                "Define what a mechanism is",
+                "Identify examples of levers, gears and pulleys in daily life",
+                "Explain how mechanisms change force or motion"
+              ]
+            },
+            {
+              "title": {
+                "en": "Making a simple mechanism model",
+                "fr": "Créer un modèle de mécanisme simple",
+                "mfe": "Fer enn model mekanism senp"
+              },
+              "objectives": [
+                "Construct a simple lever or pulley model",
+                "Explain how the model transfers movement",
+                "Suggest real-life applications of the mechanism"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Graphic communication",
+            "fr": "Communication graphique",
+            "mfe": "Kominikasion grafik"
+          },
+          "summary": {
+            "en": "This unit develops students' ability to communicate design ideas clearly through sketches, labelled diagrams and simple technical drawings.",
+            "fr": "Cette unité développe la capacité des élèves à communiquer clairement leurs idées de conception à travers des croquis, des schémas annotés et des dessins techniques simples.",
+            "mfe": "Sa linite la devlop kapasite bann elev pou kominik zot lide design kler atraver bann kroki, diagram ki annan lezand, ek desin teknik senp."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Freehand sketching skills",
+                "fr": "Compétences en croquis à main levée",
+                "mfe": "Konpetans pou fer kroki amen lib"
+              },
+              "objectives": [
+                "Practise basic freehand sketching techniques",
+                "Sketch a simple object from observation",
+                "Explain why sketching is useful in the design process"
+              ]
+            },
+            {
+              "title": {
+                "en": "Labelled diagrams and annotations",
+                "fr": "Schémas annotés",
+                "mfe": "Diagram ki annan lezand"
+              },
+              "objectives": [
+                "Add clear labels and annotations to a sketch",
+                "Use annotations to explain materials and dimensions",
+                "Communicate a design idea to another person using a diagram"
+              ]
+            },
+            {
+              "title": {
+                "en": "Introduction to technical drawing",
+                "fr": "Introduction au dessin technique",
+                "mfe": "Introdiksion ar desin teknik"
+              },
+              "objectives": [
+                "Explain the purpose of technical drawings",
+                "Use basic drawing equipment such as rulers and set squares",
+                "Produce a simple two-dimensional technical drawing"
+              ]
+            },
+            {
+              "title": {
+                "en": "Presenting design ideas",
+                "fr": "Présenter des idées de conception",
+                "mfe": "Prezant lide design"
+              },
+              "objectives": [
+                "Combine sketches and diagrams to present a design idea",
+                "Use colour and labels to improve clarity",
+                "Present a design idea to classmates"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Simple electrical systems",
+            "fr": "Systèmes électriques simples",
+            "mfe": "Sistem elektrik senp"
+          },
+          "summary": {
+            "en": "Students learn the basics of electrical circuits and how simple components can be combined to create working products.",
+            "fr": "Les élèves apprennent les bases des circuits électriques et comment des composants simples peuvent être combinés pour créer des produits fonctionnels.",
+            "mfe": "Bann elev aprann baz sikwi elektrik ek kouma bann konpozan senp kapav konbine pou kree bann prodwi ki marse."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Basic circuit components",
+                "fr": "Composants de base d'un circuit",
+                "mfe": "Konpozan baz enn sikwi"
+              },
+              "objectives": [
+                "Identify basic components such as batteries, wires, switches and bulbs",
+                "Explain the function of each component",
+                "Draw a simple circuit diagram using symbols"
+              ]
+            },
+            {
+              "title": {
+                "en": "Building a simple circuit",
+                "fr": "Construire un circuit simple",
+                "mfe": "Konstrir enn sikwi senp"
+              },
+              "objectives": [
+                "Assemble a simple working circuit safely",
+                "Test whether a circuit is complete",
+                "Troubleshoot a circuit that does not work"
+              ]
+            },
+            {
+              "title": {
+                "en": "Series and parallel circuits",
+                "fr": "Circuits en série et en parallèle",
+                "mfe": "Sikwi an serie ek an paralel"
+              },
+              "objectives": [
+                "Distinguish between series and parallel circuits",
+                "Build examples of both types of circuits",
+                "Explain practical uses of each circuit type"
+              ]
+            },
+            {
+              "title": {
+                "en": "Designing a simple electrical product",
+                "fr": "Concevoir un produit électrique simple",
+                "mfe": "Design enn prodwi elektrik senp"
+              },
+              "objectives": [
+                "Apply circuit knowledge to design a simple product idea",
+                "Sketch a design incorporating an electrical component",
+                "Evaluate the practicality of the design idea"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Introduction to textiles",
+            "fr": "Introduction aux textiles",
+            "mfe": "Introdiksion ar tekstil"
+          },
+          "summary": {
+            "en": "This unit introduces basic textile materials, simple joining techniques and the role of textiles in Mauritian daily life and industry.",
+            "fr": "Cette unité présente les matériaux textiles de base, des techniques d'assemblage simples et le rôle des textiles dans la vie quotidienne et l'industrie mauricienne.",
+            "mfe": "Sa linite la introduir materyo tekstil debaz, teknik zwenn senp, ek rol tekstil dan lavi toulezour ek lindistri Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Types of textile materials",
+                "fr": "Types de matériaux textiles",
+                "mfe": "Tip materyo tekstil"
+              },
+              "objectives": [
+                "Identify common textile fibres such as cotton and polyester",
+                "Describe properties of different textile materials",
+                "Give examples of textile products used daily"
+              ]
+            },
+            {
+              "title": {
+                "en": "Textiles in Mauritius",
+                "fr": "Les textiles à Maurice",
+                "mfe": "Tekstil dan Moris"
+              },
+              "objectives": [
+                "Describe the importance of the textile industry in Mauritius",
+                "Identify local textile products and uses",
+                "Discuss careers linked to the textile industry"
+              ]
+            },
+            {
+              "title": {
+                "en": "Simple joining techniques",
+                "fr": "Techniques d'assemblage simples",
+                "mfe": "Teknik zwenn senp"
+              },
+              "objectives": [
+                "Demonstrate a simple hand stitch",
+                "Join two pieces of fabric safely",
+                "Explain when stitching is preferred over other joining methods"
+              ]
+            },
+            {
+              "title": {
+                "en": "Designing a simple textile item",
+                "fr": "Concevoir un article textile simple",
+                "mfe": "Design enn lartik tekstil senp"
+              },
+              "objectives": [
+                "Sketch a design for a simple textile product",
+                "Select suitable fabric for the design",
+                "Explain the steps needed to make the product"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "8": {
+      "units": [
+        {
+          "title": {
+            "en": "The design process revisited",
+            "fr": "Le processus de conception revisité",
+            "mfe": "Reviziter proses konsepsyon"
+          },
+          "summary": {
+            "en": "Students review and deepen their understanding of the design process, learning to analyse design briefs, conduct research and generate creative solutions to real-life problems in a Mauritian context.",
+            "fr": "Les élèves révisent et approfondissent leur compréhension du processus de conception, en apprenant à analyser des cahiers des charges, à faire des recherches et à générer des solutions créatives à des problèmes réels dans le contexte mauricien.",
+            "mfe": "Bann elev revize ek apronfondi zot konpreansyon lo proses konsepsyon, aprann analiz bann brief konsepsyon, fer resers ek dévlop bann solisyon kreatif pou problem reel dan kontex Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Understanding design briefs and specifications",
+                "fr": "Comprendre les cahiers des charges et spécifications",
+                "mfe": "Konpran bann brief ek spesifikasyon konsepsyon"
+              },
+              "objectives": [
+                "Identify the purpose of a design brief",
+                "Explain key terms used in a specification",
+                "Analyse a sample design brief for a local product"
+              ]
+            },
+            {
+              "title": {
+                "en": "Research methods for design projects",
+                "fr": "Méthodes de recherche pour projets de conception",
+                "mfe": "Metod resers pou bann projet konsepsyon"
+              },
+              "objectives": [
+                "List different sources of design research",
+                "Conduct a simple survey or interview",
+                "Summarise findings to inform design ideas"
+              ]
+            },
+            {
+              "title": {
+                "en": "Generating and sketching design ideas",
+                "fr": "Générer et esquisser des idées de conception",
+                "mfe": "Dévlop ek desine bann lide konsepsyon"
+              },
+              "objectives": [
+                "Use brainstorming to generate multiple ideas",
+                "Produce annotated sketches of design solutions",
+                "Compare ideas against the design brief"
+              ]
+            },
+            {
+              "title": {
+                "en": "Evaluating design solutions",
+                "fr": "Évaluer les solutions de conception",
+                "mfe": "Evalye bann solisyon konsepsyon"
+              },
+              "objectives": [
+                "Develop simple evaluation criteria",
+                "Test a design idea against the criteria",
+                "Suggest improvements to a chosen design"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Working with wood",
+            "fr": "Travailler le bois",
+            "mfe": "Travay avek dibwa"
+          },
+          "summary": {
+            "en": "This unit introduces students to the properties of different woods and safe use of hand tools to shape, join and finish wooden products commonly made in Mauritius.",
+            "fr": "Cette unité présente aux élèves les propriétés de différents bois et l'utilisation sûre d'outils manuels pour façonner, assembler et finir des produits en bois couramment fabriqués à Maurice.",
+            "mfe": "Sa inite prezant bann elev bann propriete diferan bwa ek servi bann zouti manyel dan enn fason sekirize pou taye, azanse ek finalize bann prodwi an bwa ki komin fer Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Properties and types of wood",
+                "fr": "Propriétés et types de bois",
+                "mfe": "Propriete ek diferan tip dibwa"
+              },
+              "objectives": [
+                "Classify wood into hardwood and softwood",
+                "Describe the properties of common local woods",
+                "Select suitable wood for a given project"
+              ]
+            },
+            {
+              "title": {
+                "en": "Safe use of hand tools",
+                "fr": "Utilisation sûre des outils manuels",
+                "mfe": "Servi zouti manyel dan enn fason sekirize"
+              },
+              "objectives": [
+                "Identify common woodworking hand tools",
+                "Demonstrate safe handling of saws and chisels",
+                "Follow workshop safety rules"
+              ]
+            },
+            {
+              "title": {
+                "en": "Marking, cutting and shaping wood",
+                "fr": "Marquer, couper et façonner le bois",
+                "mfe": "Marke, koup ek forme dibwa"
+              },
+              "objectives": [
+                "Mark accurate measurements on wood",
+                "Cut wood to size using appropriate tools",
+                "Shape wood edges using a plane or file"
+              ]
+            },
+            {
+              "title": {
+                "en": "Joining and finishing wooden pieces",
+                "fr": "Assembler et finir des pièces en bois",
+                "mfe": "Azanse ek finalize bann pyes an bwa"
+              },
+              "objectives": [
+                "Apply a simple wood joint",
+                "Sand a wooden surface for finishing",
+                "Apply a suitable finish such as varnish or paint"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Metals and plastics in products",
+            "fr": "Métaux et plastiques dans les produits",
+            "mfe": "Metal ek plastik dan bann prodwi"
+          },
+          "summary": {
+            "en": "Students explore the properties of metals and plastics, learning how these materials are processed and used to manufacture everyday products found in Mauritius.",
+            "fr": "Les élèves explorent les propriétés des métaux et des plastiques, en apprenant comment ces matériaux sont transformés et utilisés pour fabriquer des produits du quotidien trouvés à Maurice.",
+            "mfe": "Bann elev explor propriete metal ek plastik, aprann kouma sa bann material la trete ek servi pou fabrik bann prodwi toulezour ki trouve Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Properties of common metals",
+                "fr": "Propriétés des métaux courants",
+                "mfe": "Propriete bann metal komin"
+              },
+              "objectives": [
+                "Identify ferrous and non-ferrous metals",
+                "Describe properties such as malleability and conductivity",
+                "Give examples of metal products used locally"
+              ]
+            },
+            {
+              "title": {
+                "en": "Working safely with metal",
+                "fr": "Travailler le métal en toute sécurité",
+                "mfe": "Travay avek metal dan enn fason sekirize"
+              },
+              "objectives": [
+                "Identify basic metalworking tools",
+                "Demonstrate safe cutting and filing of metal",
+                "Explain hazards in metal workshops"
+              ]
+            },
+            {
+              "title": {
+                "en": "Types and properties of plastics",
+                "fr": "Types et propriétés des plastiques",
+                "mfe": "Tip ek propriete plastik"
+              },
+              "objectives": [
+                "Classify plastics as thermoplastic or thermosetting",
+                "Describe common uses of plastics in products",
+                "Discuss environmental impact of plastics"
+              ]
+            },
+            {
+              "title": {
+                "en": "Shaping and joining plastics",
+                "fr": "Façonner et assembler les plastiques",
+                "mfe": "Forme ek azanse plastik"
+              },
+              "objectives": [
+                "Explain simple methods of shaping plastic",
+                "Describe how plastics can be joined",
+                "Design a simple plastic product idea"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Structures around us",
+            "fr": "Les structures qui nous entourent",
+            "mfe": "Bann striktir otour nou"
+          },
+          "summary": {
+            "en": "This unit examines how structures such as bridges, buildings and towers withstand forces, encouraging students to design and test simple structural models.",
+            "fr": "Cette unité examine comment les structures telles que les ponts, bâtiments et tours résistent aux forces, encourageant les élèves à concevoir et tester des modèles structurels simples.",
+            "mfe": "Sa inite examinn kouma bann striktir kouma pon, batiman ek tour reziste ar fors, ankouraz bann elev pou konsevwar ek teste bann modele striktirel senp."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Types of structures and forces",
+                "fr": "Types de structures et forces",
+                "mfe": "Tip striktir ek fors"
+              },
+              "objectives": [
+                "Identify frame, shell and solid structures",
+                "Explain tension and compression forces",
+                "Give local examples of each structure type"
+              ]
+            },
+            {
+              "title": {
+                "en": "Strengthening structures",
+                "fr": "Renforcer les structures",
+                "mfe": "Ranforsi bann striktir"
+              },
+              "objectives": [
+                "Explain how triangulation strengthens structures",
+                "Describe the role of cross-bracing",
+                "Sketch a strengthened structural design"
+              ]
+            },
+            {
+              "title": {
+                "en": "Building and testing a model structure",
+                "fr": "Construire et tester un modèle de structure",
+                "mfe": "Construir ek teste enn modele striktir"
+              },
+              "objectives": [
+                "Construct a simple model bridge or tower",
+                "Test the model with increasing loads",
+                "Record and analyse test results"
+              ]
+            },
+            {
+              "title": {
+                "en": "Improving structural designs",
+                "fr": "Améliorer les conceptions structurelles",
+                "mfe": "Amelior bann konsepsyon striktirel"
+              },
+              "objectives": [
+                "Identify weaknesses in a tested structure",
+                "Propose design improvements",
+                "Justify choices using evidence from testing"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Mechanical systems and movement",
+            "fr": "Systèmes mécaniques et mouvement",
+            "mfe": "Sistem mekanik ek mouvman"
+          },
+          "summary": {
+            "en": "Students learn about mechanisms such as levers, gears and cams that create and control movement in everyday devices and toys.",
+            "fr": "Les élèves apprennent les mécanismes tels que les leviers, engrenages et cames qui créent et contrôlent le mouvement dans les appareils et jouets quotidiens.",
+            "mfe": "Bann elev aprann bann mekanism kouma levie, angrenaz ek kam ki kree ek kontrol mouvman dan bann aparey ek zwe toulezour."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Levers and linkages",
+                "fr": "Leviers et articulations",
+                "mfe": "Levie ek bann lyezon"
+              },
+              "objectives": [
+                "Identify the three classes of levers",
+                "Explain how linkages change motion direction",
+                "Give examples of levers in daily life"
+              ]
+            },
+            {
+              "title": {
+                "en": "Gears and pulleys",
+                "fr": "Engrenages et poulies",
+                "mfe": "Angrenaz ek puli"
+              },
+              "objectives": [
+                "Explain how gears change speed and direction",
+                "Describe the function of pulley systems",
+                "Calculate simple gear ratios"
+              ]
+            },
+            {
+              "title": {
+                "en": "Cams and cranks",
+                "fr": "Cames et manivelles",
+                "mfe": "Kam ek manivel"
+              },
+              "objectives": [
+                "Describe how cams produce different types of motion",
+                "Explain the use of cranks in mechanisms",
+                "Sketch a simple cam-follower system"
+              ]
+            },
+            {
+              "title": {
+                "en": "Designing a moving toy",
+                "fr": "Concevoir un jouet en mouvement",
+                "mfe": "Konsevwar enn zwe ki mouve"
+              },
+              "objectives": [
+                "Apply a mechanism to a toy design",
+                "Sketch and label the chosen mechanism",
+                "Plan materials needed for construction"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Introduction to electrical systems",
+            "fr": "Introduction aux systèmes électriques",
+            "mfe": "Entrodiksyon bann sistem elektrik"
+          },
+          "summary": {
+            "en": "This unit introduces basic electrical circuits and components, allowing students to build and test simple circuits used in household devices.",
+            "fr": "Cette unité présente les circuits et composants électriques de base, permettant aux élèves de construire et tester des circuits simples utilisés dans les appareils domestiques.",
+            "mfe": "Sa inite prezant bann sirkwi ek konpozan elektrik debaz, permet bann elev construir ek teste bann sirkwi senp ki servi dan bann aparey dan lakaz."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Basic circuit components",
+                "fr": "Composants de circuit de base",
+                "mfe": "Konpozan sirkwi debaz"
+              },
+              "objectives": [
+                "Identify symbols for common circuit components",
+                "Explain the function of switches, cells and bulbs",
+                "Read a simple circuit diagram"
+              ]
+            },
+            {
+              "title": {
+                "en": "Series and parallel circuits",
+                "fr": "Circuits en série et en parallèle",
+                "mfe": "Sirkwi an serye ek an paralel"
+              },
+              "objectives": [
+                "Distinguish between series and parallel circuits",
+                "Build a simple series circuit",
+                "Compare brightness of bulbs in each circuit type"
+              ]
+            },
+            {
+              "title": {
+                "en": "Using switches and sensors",
+                "fr": "Utiliser des interrupteurs et capteurs",
+                "mfe": "Servi swits ek sansor"
+              },
+              "objectives": [
+                "Explain the purpose of different switch types",
+                "Describe simple sensors used in devices",
+                "Design a circuit with a switch for a chosen use"
+              ]
+            },
+            {
+              "title": {
+                "en": "Building a simple electrical product",
+                "fr": "Construire un produit électrique simple",
+                "mfe": "Construir enn prodwi elektrik senp"
+              },
+              "objectives": [
+                "Plan a simple circuit for a practical product",
+                "Assemble components safely",
+                "Test the product and troubleshoot faults"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Graphic communication skills",
+            "fr": "Compétences en communication graphique",
+            "mfe": "Konpetans kominikasyon grafik"
+          },
+          "summary": {
+            "en": "Students develop skills in freehand and technical drawing to communicate design ideas clearly, including simple use of computer-aided design tools.",
+            "fr": "Les élèves développent des compétences en dessin à main levée et technique pour communiquer clairement leurs idées de conception, y compris une utilisation simple des outils de CAO.",
+            "mfe": "Bann elev dévlop konpetans dan desine alamin ek desine teknik pou kominik bann lide konsepsyon kler, ki enkli enn servi senp bann zouti CAO."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Freehand sketching techniques",
+                "fr": "Techniques de croquis à main levée",
+                "mfe": "Teknik desine alamin"
+              },
+              "objectives": [
+                "Practice basic sketching lines and shapes",
+                "Add shading to show form",
+                "Annotate sketches with labels"
+              ]
+            },
+            {
+              "title": {
+                "en": "Orthographic and isometric drawing",
+                "fr": "Dessin orthographique et isométrique",
+                "mfe": "Desine ortografik ek izometrik"
+              },
+              "objectives": [
+                "Explain the purpose of orthographic views",
+                "Draw simple objects in isometric view",
+                "Compare 2D and 3D representations"
+              ]
+            },
+            {
+              "title": {
+                "en": "Using colour and rendering",
+                "fr": "Utiliser la couleur et le rendu",
+                "mfe": "Servi kouler ek randerin"
+              },
+              "objectives": [
+                "Apply colour to enhance design drawings",
+                "Use rendering to show materials and texture",
+                "Present a design idea using colour techniques"
+              ]
+            },
+            {
+              "title": {
+                "en": "Introduction to computer-aided design",
+                "fr": "Introduction à la conception assistée par ordinateur",
+                "mfe": "Entrodiksyon konsepsyon asiste par lordinater"
+              },
+              "objectives": [
+                "Explain the benefits of CAD in design",
+                "Use basic tools in a simple CAD programme",
+                "Produce a basic digital drawing of a product"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "units": [
+        {
+          "title": {
+            "en": "The design process",
+            "fr": "Le processus de conception",
+            "mfe": "Prosesis konsepsyon"
+          },
+          "summary": {
+            "en": "Students revisit and deepen their understanding of the design process, learning to identify problems, research solutions and evaluate outcomes systematically.",
+            "fr": "Les élèves revisitent et approfondissent leur compréhension du processus de conception, apprenant à identifier des problèmes, rechercher des solutions et évaluer les résultats de façon systématique.",
+            "mfe": "Bann elev revizit ek apronfondi zot konpreansyon lor prosesis konsepsyon, apran pou idantifie problem, rod solisyon ek evalie rezilta dan enn fason sistematik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Identifying design problems",
+                "fr": "Identifier des problèmes de conception",
+                "mfe": "Idantifie problem konsepsyon"
+              },
+              "objectives": [
+                "Define what constitutes a design problem",
+                "Analyse everyday situations for design opportunities",
+                "Write a clear design brief"
+              ]
+            },
+            {
+              "title": {
+                "en": "Researching user needs",
+                "fr": "Rechercher les besoins des utilisateurs",
+                "mfe": "Rod bezwin itilizater"
+              },
+              "objectives": [
+                "Conduct simple user surveys",
+                "Analyse existing products for strengths and weaknesses",
+                "Compile research findings into a summary"
+              ]
+            },
+            {
+              "title": {
+                "en": "Generating design specifications",
+                "fr": "Élaborer des spécifications de conception",
+                "mfe": "Devlop spesifikasyon konsepsyon"
+              },
+              "objectives": [
+                "List criteria a successful design must meet",
+                "Prioritise specification points",
+                "Link specifications to user research"
+              ]
+            },
+            {
+              "title": {
+                "en": "Evaluating design outcomes",
+                "fr": "Évaluer les résultats de conception",
+                "mfe": "Evalie rezilta konsepsyon"
+              },
+              "objectives": [
+                "Compare a finished product against its specification",
+                "Suggest improvements based on testing",
+                "Present evaluation findings clearly"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Properties of materials",
+            "fr": "Propriétés des matériaux",
+            "mfe": "Proprite bann materyo"
+          },
+          "summary": {
+            "en": "Students explore the physical and working properties of wood, metal and plastic, and how these properties influence material selection for products.",
+            "fr": "Les élèves explorent les propriétés physiques et de mise en œuvre du bois, du métal et du plastique, et comment ces propriétés influencent le choix des matériaux pour les produits.",
+            "mfe": "Bann elev explor proprite fizik ek travay dibwa, metal ek plastik, ek kouma sa bann proprite la enfliyans swa materyo pou prodwi."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Physical and mechanical properties",
+                "fr": "Propriétés physiques et mécaniques",
+                "mfe": "Proprite fizik ek mekanik"
+              },
+              "objectives": [
+                "Define terms such as strength, hardness and elasticity",
+                "Test simple material samples for basic properties",
+                "Record and compare test results"
+              ]
+            },
+            {
+              "title": {
+                "en": "Working with woods",
+                "fr": "Travailler le bois",
+                "mfe": "Travay avek dibwa"
+              },
+              "objectives": [
+                "Identify common local woods and their uses",
+                "Explain the difference between hardwood and softwood",
+                "Select appropriate wood for a given task"
+              ]
+            },
+            {
+              "title": {
+                "en": "Working with metals and plastics",
+                "fr": "Travailler les métaux et plastiques",
+                "mfe": "Travay avek metal ek plastik"
+              },
+              "objectives": [
+                "Classify metals as ferrous or non-ferrous",
+                "Describe common plastics used in products",
+                "Compare durability and cost of materials"
+              ]
+            },
+            {
+              "title": {
+                "en": "Choosing materials for a purpose",
+                "fr": "Choisir des matériaux selon l'usage",
+                "mfe": "Swazir materyo pou enn bi"
+              },
+              "objectives": [
+                "Match material properties to product requirements",
+                "Justify a material choice with evidence",
+                "Consider cost and availability in Mauritius"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Structures and forces",
+            "fr": "Structures et forces",
+            "mfe": "Striktir ek forse"
+          },
+          "summary": {
+            "en": "Students investigate how structures resist forces and apply this understanding to design stable and strong constructions.",
+            "fr": "Les élèves étudient comment les structures résistent aux forces et appliquent cette compréhension pour concevoir des constructions stables et solides.",
+            "mfe": "Bann elev examinn kouma striktir rezist forse ek aplik sa konpreansyon pou konsevwar konstriksyon stab ek solid."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Types of forces on structures",
+                "fr": "Types de forces sur les structures",
+                "mfe": "Kalite forse lor striktir"
+              },
+              "objectives": [
+                "Identify tension, compression and torsion",
+                "Give examples of forces in local buildings and bridges",
+                "Sketch force diagrams for simple structures"
+              ]
+            },
+            {
+              "title": {
+                "en": "Frame and shell structures",
+                "fr": "Structures à ossature et coques",
+                "mfe": "Striktir kad ek koki"
+              },
+              "objectives": [
+                "Differentiate frame structures from shell structures",
+                "Identify examples in everyday objects and buildings",
+                "Explain advantages of each structure type"
+              ]
+            },
+            {
+              "title": {
+                "en": "Improving structural stability",
+                "fr": "Améliorer la stabilité structurelle",
+                "mfe": "Ameliyor stabilite striktirel"
+              },
+              "objectives": [
+                "Explain how triangulation strengthens structures",
+                "Test simple structure models under load",
+                "Modify a structure to improve stability"
+              ]
+            },
+            {
+              "title": {
+                "en": "Building a model structure",
+                "fr": "Construire une structure modèle",
+                "mfe": "Konstrir enn model striktir"
+              },
+              "objectives": [
+                "Plan a structure to meet a load requirement",
+                "Construct a model using available materials",
+                "Evaluate the model against design criteria"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Mechanisms and movement",
+            "fr": "Mécanismes et mouvement",
+            "mfe": "Mekanism ek mouvman"
+          },
+          "summary": {
+            "en": "Students learn how mechanisms transform movement and force, exploring levers, gears, cams and linkages used in everyday devices.",
+            "fr": "Les élèves apprennent comment les mécanismes transforment le mouvement et la force, en explorant leviers, engrenages, cames et biellettes utilisés dans les appareils quotidiens.",
+            "mfe": "Bann elev aprann kouma mekanism transform mouvman ek forse, examine levie, angrenaz, kam ek lyezon itilize dan aparey ki servi toulezour."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Levers and linkages",
+                "fr": "Leviers et biellettes",
+                "mfe": "Levie ek lyezon"
+              },
+              "objectives": [
+                "Classify levers by class",
+                "Explain mechanical advantage",
+                "Identify linkages in familiar tools"
+              ]
+            },
+            {
+              "title": {
+                "en": "Gears and pulleys",
+                "fr": "Engrenages et poulies",
+                "mfe": "Angrenaz ek pouli"
+              },
+              "objectives": [
+                "Explain how gear trains change speed and direction",
+                "Describe belt and pulley systems",
+                "Calculate simple gear ratios"
+              ]
+            },
+            {
+              "title": {
+                "en": "Cams and followers",
+                "fr": "Cames et suiveurs",
+                "mfe": "Kam ek swiver"
+              },
+              "objectives": [
+                "Describe how cams convert rotary to reciprocating motion",
+                "Identify cam shapes and their effects",
+                "Sketch a simple cam mechanism"
+              ]
+            },
+            {
+              "title": {
+                "en": "Designing a mechanical toy",
+                "fr": "Concevoir un jouet mécanique",
+                "mfe": "Konsevwar enn zouzou mekanik"
+              },
+              "objectives": [
+                "Combine mechanisms to produce movement",
+                "Plan and sketch a working mechanism",
+                "Build and test a simple mechanical model"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Electronics and control",
+            "fr": "Électronique et systèmes de contrôle",
+            "mfe": "Elektronik ek sistem kontrol"
+          },
+          "summary": {
+            "en": "Students are introduced to basic electronic components and simple control systems used to automate everyday products.",
+            "fr": "Les élèves sont initiés aux composants électroniques de base et aux systèmes de contrôle simples utilisés pour automatiser les produits du quotidien.",
+            "mfe": "Bann elev fer konesans avek bann konpozan elektronik debaz ek sistem kontrol senp ki servi pou otomatiz prodwi toulezour."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Basic electronic components",
+                "fr": "Composants électroniques de base",
+                "mfe": "Konpozan elektronik debaz"
+              },
+              "objectives": [
+                "Identify resistors, LEDs and switches",
+                "Read simple circuit diagrams",
+                "Build a basic circuit safely"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sensors and inputs",
+                "fr": "Capteurs et entrées",
+                "mfe": "Kapter ek antre"
+              },
+              "objectives": [
+                "Explain the role of sensors in control systems",
+                "Identify common sensors such as light and temperature",
+                "Describe an application of a sensor in daily life"
+              ]
+            },
+            {
+              "title": {
+                "en": "Introduction to control systems",
+                "fr": "Introduction aux systèmes de contrôle",
+                "mfe": "Introdiksyon a sistem kontrol"
+              },
+              "objectives": [
+                "Explain input-process-output in control systems",
+                "Give examples of automated products in Mauritius",
+                "Sketch a simple control system diagram"
+              ]
+            },
+            {
+              "title": {
+                "en": "Building a simple control circuit",
+                "fr": "Construire un circuit de contrôle simple",
+                "mfe": "Konstrir enn sirkwi kontrol senp"
+              },
+              "objectives": [
+                "Assemble a circuit that responds to an input",
+                "Test and troubleshoot the circuit",
+                "Suggest improvements to the design"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Graphic communication and drawing",
+            "fr": "Communication graphique et dessin",
+            "mfe": "Kominikasyon grafik ek desin"
+          },
+          "summary": {
+            "en": "Students develop skills in freehand sketching, orthographic and pictorial drawing to communicate design ideas clearly.",
+            "fr": "Les élèves développent des compétences en croquis à main levée, dessin orthographique et en perspective pour communiquer clairement leurs idées de conception.",
+            "mfe": "Bann elev devlop konpetans dan croki lame lib, desin ortografik ek piktorial pou kominik lide konsepsyon dan enn fason kler."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Freehand sketching techniques",
+                "fr": "Techniques de croquis à main levée",
+                "mfe": "Teknik croki lame lib"
+              },
+              "objectives": [
+                "Practise proportion and line quality in sketches",
+                "Annotate sketches with notes",
+                "Use sketching to record design ideas quickly"
+              ]
+            },
+            {
+              "title": {
+                "en": "Orthographic projection basics",
+                "fr": "Bases de la projection orthographique",
+                "mfe": "Baz proseksyon ortografik"
+              },
+              "objectives": [
+                "Explain first-angle orthographic projection",
+                "Draw plan, front and side views of simple objects",
+                "Read dimensions from orthographic drawings"
+              ]
+            },
+            {
+              "title": {
+                "en": "Pictorial drawing methods",
+                "fr": "Méthodes de dessin en perspective",
+                "mfe": "Metod desin piktorial"
+              },
+              "objectives": [
+                "Produce isometric drawings of simple objects",
+                "Apply oblique drawing techniques",
+                "Compare pictorial and orthographic drawing uses"
+              ]
+            },
+            {
+              "title": {
+                "en": "Using drawing to present a design",
+                "fr": "Utiliser le dessin pour présenter une conception",
+                "mfe": "Servi desin pou prezant enn konsepsyon"
+              },
+              "objectives": [
+                "Combine sketches and orthographic views in a presentation",
+                "Add colour and rendering for clarity",
+                "Explain a design idea using drawings"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Sustainable design and manufacture",
+            "fr": "Conception durable et fabrication",
+            "mfe": "Konsepsyon dirab ek fabrikasyon"
+          },
+          "summary": {
+            "en": "Students consider environmental and social impacts of design decisions and learn manufacturing methods that reduce waste and resource use.",
+            "fr": "Les élèves examinent les impacts environnementaux et sociaux des décisions de conception et apprennent des méthodes de fabrication qui réduisent les déchets et l'utilisation des ressources.",
+            "mfe": "Bann elev examine lenfliyans lanvironnman ek sosyal bann desizyon konsepsyon ek aprann metod fabrikasyon ki diminie deshe ek itilizasyon resours."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Sustainability in design",
+                "fr": "Durabilité en conception",
+                "mfe": "Dirabilite dan konsepsyon"
+              },
+              "objectives": [
+                "Define sustainable design principles",
+                "Identify environmental impacts of common products",
+                "Suggest sustainable alternatives to a product"
+              ]
+            },
+            {
+              "title": {
+                "en": "Recycling and reuse of materials",
+                "fr": "Recyclage et réutilisation des matériaux",
+                "mfe": "Resiklaz ek reyitilizasyon materyo"
+              },
+              "objectives": [
+                "Explain the recycling process for common materials",
+                "Identify recyclable materials used in Mauritius",
+                "Design a product using recycled materials"
+              ]
+            },
+            {
+              "title": {
+                "en": "Efficient manufacturing methods",
+                "fr": "Méthodes de fabrication efficaces",
+                "mfe": "Metod fabrikasyon efikas"
+              },
+              "objectives": [
+                "Describe batch and one-off production methods",
+                "Explain how planning reduces material waste",
+                "Compare manufacturing methods for a simple product"
+              ]
+            },
+            {
+              "title": {
+                "en": "Designing an eco-friendly product",
+                "fr": "Concevoir un produit écologique",
+                "mfe": "Konsevwar enn prodwi eko-amikal"
+              },
+              "objectives": [
+                "Apply sustainable design principles to a project",
+                "Select materials and processes with low environmental impact",
+                "Present and justify the eco-friendly design"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "units": [
+        {
+          "title": {
+            "en": "Understanding the design process",
+            "fr": "Comprendre le processus de conception",
+            "mfe": "Konpran pwosesis konsepsyon"
+          },
+          "summary": {
+            "en": "Introduces the iterative design process used in O Level D&T, from identifying a problem to evaluating solutions.",
+            "fr": "Présente le processus itératif de conception utilisé en D&T niveau O, de l'identification d'un problème à l'évaluation des solutions.",
+            "mfe": "Prezant pwosesis konsepsyon iteratif itilize dan D&T Nivo O, depi identifye enn problem ziska evalye bann solisyon."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Identifying design problems and needs",
+                "fr": "Identifier les problèmes et besoins de conception",
+                "mfe": "Idantifye bann problem ek bezwin konsepsyon"
+              },
+              "objectives": [
+                "Identify real-world problems suitable for design projects",
+                "Explain the needs of different users",
+                "Distinguish between wants and needs in design contexts"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing design briefs and specifications",
+                "fr": "Rédiger des cahiers des charges et des spécifications",
+                "mfe": "Ekrir bann brief ek spesifikasyon konsepsyon"
+              },
+              "objectives": [
+                "Write a clear design brief for a given problem",
+                "Develop a design specification with measurable criteria",
+                "Explain the difference between a brief and a specification"
+              ]
+            },
+            {
+              "title": {
+                "en": "Researching and analysing existing products",
+                "fr": "Rechercher et analyser des produits existants",
+                "mfe": "Fer resers ek analize prodwi ki existe"
+              },
+              "objectives": [
+                "Conduct research into existing products",
+                "Analyse products using disassembly techniques",
+                "Identify strengths and weaknesses of existing designs"
+              ]
+            },
+            {
+              "title": {
+                "en": "Generating and developing design ideas",
+                "fr": "Générer et développer des idées de conception",
+                "mfe": "Zenere ek devlop bann lide konsepsyon"
+              },
+              "objectives": [
+                "Generate a range of design ideas using sketching",
+                "Develop initial ideas with annotations",
+                "Select the most suitable idea against the specification"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Working with timber and wood-based materials",
+            "fr": "Travailler le bois et les matériaux dérivés du bois",
+            "mfe": "Travay avek dibwa ek materyo ki sorti dan dibwa"
+          },
+          "summary": {
+            "en": "Explores properties, sources, and uses of timber and manufactured boards in design projects.",
+            "fr": "Explore les propriétés, les sources et les usages du bois et des panneaux manufacturés dans les projets de conception.",
+            "mfe": "Explor bann proprite, sours ek itilizasyon dibwa ek pano fabrike dan bann prozet konsepsyon."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Types and properties of timber",
+                "fr": "Types et propriétés du bois",
+                "mfe": "Diferan tip ek proprite dibwa"
+              },
+              "objectives": [
+                "Classify timber as hardwood or softwood",
+                "Describe physical and working properties of common timbers",
+                "Relate timber properties to suitable uses"
+              ]
+            },
+            {
+              "title": {
+                "en": "Manufactured boards and their uses",
+                "fr": "Panneaux manufacturés et leurs usages",
+                "mfe": "Pano fabrike ek zot itilizasyon"
+              },
+              "objectives": [
+                "Identify common manufactured boards such as plywood and MDF",
+                "Compare properties of manufactured boards with solid timber",
+                "Select appropriate boards for given applications"
+              ]
+            },
+            {
+              "title": {
+                "en": "Joining and finishing wood",
+                "fr": "Assemblage et finition du bois",
+                "mfe": "Asanble ek finisyon dibwa"
+              },
+              "objectives": [
+                "Describe common methods of joining wood",
+                "Explain the purpose of applying finishes to wood",
+                "Select suitable joining and finishing methods for a project"
+              ]
+            },
+            {
+              "title": {
+                "en": "Tools and equipment for woodworking",
+                "fr": "Outils et équipements pour le travail du bois",
+                "mfe": "Zouti ek lekipman pou travay dibwa"
+              },
+              "objectives": [
+                "Identify hand tools used in woodworking",
+                "Explain safe use of workshop machinery for wood",
+                "Demonstrate correct marking out and measuring techniques"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Metals and polymers in design",
+            "fr": "Les métaux et les polymères en conception",
+            "mfe": "Metal ek polimer dan konsepsyon"
+          },
+          "summary": {
+            "en": "Compares properties and applications of ferrous and non-ferrous metals and thermoplastics and thermosets.",
+            "fr": "Compare les propriétés et les applications des métaux ferreux et non ferreux ainsi que des thermoplastiques et thermodurcissables.",
+            "mfe": "Konpar bann proprite ek itilizasyon metal fero ek non-fero, osi bien ki termoplastik ek termodirsisan."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Ferrous and non-ferrous metals",
+                "fr": "Métaux ferreux et non ferreux",
+                "mfe": "Metal fero ek non-fero"
+              },
+              "objectives": [
+                "Distinguish between ferrous and non-ferrous metals",
+                "Describe properties of common metals used in design",
+                "Explain the causes and prevention of corrosion"
+              ]
+            },
+            {
+              "title": {
+                "en": "Forming and joining metals",
+                "fr": "Formage et assemblage des métaux",
+                "mfe": "Formaz ek asanblaz metal"
+              },
+              "objectives": [
+                "Describe methods of forming metal such as bending and casting",
+                "Explain permanent and temporary joining methods for metals",
+                "Select suitable forming and joining methods for a project"
+              ]
+            },
+            {
+              "title": {
+                "en": "Thermoplastics and thermosetting polymers",
+                "fr": "Thermoplastiques et polymères thermodurcissables",
+                "mfe": "Termoplastik ek polimer termodirsisan"
+              },
+              "objectives": [
+                "Distinguish between thermoplastics and thermosetting polymers",
+                "Describe properties of common polymers used in products",
+                "Relate polymer properties to their applications"
+              ]
+            },
+            {
+              "title": {
+                "en": "Shaping and finishing polymers",
+                "fr": "Mise en forme et finition des polymères",
+                "mfe": "Fason ek finisyon polimer"
+              },
+              "objectives": [
+                "Describe methods of shaping polymers such as vacuum forming",
+                "Explain finishing techniques applied to polymer products",
+                "Select appropriate polymer processing methods for a design"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Structures and mechanical systems",
+            "fr": "Structures et systèmes mécaniques",
+            "mfe": "Striktir ek sistenm mekanik"
+          },
+          "summary": {
+            "en": "Covers structural forces, strengthening techniques, and basic mechanisms like levers, gears, and cams.",
+            "fr": "Couvre les forces structurelles, les techniques de renforcement et les mécanismes de base comme les leviers, les engrenages et les cames.",
+            "mfe": "Kouver bann fors striktirel, teknik pou ranforsi, ek mekanism debaz kouma levie, angrenaz ek kam."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Forces acting on structures",
+                "fr": "Forces agissant sur les structures",
+                "mfe": "Fors ki azir lor striktir"
+              },
+              "objectives": [
+                "Identify tension, compression, torsion and shear forces",
+                "Explain how forces affect different structures",
+                "Analyse simple structures used in everyday products"
+              ]
+            },
+            {
+              "title": {
+                "en": "Strengthening and stiffening structures",
+                "fr": "Renforcement et rigidification des structures",
+                "mfe": "Ranforsi ek rigidifye striktir"
+              },
+              "objectives": [
+                "Describe methods of strengthening structures",
+                "Explain the use of triangulation in structures",
+                "Apply strengthening techniques to a design task"
+              ]
+            },
+            {
+              "title": {
+                "en": "Levers and linkages",
+                "fr": "Leviers et systèmes de liaison",
+                "mfe": "Levie ek sistenm linkaz"
+              },
+              "objectives": [
+                "Identify classes of levers and their uses",
+                "Explain how linkages change motion",
+                "Design a simple mechanism using levers or linkages"
+              ]
+            },
+            {
+              "title": {
+                "en": "Gears, pulleys and cams",
+                "fr": "Engrenages, poulies et cames",
+                "mfe": "Angrenaz, pouli ek kam"
+              },
+              "objectives": [
+                "Explain how gear trains change speed and direction",
+                "Describe the function of pulley and belt systems",
+                "Explain how cams and followers produce motion"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Electronic and control systems",
+            "fr": "Systèmes électroniques et de commande",
+            "mfe": "Sistenm elektronik ek kontrol"
+          },
+          "summary": {
+            "en": "Introduces input-process-output systems, simple circuits, and components used in electronic products.",
+            "fr": "Présente les systèmes entrée-traitement-sortie, les circuits simples et les composants utilisés dans les produits électroniques.",
+            "mfe": "Prezant sistenm antre-tretman-sorti, sirkwi sinp ek konpozan itilize dan prodwi elektronik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Input, process and output systems",
+                "fr": "Systèmes d'entrée, de traitement et de sortie",
+                "mfe": "Sistenm antre, tretman ek sorti"
+              },
+              "objectives": [
+                "Explain the input-process-output model of systems",
+                "Identify examples of systems in everyday products",
+                "Represent a system using a block diagram"
+              ]
+            },
+            {
+              "title": {
+                "en": "Basic electronic components",
+                "fr": "Composants électroniques de base",
+                "mfe": "Konpozan elektronik debaz"
+              },
+              "objectives": [
+                "Identify common electronic components and their symbols",
+                "Explain the function of resistors, LEDs and capacitors",
+                "Read a simple circuit diagram"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sensors and switches",
+                "fr": "Capteurs et interrupteurs",
+                "mfe": "Kapte ek switch"
+              },
+              "objectives": [
+                "Identify types of sensors used in electronic products",
+                "Explain how switches control electrical circuits",
+                "Select suitable sensors for a design context"
+              ]
+            },
+            {
+              "title": {
+                "en": "Simple control circuits",
+                "fr": "Circuits de commande simples",
+                "mfe": "Sirkwi kontrol sinp"
+              },
+              "objectives": [
+                "Construct a simple electronic control circuit",
+                "Test and troubleshoot a basic circuit",
+                "Explain how control circuits are used in products"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Manufacturing processes and production",
+            "fr": "Procédés de fabrication et production",
+            "mfe": "Pwosesis fabrikasyon ek prodiksyon"
+          },
+          "summary": {
+            "en": "Explains manufacturing methods, tolerances, quality control, and scales of production relevant to design.",
+            "fr": "Explique les méthodes de fabrication, les tolérances, le contrôle qualité et les échelles de production pertinentes pour la conception.",
+            "mfe": "Explik bann metod fabrikasyon, tolerans, kontrol kalite ek eshel prodiksyon relevan pou konsepsyon."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Scales of production",
+                "fr": "Échelles de production",
+                "mfe": "Eshel prodiksyon"
+              },
+              "objectives": [
+                "Distinguish between one-off, batch and mass production",
+                "Explain factors influencing choice of production scale",
+                "Relate production scale to product cost and design"
+              ]
+            },
+            {
+              "title": {
+                "en": "Quality control and tolerances",
+                "fr": "Contrôle qualité et tolérances",
+                "mfe": "Kontrol kalite ek tolerans"
+              },
+              "objectives": [
+                "Explain the purpose of quality control in manufacturing",
+                "Define tolerance and explain its importance",
+                "Apply quality checks to a manufactured item"
+              ]
+            },
+            {
+              "title": {
+                "en": "Computer-aided design and manufacture",
+                "fr": "Conception et fabrication assistées par ordinateur",
+                "mfe": "Konsepsyon ek fabrikasyon asiste par lordinater"
+              },
+              "objectives": [
+                "Explain the benefits of CAD and CAM in design",
+                "Describe common CAD/CAM technologies such as laser cutters",
+                "Evaluate the impact of CAD/CAM on manufacturing"
+              ]
+            },
+            {
+              "title": {
+                "en": "Health and safety in the workshop",
+                "fr": "Santé et sécurité dans l'atelier",
+                "mfe": "Lasante ek sekirite dan atelye"
+              },
+              "objectives": [
+                "Identify hazards commonly found in a workshop",
+                "Explain safe working practices for tools and machines",
+                "Apply risk assessment principles to a workshop task"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Sustainable design and material choice",
+            "fr": "Conception durable et choix des matériaux",
+            "mfe": "Konsepsyon dirab ek shwazi materyo"
+          },
+          "summary": {
+            "en": "Examines environmental impact, the 6 Rs, and selecting materials responsibly for design projects.",
+            "fr": "Examine l'impact environnemental, les 6 R et le choix responsable des matériaux pour les projets de conception.",
+            "mfe": "Egzamin lenpak lor lanvironnman, 6 R ek fason pou shwazi materyo responsableman pou prozet konsepsyon."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "The 6 Rs of sustainability",
+                "fr": "Les 6 R du développement durable",
+                "mfe": "Bann 6 R developman dirab"
+              },
+              "objectives": [
+                "Explain each of the 6 Rs of sustainability",
+                "Apply the 6 Rs to evaluate a product",
+                "Suggest sustainable alternatives for a design"
+              ]
+            },
+            {
+              "title": {
+                "en": "Environmental impact of materials",
+                "fr": "Impact environnemental des matériaux",
+                "mfe": "Lenpak lanvironnman bann materyo"
+              },
+              "objectives": [
+                "Explain the environmental impact of extracting and processing materials",
+                "Compare the carbon footprint of different materials",
+                "Evaluate the sustainability of material choices in a product"
+              ]
+            },
+            {
+              "title": {
+                "en": "Smart and modern materials",
+                "fr": "Matériaux intelligents et modernes",
+                "mfe": "Materyo entelizan ek modern"
+              },
+              "objectives": [
+                "Identify examples of smart and modern materials",
+                "Explain how smart materials respond to changes in environment",
+                "Suggest applications of modern materials in design"
+              ]
+            },
+            {
+              "title": {
+                "en": "Ethical design considerations",
+                "fr": "Considérations éthiques en conception",
+                "mfe": "Konsiderasyon etik dan konsepsyon"
+              },
+              "objectives": [
+                "Explain ethical issues relevant to product design",
+                "Discuss the social impact of design decisions",
+                "Evaluate a product from an ethical standpoint"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Analysing and evaluating products",
+            "fr": "Analyser et évaluer des produits",
+            "mfe": "Analize ek evalye bann prodwi"
+          },
+          "summary": {
+            "en": "Develops skills in evaluating existing products and design outcomes against specifications.",
+            "fr": "Développe des compétences pour évaluer des produits existants et des résultats de conception par rapport aux spécifications.",
+            "mfe": "Devlop konpetans pou evalye prodwi ki existe ek rezilta konsepsyon par rapor ar spesifikasyon."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Product analysis methods",
+                "fr": "Méthodes d'analyse de produits",
+                "mfe": "Metod analiz prodwi"
+              },
+              "objectives": [
+                "Apply methods such as ACCESS FM to analyse products",
+                "Identify design features contributing to a product's success",
+                "Compare similar products using analysis criteria"
+              ]
+            },
+            {
+              "title": {
+                "en": "Evaluating against specifications",
+                "fr": "Évaluer par rapport aux spécifications",
+                "mfe": "Evalye par rapor ar spesifikasyon"
+              },
+              "objectives": [
+                "Compare a design outcome against its specification",
+                "Identify areas where a design meets or fails criteria",
+                "Justify judgements made during evaluation"
+              ]
+            },
+            {
+              "title": {
+                "en": "User testing and feedback",
+                "fr": "Tests utilisateurs et retours",
+                "mfe": "Teste itilizater ek fidbak"
+              },
+              "objectives": [
+                "Plan a user test for a design outcome",
+                "Collect and record feedback from users",
+                "Interpret feedback to inform design improvements"
+              ]
+            },
+            {
+              "title": {
+                "en": "Improving and modifying designs",
+                "fr": "Améliorer et modifier des conceptions",
+                "mfe": "Ameliyor ek modifye konsepsyon"
+              },
+              "objectives": [
+                "Identify areas for improvement in a design",
+                "Propose modifications based on evaluation and feedback",
+                "Justify proposed changes to a design solution"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "11": {
+      "units": [
+        {
+          "title": {
+            "en": "Design process and specifications",
+            "fr": "Processus de conception et cahiers des charges",
+            "mfe": "Prosesis konsepsyon ek kaye sarz"
+          },
+          "summary": {
+            "en": "Students revisit and deepen their understanding of the design process, learning to write detailed design specifications and evaluate solutions against criteria for the O Level exam.",
+            "fr": "Les élèves révisent et approfondissent le processus de conception, apprenant à rédiger des cahiers des charges détaillés et à évaluer des solutions selon des critères pour l'examen O Level.",
+            "mfe": "Bann elev revize ek aprofondi konpreansyon zot lor prosesis konsepsyon, aprann ekrir kaye sarz detaye ek evalye solisyon dapre kriter pou lexamen O Level."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Writing a design brief and specification",
+                "fr": "Rédiger un énoncé et un cahier des charges",
+                "mfe": "Ekrir enn brif ek kaye sarz konsepsyon"
+              },
+              "objectives": [
+                "Identify components of a design brief",
+                "Write measurable specification points",
+                "Distinguish user needs from wants",
+                "Apply specification writing to a Mauritian context problem"
+              ]
+            },
+            {
+              "title": {
+                "en": "Investigating user needs and research",
+                "fr": "Étudier les besoins des utilisateurs et la recherche",
+                "mfe": "Rese bezwen itilizater ek rese"
+              },
+              "objectives": [
+                "Conduct primary and secondary research",
+                "Analyse existing products",
+                "Summarise findings to inform design decisions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Generating and developing design ideas",
+                "fr": "Générer et développer des idées de conception",
+                "mfe": "Zenere ek devlop lide konsepsyon"
+              },
+              "objectives": [
+                "Sketch multiple design ideas",
+                "Annotate ideas with materials and processes",
+                "Select a design using justified criteria"
+              ]
+            },
+            {
+              "title": {
+                "en": "Evaluating design solutions",
+                "fr": "Évaluer les solutions de conception",
+                "mfe": "Evalye solisyon konsepsyon"
+              },
+              "objectives": [
+                "Compare a solution against the specification",
+                "Suggest modifications for improvement",
+                "Present evaluation clearly for assessment"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Properties and selection of materials",
+            "fr": "Propriétés et sélection des matériaux",
+            "mfe": "Propriete ek swazi materyo"
+          },
+          "summary": {
+            "en": "This unit examines the physical and mechanical properties of materials, including polymers, metals, woods and composites, and how these inform material selection for products.",
+            "fr": "Cette unité examine les propriétés physiques et mécaniques des matériaux, y compris les polymères, métaux, bois et composites, et leur influence sur la sélection des matériaux.",
+            "mfe": "Sa liniter la examinn propriete fizik ek mekanik materyo, ki inklir polimer, metal, dibwa ek konpozit, ek kouma sa gid swa materyo pou prodwi."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Properties of polymers and metals",
+                "fr": "Propriétés des polymères et métaux",
+                "mfe": "Propriete polimer ek metal"
+              },
+              "objectives": [
+                "Describe thermoplastic and thermosetting polymers",
+                "Compare ferrous and non-ferrous metals",
+                "Relate properties to product applications"
+              ]
+            },
+            {
+              "title": {
+                "en": "Properties of woods and composites",
+                "fr": "Propriétés des bois et composites",
+                "mfe": "Propriete dibwa ek konpozit"
+              },
+              "objectives": [
+                "Distinguish hardwoods, softwoods and manufactured boards",
+                "Explain properties of common composites",
+                "Justify material choice for a given product"
+              ]
+            },
+            {
+              "title": {
+                "en": "Testing material properties",
+                "fr": "Tester les propriétés des matériaux",
+                "mfe": "Teste propriete materyo"
+              },
+              "objectives": [
+                "Explain tensile, compressive and shear forces",
+                "Describe simple material tests",
+                "Interpret test results for material selection"
+              ]
+            },
+            {
+              "title": {
+                "en": "Smart and modern materials",
+                "fr": "Matériaux intelligents et modernes",
+                "mfe": "Materyo intelizan ek modern"
+              },
+              "objectives": [
+                "Define smart materials with examples",
+                "Explain applications of modern materials in products",
+                "Discuss advantages and limitations of smart materials"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Systems and control technology",
+            "fr": "Systèmes et technologie de contrôle",
+            "mfe": "Sistem ek teknolozi kontrol"
+          },
+          "summary": {
+            "en": "Students learn about input, process and output systems, including sensors, control devices and simple programmable systems used in design solutions.",
+            "fr": "Les élèves apprennent les systèmes d'entrée, de traitement et de sortie, y compris les capteurs, les dispositifs de contrôle et les systèmes programmables simples.",
+            "mfe": "Bann elev aprann lor sistem lantre, prosesis ek sorti, ki inklir kapter, aparey kontrol ek sistem programab senp itilize dan solisyon konsepsyon."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Introduction to systems thinking",
+                "fr": "Introduction à la pensée systémique",
+                "mfe": "Introdiksyon a panse sistemik"
+              },
+              "objectives": [
+                "Define input, process and output in a system",
+                "Draw a systems diagram for a product",
+                "Identify subsystems in a device"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sensors and switches",
+                "fr": "Capteurs et interrupteurs",
+                "mfe": "Kapter ek switch"
+              },
+              "objectives": [
+                "Identify common sensors used in products",
+                "Explain how switches control circuits",
+                "Design a simple sensing system"
+              ]
+            },
+            {
+              "title": {
+                "en": "Introduction to control programming",
+                "fr": "Introduction à la programmation de contrôle",
+                "mfe": "Introdiksyon a programasyon kontrol"
+              },
+              "objectives": [
+                "Explain the purpose of programmable control",
+                "Write a simple flowchart for control logic",
+                "Relate control systems to real products"
+              ]
+            },
+            {
+              "title": {
+                "en": "Applying systems to product design",
+                "fr": "Appliquer les systèmes à la conception de produits",
+                "mfe": "Aplik sistem dan konsepsyon prodwi"
+              },
+              "objectives": [
+                "Integrate a control system into a design proposal",
+                "Evaluate the reliability of a system design",
+                "Justify system choices for a product"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Mechanisms and movement",
+            "fr": "Mécanismes et mouvement",
+            "mfe": "Mekanism ek mouvman"
+          },
+          "summary": {
+            "en": "This unit covers mechanisms that transmit and transform motion, such as levers, linkages, gears, cams and pulleys, and their use in product design.",
+            "fr": "Cette unité couvre les mécanismes qui transmettent et transforment le mouvement, tels que leviers, liaisons, engrenages, cames et poulies.",
+            "mfe": "Sa liniter la kouver mekanism ki transmet ek transforme mouvman, kouma levye, lyezon, angrenaz, kam ek pouli, ek zot itilizasyon dan konsepsyon prodwi."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Levers and linkages",
+                "fr": "Leviers et liaisons",
+                "mfe": "Levye ek lyezon"
+              },
+              "objectives": [
+                "Classify types of levers",
+                "Explain mechanical advantage",
+                "Design a linkage mechanism for a task"
+              ]
+            },
+            {
+              "title": {
+                "en": "Gears and gear trains",
+                "fr": "Engrenages et trains d'engrenages",
+                "mfe": "Angrenaz ek trin angrenaz"
+              },
+              "objectives": [
+                "Explain how gears change speed and direction",
+                "Calculate simple gear ratios",
+                "Select appropriate gears for a mechanism"
+              ]
+            },
+            {
+              "title": {
+                "en": "Cams, cranks and pulleys",
+                "fr": "Cames, manivelles et poulies",
+                "mfe": "Kam, manivel ek pouli"
+              },
+              "objectives": [
+                "Describe motion produced by cams and cranks",
+                "Explain belt and pulley systems",
+                "Apply mechanisms to a design problem"
+              ]
+            },
+            {
+              "title": {
+                "en": "Designing a mechanical system",
+                "fr": "Concevoir un système mécanique",
+                "mfe": "Konsevwar enn sistem mekanik"
+              },
+              "objectives": [
+                "Combine mechanisms to achieve a design outcome",
+                "Sketch and annotate a mechanical assembly",
+                "Evaluate mechanism performance against requirements"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Electronics in product design",
+            "fr": "L'électronique dans la conception de produits",
+            "mfe": "Elektronik dan konsepsyon prodwi"
+          },
+          "summary": {
+            "en": "Students explore basic electronic components, circuits and their integration into design solutions, building on earlier systems knowledge.",
+            "fr": "Les élèves explorent les composants électroniques de base, les circuits et leur intégration dans des solutions de conception.",
+            "mfe": "Bann elev explor bann konpozan elektronik debaz, sirkwi ek zot integrasyon dan solisyon konsepsyon."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Basic electronic components",
+                "fr": "Composants électroniques de base",
+                "mfe": "Konpozan elektronik debaz"
+              },
+              "objectives": [
+                "Identify resistors, capacitors, LEDs and diodes",
+                "Explain the function of each component",
+                "Read simple circuit diagrams"
+              ]
+            },
+            {
+              "title": {
+                "en": "Building simple circuits",
+                "fr": "Construire des circuits simples",
+                "mfe": "Konstrir sirkwi senp"
+              },
+              "objectives": [
+                "Construct a basic circuit on a breadboard",
+                "Test circuit functionality",
+                "Troubleshoot common circuit faults"
+              ]
+            },
+            {
+              "title": {
+                "en": "Printed circuit boards and manufacture",
+                "fr": "Circuits imprimés et fabrication",
+                "mfe": "Sirkwi enprime ek fabrikasyon"
+              },
+              "objectives": [
+                "Explain the purpose of a PCB",
+                "Describe stages of PCB manufacture",
+                "Discuss advantages of PCBs in mass production"
+              ]
+            },
+            {
+              "title": {
+                "en": "Integrating electronics into products",
+                "fr": "Intégrer l'électronique dans les produits",
+                "mfe": "Integre elektronik dan prodwi"
+              },
+              "objectives": [
+                "Design a product incorporating an electronic circuit",
+                "Evaluate safety considerations for electronics",
+                "Justify component choices in a design"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Manufacturing processes and production",
+            "fr": "Procédés de fabrication et production",
+            "mfe": "Prosesis fabrikasyon ek prodiksyon"
+          },
+          "summary": {
+            "en": "This unit examines industrial manufacturing processes, scales of production and quality control methods used to ensure consistent product quality.",
+            "fr": "Cette unité examine les procédés de fabrication industrielle, les échelles de production et les méthodes de contrôle qualité.",
+            "mfe": "Sa liniter la examinn prosesis fabrikasyon endistriyel, lesel prodiksyon ek metod kontrol kalite."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Scales of production",
+                "fr": "Échelles de production",
+                "mfe": "Lesel prodiksyon"
+              },
+              "objectives": [
+                "Compare one-off, batch and mass production",
+                "Explain factors influencing choice of production scale",
+                "Relate production scale to cost and quality"
+              ]
+            },
+            {
+              "title": {
+                "en": "Shaping and forming processes",
+                "fr": "Procédés de mise en forme",
+                "mfe": "Prosesis modle ek forme"
+              },
+              "objectives": [
+                "Describe casting, moulding and forming techniques",
+                "Explain suitability of processes for different materials",
+                "Compare advantages of different forming methods"
+              ]
+            },
+            {
+              "title": {
+                "en": "Joining and finishing techniques",
+                "fr": "Techniques d'assemblage et de finition",
+                "mfe": "Teknik zwenn ek finisman"
+              },
+              "objectives": [
+                "Identify common joining methods for materials",
+                "Explain purposes of surface finishes",
+                "Select appropriate joining and finishing for a product"
+              ]
+            },
+            {
+              "title": {
+                "en": "Quality control and quality assurance",
+                "fr": "Contrôle qualité et assurance qualité",
+                "mfe": "Kontrol kalite ek asirans kalite"
+              },
+              "objectives": [
+                "Distinguish quality control from quality assurance",
+                "Describe methods used to check product quality",
+                "Explain the importance of tolerances in manufacturing"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Sustainability and impact of design",
+            "fr": "Durabilité et impact de la conception",
+            "mfe": "Dirabilite ek lenpak konsepsyon"
+          },
+          "summary": {
+            "en": "Students examine environmental, social and economic impacts of design and manufacturing, including recycling, sustainability and ethical design practice.",
+            "fr": "Les élèves examinent les impacts environnementaux, sociaux et économiques de la conception et de la fabrication, y compris le recyclage et la durabilité.",
+            "mfe": "Bann elev examinn lenpak lanvironnman, sosyal ek ekonomik konsepsyon ek fabrikasyon, ki inklir resiklaz ek dirabilite."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "The 6 Rs of sustainability",
+                "fr": "Les 6 R de la durabilité",
+                "mfe": "Bann 6 R dirabilite"
+              },
+              "objectives": [
+                "Explain reduce, reuse, recycle and related principles",
+                "Apply the 6 Rs to a Mauritian product example",
+                "Evaluate a product's sustainability"
+              ]
+            },
+            {
+              "title": {
+                "en": "Environmental impact of materials",
+                "fr": "Impact environnemental des matériaux",
+                "mfe": "Lenpak lanvironnmantal materyo"
+              },
+              "objectives": [
+                "Describe environmental costs of material extraction and disposal",
+                "Compare biodegradable and non-biodegradable materials",
+                "Suggest sustainable material alternatives"
+              ]
+            },
+            {
+              "title": {
+                "en": "Ethical and social design considerations",
+                "fr": "Considérations éthiques et sociales de conception",
+                "mfe": "Konsiderasyon etik ek sosyal konsepsyon"
+              },
+              "objectives": [
+                "Discuss fair trade and ethical manufacturing",
+                "Explain social implications of design decisions",
+                "Evaluate a product for ethical design practice"
+              ]
+            },
+            {
+              "title": {
+                "en": "Designing for the future",
+                "fr": "Concevoir pour l'avenir",
+                "mfe": "Konsevwar pou lavenir"
+              },
+              "objectives": [
+                "Propose innovative sustainable design solutions",
+                "Discuss emerging technologies for sustainability",
+                "Present a case for a sustainable product redesign"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Coursework skills and exam preparation",
+            "fr": "Compétences pour le projet et préparation à l'examen",
+            "mfe": "Konpetans travay ek prepar pou lexamen"
+          },
+          "summary": {
+            "en": "This final unit consolidates coursework techniques and exam skills, guiding students to present design folders and practise examination-style questions for the O Level.",
+            "fr": "Cette unité finale consolide les techniques de projet et les compétences d'examen, guidant les élèves à présenter leurs dossiers et à s'entraîner aux questions d'examen.",
+            "mfe": "Sa dernie liniter konsolid teknik travay ek konpetans lexamen, gid bann elev prezant zot dosye konsepsyon ek pratik kestyon estil lexamen pou O Level."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Structuring a design folder",
+                "fr": "Structurer un dossier de conception",
+                "mfe": "Striktir enn dosye konsepsyon"
+              },
+              "objectives": [
+                "Organise coursework sections logically",
+                "Present research, ideas and evaluation clearly",
+                "Meet assessment criteria for coursework"
+              ]
+            },
+            {
+              "title": {
+                "en": "Technical drawing and presentation skills",
+                "fr": "Compétences en dessin technique et présentation",
+                "mfe": "Konpetans desen teknik ek prezantasyon"
+              },
+              "objectives": [
+                "Produce accurate orthographic and isometric drawings",
+                "Use rendering techniques to communicate ideas",
+                "Present design work professionally"
+              ]
+            },
+            {
+              "title": {
+                "en": "Practising exam-style questions",
+                "fr": "Pratiquer des questions type examen",
+                "mfe": "Pratik kestyon estil lexamen"
+              },
+              "objectives": [
+                "Interpret command words in exam questions",
+                "Structure clear written answers",
+                "Manage time effectively during exams"
+              ]
+            },
+            {
+              "title": {
+                "en": "Final revision and mock exam",
+                "fr": "Révision finale et examen blanc",
+                "mfe": "Revizyon final ek lexamen blan"
+              },
+              "objectives": [
+                "Review key topics across the syllabus",
+                "Complete a timed mock examination",
+                "Reflect on performance to identify improvement areas"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "12": {
+      "units": [
+        {
+          "title": {
+            "en": "Foundations of design and technology",
+            "fr": "Fondements du design et de la technologie",
+            "mfe": "Baz dizayn ek teknolozi"
+          },
+          "summary": {
+            "en": "This unit introduces the AS Level design and technology framework, exploring the role of design in society, the design process, and how technology shapes products and communities in Mauritius and globally.",
+            "fr": "Cette unité présente le cadre du design et de la technologie au niveau AS, en explorant le rôle du design dans la société, le processus de conception, et comment la technologie façonne les produits et les communautés à Maurice et dans le monde.",
+            "mfe": "Sa linite-la introdir lakad dizayn ek teknolozi nivo AS, examinn rol dizayn dan lasosyete, prosesis konsepsyon, ek kouma teknolozi fasonn produi ek kominote Moris ek dan lemond."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Design and technology in context",
+                "fr": "Le design et la technologie en contexte",
+                "mfe": "Dizayn ek teknolozi dan kontex"
+              },
+              "objectives": [
+                "Explain the purpose of design and technology as a discipline",
+                "Identify how products influence daily life in Mauritius",
+                "Discuss the impact of technology on society and environment"
+              ]
+            },
+            {
+              "title": {
+                "en": "The iterative design process",
+                "fr": "Le processus itératif de conception",
+                "mfe": "Prosesis konsepsyon iteratif"
+              },
+              "objectives": [
+                "Describe the stages of the iterative design process",
+                "Apply design thinking to a simple product problem",
+                "Evaluate the benefits of iteration over linear design"
+              ]
+            },
+            {
+              "title": {
+                "en": "Design briefs and specifications",
+                "fr": "Cahiers des charges et spécifications",
+                "mfe": "Brif dizayn ek spesifikasyon"
+              },
+              "objectives": [
+                "Write a clear design brief for a given problem",
+                "Develop a design specification with measurable criteria",
+                "Differentiate between a brief and a specification"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sustainability and eco-design principles",
+                "fr": "Principes de durabilité et d'éco-conception",
+                "mfe": "Prinsip dirabilite ek eko-dizayn"
+              },
+              "objectives": [
+                "Define sustainable design and its key principles",
+                "Analyse examples of eco-design in local products",
+                "Propose ways to reduce environmental impact in design"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "User needs and ergonomics",
+            "fr": "Besoins des utilisateurs et ergonomie",
+            "mfe": "Bezwin itilizater ek ergonomi"
+          },
+          "summary": {
+            "en": "Students explore how designers identify user needs, apply ergonomic and anthropometric data, and consider inclusive design to create products suited to diverse users.",
+            "fr": "Les élèves explorent comment les concepteurs identifient les besoins des utilisateurs, appliquent des données ergonomiques et anthropométriques, et considèrent la conception inclusive.",
+            "mfe": "Elev examinn kouma dizayner idantifie bezwin itilizater, aplik done ergonomik ek antropometrik, ek konsider dizayn enklizif pou kre produi ki adapte ar diferan itilizater."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Identifying user needs and wants",
+                "fr": "Identifier les besoins et désirs des utilisateurs",
+                "mfe": "Idantifie bezwin ek dezir itilizater"
+              },
+              "objectives": [
+                "Distinguish between user needs and wants",
+                "Use research methods to gather user requirements",
+                "Apply findings to inform a design proposal"
+              ]
+            },
+            {
+              "title": {
+                "en": "Anthropometrics and ergonomic data",
+                "fr": "Anthropométrie et données ergonomiques",
+                "mfe": "Antropometri ek done ergonomik"
+              },
+              "objectives": [
+                "Define anthropometrics and its role in design",
+                "Use percentile data to size a product feature",
+                "Explain how ergonomics improves product usability"
+              ]
+            },
+            {
+              "title": {
+                "en": "Inclusive and universal design",
+                "fr": "Conception inclusive et universelle",
+                "mfe": "Dizayn enklizif ek iniversel"
+              },
+              "objectives": [
+                "Explain principles of inclusive design",
+                "Evaluate a product for accessibility issues",
+                "Suggest modifications to improve inclusivity"
+              ]
+            },
+            {
+              "title": {
+                "en": "Designing for comfort and safety",
+                "fr": "Concevoir pour le confort et la sécurité",
+                "mfe": "Dizayn pou konfor ek sekirite"
+              },
+              "objectives": [
+                "Identify comfort and safety factors in product design",
+                "Apply relevant standards to a design scenario",
+                "Assess risks associated with product use"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Materials and their properties",
+            "fr": "Les matériaux et leurs propriétés",
+            "mfe": "Materyo ek zot proprete"
+          },
+          "summary": {
+            "en": "This unit covers the classification, properties and selection of materials including woods, metals, polymers and composites, with emphasis on choosing suitable materials for design solutions.",
+            "fr": "Cette unité couvre la classification, les propriétés et la sélection des matériaux, y compris les bois, métaux, polymères et composites, en mettant l'accent sur le choix des matériaux appropriés.",
+            "mfe": "Sa linite-la kouver klasifikasyon, proprete ek seleksyon materyo, ki inklir dibwa, metal, polymer ek komposit, avek lanfaz lor swazir materyo apropriye pou solisyon dizayn."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Classifying materials by category",
+                "fr": "Classer les matériaux par catégorie",
+                "mfe": "Klasifie materyo par kategori"
+              },
+              "objectives": [
+                "Categorise materials into woods, metals, polymers and composites",
+                "Describe common sources and forms of each category",
+                "Compare general characteristics across categories"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mechanical and physical properties",
+                "fr": "Propriétés mécaniques et physiques",
+                "mfe": "Proprete mekanik ek fizik"
+              },
+              "objectives": [
+                "Define key mechanical properties such as strength and elasticity",
+                "Explain physical properties like density and thermal conductivity",
+                "Relate properties to appropriate material applications"
+              ]
+            },
+            {
+              "title": {
+                "en": "Smart and modern materials",
+                "fr": "Matériaux intelligents et modernes",
+                "mfe": "Materyo entelizan ek modern"
+              },
+              "objectives": [
+                "Identify examples of smart materials and their behaviours",
+                "Explain how modern materials expand design possibilities",
+                "Evaluate a product using a smart material"
+              ]
+            },
+            {
+              "title": {
+                "en": "Selecting materials for a design task",
+                "fr": "Choisir des matériaux pour un projet de conception",
+                "mfe": "Swazir materyo pou enn travay dizayn"
+              },
+              "objectives": [
+                "Apply selection criteria to compare candidate materials",
+                "Justify material choice based on performance requirements",
+                "Consider cost and availability in material selection"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Manufacturing processes and techniques",
+            "fr": "Procédés et techniques de fabrication",
+            "mfe": "Prosesis ek teknik fabrikasyon"
+          },
+          "summary": {
+            "en": "Students study a range of manufacturing processes for shaping, forming and joining materials, and examine how scale of production influences process choice.",
+            "fr": "Les élèves étudient divers procédés de fabrication pour façonner, former et assembler les matériaux, et examinent comment l'échelle de production influence le choix du procédé.",
+            "mfe": "Elev etidie diferan prosesis fabrikasyon pou fasonn, form ek zwenn materyo, ek examinn kouma lekel prodiksyon enfliyans swa prosesis."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Wasting and shaping processes",
+                "fr": "Procédés de découpe et de mise en forme",
+                "mfe": "Prosesis koup ek fasonaz"
+              },
+              "objectives": [
+                "Describe common wasting processes such as cutting and machining",
+                "Explain shaping processes for different material types",
+                "Select an appropriate process for a given material"
+              ]
+            },
+            {
+              "title": {
+                "en": "Forming and moulding techniques",
+                "fr": "Techniques de formage et de moulage",
+                "mfe": "Teknik formaz ek moulaz"
+              },
+              "objectives": [
+                "Explain forming processes for metals and polymers",
+                "Describe moulding techniques used in manufacturing",
+                "Compare advantages of different forming methods"
+              ]
+            },
+            {
+              "title": {
+                "en": "Joining and combining materials",
+                "fr": "Assembler et combiner les matériaux",
+                "mfe": "Zwenn ek kombinn materyo"
+              },
+              "objectives": [
+                "Identify permanent and temporary joining methods",
+                "Explain factors affecting choice of joining technique",
+                "Evaluate joint strength for a design application"
+              ]
+            },
+            {
+              "title": {
+                "en": "Scale of production and process choice",
+                "fr": "Échelle de production et choix des procédés",
+                "mfe": "Lekel prodiksyon ek swa prosesis"
+              },
+              "objectives": [
+                "Distinguish between one-off, batch and mass production",
+                "Relate production scale to manufacturing process selection",
+                "Discuss cost implications of production scale"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Systems and control in design",
+            "fr": "Systèmes et contrôle en conception",
+            "mfe": "Sistem ek kontrol dan dizayn"
+          },
+          "summary": {
+            "en": "This unit introduces mechanical and electronic systems, including inputs, processes and outputs, and how control systems are used within designed products.",
+            "fr": "Cette unité présente les systèmes mécaniques et électroniques, incluant les entrées, processus et sorties, et comment les systèmes de contrôle sont utilisés dans les produits conçus.",
+            "mfe": "Sa linite-la introdir sistem mekanik ek elektronik, inklir intran, prosesis ek sortan, ek kouma sistem kontrol servi dan produi dizayne."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Understanding systems thinking",
+                "fr": "Comprendre la pensée systémique",
+                "mfe": "Konpran panse sistemik"
+              },
+              "objectives": [
+                "Explain the input-process-output model",
+                "Apply systems thinking to a mechanical device",
+                "Identify subsystems within a complex product"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mechanical systems and mechanisms",
+                "fr": "Systèmes et mécanismes mécaniques",
+                "mfe": "Sistem ek mekanism mekanik"
+              },
+              "objectives": [
+                "Identify common mechanisms such as levers and gears",
+                "Explain how mechanisms transform motion and force",
+                "Apply a mechanism to solve a design problem"
+              ]
+            },
+            {
+              "title": {
+                "en": "Electronic control systems",
+                "fr": "Systèmes de contrôle électroniques",
+                "mfe": "Sistem kontrol elektronik"
+              },
+              "objectives": [
+                "Describe basic components of electronic control systems",
+                "Explain the role of sensors and actuators",
+                "Sketch a simple control system diagram"
+              ]
+            },
+            {
+              "title": {
+                "en": "Programmable and automated systems",
+                "fr": "Systèmes programmables et automatisés",
+                "mfe": "Sistem programab ek otomatize"
+              },
+              "objectives": [
+                "Explain the concept of programmable control",
+                "Discuss benefits of automation in manufacturing",
+                "Evaluate the impact of automation on employment"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Design and market influences",
+            "fr": "Influences du design et du marché",
+            "mfe": "Lenfliyans dizayn ek marse"
+          },
+          "summary": {
+            "en": "Students examine how historical, cultural, economic and marketing factors shape product design, including branding and consumer trends relevant to Mauritius.",
+            "fr": "Les élèves examinent comment les facteurs historiques, culturels, économiques et marketing façonnent le design des produits, y compris la marque et les tendances de consommation à Maurice.",
+            "mfe": "Elev examinn kouma faktor istorik, kiltirel, ekonomik ek marketing fasonn dizayn produi, ki inklir bran ek tandans konsomasyon relevan pou Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Historical influences on design",
+                "fr": "Influences historiques sur le design",
+                "mfe": "Lenfliyans istorik lor dizayn"
+              },
+              "objectives": [
+                "Identify key design movements and their features",
+                "Explain how past designs influence current products",
+                "Analyse a product for historical design influence"
+              ]
+            },
+            {
+              "title": {
+                "en": "Cultural and social influences",
+                "fr": "Influences culturelles et sociales",
+                "mfe": "Lenfliyans kiltirel ek sosyal"
+              },
+              "objectives": [
+                "Discuss how culture shapes product design choices",
+                "Give examples of Mauritian cultural influence on design",
+                "Evaluate a product's suitability across cultures"
+              ]
+            },
+            {
+              "title": {
+                "en": "Marketing, branding and consumer choice",
+                "fr": "Marketing, image de marque et choix du consommateur",
+                "mfe": "Marketing, bran ek swa konsomater"
+              },
+              "objectives": [
+                "Explain the role of branding in product success",
+                "Describe how marketing influences consumer choice",
+                "Analyse a marketing strategy for a local product"
+              ]
+            },
+            {
+              "title": {
+                "en": "Economic factors and product life cycle",
+                "fr": "Facteurs économiques et cycle de vie du produit",
+                "mfe": "Faktor ekonomik ek sik lavi produi"
+              },
+              "objectives": [
+                "Describe stages of the product life cycle",
+                "Explain how economic factors affect design decisions",
+                "Discuss planned obsolescence and its implications"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Health, safety and industrial practice",
+            "fr": "Santé, sécurité et pratiques industrielles",
+            "mfe": "Lasante, sekirite ek pratik endistriyel"
+          },
+          "summary": {
+            "en": "This unit covers health and safety practices in workshops and industry, along with quality control, quality assurance and commercial manufacturing considerations.",
+            "fr": "Cette unité couvre les pratiques de santé et de sécurité en atelier et dans l'industrie, ainsi que le contrôle qualité, l'assurance qualité et les considérations de fabrication commerciale.",
+            "mfe": "Sa linite-la kouver pratik lasante ek sekirite dan atelye ek dan endistri, ansanm avek kontrol kalite, aziransans kalite ek konsiderasyon fabrikasyon komersyal."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Workshop health and safety",
+                "fr": "Santé et sécurité en atelier",
+                "mfe": "Lasante ek sekirite dan atelye"
+              },
+              "objectives": [
+                "Identify hazards commonly found in workshops",
+                "Explain safe working practices for tools and machines",
+                "Apply risk assessment to a workshop activity"
+              ]
+            },
+            {
+              "title": {
+                "en": "Quality control and quality assurance",
+                "fr": "Contrôle qualité et assurance qualité",
+                "mfe": "Kontrol kalite ek aziransans kalite"
+              },
+              "objectives": [
+                "Distinguish between quality control and quality assurance",
+                "Describe methods used to check product quality",
+                "Evaluate the effectiveness of a quality system"
+              ]
+            },
+            {
+              "title": {
+                "en": "Industrial and commercial practices",
+                "fr": "Pratiques industrielles et commerciales",
+                "mfe": "Pratik endistriyel ek komersyal"
+              },
+              "objectives": [
+                "Explain how industry manages large-scale production",
+                "Describe the role of standards in commercial practice",
+                "Discuss ethical considerations in manufacturing"
+              ]
+            },
+            {
+              "title": {
+                "en": "Preparing for coursework investigation",
+                "fr": "Se préparer pour le travail de recherche",
+                "mfe": "Prepar pou rese travay kour"
+              },
+              "objectives": [
+                "Identify a suitable design problem for investigation",
+                "Plan a research approach for a coursework project",
+                "Outline evaluation criteria for a proposed solution"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "13": {
+      "units": [
+        {
+          "title": {
+            "en": "Advanced design strategies",
+            "fr": "Stratégies de conception avancées",
+            "mfe": "Stratezi konsepsion avanse"
+          },
+          "summary": {
+            "en": "Students explore advanced iterative design methodologies, user-centred design and design thinking approaches used in professional practice, building on AS-level foundations.",
+            "fr": "Les élèves explorent des méthodologies de conception itératives avancées, la conception centrée sur l'utilisateur et les approches de design thinking utilisées dans la pratique professionnelle, en s'appuyant sur les acquis du niveau AS.",
+            "mfe": "Bann elev explor bann metod konsepsion iteratif avanse, konsepsion santre lor itilizater ek apros design thinking servi dan pratik profesionel, an baze lor sa ki finn aprann dan AS-level."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "User-centred design approaches",
+                "fr": "Approches de conception centrées sur l'utilisateur",
+                "mfe": "Apros konsepsion santre lor itilizater"
+              },
+              "objectives": [
+                "Explain the principles of user-centred design",
+                "Analyse how designers gather and apply user feedback",
+                "Apply user-centred methods to a design scenario"
+              ]
+            },
+            {
+              "title": {
+                "en": "Design thinking and innovation",
+                "fr": "Design thinking et innovation",
+                "mfe": "Design thinking ek inovasion"
+              },
+              "objectives": [
+                "Describe the stages of the design thinking process",
+                "Evaluate how design thinking supports innovation",
+                "Apply design thinking to solve a real-world problem"
+              ]
+            },
+            {
+              "title": {
+                "en": "Iterative prototyping techniques",
+                "fr": "Techniques de prototypage itératif",
+                "mfe": "Teknik prototaypaz iteratif"
+              },
+              "objectives": [
+                "Compare low-fidelity and high-fidelity prototypes",
+                "Justify prototyping choices for different design stages",
+                "Produce an iterative prototype plan"
+              ]
+            },
+            {
+              "title": {
+                "en": "Evaluating design outcomes critically",
+                "fr": "Évaluer les résultats de conception de manière critique",
+                "mfe": "Evalie rezilta konsepsion dan enn fason kritik"
+              },
+              "objectives": [
+                "Apply evaluation criteria to a completed design",
+                "Justify design decisions using evidence",
+                "Recommend improvements based on evaluation"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Industrial and commercial production",
+            "fr": "Production industrielle et commerciale",
+            "mfe": "Prodiksion endistriel ek komersial"
+          },
+          "summary": {
+            "en": "This unit examines how products move from prototype to mass production, covering scales of production, automation and quality assurance in industrial contexts.",
+            "fr": "Cette unité examine comment les produits passent du prototype à la production de masse, en couvrant les échelles de production, l'automatisation et l'assurance qualité dans les contextes industriels.",
+            "mfe": "Sa linite-la examinn kouma prodwi pas depi prototip ziska prodiksion an mas, kouver eselel prodiksion, otomatizasion ek asirans kalite dan kontex endistriel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Scales of production explained",
+                "fr": "Les échelles de production expliquées",
+                "mfe": "Eselel prodiksion explike"
+              },
+              "objectives": [
+                "Distinguish one-off, batch and mass production",
+                "Identify suitable production scales for different products",
+                "Analyse cost implications of production scale"
+              ]
+            },
+            {
+              "title": {
+                "en": "Automation and computer-aided manufacture",
+                "fr": "Automatisation et fabrication assistée par ordinateur",
+                "mfe": "Otomatizasion ek fabrikasion asiste par ordinater"
+              },
+              "objectives": [
+                "Explain the role of CAM in modern manufacturing",
+                "Evaluate benefits and limitations of automation",
+                "Describe how CNC machines are used in production"
+              ]
+            },
+            {
+              "title": {
+                "en": "Quality control and quality assurance",
+                "fr": "Contrôle qualité et assurance qualité",
+                "mfe": "Kontrol kalite ek asirans kalite"
+              },
+              "objectives": [
+                "Differentiate quality control from quality assurance",
+                "Apply quality checks to a manufactured item",
+                "Explain standards used in Mauritian industries"
+              ]
+            },
+            {
+              "title": {
+                "en": "Just-in-time and lean manufacturing",
+                "fr": "Le juste-à-temps et la production allégée",
+                "mfe": "Just-in-time ek prodiksion lean"
+              },
+              "objectives": [
+                "Describe just-in-time manufacturing principles",
+                "Evaluate benefits of lean manufacturing for businesses",
+                "Apply lean concepts to reduce waste in a scenario"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Systems and control in products",
+            "fr": "Systèmes et contrôle dans les produits",
+            "mfe": "Sistenm ek kontrol dan prodwi"
+          },
+          "summary": {
+            "en": "Students study advanced systems thinking, mechanical and electronic control systems and how feedback loops are used to improve product performance.",
+            "fr": "Les élèves étudient la pensée systémique avancée, les systèmes de contrôle mécaniques et électroniques et l'utilisation des boucles de rétroaction pour améliorer la performance des produits.",
+            "mfe": "Bann elev etidie panse sistemik avanse, sistenm kontrol mekanik ek elektronik ek kouma bann boukle feedback servi pou ameliore performans prodwi."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Systems thinking in design",
+                "fr": "La pensée systémique dans la conception",
+                "mfe": "Panse sistemik dan konsepsion"
+              },
+              "objectives": [
+                "Explain input-process-output models in design",
+                "Apply systems diagrams to a product",
+                "Identify subsystems within a complex product"
+              ]
+            },
+            {
+              "title": {
+                "en": "Feedback and control loops",
+                "fr": "Rétroaction et boucles de contrôle",
+                "mfe": "Feedback ek boukle kontrol"
+              },
+              "objectives": [
+                "Describe open-loop and closed-loop systems",
+                "Explain how sensors provide feedback in products",
+                "Analyse a control system used in Mauritian appliances"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mechanical control mechanisms",
+                "fr": "Mécanismes de contrôle mécaniques",
+                "mfe": "Mekanism kontrol mekanik"
+              },
+              "objectives": [
+                "Identify mechanisms used to control motion",
+                "Calculate mechanical advantage in simple systems",
+                "Design a mechanism to solve a control problem"
+              ]
+            },
+            {
+              "title": {
+                "en": "Programmable electronic systems",
+                "fr": "Systèmes électroniques programmables",
+                "mfe": "Sistenm elektronik programab"
+              },
+              "objectives": [
+                "Explain the role of microcontrollers in products",
+                "Describe how programming logic controls outputs",
+                "Design a simple programmable control system"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Smart materials and technologies",
+            "fr": "Matériaux et technologies intelligentes",
+            "mfe": "Materio ek teknolozi intelizan"
+          },
+          "summary": {
+            "en": "This unit explores emerging and smart materials, their properties and their potential applications in innovative product design.",
+            "fr": "Cette unité explore les matériaux émergents et intelligents, leurs propriétés et leurs applications potentielles dans la conception de produits innovants.",
+            "mfe": "Sa linite-la explor materio emerzan ek intelizan, zot proprite ek zot posib aplikasion dan konsepsion prodwi inovativ."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Introducing smart materials",
+                "fr": "Introduction aux matériaux intelligents",
+                "mfe": "Introdiksion bann materio intelizan"
+              },
+              "objectives": [
+                "Define smart materials and their key properties",
+                "Give examples of smart materials used in products",
+                "Explain how smart materials respond to stimuli"
+              ]
+            },
+            {
+              "title": {
+                "en": "Shape memory alloys and polymers",
+                "fr": "Alliages et polymères à mémoire de forme",
+                "mfe": "Alyaz ek polimer memwar form"
+              },
+              "objectives": [
+                "Explain the working principle of shape memory alloys",
+                "Identify applications of shape memory materials",
+                "Evaluate suitability of these materials for a product"
+              ]
+            },
+            {
+              "title": {
+                "en": "Composite and nanomaterials",
+                "fr": "Matériaux composites et nanomatériaux",
+                "mfe": "Materio konpozit ek nanomaterio"
+              },
+              "objectives": [
+                "Describe the structure of composite materials",
+                "Explain benefits of nanomaterials in design",
+                "Compare composites with traditional materials for strength"
+              ]
+            },
+            {
+              "title": {
+                "en": "Emerging technologies in design",
+                "fr": "Technologies émergentes en conception",
+                "mfe": "Teknolozi emerzan dan konsepsion"
+              },
+              "objectives": [
+                "Research a current emerging technology in design",
+                "Evaluate its potential impact on future products",
+                "Present findings on technology adoption trends"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Sustainability and environmental design",
+            "fr": "Durabilité et conception environnementale",
+            "mfe": "Dirabilite ek konsepsion anvironmantal"
+          },
+          "summary": {
+            "en": "Students critically examine sustainable design principles, life cycle analysis and the environmental impact of manufacturing decisions.",
+            "fr": "Les élèves examinent de manière critique les principes de conception durable, l'analyse du cycle de vie et l'impact environnemental des décisions de fabrication.",
+            "mfe": "Bann elev examinn dan enn fason kritik prinsip konsepsion dirab, analiz sik lavi ek lenpak anvironmantal bann desizion fabrikasion."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Principles of sustainable design",
+                "fr": "Principes de la conception durable",
+                "mfe": "Prinsip konsepsion dirab"
+              },
+              "objectives": [
+                "Explain the six Rs of sustainable design",
+                "Apply sustainable principles to a product redesign",
+                "Justify design choices for reduced environmental impact"
+              ]
+            },
+            {
+              "title": {
+                "en": "Life cycle analysis of products",
+                "fr": "Analyse du cycle de vie des produits",
+                "mfe": "Analiz sik lavi prodwi"
+              },
+              "objectives": [
+                "Describe the stages of a product life cycle",
+                "Conduct a simple life cycle analysis",
+                "Evaluate environmental costs at each life cycle stage"
+              ]
+            },
+            {
+              "title": {
+                "en": "Renewable and recycled materials",
+                "fr": "Matériaux renouvelables et recyclés",
+                "mfe": "Materio renouvlab ek rekikle"
+              },
+              "objectives": [
+                "Identify renewable materials suited to Mauritian industry",
+                "Evaluate the use of recycled materials in products",
+                "Design a product using sustainable materials"
+              ]
+            },
+            {
+              "title": {
+                "en": "Ethical and social responsibility in design",
+                "fr": "Éthique et responsabilité sociale dans la conception",
+                "mfe": "Letik ek responsabilite sosial dan konsepsion"
+              },
+              "objectives": [
+                "Discuss ethical issues designers must consider",
+                "Evaluate the social impact of design decisions",
+                "Propose ethical solutions to a design brief"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Design communication and CAD/CAM",
+            "fr": "Communication de conception et CAO/FAO",
+            "mfe": "Kominikasion konsepsion ek CAD/CAM"
+          },
+          "summary": {
+            "en": "This unit develops advanced skills in communicating design ideas using digital tools, including CAD modelling and CAM production methods.",
+            "fr": "Cette unité développe des compétences avancées en communication d'idées de conception à l'aide d'outils numériques, y compris la modélisation CAO et les méthodes de production FAO.",
+            "mfe": "Sa linite-la devlop bann konpetans avanse pou kominik lide konsepsion servi zouti dizital, ki inklir modelaz CAD ek metod prodiksion CAM."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Advanced CAD modelling techniques",
+                "fr": "Techniques avancées de modélisation CAO",
+                "mfe": "Teknik avanse modelaz CAD"
+              },
+              "objectives": [
+                "Apply advanced CAD tools to model a product",
+                "Produce technical drawings from a 3D model",
+                "Evaluate CAD models for manufacturing suitability"
+              ]
+            },
+            {
+              "title": {
+                "en": "3D printing and rapid prototyping",
+                "fr": "Impression 3D et prototypage rapide",
+                "mfe": "Lenprimant 3D ek prototaypaz rapid"
+              },
+              "objectives": [
+                "Explain the process of 3D printing",
+                "Compare rapid prototyping methods for different needs",
+                "Produce a 3D printed prototype design"
+              ]
+            },
+            {
+              "title": {
+                "en": "Communicating designs to clients",
+                "fr": "Communiquer les conceptions aux clients",
+                "mfe": "Kominik konsepsion ar kliyan"
+              },
+              "objectives": [
+                "Prepare a professional design presentation",
+                "Use visual and technical language appropriately",
+                "Justify design decisions to a non-technical audience"
+              ]
+            },
+            {
+              "title": {
+                "en": "Digital manufacturing workflows",
+                "fr": "Flux de fabrication numérique",
+                "mfe": "Fli travay fabrikasion dizital"
+              },
+              "objectives": [
+                "Describe the workflow from CAD to CAM production",
+                "Identify software used in digital manufacturing",
+                "Evaluate efficiency of digital production workflows"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Market and consumer influences",
+            "fr": "Influences du marché et des consommateurs",
+            "mfe": "Lenfliyans marse ek konsomater"
+          },
+          "summary": {
+            "en": "Students analyse how market trends, branding and consumer culture shape design decisions and product success.",
+            "fr": "Les élèves analysent comment les tendances du marché, l'image de marque et la culture des consommateurs influencent les décisions de conception et le succès des produits.",
+            "mfe": "Bann elev analiz kouma tandans marse, brandin ek kiltir konsomater influans desizion konsepsion ek sikse prodwi."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Understanding market trends",
+                "fr": "Comprendre les tendances du marché",
+                "mfe": "Konpran tandans marse"
+              },
+              "objectives": [
+                "Identify current design trends in Mauritius and abroad",
+                "Analyse how trends influence product development",
+                "Predict future trends for a chosen product category"
+              ]
+            },
+            {
+              "title": {
+                "en": "Branding and product identity",
+                "fr": "Image de marque et identité du produit",
+                "mfe": "Brandin ek lidentite prodwi"
+              },
+              "objectives": [
+                "Explain the role of branding in design",
+                "Evaluate branding strategies of local companies",
+                "Design brand elements for a new product"
+              ]
+            },
+            {
+              "title": {
+                "en": "Consumer culture and design choices",
+                "fr": "Culture des consommateurs et choix de conception",
+                "mfe": "Kiltir konsomater ek swa konsepsion"
+              },
+              "objectives": [
+                "Discuss factors influencing consumer purchasing decisions",
+                "Evaluate how culture shapes product preferences",
+                "Apply consumer insights to a design proposal"
+              ]
+            },
+            {
+              "title": {
+                "en": "Marketing and product launch strategies",
+                "fr": "Stratégies de marketing et de lancement de produits",
+                "mfe": "Stratezi marketing ek lansman prodwi"
+              },
+              "objectives": [
+                "Describe stages of a product launch strategy",
+                "Evaluate marketing methods for a target audience",
+                "Plan a launch strategy for a designed product"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Major project development",
+            "fr": "Développement du projet majeur",
+            "mfe": "Devlopman gran projet"
+          },
+          "summary": {
+            "en": "This unit guides students through planning, developing and documenting an independent major design project as preparation for coursework assessment.",
+            "fr": "Cette unité guide les élèves dans la planification, le développement et la documentation d'un projet de conception majeur indépendant en préparation de l'évaluation du travail de cours.",
+            "mfe": "Sa linite-la gid bann elev pou planifie, devlop ek dokimant enn gran projet konsepsion endepandan kouma preparasion pou levaliyasion travay kour."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Identifying a design brief and specification",
+                "fr": "Identifier un cahier des charges et une spécification",
+                "mfe": "Idantifie enn brif konsepsion ek spesifikasion"
+              },
+              "objectives": [
+                "Formulate a clear design brief from research",
+                "Write a detailed design specification",
+                "Justify chosen constraints and requirements"
+              ]
+            },
+            {
+              "title": {
+                "en": "Research and analysis for the project",
+                "fr": "Recherche et analyse pour le projet",
+                "mfe": "Rese ek analiz pou projet"
+              },
+              "objectives": [
+                "Conduct primary and secondary research effectively",
+                "Analyse existing products related to the brief",
+                "Synthesise findings to inform design direction"
+              ]
+            },
+            {
+              "title": {
+                "en": "Developing and modelling design solutions",
+                "fr": "Développer et modéliser des solutions de conception",
+                "mfe": "Devlop ek modelaz solision konsepsion"
+              },
+              "objectives": [
+                "Generate multiple design solutions using sketches and models",
+                "Test and refine solutions through prototyping",
+                "Justify the selection of a final design"
+              ]
+            },
+            {
+              "title": {
+                "en": "Manufacturing and evaluating the final outcome",
+                "fr": "Fabriquer et évaluer le résultat final",
+                "mfe": "Fabrik ek evalie rezilta final"
+              },
+              "objectives": [
+                "Plan and carry out manufacture of a final prototype",
+                "Test the final outcome against the specification",
+                "Evaluate the project process and outcome critically"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,2223 @@
+{
+  "subject": "sexuality-education",
+  "grades": {
+    "7": {
+      "units": [
+        {
+          "title": {
+            "en": "Growing and changing",
+            "fr": "Grandir et changer",
+            "mfe": "Grandi ek sanze"
+          },
+          "summary": {
+            "en": "An introduction to puberty and the physical and emotional changes that happen as young people grow.",
+            "fr": "Une introduction à la puberté et aux changements physiques et émotionnels qui surviennent en grandissant.",
+            "mfe": "Enn lintrodiksion lor pibert ek bann sanzman fizik ek emosionel ki arive kan enn zenn grandi."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "What is puberty",
+                "fr": "Qu'est-ce que la puberté",
+                "mfe": "Kisannla pibert ete"
+              },
+              "objectives": [
+                "Define puberty and explain when it usually begins",
+                "Identify that puberty affects everyone differently",
+                "Recognise puberty as a normal part of growing up"
+              ]
+            },
+            {
+              "title": {
+                "en": "Physical changes in boys and girls",
+                "fr": "Changements physiques chez les filles et les garçons",
+                "mfe": "Sanzman fizik lor garson ek tifi"
+              },
+              "objectives": [
+                "Describe the main physical changes during puberty in boys",
+                "Describe the main physical changes during puberty in girls",
+                "Compare similarities and differences between boys and girls during puberty"
+              ]
+            },
+            {
+              "title": {
+                "en": "Emotional changes during puberty",
+                "fr": "Changements émotionnels pendant la puberté",
+                "mfe": "Sanzman emosionel pandan pibert"
+              },
+              "objectives": [
+                "Identify common emotional changes during puberty",
+                "Explain why mood changes happen during this stage",
+                "Suggest healthy ways to manage strong emotions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Keeping clean during puberty",
+                "fr": "Rester propre pendant la puberté",
+                "mfe": "Res prop pandan pibert"
+              },
+              "objectives": [
+                "Explain why personal hygiene becomes more important during puberty",
+                "List daily hygiene habits for boys and girls",
+                "Describe how to manage body odour and skin changes"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Understanding my body",
+            "fr": "Comprendre mon corps",
+            "mfe": "Konpran mo lekor"
+          },
+          "summary": {
+            "en": "Learning correct names and functions of body parts, including the reproductive system, and building positive body image.",
+            "fr": "Apprendre les noms et fonctions corrects des parties du corps, y compris le système reproducteur, et développer une image corporelle positive.",
+            "mfe": "Aprann bon nom ek fonksion bann parti lekor, inklir sistem reproduktif, ek devlop enn bon limaz lor lekor."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "How my body works",
+                "fr": "Comment fonctionne mon corps",
+                "mfe": "Kouma mo lekor fonksione"
+              },
+              "objectives": [
+                "Identify the main systems of the human body",
+                "Explain how body systems work together",
+                "Relate body systems to overall health"
+              ]
+            },
+            {
+              "title": {
+                "en": "Learning about reproductive body parts",
+                "fr": "Apprendre les parties reproductrices du corps",
+                "mfe": "Aprann lor parti reproduktif lekor"
+              },
+              "objectives": [
+                "Use correct scientific terms for reproductive body parts",
+                "Explain the basic function of these body parts",
+                "Discuss why using correct terms is important"
+              ]
+            },
+            {
+              "title": {
+                "en": "Building a positive body image",
+                "fr": "Développer une image corporelle positive",
+                "mfe": "Devlop enn bon limaz lor lekor"
+              },
+              "objectives": [
+                "Explain what body image means",
+                "Identify factors that influence how we see our bodies",
+                "Practise positive self-talk about body changes"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Emotions and friendships",
+            "fr": "Émotions et amitiés",
+            "mfe": "Emosion ek lamitie"
+          },
+          "summary": {
+            "en": "Exploring emotions, building healthy friendships and understanding family relationships during early adolescence.",
+            "fr": "Explorer les émotions, développer des amitiés saines et comprendre les relations familiales au début de l'adolescence.",
+            "mfe": "Explor emosion, devlop bon lamitie ek konpran relasion familial pandan koumansman ladolesans."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Understanding my emotions",
+                "fr": "Comprendre mes émotions",
+                "mfe": "Konpran mo bann emosion"
+              },
+              "objectives": [
+                "Name different types of emotions",
+                "Recognise how emotions affect behaviour",
+                "Practise strategies to express emotions appropriately"
+              ]
+            },
+            {
+              "title": {
+                "en": "Building healthy friendships",
+                "fr": "Construire des amitiés saines",
+                "mfe": "Konstrir bon lamitie"
+              },
+              "objectives": [
+                "Identify qualities of a healthy friendship",
+                "Distinguish between healthy and unhealthy friendships",
+                "Explain how to resolve conflicts with friends respectfully"
+              ]
+            },
+            {
+              "title": {
+                "en": "My family and me",
+                "fr": "Ma famille et moi",
+                "mfe": "Mo fami ek mwa"
+              },
+              "objectives": [
+                "Describe different family structures in Mauritius",
+                "Explain the role of family in supporting growth and well-being",
+                "Identify ways to communicate respectfully with family members"
+              ]
+            },
+            {
+              "title": {
+                "en": "Dealing with peer pressure",
+                "fr": "Faire face à la pression des pairs",
+                "mfe": "Fer fas ar presion kamarad"
+              },
+              "objectives": [
+                "Define peer pressure and give examples",
+                "Identify positive and negative peer influence",
+                "Practise ways to say no to negative pressure"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Respect and consent",
+            "fr": "Respect et consentement",
+            "mfe": "Respe ek konsantman"
+          },
+          "summary": {
+            "en": "Understanding personal boundaries, respect for others and the meaning of consent in everyday situations.",
+            "fr": "Comprendre les limites personnelles, le respect d'autrui et la signification du consentement dans la vie quotidienne.",
+            "mfe": "Konpran limit personel, respe pou lezot ek sinifikasion konsantman dan lavi toulezour."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "What consent means",
+                "fr": "Ce que signifie le consentement",
+                "mfe": "Ki konsantman vedir"
+              },
+              "objectives": [
+                "Define consent in simple, age-appropriate terms",
+                "Give examples of asking for and giving consent",
+                "Explain why consent must always be respected"
+              ]
+            },
+            {
+              "title": {
+                "en": "Respecting personal boundaries",
+                "fr": "Respecter les limites personnelles",
+                "mfe": "Respekte limit personel"
+              },
+              "objectives": [
+                "Identify what personal boundaries are",
+                "Explain how to communicate one's own boundaries",
+                "Practise respecting the boundaries of others"
+              ]
+            },
+            {
+              "title": {
+                "en": "Respecting differences",
+                "fr": "Respecter les différences",
+                "mfe": "Respekte diferans"
+              },
+              "objectives": [
+                "Recognise diversity in Mauritius's multicultural society",
+                "Explain why respecting differences is important",
+                "Identify examples of respectful behaviour towards others"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Staying safe from harm",
+            "fr": "Se protéger contre les dangers",
+            "mfe": "Res anseksirite kont danze"
+          },
+          "summary": {
+            "en": "Learning to recognise unsafe situations, understand safe and unsafe touch, and know how to seek help.",
+            "fr": "Apprendre à reconnaître les situations dangereuses, comprendre les contacts sûrs et non sûrs, et savoir comment demander de l'aide.",
+            "mfe": "Aprann rekonet sitiasion danzere, konpran tousman sekiritaire ek non sekiritaire, ek kone kouma demann led."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Recognising unsafe situations",
+                "fr": "Reconnaître les situations dangereuses",
+                "mfe": "Rekonet sitiasion danzere"
+              },
+              "objectives": [
+                "Identify signs of unsafe situations",
+                "Explain how to respond when feeling unsafe",
+                "List trusted adults who can help"
+              ]
+            },
+            {
+              "title": {
+                "en": "Understanding safe and unsafe touch",
+                "fr": "Comprendre les contacts sûrs et non sûrs",
+                "mfe": "Konpran tousman sekiritaire ek non sekiritaire"
+              },
+              "objectives": [
+                "Distinguish between safe and unsafe touch",
+                "Explain the importance of body autonomy",
+                "Describe steps to take if touch feels wrong"
+              ]
+            },
+            {
+              "title": {
+                "en": "Safe and unsafe secrets",
+                "fr": "Secrets sûrs et non sûrs",
+                "mfe": "Sekre sekiritaire ek non sekiritaire"
+              },
+              "objectives": [
+                "Differentiate between safe and unsafe secrets",
+                "Explain why some secrets should never be kept",
+                "Identify who to tell if something feels wrong"
+              ]
+            },
+            {
+              "title": {
+                "en": "Finding help when needed",
+                "fr": "Trouver de l'aide en cas de besoin",
+                "mfe": "Rod led kan bizin"
+              },
+              "objectives": [
+                "Identify trusted adults and services in the community",
+                "Explain how to ask for help confidently",
+                "Practise a simple plan for seeking help"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Staying safe online",
+            "fr": "Rester en sécurité en ligne",
+            "mfe": "Res anseksirite lor internet"
+          },
+          "summary": {
+            "en": "Building awareness of online risks, protecting personal information and responding to cyberbullying.",
+            "fr": "Développer la sensibilisation aux risques en ligne, protéger les informations personnelles et réagir à la cyberintimidation.",
+            "mfe": "Devlop konesans lor risk lor internet, protez linformasion personel ek reazir kont cyberintimidation."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Understanding online risks",
+                "fr": "Comprendre les risques en ligne",
+                "mfe": "Konpran risk lor internet"
+              },
+              "objectives": [
+                "Identify common risks when using the internet",
+                "Explain how online strangers may not be who they claim to be",
+                "Discuss the importance of caution online"
+              ]
+            },
+            {
+              "title": {
+                "en": "Protecting my personal information",
+                "fr": "Protéger mes informations personnelles",
+                "mfe": "Protez mo linformasion personel"
+              },
+              "objectives": [
+                "List types of personal information to keep private",
+                "Explain privacy settings on common platforms",
+                "Practise safe sharing habits online"
+              ]
+            },
+            {
+              "title": {
+                "en": "Recognising and responding to cyberbullying",
+                "fr": "Reconnaître et réagir à la cyberintimidation",
+                "mfe": "Rekonet ek reazir kont cyberintimidation"
+              },
+              "objectives": [
+                "Define cyberbullying and give examples",
+                "Explain the impact of cyberbullying on well-being",
+                "Describe steps to take if cyberbullied or witnessing it"
+              ]
+            },
+            {
+              "title": {
+                "en": "Healthy use of screens",
+                "fr": "Utilisation saine des écrans",
+                "mfe": "Servi lekran dan enn fason ekilibre"
+              },
+              "objectives": [
+                "Identify signs of unhealthy screen habits",
+                "Explain the importance of balancing online and offline activities",
+                "Set personal goals for healthy screen time"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Health and well-being choices",
+            "fr": "Choix pour la santé et le bien-être",
+            "mfe": "Swa pou lasante ek byennet"
+          },
+          "summary": {
+            "en": "Understanding how nutrition, sleep and responsible decision-making support health during adolescence.",
+            "fr": "Comprendre comment la nutrition, le sommeil et une prise de décision responsable soutiennent la santé à l'adolescence.",
+            "mfe": "Konpran kouma nitrision, dormi ek pran desizion responsab soutenir lasante pandan ladolesans."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Eating well during puberty",
+                "fr": "Bien manger pendant la puberté",
+                "mfe": "Manz byen pandan pibert"
+              },
+              "objectives": [
+                "Identify nutritional needs during puberty",
+                "Explain the role of physical activity in growth",
+                "Plan a balanced daily routine including food and exercise"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sleep and mental well-being",
+                "fr": "Sommeil et bien-être mental",
+                "mfe": "Dormi ek byennet mantal"
+              },
+              "objectives": [
+                "Explain why sleep is important during adolescence",
+                "Identify habits that support good sleep",
+                "Discuss the link between sleep and emotional well-being"
+              ]
+            },
+            {
+              "title": {
+                "en": "Making responsible decisions",
+                "fr": "Prendre des décisions responsables",
+                "mfe": "Pran desizion responsab"
+              },
+              "objectives": [
+                "Identify steps in a responsible decision-making process",
+                "Apply decision-making steps to everyday situations",
+                "Reflect on the consequences of choices on health and relationships"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "8": {
+      "units": [
+        {
+          "title": {
+            "en": "Understanding puberty and body changes",
+            "fr": "Comprendre la puberté et les changements du corps",
+            "mfe": "Konpran pibète ek chanzman lekor"
+          },
+          "summary": {
+            "en": "Students explore the physical and emotional changes that occur during puberty and learn to manage these changes with confidence and good hygiene practices.",
+            "fr": "Les élèves explorent les changements physiques et émotionnels survenant pendant la puberté et apprennent à les gérer avec confiance et une bonne hygiène.",
+            "mfe": "Bann elev pou explor bann chanzman fizik ek emosionel ki arive pandan pibète ek aprann gere sa avek konfians ek bon ladan pou ligyenn."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Physical changes during puberty",
+                "fr": "Les changements physiques pendant la puberté",
+                "mfe": "Chanzman fizik pandan pibète"
+              },
+              "objectives": [
+                "Identify the main physical changes in boys and girls during puberty",
+                "Explain why puberty happens at different ages for different people",
+                "Describe how the body prepares for adulthood"
+              ]
+            },
+            {
+              "title": {
+                "en": "Emotional changes during puberty",
+                "fr": "Les changements émotionnels pendant la puberté",
+                "mfe": "Chanzman emosionel pandan pibète"
+              },
+              "objectives": [
+                "Recognise common emotional changes during puberty",
+                "Identify healthy ways to manage mood swings",
+                "Explain the importance of talking to trusted adults about feelings"
+              ]
+            },
+            {
+              "title": {
+                "en": "Personal hygiene during puberty",
+                "fr": "L'hygiène personnelle pendant la puberté",
+                "mfe": "Ligyenn personel pandan pibète"
+              },
+              "objectives": [
+                "List good hygiene practices needed during puberty",
+                "Explain why hygiene becomes more important as the body changes",
+                "Demonstrate how to care for changing skin and body odour"
+              ]
+            },
+            {
+              "title": {
+                "en": "Body image and self-esteem",
+                "fr": "L'image corporelle et l'estime de soi",
+                "mfe": "Limaz lekor ek lestim swa"
+              },
+              "objectives": [
+                "Describe how body image affects self-esteem",
+                "Identify unrealistic body images in media",
+                "Develop positive self-talk strategies about one's own body"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Building healthy relationships",
+            "fr": "Construire des relations saines",
+            "mfe": "Konstrir bann relasion an bon sante"
+          },
+          "summary": {
+            "en": "Students learn about different types of relationships, effective communication and how to handle peer pressure while respecting others.",
+            "fr": "Les élèves apprennent les différents types de relations, une communication efficace et comment gérer la pression des pairs tout en respectant les autres.",
+            "mfe": "Bann elev aprann diferan tip relasion, komenikasion efikas ek kouma zere presion kamarad tou an respekte lezot."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Types of relationships",
+                "fr": "Les types de relations",
+                "mfe": "Diferan tip relasion"
+              },
+              "objectives": [
+                "Identify different types of relationships in life",
+                "Distinguish between healthy and unhealthy relationships",
+                "Explain the qualities of a supportive relationship"
+              ]
+            },
+            {
+              "title": {
+                "en": "Communication skills",
+                "fr": "Les compétences en communication",
+                "mfe": "Konpetans komenikasion"
+              },
+              "objectives": [
+                "Practise active listening skills",
+                "Express feelings clearly and respectfully",
+                "Identify barriers to good communication"
+              ]
+            },
+            {
+              "title": {
+                "en": "Friendship and peer pressure",
+                "fr": "L'amitié et la pression des pairs",
+                "mfe": "Lamitie ek presion kamarad"
+              },
+              "objectives": [
+                "Define peer pressure and its effects",
+                "Identify strategies to resist negative peer pressure",
+                "Discuss the value of true friendship"
+              ]
+            },
+            {
+              "title": {
+                "en": "Respecting differences in relationships",
+                "fr": "Respecter les différences dans les relations",
+                "mfe": "Respekte diferans dan relasion"
+              },
+              "objectives": [
+                "Recognise that people have different opinions and backgrounds",
+                "Explain how respect strengthens relationships",
+                "Demonstrate ways to resolve disagreements respectfully"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Consent and personal boundaries",
+            "fr": "Le consentement et les limites personnelles",
+            "mfe": "Konsantman ek limit personel"
+          },
+          "summary": {
+            "en": "Students learn what consent means, how to set and respect personal boundaries, and how to respond assertively in uncomfortable situations.",
+            "fr": "Les élèves apprennent ce que signifie le consentement, comment fixer et respecter des limites personnelles, et comment réagir avec assurance dans des situations inconfortables.",
+            "mfe": "Bann elev aprann ki sa vedir konsantman, kouma etabli ek respekte limit personel, ek kouma reazir avek fermte dan sitiasion malalez."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Understanding consent",
+                "fr": "Comprendre le consentement",
+                "mfe": "Konpran konsantman"
+              },
+              "objectives": [
+                "Define consent in simple terms",
+                "Explain why consent must always be given freely",
+                "Identify examples of consent in everyday situations"
+              ]
+            },
+            {
+              "title": {
+                "en": "Setting personal boundaries",
+                "fr": "Fixer des limites personnelles",
+                "mfe": "Etabli limit personel"
+              },
+              "objectives": [
+                "Explain what personal boundaries are",
+                "Identify one's own physical and emotional boundaries",
+                "Practise communicating boundaries clearly"
+              ]
+            },
+            {
+              "title": {
+                "en": "Recognising unsafe situations",
+                "fr": "Reconnaître les situations dangereuses",
+                "mfe": "Rekonet sitiasion danzere"
+              },
+              "objectives": [
+                "Identify signs of an unsafe or uncomfortable situation",
+                "Explain the importance of trusting one's instincts",
+                "List trusted adults who can be approached for help"
+              ]
+            },
+            {
+              "title": {
+                "en": "Saying no assertively",
+                "fr": "Dire non avec assurance",
+                "mfe": "Dir non avek fermte"
+              },
+              "objectives": [
+                "Practise assertive communication techniques",
+                "Demonstrate how to say no respectfully but firmly",
+                "Explain the difference between assertiveness and aggression"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Respect, equality and diversity",
+            "fr": "Respect, égalité et diversité",
+            "mfe": "Respe, legalite ek diversite"
+          },
+          "summary": {
+            "en": "Students examine gender stereotypes, discrimination and the value of diversity, building respect for all people in Mauritius's multicultural society.",
+            "fr": "Les élèves examinent les stéréotypes de genre, la discrimination et la valeur de la diversité, renforçant le respect envers tous dans la société multiculturelle mauricienne.",
+            "mfe": "Bann elev examine bann stereotip zann, diskriminasion ek valer diversite, pou ranforsi respe anver tou dimoun dan sosiete miltikilturel Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Gender roles and stereotypes",
+                "fr": "Les rôles de genre et les stéréotypes",
+                "mfe": "Rol zann ek stereotip"
+              },
+              "objectives": [
+                "Define gender roles and stereotypes",
+                "Analyse how stereotypes affect choices and behaviour",
+                "Challenge unfair gender expectations"
+              ]
+            },
+            {
+              "title": {
+                "en": "Respecting diversity",
+                "fr": "Respecter la diversité",
+                "mfe": "Respekte diversite"
+              },
+              "objectives": [
+                "Identify different forms of diversity in Mauritian society",
+                "Explain the benefits of living in a diverse community",
+                "Demonstrate respectful attitudes towards differences"
+              ]
+            },
+            {
+              "title": {
+                "en": "Preventing bullying and discrimination",
+                "fr": "Prévenir l'intimidation et la discrimination",
+                "mfe": "Anpes intimidasion ek diskriminasion"
+              },
+              "objectives": [
+                "Identify different forms of bullying and discrimination",
+                "Explain the effects of bullying on wellbeing",
+                "Describe steps to take when witnessing bullying"
+              ]
+            },
+            {
+              "title": {
+                "en": "Valuing multicultural Mauritius",
+                "fr": "Valoriser le Maurice multiculturel",
+                "mfe": "Valoriz Moris miltikilturel"
+              },
+              "objectives": [
+                "Describe the cultural diversity of Mauritius",
+                "Explain how respect for diversity strengthens community harmony",
+                "Reflect on personal contributions to inclusive society"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Health and safety awareness",
+            "fr": "Sensibilisation à la santé et à la sécurité",
+            "mfe": "Sansibilizasion lasante ek sekirite"
+          },
+          "summary": {
+            "en": "Students learn basic facts about reproductive health, risks of substance use, and how to recognise and respond to situations of abuse.",
+            "fr": "Les élèves apprennent des notions de base sur la santé reproductive, les risques liés à la consommation de substances, et comment reconnaître et réagir face à des situations d'abus.",
+            "mfe": "Bann elev aprann bann konesans debaz lor lasante repwodiktif, risk konsomasion sibstans, ek kouma rekonet ek reazir fas a sitiasion abi."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Reproductive health basics",
+                "fr": "Notions de base sur la santé reproductive",
+                "mfe": "Baz lasante repwodiktif"
+              },
+              "objectives": [
+                "Explain the basic function of the reproductive system",
+                "Describe the importance of reproductive health awareness",
+                "Identify reliable sources of health information"
+              ]
+            },
+            {
+              "title": {
+                "en": "Substance use risks",
+                "fr": "Les risques liés à la consommation de substances",
+                "mfe": "Risk konsomasion sibstans"
+              },
+              "objectives": [
+                "Identify common substances that can harm health",
+                "Explain the risks of substance use on decision-making",
+                "Discuss strategies to resist pressure to use substances"
+              ]
+            },
+            {
+              "title": {
+                "en": "Recognising abuse and seeking help",
+                "fr": "Reconnaître les abus et demander de l'aide",
+                "mfe": "Rekonet abi ek demann led"
+              },
+              "objectives": [
+                "Identify different forms of abuse",
+                "Explain why abuse is never the victim's fault",
+                "List steps and contacts for seeking help"
+              ]
+            },
+            {
+              "title": {
+                "en": "Emergency contacts and support services",
+                "fr": "Contacts d'urgence et services de soutien",
+                "mfe": "Kontak dirzans ek servis soutien"
+              },
+              "objectives": [
+                "Identify local support services for children and teenagers",
+                "Explain how to access help in an emergency",
+                "Practise sharing this information with peers"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Staying safe online",
+            "fr": "Rester en sécurité en ligne",
+            "mfe": "Res an sekirite anlinn"
+          },
+          "summary": {
+            "en": "Students explore digital privacy, online risks and safe social media practices to protect themselves and others in the online world.",
+            "fr": "Les élèves explorent la confidentialité numérique, les risques en ligne et les bonnes pratiques sur les réseaux sociaux pour se protéger et protéger les autres.",
+            "mfe": "Bann elev explor konfidansialite dizital, risk anlinn ek bon pratik lor rezo sosial pou protez zot ek lezot dan lemond anlinn."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Digital footprint and privacy",
+                "fr": "L'empreinte numérique et la vie privée",
+                "mfe": "Anprint dizital ek lavi prive"
+              },
+              "objectives": [
+                "Explain what a digital footprint is",
+                "Identify ways to protect personal information online",
+                "Discuss consequences of sharing private information"
+              ]
+            },
+            {
+              "title": {
+                "en": "Recognising online risks",
+                "fr": "Reconnaître les risques en ligne",
+                "mfe": "Rekonet risk anlinn"
+              },
+              "objectives": [
+                "Identify common online risks such as scams and grooming",
+                "Explain warning signs of unsafe online contacts",
+                "Describe how to report suspicious online behaviour"
+              ]
+            },
+            {
+              "title": {
+                "en": "Safe social media use",
+                "fr": "Utilisation sécurisée des réseaux sociaux",
+                "mfe": "Servi rezo sosial an sekirite"
+              },
+              "objectives": [
+                "Explain privacy settings on social media platforms",
+                "Discuss the impact of sharing images and videos online",
+                "Practise safe habits when using social media"
+              ]
+            },
+            {
+              "title": {
+                "en": "Responding to cyberbullying",
+                "fr": "Réagir face à la cyberintimidation",
+                "mfe": "Reazir fas a cyber-intimidasion"
+              },
+              "objectives": [
+                "Define cyberbullying and its effects",
+                "Identify steps to take if experiencing or witnessing cyberbullying",
+                "Explain the importance of reporting to trusted adults"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Family, values and decision-making",
+            "fr": "Famille, valeurs et prise de décision",
+            "mfe": "Fami, valer ek pran desizion"
+          },
+          "summary": {
+            "en": "Students reflect on family roles, personal values and decision-making skills to make responsible choices and set positive life goals.",
+            "fr": "Les élèves réfléchissent aux rôles familiaux, aux valeurs personnelles et aux compétences de prise de décision pour faire des choix responsables et se fixer des objectifs positifs.",
+            "mfe": "Bann elev reflesi lor rol fami, valer personel ek konpetans pran desizion pou fer bon swa ek fixe bann lobzektif pozitiv dan lavi."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Family structures and roles",
+                "fr": "Structures et rôles familiaux",
+                "mfe": "Striktir ek rol fami"
+              },
+              "objectives": [
+                "Identify different family structures in Mauritius",
+                "Explain the role of family members in supporting each other",
+                "Discuss how family values shape personal identity"
+              ]
+            },
+            {
+              "title": {
+                "en": "Values and decision-making",
+                "fr": "Valeurs et prise de décision",
+                "mfe": "Valer ek pran desizion"
+              },
+              "objectives": [
+                "Identify personal values that guide behaviour",
+                "Explain the steps involved in responsible decision-making",
+                "Apply decision-making skills to everyday situations"
+              ]
+            },
+            {
+              "title": {
+                "en": "Managing peer pressure",
+                "fr": "Gérer la pression des pairs",
+                "mfe": "Zere presion kamarad"
+              },
+              "objectives": [
+                "Recognise situations involving peer pressure",
+                "Practise strategies to make independent decisions",
+                "Explain the importance of staying true to personal values"
+              ]
+            },
+            {
+              "title": {
+                "en": "Setting personal goals",
+                "fr": "Se fixer des objectifs personnels",
+                "mfe": "Fixe lobzektif personel"
+              },
+              "objectives": [
+                "Identify short-term and long-term personal goals",
+                "Explain how healthy relationships support goal achievement",
+                "Create a simple action plan to achieve a personal goal"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "units": [
+        {
+          "title": {
+            "en": "Growth and development revisited",
+            "fr": "Croissance et développement revisités",
+            "mfe": "Kwasans ek devlopman revizite"
+          },
+          "summary": {
+            "en": "A review and deepening of puberty changes, body image, and self-esteem as students move into adolescence.",
+            "fr": "Une révision et un approfondissement des changements de la puberté, de l'image corporelle et de l'estime de soi à l'adolescence.",
+            "mfe": "Enn revizyon ek apronfondisman lor sanzman pandan lapibersete, limaz lekor ek lestim swa pandan ladolesans."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Puberty changes in more depth",
+                "fr": "Les changements de la puberté approfondis",
+                "mfe": "Sanzman lapibersete an detay"
+              },
+              "objectives": [
+                "Describe physical and emotional changes during puberty",
+                "Explain how these changes differ between individuals",
+                "Identify reliable sources of information about puberty"
+              ]
+            },
+            {
+              "title": {
+                "en": "Body image and self-esteem",
+                "fr": "Image corporelle et estime de soi",
+                "mfe": "Limaz lekor ek lestim swa"
+              },
+              "objectives": [
+                "Discuss factors affecting body image in teenagers",
+                "Analyse the impact of media on body image",
+                "Develop strategies to build positive self-esteem"
+              ]
+            },
+            {
+              "title": {
+                "en": "Emotional changes and mood swings",
+                "fr": "Changements émotionnels et sautes d'humeur",
+                "mfe": "Sanzman emosyonel ek sant imer"
+              },
+              "objectives": [
+                "Identify common emotional changes during adolescence",
+                "Explain healthy ways to manage mood swings",
+                "Recognise when to seek support from trusted adults"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Understanding relationships",
+            "fr": "Comprendre les relations",
+            "mfe": "Konpran relasyon"
+          },
+          "summary": {
+            "en": "Exploring different types of relationships, healthy versus unhealthy dynamics, and communication skills.",
+            "fr": "Exploration des différents types de relations, des dynamiques saines et malsaines, et des compétences en communication.",
+            "mfe": "Explor diferan tip relasyon, dinamik ki sen ek ki pa sen, ek konpetans kominikasyon."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Types of relationships in our lives",
+                "fr": "Types de relations dans nos vies",
+                "mfe": "Diferan tip relasyon dan lavi"
+              },
+              "objectives": [
+                "Identify different types of relationships (family, friends, romantic)",
+                "Explain the qualities of healthy relationships",
+                "Recognise signs of unhealthy relationships"
+              ]
+            },
+            {
+              "title": {
+                "en": "Communication in relationships",
+                "fr": "La communication dans les relations",
+                "mfe": "Kominikasyon dan relasyon"
+              },
+              "objectives": [
+                "Explain the importance of clear communication",
+                "Practise expressing feelings assertively",
+                "Identify barriers to effective communication"
+              ]
+            },
+            {
+              "title": {
+                "en": "Peer pressure and decision making",
+                "fr": "Pression des pairs et prise de décision",
+                "mfe": "Presyon kamarad ek pran desizyon"
+              },
+              "objectives": [
+                "Define peer pressure and its influence",
+                "Develop strategies to resist negative peer pressure",
+                "Practise making independent, informed decisions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Friendship and romantic relationships",
+                "fr": "Amitié et relations amoureuses",
+                "mfe": "Lamitye ek relasyon amoure"
+              },
+              "objectives": [
+                "Distinguish between friendship and romantic attraction",
+                "Discuss appropriate boundaries in relationships at this age",
+                "Explain the value of mutual respect"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Consent and personal boundaries",
+            "fr": "Consentement et limites personnelles",
+            "mfe": "Konsantman ek limit personel"
+          },
+          "summary": {
+            "en": "Understanding consent, bodily autonomy, and how to set and respect personal boundaries.",
+            "fr": "Comprendre le consentement, l'autonomie corporelle et comment établir et respecter les limites personnelles.",
+            "mfe": "Konpran konsantman, otonomi lekor ek kouman etabli ek respekte limit personel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "What consent really means",
+                "fr": "Ce que signifie vraiment le consentement",
+                "mfe": "Ki konsantman vremem vle dir"
+              },
+              "objectives": [
+                "Define consent in age-appropriate terms",
+                "Explain why consent must be freely given",
+                "Identify situations where consent is required"
+              ]
+            },
+            {
+              "title": {
+                "en": "Setting personal boundaries",
+                "fr": "Établir des limites personnelles",
+                "mfe": "Etabli limit personel"
+              },
+              "objectives": [
+                "Explain the concept of personal boundaries",
+                "Practise saying no confidently and respectfully",
+                "Recognise the right to bodily autonomy"
+              ]
+            },
+            {
+              "title": {
+                "en": "Respecting others' boundaries",
+                "fr": "Respecter les limites des autres",
+                "mfe": "Respekte limit lezot"
+              },
+              "objectives": [
+                "Identify signs that someone's boundary is being crossed",
+                "Explain how to respond respectfully to a refusal",
+                "Discuss the link between respect and consent"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Gender roles and respect",
+            "fr": "Rôles de genre et respect",
+            "mfe": "Rol zann ek respe"
+          },
+          "summary": {
+            "en": "Examining gender stereotypes, equality, and respectful behaviour between all genders in Mauritian society.",
+            "fr": "Examiner les stéréotypes de genre, l'égalité et le comportement respectueux entre tous les genres dans la société mauricienne.",
+            "mfe": "Egzamin stereotip zann, egalite ek konportman respektye ant tou zann dan sosyete morisyen."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Understanding gender stereotypes",
+                "fr": "Comprendre les stéréotypes de genre",
+                "mfe": "Konpran stereotip zann"
+              },
+              "objectives": [
+                "Define gender stereotypes and their origins",
+                "Identify examples of stereotypes in Mauritian media and society",
+                "Discuss the impact of stereotypes on individuals"
+              ]
+            },
+            {
+              "title": {
+                "en": "Gender equality and fairness",
+                "fr": "Égalité et équité entre les genres",
+                "mfe": "Egalite ek lekitab ant zann"
+              },
+              "objectives": [
+                "Explain the concept of gender equality",
+                "Discuss examples of gender equality in daily life",
+                "Identify ways to promote fairness between genders"
+              ]
+            },
+            {
+              "title": {
+                "en": "Respectful behaviour towards all",
+                "fr": "Comportement respectueux envers tous",
+                "mfe": "Konportman respektye avek tou dimoun"
+              },
+              "objectives": [
+                "Explain what respectful behaviour looks like in practice",
+                "Identify examples of disrespect or discrimination",
+                "Propose actions to promote respect at school"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Health, hygiene and safety",
+            "fr": "Santé, hygiène et sécurité",
+            "mfe": "Lasante, ijyenn ek sekirite"
+          },
+          "summary": {
+            "en": "Practical guidance on personal hygiene, reproductive health basics, and staying safe from risks.",
+            "fr": "Conseils pratiques sur l'hygiène personnelle, les bases de la santé reproductive et la protection contre les risques.",
+            "mfe": "Gid pratik lor ijyenn personel, baz lasante repwodiktiv ek res an sekirite kont risk."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Maintaining personal hygiene",
+                "fr": "Maintenir l'hygiène personnelle",
+                "mfe": "Kontinye ijyenn personel"
+              },
+              "objectives": [
+                "Explain hygiene practices important during adolescence",
+                "Describe menstrual hygiene management",
+                "Identify resources for hygiene products and support"
+              ]
+            },
+            {
+              "title": {
+                "en": "Understanding reproductive health basics",
+                "fr": "Comprendre les bases de la santé reproductive",
+                "mfe": "Konpran baz lasante repwodiktiv"
+              },
+              "objectives": [
+                "Describe the basic function of the reproductive system",
+                "Explain why reproductive health matters at this age",
+                "Identify trusted sources for reproductive health information"
+              ]
+            },
+            {
+              "title": {
+                "en": "Substance use and personal safety",
+                "fr": "Consommation de substances et sécurité personnelle",
+                "mfe": "Konsomasyon sibstans ek sekirite personel"
+              },
+              "objectives": [
+                "Explain risks associated with alcohol and drug use",
+                "Discuss how substance use affects decision making and safety",
+                "Identify strategies to avoid risky situations"
+              ]
+            },
+            {
+              "title": {
+                "en": "Seeking help and support services",
+                "fr": "Chercher de l'aide et des services de soutien",
+                "mfe": "Rod led ek servis sipor"
+              },
+              "objectives": [
+                "Identify trusted adults and services available in Mauritius",
+                "Explain how to seek help for health or safety concerns",
+                "Practise asking for support confidently"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Staying safe online",
+            "fr": "Rester en sécurité en ligne",
+            "mfe": "Res an sekirite lor internet"
+          },
+          "summary": {
+            "en": "Building skills to navigate social media, recognise online risks, and protect personal information.",
+            "fr": "Développer des compétences pour naviguer sur les réseaux sociaux, reconnaître les risques en ligne et protéger les informations personnelles.",
+            "mfe": "Devlop konpetans pou navige lor rezo sosyal, rekonet risk anlinn ek protez linformasyon personel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Understanding online risks",
+                "fr": "Comprendre les risques en ligne",
+                "mfe": "Konpran risk anlinn"
+              },
+              "objectives": [
+                "Identify common online risks facing teenagers",
+                "Explain how misinformation spreads online",
+                "Discuss the concept of digital footprint"
+              ]
+            },
+            {
+              "title": {
+                "en": "Recognising grooming and exploitation",
+                "fr": "Reconnaître le grooming et l'exploitation",
+                "mfe": "Rekonet groming ek explwatasyon"
+              },
+              "objectives": [
+                "Define online grooming in age-appropriate terms",
+                "Identify warning signs of exploitation online",
+                "Explain steps to take if approached inappropriately online"
+              ]
+            },
+            {
+              "title": {
+                "en": "Protecting personal information online",
+                "fr": "Protéger ses informations personnelles en ligne",
+                "mfe": "Protez linformasyon personel anlinn"
+              },
+              "objectives": [
+                "Explain the importance of privacy settings",
+                "Identify what information should not be shared online",
+                "Practise creating safe online habits"
+              ]
+            },
+            {
+              "title": {
+                "en": "Cyberbullying and healthy digital relationships",
+                "fr": "Cyberharcèlement et relations numériques saines",
+                "mfe": "Cyberbullying ek relasyon dizital sen"
+              },
+              "objectives": [
+                "Define cyberbullying and its effects",
+                "Explain how to respond to and report cyberbullying",
+                "Discuss qualities of respectful online interactions"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Making informed and responsible choices",
+            "fr": "Faire des choix informés et responsables",
+            "mfe": "Fer swa enform ek responsab"
+          },
+          "summary": {
+            "en": "Applying knowledge of relationships, consent and safety to make responsible decisions as a young person.",
+            "fr": "Appliquer les connaissances sur les relations, le consentement et la sécurité pour faire des choix responsables en tant que jeune.",
+            "mfe": "Aplik konesans lor relasyon, konsantman ek sekirite pou fer desizyon responsab kouma enn zenn."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Values and decision making",
+                "fr": "Valeurs et prise de décision",
+                "mfe": "Valer ek pran desizyon"
+              },
+              "objectives": [
+                "Identify personal values that guide decisions",
+                "Explain how values influence choices about relationships",
+                "Practise decision-making using a values-based approach"
+              ]
+            },
+            {
+              "title": {
+                "en": "Media influence on choices",
+                "fr": "Influence des médias sur les choix",
+                "mfe": "Lenfliyans medya lor swa"
+              },
+              "objectives": [
+                "Analyse how media portrays relationships and bodies",
+                "Discuss the difference between media portrayal and reality",
+                "Develop critical thinking skills towards media messages"
+              ]
+            },
+            {
+              "title": {
+                "en": "Planning for a healthy future",
+                "fr": "Planifier un avenir sain",
+                "mfe": "Planifye enn lavenir an bon sante"
+              },
+              "objectives": [
+                "Reflect on personal goals and aspirations",
+                "Explain how healthy relationships support future goals",
+                "Identify resources for ongoing support and guidance"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "units": [
+        {
+          "title": {
+            "en": "Puberty and body image",
+            "fr": "Puberté et image corporelle",
+            "mfe": "Piberte ek limaz likor"
+          },
+          "summary": {
+            "en": "Students revisit the physical and emotional changes of puberty and explore how to build a positive body image and healthy self-care habits.",
+            "fr": "Les élèves revoient les changements physiques et émotionnels de la puberté et explorent comment développer une image corporelle positive et de bonnes habitudes d'hygiène.",
+            "mfe": "Bann elev revwar sanzman fizik ek emosyonel pandan piberte ek dekouver kouma pou devlop enn bon limaz likor ek bon labitid liygyenn."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Physical and emotional changes in adolescence",
+                "fr": "Changements physiques et émotionnels à l'adolescence",
+                "mfe": "Sanzman fizik ek emosyonel pandan ladolesans"
+              },
+              "objectives": [
+                "Describe the main physical changes during puberty",
+                "Explain common emotional changes experienced by teenagers",
+                "Identify ways to cope with mood changes"
+              ]
+            },
+            {
+              "title": {
+                "en": "Understanding body image and self-esteem",
+                "fr": "Comprendre l'image corporelle et l'estime de soi",
+                "mfe": "Konpran limaz likor ek lestim swa"
+              },
+              "objectives": [
+                "Define body image and self-esteem",
+                "Discuss the impact of media on body image",
+                "Develop strategies to build positive self-esteem"
+              ]
+            },
+            {
+              "title": {
+                "en": "Hygiene and self-care during puberty",
+                "fr": "Hygiène et soins personnels pendant la puberté",
+                "mfe": "Liygyenn ek pran swin lekor pandan piberte"
+              },
+              "objectives": [
+                "Explain the importance of personal hygiene during puberty",
+                "Identify daily self-care practices",
+                "Apply hygiene routines suited to physical changes"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Healthy relationships and family values",
+            "fr": "Relations saines et valeurs familiales",
+            "mfe": "Relasyon ki bon ek valer fami"
+          },
+          "summary": {
+            "en": "This unit examines different types of relationships, effective communication, and the role of family values in building respectful connections.",
+            "fr": "Cette unité examine différents types de relations, la communication efficace et le rôle des valeurs familiales dans la construction de liens respectueux.",
+            "mfe": "Sa linite-la examinn diferan tip relasyon, kominikasyon efikas, ek rol valer fami pou konstrir bann relasyon respekte."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Types of relationships",
+                "fr": "Types de relations",
+                "mfe": "Diferan tip relasyon"
+              },
+              "objectives": [
+                "Identify different types of relationships in daily life",
+                "Compare healthy and unhealthy relationships",
+                "Explain the importance of mutual respect"
+              ]
+            },
+            {
+              "title": {
+                "en": "Communication skills for relationships",
+                "fr": "Compétences en communication pour les relations",
+                "mfe": "Konpetans kominikasyon pou relasyon"
+              },
+              "objectives": [
+                "Describe effective communication techniques",
+                "Practise active listening skills",
+                "Demonstrate assertive communication"
+              ]
+            },
+            {
+              "title": {
+                "en": "Family roles and values",
+                "fr": "Rôles et valeurs familiales",
+                "mfe": "Rol ek valer fami"
+              },
+              "objectives": [
+                "Explain the role of family in personal development",
+                "Discuss cultural and religious family values in Mauritius",
+                "Identify ways to strengthen family bonds"
+              ]
+            },
+            {
+              "title": {
+                "en": "Resolving conflicts respectfully",
+                "fr": "Résoudre les conflits avec respect",
+                "mfe": "Rezourd konfli avek respe"
+              },
+              "objectives": [
+                "Identify common causes of conflict in relationships",
+                "Apply conflict resolution strategies",
+                "Evaluate the outcomes of respectful conflict resolution"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Consent, respect and boundaries",
+            "fr": "Consentement, respect et limites",
+            "mfe": "Konsantman, respe ek limit personel"
+          },
+          "summary": {
+            "en": "Students learn about consent, personal boundaries, and how to recognise and respond to disrespectful or abusive behaviour.",
+            "fr": "Les élèves apprennent le consentement, les limites personnelles, et comment reconnaître et réagir face à des comportements irrespectueux ou abusifs.",
+            "mfe": "Bann elev aprann konsantman, limit personel, ek kouma pou rekonet ek reazir devan bann konportman ki manke respe ouswa abizif."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Understanding consent",
+                "fr": "Comprendre le consentement",
+                "mfe": "Konpran konsantman"
+              },
+              "objectives": [
+                "Define consent in interpersonal relationships",
+                "Explain why consent must be freely given",
+                "Identify situations where consent is required"
+              ]
+            },
+            {
+              "title": {
+                "en": "Setting personal boundaries",
+                "fr": "Établir des limites personnelles",
+                "mfe": "Etabli limit personel"
+              },
+              "objectives": [
+                "Explain the importance of personal boundaries",
+                "Practise expressing boundaries clearly",
+                "Respect the boundaries of others"
+              ]
+            },
+            {
+              "title": {
+                "en": "Recognising and preventing abuse",
+                "fr": "Reconnaître et prévenir les abus",
+                "mfe": "Rekonet ek anpes labi"
+              },
+              "objectives": [
+                "Identify signs of physical and emotional abuse",
+                "Describe steps to seek help when experiencing abuse",
+                "Explain the role of trusted adults and authorities"
+              ]
+            },
+            {
+              "title": {
+                "en": "Respecting rights and diversity",
+                "fr": "Respecter les droits et la diversité",
+                "mfe": "Respekte drwa ek diversite"
+              },
+              "objectives": [
+                "Explain the concept of human rights in relationships",
+                "Discuss respect for diverse identities and backgrounds",
+                "Promote inclusive attitudes among peers"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Gender roles and equality",
+            "fr": "Rôles de genre et égalité",
+            "mfe": "Rol zanfan garson-fi ek egalite"
+          },
+          "summary": {
+            "en": "This unit explores gender stereotypes, discrimination, and the importance of promoting equality in Mauritian society.",
+            "fr": "Cette unité explore les stéréotypes de genre, la discrimination et l'importance de promouvoir l'égalité dans la société mauricienne.",
+            "mfe": "Sa linite-la explor bann stereotip zanfan garson-fi, diskriminasyon, ek linportans promouvwar egalite dan sosyete Morisien."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Gender stereotypes in society",
+                "fr": "Les stéréotypes de genre dans la société",
+                "mfe": "Stereotip zanfan garson-fi dan sosyete"
+              },
+              "objectives": [
+                "Define gender stereotypes",
+                "Identify examples of stereotypes in Mauritian culture",
+                "Discuss the impact of stereotypes on individuals"
+              ]
+            },
+            {
+              "title": {
+                "en": "Understanding gender-based discrimination",
+                "fr": "Comprendre la discrimination fondée sur le genre",
+                "mfe": "Konpran diskriminasyon baze lor sex"
+              },
+              "objectives": [
+                "Explain what constitutes gender-based discrimination",
+                "Recognise examples of discrimination in daily life",
+                "Discuss ways to challenge discriminatory behaviour"
+              ]
+            },
+            {
+              "title": {
+                "en": "Promoting gender equality",
+                "fr": "Promouvoir l'égalité des genres",
+                "mfe": "Promouvwar egalite ant sex"
+              },
+              "objectives": [
+                "Explain the benefits of gender equality",
+                "Identify local initiatives promoting equality",
+                "Propose actions to support equality at school"
+              ]
+            },
+            {
+              "title": {
+                "en": "Media influence on gender norms",
+                "fr": "Influence des médias sur les normes de genre",
+                "mfe": "Lefe medya lor norm zanfan garson-fi"
+              },
+              "objectives": [
+                "Analyse how media portrays gender roles",
+                "Discuss the impact of advertising on perceptions",
+                "Evaluate messages from local and social media"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Reproductive health and human reproduction",
+            "fr": "Santé reproductive et reproduction humaine",
+            "mfe": "Lasante reprodiksyon ek reprodiksyon imen"
+          },
+          "summary": {
+            "en": "Students study the reproductive systems, menstrual health, and the biological process of human reproduction, correcting common myths.",
+            "fr": "Les élèves étudient les systèmes reproducteurs, la santé menstruelle et le processus biologique de la reproduction humaine, en corrigeant les idées fausses courantes.",
+            "mfe": "Bann elev etidye sistem reprodiksyon, lasante mansiyel, ek prosesis biolozik reprodiksyon imen, koriz bann fos lide komen."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Male and female reproductive systems",
+                "fr": "Systèmes reproducteurs masculin et féminin",
+                "mfe": "Sistem reprodiksyon zom ek fam"
+              },
+              "objectives": [
+                "Label the main parts of the male and female reproductive systems",
+                "Explain the function of each reproductive organ",
+                "Compare male and female reproductive processes"
+              ]
+            },
+            {
+              "title": {
+                "en": "Menstrual health and hygiene",
+                "fr": "Santé et hygiène menstruelles",
+                "mfe": "Lasante ek liygyenn mansiyel"
+              },
+              "objectives": [
+                "Explain the menstrual cycle and its phases",
+                "Discuss menstrual hygiene management practices",
+                "Address myths and stigma around menstruation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Fertility and human reproduction",
+                "fr": "Fertilité et reproduction humaine",
+                "mfe": "Fertilite ek reprodiksyon imen"
+              },
+              "objectives": [
+                "Describe the process of fertilisation and pregnancy",
+                "Explain factors affecting fertility",
+                "Discuss the stages of prenatal development"
+              ]
+            },
+            {
+              "title": {
+                "en": "Myths and facts about reproduction",
+                "fr": "Mythes et faits sur la reproduction",
+                "mfe": "Mit ek fe lor reprodiksyon"
+              },
+              "objectives": [
+                "Identify common myths about reproduction",
+                "Verify facts using reliable sources",
+                "Discuss the importance of accurate health information"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Contraception and responsible choices",
+            "fr": "Contraception et choix responsables",
+            "mfe": "Kontrasepsyon ek swa responsab"
+          },
+          "summary": {
+            "en": "This unit introduces contraception methods, decision-making skills, and the importance of delaying sexual activity responsibly.",
+            "fr": "Cette unité présente les méthodes de contraception, les compétences de prise de décision et l'importance de retarder l'activité sexuelle de manière responsable.",
+            "mfe": "Sa linite-la introdir bann metod kontrasepsyon, konpetans pran desizyon, ek linportans pou retard aktivite sexyel dan enn fason responsab."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Understanding contraception methods",
+                "fr": "Comprendre les méthodes de contraception",
+                "mfe": "Konpran metod kontrasepsyon"
+              },
+              "objectives": [
+                "Identify common contraception methods",
+                "Explain how each method prevents pregnancy",
+                "Discuss the effectiveness and limitations of methods"
+              ]
+            },
+            {
+              "title": {
+                "en": "Delaying sexual activity",
+                "fr": "Retarder l'activité sexuelle",
+                "mfe": "Retard aktivite sexyel"
+              },
+              "objectives": [
+                "Discuss reasons for delaying sexual activity",
+                "Identify peer pressure situations and responses",
+                "Develop strategies to resist unwanted pressure"
+              ]
+            },
+            {
+              "title": {
+                "en": "Decision-making about relationships",
+                "fr": "Prise de décision dans les relations",
+                "mfe": "Pran desizyon dan relasyon"
+              },
+              "objectives": [
+                "Apply a decision-making model to relationship choices",
+                "Evaluate consequences of risky behaviour",
+                "Practise assertive refusal skills"
+              ]
+            },
+            {
+              "title": {
+                "en": "Talking to trusted adults",
+                "fr": "Parler à des adultes de confiance",
+                "mfe": "Koz avek gran dimoun ki ou fer konfyans"
+              },
+              "objectives": [
+                "Identify trusted adults for guidance",
+                "Practise starting conversations about sensitive topics",
+                "Explain the benefits of seeking adult support"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "STIs, HIV and AIDS awareness",
+            "fr": "Sensibilisation aux IST, au VIH et au SIDA",
+            "mfe": "Sansibilizasyon lor MST, VIH ek SIDA"
+          },
+          "summary": {
+            "en": "Students learn about sexually transmitted infections, HIV/AIDS transmission, prevention, and available testing and support services.",
+            "fr": "Les élèves apprennent les infections sexuellement transmissibles, la transmission du VIH/SIDA, la prévention et les services de dépistage et de soutien disponibles.",
+            "mfe": "Bann elev aprann lor bann infeksyon transmet par sex, transmisyon VIH/SIDA, prevansyon, ek servis test ek soutyen ki disponib."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Common STIs and how they spread",
+                "fr": "IST courantes et leur transmission",
+                "mfe": "MST komen ek kouma zot propaze"
+              },
+              "objectives": [
+                "Identify common sexually transmitted infections",
+                "Explain how STIs are transmitted",
+                "Describe symptoms and risks of untreated STIs"
+              ]
+            },
+            {
+              "title": {
+                "en": "HIV and AIDS facts and myths",
+                "fr": "Faits et mythes sur le VIH et le SIDA",
+                "mfe": "Fe ek mit lor VIH ek SIDA"
+              },
+              "objectives": [
+                "Distinguish between HIV and AIDS",
+                "Correct common myths about HIV transmission",
+                "Discuss the importance of reducing stigma"
+              ]
+            },
+            {
+              "title": {
+                "en": "Prevention strategies for STIs and HIV",
+                "fr": "Stratégies de prévention des IST et du VIH",
+                "mfe": "Stratezi prevansyon pou MST ek VIH"
+              },
+              "objectives": [
+                "Explain effective prevention methods for STIs and HIV",
+                "Discuss the role of protection in reducing risk",
+                "Evaluate personal responsibility in prevention"
+              ]
+            },
+            {
+              "title": {
+                "en": "Testing and support services",
+                "fr": "Services de dépistage et de soutien",
+                "mfe": "Servis test ek soutyen"
+              },
+              "objectives": [
+                "Identify local testing and counselling services in Mauritius",
+                "Explain the importance of early testing",
+                "Describe how to access confidential support"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Online safety and digital citizenship",
+            "fr": "Sécurité en ligne et citoyenneté numérique",
+            "mfe": "Sekirite anlign ek sitwayennte dizital"
+          },
+          "summary": {
+            "en": "This unit addresses online risks, grooming, sexting, cyberbullying, and how to seek help and report unsafe situations online.",
+            "fr": "Cette unité traite des risques en ligne, du grooming, du sexting, de la cyberintimidation, et comment demander de l'aide et signaler des situations dangereuses en ligne.",
+            "mfe": "Sa linite-la adres bann risk anlign, groming, sexting, cyberintimidasyon, ek kouma pou demann led ek rapor bann sitiasyon danzere anlign."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Recognising online risks and grooming",
+                "fr": "Reconnaître les risques en ligne et le grooming",
+                "mfe": "Rekonet risk anlign ek groming"
+              },
+              "objectives": [
+                "Identify common online risks faced by teenagers",
+                "Explain the tactics used in online grooming",
+                "Discuss ways to protect personal information online"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sexting and digital footprint",
+                "fr": "Sexting et empreinte numérique",
+                "mfe": "Sexting ek anprint dizital"
+              },
+              "objectives": [
+                "Explain the risks and consequences of sexting",
+                "Discuss the concept of a permanent digital footprint",
+                "Identify strategies to think before sharing online"
+              ]
+            },
+            {
+              "title": {
+                "en": "Cyberbullying and online harassment",
+                "fr": "Cyberintimidation et harcèlement en ligne",
+                "mfe": "Cyberintimidasyon ek arasman anlign"
+              },
+              "objectives": [
+                "Define cyberbullying and online harassment",
+                "Recognise the impact on mental health and wellbeing",
+                "Identify ways to respond to and report cyberbullying"
+              ]
+            },
+            {
+              "title": {
+                "en": "Seeking help and reporting concerns",
+                "fr": "Demander de l'aide et signaler des préoccupations",
+                "mfe": "Demann led ek rapor bann problem"
+              },
+              "objectives": [
+                "Identify trusted people and organisations for support",
+                "Explain how to report inappropriate online content",
+                "Practise steps to seek help safely and confidentially"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "11": {
+      "units": [
+        {
+          "title": {
+            "en": "Growth, identity and self-esteem",
+            "fr": "Croissance, identité et estime de soi",
+            "mfe": "Kwasans, ledantite ek lestim pou soi"
+          },
+          "summary": {
+            "en": "Explore physical and emotional changes in late adolescence, and how identity, values and self-esteem develop during this stage of life.",
+            "fr": "Explorer les changements physiques et émotionnels de la fin de l'adolescence, ainsi que le développement de l'identité, des valeurs et de l'estime de soi.",
+            "mfe": "Explor bann sanzman fizik ek emosyonel dan lafin adolesans, ek kouma ledantite, valer ek lestim pou soi devlope dan sa etap lavi la."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Body image and self-esteem",
+                "fr": "Image du corps et estime de soi",
+                "mfe": "Imaz lekor ek lestim pou soi"
+              },
+              "objectives": [
+                "Describe common changes in body image concerns during late adolescence",
+                "Identify factors that influence self-esteem",
+                "Develop strategies to build positive self-image"
+              ]
+            },
+            {
+              "title": {
+                "en": "Emotions and mental wellbeing",
+                "fr": "Émotions et bien-être mental",
+                "mfe": "Emosyon ek byennet mantal"
+              },
+              "objectives": [
+                "Explain the link between emotional health and relationships",
+                "Recognise signs of stress and anxiety",
+                "Apply coping strategies for emotional challenges"
+              ]
+            },
+            {
+              "title": {
+                "en": "Identity, values and beliefs",
+                "fr": "Identité, valeurs et croyances",
+                "mfe": "Ledantite, valer ek krwayans"
+              },
+              "objectives": [
+                "Discuss how personal values shape decision-making",
+                "Reflect on cultural and religious influences on identity",
+                "Compare personal values with peer or media messages"
+              ]
+            },
+            {
+              "title": {
+                "en": "Managing peer pressure",
+                "fr": "Gérer la pression des pairs",
+                "mfe": "Zer presyon bann kamarad"
+              },
+              "objectives": [
+                "Identify situations involving peer pressure",
+                "Explain assertive ways to resist negative pressure",
+                "Practise refusal skills through role play"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Healthy relationships and communication",
+            "fr": "Relations saines et communication",
+            "mfe": "Relasyon an bonn sante ek kominikasyon"
+          },
+          "summary": {
+            "en": "Examine the qualities of healthy relationships and develop communication skills to build respect, trust and support in personal and family relationships.",
+            "fr": "Examiner les qualités des relations saines et développer des compétences en communication pour instaurer le respect, la confiance et le soutien.",
+            "mfe": "Egzamin bann kalite relasyon an bonn sante ek devlop konpetans kominikasyon pou ranforsi respe, konfyans ek sipor."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Qualities of healthy relationships",
+                "fr": "Qualités des relations saines",
+                "mfe": "Kalite relasyon an bonn sante"
+              },
+              "objectives": [
+                "List characteristics of respectful relationships",
+                "Distinguish between healthy and unhealthy relationship patterns",
+                "Evaluate personal relationships against these qualities"
+              ]
+            },
+            {
+              "title": {
+                "en": "Communication skills for relationships",
+                "fr": "Compétences en communication pour les relations",
+                "mfe": "Konpetans kominikasyon pou relasyon"
+              },
+              "objectives": [
+                "Practise active listening techniques",
+                "Use assertive communication to express feelings",
+                "Resolve disagreements through respectful dialogue"
+              ]
+            },
+            {
+              "title": {
+                "en": "Recognising unhealthy relationships",
+                "fr": "Reconnaître les relations malsaines",
+                "mfe": "Rekonet relasyon ki pa an bonn sante"
+              },
+              "objectives": [
+                "Identify warning signs of controlling or abusive behaviour",
+                "Explain the impact of abuse on wellbeing",
+                "Describe steps to seek help safely"
+              ]
+            },
+            {
+              "title": {
+                "en": "Family relationships and cultural values",
+                "fr": "Relations familiales et valeurs culturelles",
+                "mfe": "Relasyon fami ek valer kiltirel"
+              },
+              "objectives": [
+                "Discuss the role of family in shaping relationship values",
+                "Compare cultural expectations across Mauritian communities",
+                "Reflect on balancing family expectations with personal choices"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Consent, rights and respect",
+            "fr": "Consentement, droits et respect",
+            "mfe": "Konsantman, drwa ek respe"
+          },
+          "summary": {
+            "en": "Understand the meaning of consent, personal rights and mutual respect, and learn how to respond appropriately when boundaries are crossed.",
+            "fr": "Comprendre la signification du consentement, des droits personnels et du respect mutuel, et apprendre à réagir face aux limites franchies.",
+            "mfe": "Konpran sinifikasyon konsantman, drwa personel ek respe mityel, ek aprann kouma reponn kan bann limit finn depase."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Understanding consent",
+                "fr": "Comprendre le consentement",
+                "mfe": "Konpran konsantman"
+              },
+              "objectives": [
+                "Define consent in the context of relationships",
+                "Explain why consent must be clear and voluntary",
+                "Identify situations where consent is absent or unclear"
+              ]
+            },
+            {
+              "title": {
+                "en": "Rights and responsibilities",
+                "fr": "Droits et responsabilités",
+                "mfe": "Drwa ek responsabilite"
+              },
+              "objectives": [
+                "Outline personal rights within relationships",
+                "Explain responsibilities that come with these rights",
+                "Discuss laws in Mauritius protecting young people"
+              ]
+            },
+            {
+              "title": {
+                "en": "Respecting boundaries and diversity",
+                "fr": "Respecter les limites et la diversité",
+                "mfe": "Respe limit ek diversite"
+              },
+              "objectives": [
+                "Explain the importance of personal boundaries",
+                "Show respect for diverse identities and backgrounds",
+                "Practise respectful responses to differing opinions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Being a responsible bystander",
+                "fr": "Être un témoin responsable",
+                "mfe": "Vinn enn temwen responsab"
+              },
+              "objectives": [
+                "Describe the role of a bystander in unsafe situations",
+                "Identify safe ways to intervene or seek help",
+                "Explain the importance of supporting others without judgment"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Gender, equality and social norms",
+            "fr": "Genre, égalité et normes sociales",
+            "mfe": "Zanr, egalite ek norm sosyal"
+          },
+          "summary": {
+            "en": "Analyse gender roles, stereotypes and gender-based violence, and explore ways to promote equality and respect in Mauritian society.",
+            "fr": "Analyser les rôles de genre, les stéréotypes et la violence basée sur le genre, et explorer des moyens de promouvoir l'égalité.",
+            "mfe": "Analiz rol zanr, stereotip ek vyolans baze lor zanr, ek explor bann fason pou promouvwar egalite dan sosyete Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Gender roles and stereotypes",
+                "fr": "Rôles de genre et stéréotypes",
+                "mfe": "Rol zanr ek stereotip"
+              },
+              "objectives": [
+                "Identify common gender stereotypes in Mauritian society",
+                "Explain how stereotypes can limit personal choices",
+                "Challenge stereotypes through everyday examples"
+              ]
+            },
+            {
+              "title": {
+                "en": "Gender-based violence and response",
+                "fr": "Violence basée sur le genre et réponse",
+                "mfe": "Vyolans baze lor zanr ek repons"
+              },
+              "objectives": [
+                "Define different forms of gender-based violence",
+                "Identify support services available in Mauritius",
+                "Describe steps to report or seek help safely"
+              ]
+            },
+            {
+              "title": {
+                "en": "Promoting gender equality",
+                "fr": "Promouvoir l'égalité des genres",
+                "mfe": "Promouvwar egalite zanr"
+              },
+              "objectives": [
+                "Discuss the benefits of gender equality for society",
+                "Identify actions to promote equality at school and home",
+                "Reflect on personal attitudes towards gender roles"
+              ]
+            },
+            {
+              "title": {
+                "en": "Media influence on relationships",
+                "fr": "Influence des médias sur les relations",
+                "mfe": "Lenfliyans medya lor relasyon"
+              },
+              "objectives": [
+                "Analyse how media portrays gender and relationships",
+                "Discuss the impact of unrealistic media messages",
+                "Develop critical thinking about media content"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Sexual health and safety",
+            "fr": "Santé et sécurité sexuelles",
+            "mfe": "Lasante ek sekirite seksyel"
+          },
+          "summary": {
+            "en": "Learn about reproductive health, sexually transmitted infections, HIV prevention, and how to access confidential health services.",
+            "fr": "Apprendre la santé reproductive, les infections sexuellement transmissibles, la prévention du VIH et l'accès aux services de santé confidentiels.",
+            "mfe": "Aprann lor lasante reproduktif, enfeksyon transmet par sex, prevansyon VIH ek kouma gagn aksed a servis lasante konfidansyel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Reproductive health revision",
+                "fr": "Révision de la santé reproductive",
+                "mfe": "Revizyon lasante reproduktif"
+              },
+              "objectives": [
+                "Review the male and female reproductive systems",
+                "Explain the menstrual cycle and fertility basics",
+                "Identify signs of common reproductive health issues"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sexually transmitted infections",
+                "fr": "Infections sexuellement transmissibles",
+                "mfe": "Enfeksyon transmet par sex"
+              },
+              "objectives": [
+                "Identify common sexually transmitted infections",
+                "Explain how STIs are transmitted and prevented",
+                "Discuss the importance of early testing and treatment"
+              ]
+            },
+            {
+              "title": {
+                "en": "HIV and AIDS awareness",
+                "fr": "Sensibilisation au VIH et au SIDA",
+                "mfe": "Sansibilizasyon lor VIH ek SIDA"
+              },
+              "objectives": [
+                "Explain how HIV is transmitted and prevented",
+                "Address myths and stigma surrounding HIV/AIDS",
+                "Describe support available for people living with HIV"
+              ]
+            },
+            {
+              "title": {
+                "en": "Accessing health services",
+                "fr": "Accéder aux services de santé",
+                "mfe": "Gagn aksed a servis lasante"
+              },
+              "objectives": [
+                "Identify confidential health services available to youth",
+                "Explain patient rights and confidentiality",
+                "Describe how to seek advice without fear or judgment"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Pregnancy, contraception and family planning",
+            "fr": "Grossesse, contraception et planification familiale",
+            "mfe": "Gwoses, kontrasepsyon ek planifikasyon familyal"
+          },
+          "summary": {
+            "en": "Understand contraception methods, the realities of teenage pregnancy, and the importance of planning for future family life.",
+            "fr": "Comprendre les méthodes de contraception, les réalités de la grossesse chez les adolescentes et l'importance de la planification familiale.",
+            "mfe": "Konpran metod kontrasepsyon, realite gwoses adolesant ek lenportans planifikasyon pou lavenir familyal."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Contraception methods",
+                "fr": "Méthodes de contraception",
+                "mfe": "Metod kontrasepsyon"
+              },
+              "objectives": [
+                "Describe common contraception methods and their effectiveness",
+                "Explain how contraception supports responsible decision-making",
+                "Discuss where to access contraception advice confidentially"
+              ]
+            },
+            {
+              "title": {
+                "en": "Teenage pregnancy: risks and decisions",
+                "fr": "Grossesse chez les adolescentes : risques et décisions",
+                "mfe": "Gwoses adolesant: risk ek desizyon"
+              },
+              "objectives": [
+                "Explain physical and social risks of teenage pregnancy",
+                "Discuss options and support available for pregnant teens",
+                "Reflect on the importance of informed decision-making"
+              ]
+            },
+            {
+              "title": {
+                "en": "Family planning and future goals",
+                "fr": "Planification familiale et objectifs futurs",
+                "mfe": "Planifikasyon familyal ek lobzektif lavenir"
+              },
+              "objectives": [
+                "Explain the purpose of family planning",
+                "Discuss how life goals influence family planning decisions",
+                "Identify resources for family planning guidance"
+              ]
+            },
+            {
+              "title": {
+                "en": "Seeking confidential advice",
+                "fr": "Rechercher des conseils confidentiels",
+                "mfe": "Rod konsey konfidansyel"
+              },
+              "objectives": [
+                "Identify trusted adults and services for confidential advice",
+                "Explain the importance of confidentiality in health matters",
+                "Describe how to approach sensitive conversations with professionals"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Online safety and digital relationships",
+            "fr": "Sécurité en ligne et relations numériques",
+            "mfe": "Sekirite anlinn ek relasyon dizital"
+          },
+          "summary": {
+            "en": "Explore the risks of online relationships, digital reputation, sexting and grooming, and learn strategies to stay safe online.",
+            "fr": "Explorer les risques des relations en ligne, la réputation numérique, le sexting et le grooming, et apprendre à rester en sécurité en ligne.",
+            "mfe": "Explor risk relasyon anlinn, reputasyon dizital, sexting ek grooming, ek aprann strateji pou reste an sekirite anlinn."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Digital footprint and reputation",
+                "fr": "Empreinte numérique et réputation",
+                "mfe": "Lanpremp dizital ek reputasyon"
+              },
+              "objectives": [
+                "Explain how online actions affect personal reputation",
+                "Identify long-term consequences of shared digital content",
+                "Apply strategies to manage online presence responsibly"
+              ]
+            },
+            {
+              "title": {
+                "en": "Risks of sexting and exploitation",
+                "fr": "Risques du sexting et de l'exploitation",
+                "mfe": "Risk sexting ek exploitasyon"
+              },
+              "objectives": [
+                "Define sexting and its legal implications for minors",
+                "Explain risks of sharing intimate images online",
+                "Discuss how to respond if pressured to share content"
+              ]
+            },
+            {
+              "title": {
+                "en": "Recognising online grooming",
+                "fr": "Reconnaître le grooming en ligne",
+                "mfe": "Rekonet grooming anlinn"
+              },
+              "objectives": [
+                "Identify warning signs of online grooming",
+                "Explain tactics used by online predators",
+                "Describe steps to report suspicious online behaviour"
+              ]
+            },
+            {
+              "title": {
+                "en": "Staying safe on social media",
+                "fr": "Rester en sécurité sur les réseaux sociaux",
+                "mfe": "Reste an sekirite lor rezo sosyal"
+              },
+              "objectives": [
+                "Apply privacy settings to protect personal information",
+                "Evaluate risks of meeting online contacts in person",
+                "Discuss safe practices for social media and dating apps"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Preparing for adulthood",
+            "fr": "Se préparer à l'âge adulte",
+            "mfe": "Prepar pou vinn adilt"
+          },
+          "summary": {
+            "en": "Reflect on personal values, decision-making skills and available support services to make informed choices about relationships, health and the future.",
+            "fr": "Réfléchir sur les valeurs personnelles, les compétences de décision et les services disponibles pour faire des choix éclairés.",
+            "mfe": "Reflekt lor valer personel, konpetans pran desizyon ek servis disponib pou fer swa eklere lor relasyon, lasante ek lavenir."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Setting personal goals and values",
+                "fr": "Définir ses objectifs et valeurs personnels",
+                "mfe": "Fixe lobzektif ek valer personel"
+              },
+              "objectives": [
+                "Identify personal values that guide life choices",
+                "Set realistic short-term and long-term goals",
+                "Explain how values influence relationship decisions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Decision-making under pressure",
+                "fr": "Prise de décision sous pression",
+                "mfe": "Pran desizyon anba presyon"
+              },
+              "objectives": [
+                "Apply a decision-making framework to real-life scenarios",
+                "Identify risks of impulsive decisions in relationships",
+                "Practise strategies to pause and think before acting"
+              ]
+            },
+            {
+              "title": {
+                "en": "Seeking help and support services",
+                "fr": "Rechercher de l'aide et des services de soutien",
+                "mfe": "Rod led ek servis sipor"
+              },
+              "objectives": [
+                "List support services available to youth in Mauritius",
+                "Explain how and when to seek professional help",
+                "Discuss the importance of not facing problems alone"
+              ]
+            },
+            {
+              "title": {
+                "en": "Building a future: education and relationships",
+                "fr": "Construire son avenir : éducation et relations",
+                "mfe": "Konstrir lavenir: ledikasyon ek relasyon"
+              },
+              "objectives": [
+                "Discuss how education and career goals relate to relationship choices",
+                "Reflect on balancing personal aspirations with relationships",
+                "Identify steps to build a healthy and fulfilling future"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

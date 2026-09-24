@@ -68,7 +68,14 @@ Architecture, data model and phase plan: `docs/PLAN.md`.
 - `npm run lint`, `npm run typecheck`, `npm run build`
 - `npm test`: Playwright (projects `mobile-360` and `desktop`, includes axe WCAG 2.1 AA checks)
 - `npx supabase db push`: apply `supabase/migrations` to the linked project
-- `npx supabase gen types typescript --linked > src/lib/supabase/database.types.ts`
+- `npx supabase gen types typescript --linked > src/lib/supabase/generated.types.ts` (after every migration; app code imports from `database.types.ts`)
+- Curriculum: `node --env-file=.env.local scripts/curriculum/generate.mts [subject…]` drafts outlines into `supabase/curriculum/*.json` (review there), then `node scripts/curriculum/to-sql.mts supabase/migrations/<timestamp>_seed_curriculum.sql` and `npx supabase db push`. Unit/lesson ids are UUID v5 of subject/grade/position, so keep positions stable.
+
+## AI content
+
+- Models live in `src/server/ai/models.ts` (Sonnet 5 main, Haiku 4.5 fast). Prompts in `src/server/ai/prompts/` (server-only).
+- Lesson content is generated once per lesson and language (`lesson_content`), shared by all students; generation goes through `POST /api/lessons/[lessonId]/content`, which enforces `consumeAiQuota()`.
+- Language subjects are taught in their own language (`contentLocale()` in `src/lib/lesson-content.ts`).
 
 ## Environment
 

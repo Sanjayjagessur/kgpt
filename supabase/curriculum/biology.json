@@ -1,0 +1,3429 @@
+{
+  "subject": "biology",
+  "grades": {
+    "7": {
+      "units": [
+        {
+          "title": {
+            "en": "Characteristics of living things",
+            "fr": "Caractéristiques des êtres vivants",
+            "mfe": "Karakteristik bann kreatir vivan"
+          },
+          "summary": {
+            "en": "Students explore what distinguishes living things from non-living things and learn the basic classification of organisms.",
+            "fr": "Les élèves découvrent ce qui distingue les êtres vivants des objets non vivants et apprennent la classification de base des organismes.",
+            "mfe": "Bann elev explor seki diferansie bann kreatir vivan ar bann kitsoz non-vivan ek aprann klasifikasion baz bann organism."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Living vs non-living things",
+                "fr": "Vivant contre non-vivant",
+                "mfe": "Vivan kont non-vivan"
+              },
+              "objectives": [
+                "List the characteristics shared by all living organisms",
+                "Distinguish living things from non-living things using examples from Mauritius",
+                "Explain why viruses are considered a special case"
+              ]
+            },
+            {
+              "title": {
+                "en": "Introducing classification",
+                "fr": "Introduction à la classification",
+                "mfe": "Introdiksion lor klasifikasion"
+              },
+              "objectives": [
+                "Explain why scientists classify living organisms",
+                "Identify the five kingdoms of living things",
+                "Give local examples for each kingdom"
+              ]
+            },
+            {
+              "title": {
+                "en": "Using keys to identify organisms",
+                "fr": "Utiliser des clés d'identification",
+                "mfe": "Servi kle pou idantifie bann organism"
+              },
+              "objectives": [
+                "Construct a simple dichotomous key",
+                "Use a key to identify common Mauritian plants or animals",
+                "Justify the choice of features used in a key"
+              ]
+            },
+            {
+              "title": {
+                "en": "Variation among living things",
+                "fr": "La variation chez les êtres vivants",
+                "mfe": "Variasion parmi bann kreatir vivan"
+              },
+              "objectives": [
+                "Describe examples of variation within a species",
+                "Distinguish between inherited and environmental variation",
+                "Record and compare variation data collected in class"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Cells: the basic units of life",
+            "fr": "Les cellules : unités de base de la vie",
+            "mfe": "Selil: linite baz lavi"
+          },
+          "summary": {
+            "en": "Students learn about cell structure, the differences between plant and animal cells, and how cells form tissues and organs.",
+            "fr": "Les élèves étudient la structure cellulaire, les différences entre cellules végétales et animales, et comment les cellules forment des tissus et des organes.",
+            "mfe": "Bann elev aprann lor striktir selil, diferans ant selil plant ek selil zanimo, ek kouma selil form tisi ek organ."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Discovering the cell",
+                "fr": "Découvrir la cellule",
+                "mfe": "Dekouver selil"
+              },
+              "objectives": [
+                "Describe the history of the discovery of cells",
+                "Explain the function of a microscope",
+                "Identify basic parts of a light microscope"
+              ]
+            },
+            {
+              "title": {
+                "en": "Plant and animal cells",
+                "fr": "Cellules végétales et animales",
+                "mfe": "Selil plant ek selil zanimo"
+              },
+              "objectives": [
+                "Draw and label a typical plant cell",
+                "Draw and label a typical animal cell",
+                "Compare structures found in plant and animal cells"
+              ]
+            },
+            {
+              "title": {
+                "en": "From cells to organisms",
+                "fr": "Des cellules aux organismes",
+                "mfe": "Depi selil ziska organism"
+              },
+              "objectives": [
+                "Explain the relationship between cells, tissues, organs and systems",
+                "Give examples of tissues and organs in humans and plants",
+                "Sequence the levels of organisation in living things"
+              ]
+            },
+            {
+              "title": {
+                "en": "Specialised cells",
+                "fr": "Cellules spécialisées",
+                "mfe": "Selil spesialize"
+              },
+              "objectives": [
+                "Describe examples of specialised cells such as root hair and nerve cells",
+                "Relate cell structure to cell function",
+                "Explain why cells become specialised"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Nutrition and the digestive system",
+            "fr": "La nutrition et le système digestif",
+            "mfe": "Nitrisyon ek sistenm dizestif"
+          },
+          "summary": {
+            "en": "Students learn about food groups, a balanced diet, and how the human digestive system breaks down and absorbs food.",
+            "fr": "Les élèves apprennent les groupes alimentaires, une alimentation équilibrée et comment le système digestif humain décompose et absorbe les aliments.",
+            "mfe": "Bann elev aprann lor group manze, enn dyet ekilibre, ek kouma sistenm dizestif imin kraze ek absorb manze."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Food groups and balanced diet",
+                "fr": "Groupes alimentaires et alimentation équilibrée",
+                "mfe": "Group manze ek dyet ekilibre"
+              },
+              "objectives": [
+                "Identify the main food groups found in a Mauritian meal",
+                "Explain the role of each nutrient in the body",
+                "Plan a balanced meal using local foods"
+              ]
+            },
+            {
+              "title": {
+                "en": "Journey through the digestive system",
+                "fr": "Voyage à travers le système digestif",
+                "mfe": "Vwayaz atraver sistenm dizestif"
+              },
+              "objectives": [
+                "Name the main organs of the digestive system in order",
+                "Describe the function of each organ",
+                "Trace the path of food from mouth to anus"
+              ]
+            },
+            {
+              "title": {
+                "en": "Digestion and enzymes",
+                "fr": "La digestion et les enzymes",
+                "mfe": "Dizestion ek enzim"
+              },
+              "objectives": [
+                "Explain the role of enzymes in digestion",
+                "Describe where digestion of carbohydrates, proteins and fats begins",
+                "Explain the difference between mechanical and chemical digestion"
+              ]
+            },
+            {
+              "title": {
+                "en": "Absorption and healthy eating",
+                "fr": "L'absorption et une alimentation saine",
+                "mfe": "Absorpsion ek manz sante"
+              },
+              "objectives": [
+                "Explain how digested food is absorbed in the small intestine",
+                "Describe common diet-related health problems",
+                "Suggest healthy eating habits for teenagers"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Green plants and photosynthesis",
+            "fr": "Les plantes vertes et la photosynthèse",
+            "mfe": "Plant ver ek fotosentez"
+          },
+          "summary": {
+            "en": "Students study plant structure and discover how plants make their own food through photosynthesis.",
+            "fr": "Les élèves étudient la structure des plantes et découvrent comment elles fabriquent leur propre nourriture par photosynthèse.",
+            "mfe": "Bann elev etidie striktir plant ek dekouver kouma plant fabrik zot prop manze par fotosentez."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Structure of a flowering plant",
+                "fr": "Structure d'une plante à fleurs",
+                "mfe": "Striktir enn plant ki gagn fler"
+              },
+              "objectives": [
+                "Label the main parts of a flowering plant",
+                "Describe the function of roots, stems, leaves and flowers",
+                "Compare structures of different local plants"
+              ]
+            },
+            {
+              "title": {
+                "en": "Leaves and photosynthesis",
+                "fr": "Les feuilles et la photosynthèse",
+                "mfe": "Fey ek fotosentez"
+              },
+              "objectives": [
+                "State the word equation for photosynthesis",
+                "Explain how leaves are adapted for photosynthesis",
+                "Identify factors needed for photosynthesis to occur"
+              ]
+            },
+            {
+              "title": {
+                "en": "Testing for starch in leaves",
+                "fr": "Tester l'amidon dans les feuilles",
+                "mfe": "Teste lamidon dan fey"
+              },
+              "objectives": [
+                "Describe a simple experiment to test a leaf for starch",
+                "Explain why sunlight is necessary for starch production",
+                "Interpret results of a starch test experiment"
+              ]
+            },
+            {
+              "title": {
+                "en": "Transport in plants",
+                "fr": "Le transport dans les plantes",
+                "mfe": "Transpor dan plant"
+              },
+              "objectives": [
+                "Describe the role of xylem and phloem in a plant",
+                "Explain how water moves from roots to leaves",
+                "Relate transpiration to water loss in plants"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Transport and breathing in humans",
+            "fr": "Le transport et la respiration chez l'homme",
+            "mfe": "Transpor ek respirasion lor imin"
+          },
+          "summary": {
+            "en": "Students explore how the human body transports substances through blood and how the respiratory system supplies oxygen for the body.",
+            "fr": "Les élèves explorent comment le corps humain transporte les substances par le sang et comment le système respiratoire fournit l'oxygène au corps.",
+            "mfe": "Bann elev explor kouma lekor imin transport bann sibstans par disan ek kouma sistenm respiratwar donn lekor oksizenn."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "The heart and blood vessels",
+                "fr": "Le cœur et les vaisseaux sanguins",
+                "mfe": "Leker ek bann vezo sanginer"
+              },
+              "objectives": [
+                "Label the main parts of the heart",
+                "Describe the function of arteries, veins and capillaries",
+                "Explain the general path of blood circulation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Composition and function of blood",
+                "fr": "Composition et fonction du sang",
+                "mfe": "Konpozisyon ek fonksion disan"
+              },
+              "objectives": [
+                "Identify the components of blood",
+                "Describe the function of red cells, white cells and platelets",
+                "Explain why blood is important for the body"
+              ]
+            },
+            {
+              "title": {
+                "en": "The respiratory system",
+                "fr": "Le système respiratoire",
+                "mfe": "Sistenm respiratwar"
+              },
+              "objectives": [
+                "Label the main organs of the human respiratory system",
+                "Describe the pathway of air from nose to lungs",
+                "Explain the process of gaseous exchange in the alveoli"
+              ]
+            },
+            {
+              "title": {
+                "en": "Breathing and exercise",
+                "fr": "La respiration et l'exercice",
+                "mfe": "Respirasion ek lexersis"
+              },
+              "objectives": [
+                "Explain the difference between breathing and respiration",
+                "Investigate how exercise affects breathing rate",
+                "Explain the effects of smoking on the respiratory system"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Ecosystems and interdependence",
+            "fr": "Écosystèmes et interdépendance",
+            "mfe": "Ekosistenm ek enterdepandans"
+          },
+          "summary": {
+            "en": "Students investigate how organisms depend on each other and their environment, using Mauritian ecosystems as examples.",
+            "fr": "Les élèves examinent comment les organismes dépendent les uns des autres et de leur environnement, avec des écosystèmes mauriciens comme exemples.",
+            "mfe": "Bann elev examinn kouma bann organism depann lor kanmarad ek lor zot lanviron, servi bann ekosistenm morisien kouma lexanp."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "What is an ecosystem?",
+                "fr": "Qu'est-ce qu'un écosystème ?",
+                "mfe": "Kisannla enn ekosistenm?"
+              },
+              "objectives": [
+                "Define the terms habitat, population and community",
+                "Describe examples of Mauritian ecosystems such as lagoons and forests",
+                "Explain the relationship between an organism and its habitat"
+              ]
+            },
+            {
+              "title": {
+                "en": "Food chains and food webs",
+                "fr": "Chaînes et réseaux alimentaires",
+                "mfe": "Sen alimanter ek rezo alimanter"
+              },
+              "objectives": [
+                "Construct a food chain using local organisms",
+                "Combine food chains to build a food web",
+                "Explain the roles of producers, consumers and decomposers"
+              ]
+            },
+            {
+              "title": {
+                "en": "Adaptation to the environment",
+                "fr": "L'adaptation à l'environnement",
+                "mfe": "Adaptasion a lanviron"
+              },
+              "objectives": [
+                "Explain what is meant by adaptation",
+                "Describe adaptations of organisms found in Mauritius",
+                "Relate adaptations to survival in a particular habitat"
+              ]
+            },
+            {
+              "title": {
+                "en": "Human impact on ecosystems",
+                "fr": "Impact humain sur les écosystèmes",
+                "mfe": "Lenpak imin lor ekosistenm"
+              },
+              "objectives": [
+                "Describe human activities that affect local ecosystems",
+                "Explain the importance of conserving biodiversity in Mauritius",
+                "Suggest ways to reduce human impact on the environment"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Health, hygiene and growth",
+            "fr": "Santé, hygiène et croissance",
+            "mfe": "Lasante, ladiziyenn ek kwasans"
+          },
+          "summary": {
+            "en": "Students learn about personal hygiene, common diseases, and the basics of human growth and development.",
+            "fr": "Les élèves apprennent l'hygiène personnelle, les maladies courantes et les bases de la croissance et du développement humain.",
+            "mfe": "Bann elev aprann ladiziyenn personel, bann maladi kouran, ek baz kwasans ek devlopman imin."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Personal hygiene and disease prevention",
+                "fr": "Hygiène personnelle et prévention des maladies",
+                "mfe": "Ladiziyenn personel ek prevansion maladi"
+              },
+              "objectives": [
+                "Explain the link between hygiene and health",
+                "Describe practices that prevent the spread of disease",
+                "Identify common infectious diseases in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Germs and the body's defences",
+                "fr": "Les microbes et les défenses du corps",
+                "mfe": "Mikrob ek defans lekor"
+              },
+              "objectives": [
+                "Describe types of microorganisms that cause disease",
+                "Explain how the body defends itself against pathogens",
+                "Explain the importance of vaccination"
+              ]
+            },
+            {
+              "title": {
+                "en": "Growth and development",
+                "fr": "Croissance et développement",
+                "mfe": "Kwasans ek devlopman"
+              },
+              "objectives": [
+                "Describe the main stages of human growth from birth to adulthood",
+                "Explain the physical changes that occur during puberty",
+                "Discuss the importance of a healthy lifestyle during growth"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "8": {
+      "units": [
+        {
+          "title": {
+            "en": "Cells: building blocks of life",
+            "fr": "Les cellules : unités de base de la vie",
+            "mfe": "Selil: bann element debaz lavi"
+          },
+          "summary": {
+            "en": "Students explore the structure of plant and animal cells, use microscopes, and understand how cells organise into tissues, organs and systems.",
+            "fr": "Les élèves explorent la structure des cellules végétales et animales, utilisent des microscopes et comprennent comment les cellules s'organisent en tissus, organes et systèmes.",
+            "mfe": "Bann etidian pou explor lastrikti selil plant ek zanimo, servi mikroskop, ek konpran kouman selil form tisi, organn ek sistenm."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Introducing the cell",
+                "fr": "Introduction à la cellule",
+                "mfe": "Introdiksion ar selil"
+              },
+              "objectives": [
+                "Describe the basic parts of a cell",
+                "State that cells are the basic unit of life",
+                "Identify the nucleus, cytoplasm and cell membrane"
+              ]
+            },
+            {
+              "title": {
+                "en": "Plant cells versus animal cells",
+                "fr": "Cellules végétales et cellules animales",
+                "mfe": "Selil plant ek selil zanimo"
+              },
+              "objectives": [
+                "Compare the structures of plant and animal cells",
+                "Identify the cell wall, chloroplast and vacuole in plant cells",
+                "Explain why these structural differences exist"
+              ]
+            },
+            {
+              "title": {
+                "en": "From cells to organisms",
+                "fr": "Des cellules aux organismes",
+                "mfe": "Depi selil ziska lorganism"
+              },
+              "objectives": [
+                "Explain the levels of organisation: cells, tissues, organs, systems",
+                "Give examples of tissues and organs in humans",
+                "Describe how organisation supports survival"
+              ]
+            },
+            {
+              "title": {
+                "en": "Using a microscope",
+                "fr": "Utiliser un microscope",
+                "mfe": "Servi enn mikroskop"
+              },
+              "objectives": [
+                "Identify the parts of a light microscope",
+                "Explain how to prepare a simple slide",
+                "Describe safe handling of microscopes"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Classifying living organisms",
+            "fr": "Classification des êtres vivants",
+            "mfe": "Klasifikasion bann letr vivan"
+          },
+          "summary": {
+            "en": "Learners discover why scientists classify organisms and explore the main groups of living things found in Mauritius and beyond.",
+            "fr": "Les élèves découvrent pourquoi les scientifiques classifient les organismes et explorent les grands groupes d'êtres vivants présents à Maurice et ailleurs.",
+            "mfe": "Bann aprenan dekouver kifer bann syantifik klasifie bann organism ek explor bann gran group letr vivan ki ena Moris ek aiyer."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Why classify living things",
+                "fr": "Pourquoi classifier les êtres vivants",
+                "mfe": "Kifer nou klasifie letr vivan"
+              },
+              "objectives": [
+                "Explain the purpose of classification",
+                "Describe how organisms are grouped by shared features",
+                "Give examples of local plants and animals in different groups"
+              ]
+            },
+            {
+              "title": {
+                "en": "The five kingdoms",
+                "fr": "Les cinq règnes",
+                "mfe": "Bann sink renn"
+              },
+              "objectives": [
+                "Name the five kingdoms of living things",
+                "Describe general features of each kingdom",
+                "Give local examples for each kingdom"
+              ]
+            },
+            {
+              "title": {
+                "en": "Vertebrates and invertebrates",
+                "fr": "Vertébrés et invertébrés",
+                "mfe": "Vertebre ek invertebre"
+              },
+              "objectives": [
+                "Distinguish vertebrates from invertebrates",
+                "Classify vertebrates into main groups",
+                "Identify common Mauritian animals within each group"
+              ]
+            },
+            {
+              "title": {
+                "en": "Using classification keys",
+                "fr": "Utiliser des clés de classification",
+                "mfe": "Servi bann kle klasifikasion"
+              },
+              "objectives": [
+                "Construct a simple dichotomous key",
+                "Use a key to identify unfamiliar organisms",
+                "Explain the value of keys in biology"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Nutrition in plants",
+            "fr": "La nutrition chez les plantes",
+            "mfe": "Nitrision dan plant"
+          },
+          "summary": {
+            "en": "Students investigate how plants make their own food through photosynthesis and how leaf structure supports this process.",
+            "fr": "Les élèves étudient comment les plantes fabriquent leur propre nourriture par la photosynthèse et comment la structure de la feuille favorise ce processus.",
+            "mfe": "Bann etidian etidie kouman plant fabrike zot prop manze atraver fotosintez ek kouman lastrikti fey ed dan sa prosesis la."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "What is photosynthesis",
+                "fr": "Qu'est-ce que la photosynthèse",
+                "mfe": "Kisannla fotosintez"
+              },
+              "objectives": [
+                "State the word equation for photosynthesis",
+                "Identify the raw materials and products of photosynthesis",
+                "Explain the importance of photosynthesis for life on Earth"
+              ]
+            },
+            {
+              "title": {
+                "en": "Leaf structure for photosynthesis",
+                "fr": "Structure de la feuille pour la photosynthèse",
+                "mfe": "Lastrikti fey pou fotosintez"
+              },
+              "objectives": [
+                "Label the parts of a leaf",
+                "Relate leaf structure to its function",
+                "Describe the role of stomata and chloroplasts"
+              ]
+            },
+            {
+              "title": {
+                "en": "Factors affecting photosynthesis",
+                "fr": "Facteurs influençant la photosynthèse",
+                "mfe": "Bann fakter ki kontrol fotosintez"
+              },
+              "objectives": [
+                "Identify light, carbon dioxide and temperature as limiting factors",
+                "Predict effects of changing these factors",
+                "Relate findings to growing crops in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mineral nutrition in plants",
+                "fr": "La nutrition minérale chez les plantes",
+                "mfe": "Nitrision mineral dan plant"
+              },
+              "objectives": [
+                "Explain why plants need nitrates and magnesium",
+                "Describe deficiency symptoms in plants",
+                "Relate mineral nutrition to fertiliser use in agriculture"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Nutrition in humans",
+            "fr": "La nutrition chez l'humain",
+            "mfe": "Nitrision dan limin"
+          },
+          "summary": {
+            "en": "This unit covers balanced diets, the human digestive system and the importance of dental care for good health.",
+            "fr": "Cette unité aborde l'alimentation équilibrée, le système digestif humain et l'importance des soins dentaires pour une bonne santé.",
+            "mfe": "Sa linite la kouver alimantasion ekilibre, sistenm dizestif limin ek linportans swin dan pou enn bon lasante."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "A balanced diet",
+                "fr": "Une alimentation équilibrée",
+                "mfe": "Enn alimantasion ekilibre"
+              },
+              "objectives": [
+                "Name the main food groups and nutrients",
+                "Explain the role of each nutrient in the body",
+                "Plan a balanced meal using local foods"
+              ]
+            },
+            {
+              "title": {
+                "en": "The human digestive system",
+                "fr": "Le système digestif humain",
+                "mfe": "Sistenm dizestif limin"
+              },
+              "objectives": [
+                "Label the main organs of the digestive system",
+                "Describe the pathway of food through the body",
+                "Explain the function of each organ"
+              ]
+            },
+            {
+              "title": {
+                "en": "Enzymes and digestion",
+                "fr": "Les enzymes et la digestion",
+                "mfe": "Anzim ek dizestion"
+              },
+              "objectives": [
+                "Explain what enzymes do during digestion",
+                "Name key digestive enzymes and where they act",
+                "Describe how enzymes speed up chemical reactions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Teeth and dental care",
+                "fr": "Les dents et l'hygiène dentaire",
+                "mfe": "Ledan ek prekosion pou zot"
+              },
+              "objectives": [
+                "Identify the types of human teeth and their functions",
+                "Explain the causes of tooth decay",
+                "Describe good practices for dental hygiene"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Transport systems in living things",
+            "fr": "Systèmes de transport chez les êtres vivants",
+            "mfe": "Sistenm transpor dan letr vivan"
+          },
+          "summary": {
+            "en": "Learners study how blood circulates in humans and how water and nutrients move through plants.",
+            "fr": "Les élèves étudient comment le sang circule chez l'humain et comment l'eau et les nutriments se déplacent dans les plantes.",
+            "mfe": "Bann aprenan etidie kouman disan sirkile dan limin ek kouman delo ek nitriman deplase dan plant."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "The heart and circulation",
+                "fr": "Le cœur et la circulation",
+                "mfe": "Leker ek sirkilasion"
+              },
+              "objectives": [
+                "Describe the structure and function of the heart",
+                "Explain the path of blood through the circulatory system",
+                "Relate heart rate to physical activity"
+              ]
+            },
+            {
+              "title": {
+                "en": "Blood and its functions",
+                "fr": "Le sang et ses fonctions",
+                "mfe": "Disan ek so fonksion"
+              },
+              "objectives": [
+                "Name the components of blood",
+                "Describe the function of red cells, white cells and platelets",
+                "Explain how blood helps fight infection"
+              ]
+            },
+            {
+              "title": {
+                "en": "Transport tissues in plants",
+                "fr": "Les tissus conducteurs chez les plantes",
+                "mfe": "Tisi transpor dan plant"
+              },
+              "objectives": [
+                "Identify xylem and phloem in a plant stem",
+                "Describe the function of each transport tissue",
+                "Relate structure to function in transport tissues"
+              ]
+            },
+            {
+              "title": {
+                "en": "Transpiration in plants",
+                "fr": "La transpiration chez les plantes",
+                "mfe": "Transpirasion dan plant"
+              },
+              "objectives": [
+                "Define transpiration and explain its purpose",
+                "Describe factors that affect the rate of transpiration",
+                "Explain how transpiration helps water and mineral uptake"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Respiration and gas exchange",
+            "fr": "La respiration et les échanges gazeux",
+            "mfe": "Respirasion ek lesanz gaz"
+          },
+          "summary": {
+            "en": "Students learn how humans breathe, exchange gases, and how cellular respiration releases energy from food.",
+            "fr": "Les élèves apprennent comment les humains respirent, échangent des gaz et comment la respiration cellulaire libère de l'énergie à partir des aliments.",
+            "mfe": "Bann etidian aprann kouman limin respire, fer lesanz gaz, ek kouman respirasion seliler lib lenerzi depi manze."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "The human breathing system",
+                "fr": "Le système respiratoire humain",
+                "mfe": "Sistenm respiratwar limin"
+              },
+              "objectives": [
+                "Label the main parts of the breathing system",
+                "Describe the mechanism of breathing in and out",
+                "Explain the role of the ribcage and diaphragm"
+              ]
+            },
+            {
+              "title": {
+                "en": "Gas exchange in the lungs",
+                "fr": "Les échanges gazeux dans les poumons",
+                "mfe": "Lesanz gaz dan lipoumon"
+              },
+              "objectives": [
+                "Describe the structure of alveoli",
+                "Explain how oxygen and carbon dioxide are exchanged",
+                "Relate alveoli structure to efficient gas exchange"
+              ]
+            },
+            {
+              "title": {
+                "en": "Cellular respiration",
+                "fr": "La respiration cellulaire",
+                "mfe": "Respirasion seliler"
+              },
+              "objectives": [
+                "State the word equation for aerobic respiration",
+                "Explain why cells need energy",
+                "Distinguish breathing from cellular respiration"
+              ]
+            },
+            {
+              "title": {
+                "en": "Smoking and the respiratory system",
+                "fr": "Le tabagisme et le système respiratoire",
+                "mfe": "Fime ek sistenm respiratwar"
+              },
+              "objectives": [
+                "Describe the harmful effects of smoking on the lungs",
+                "Explain the link between smoking and disease",
+                "Discuss ways to promote respiratory health"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Reproduction in flowering plants",
+            "fr": "La reproduction chez les plantes à fleurs",
+            "mfe": "Reprodiksion dan plant ki ena fler"
+          },
+          "summary": {
+            "en": "This unit explores flower structure, pollination, fertilisation and how seeds are formed and dispersed.",
+            "fr": "Cette unité explore la structure des fleurs, la pollinisation, la fécondation et la formation et dispersion des graines.",
+            "mfe": "Sa linite la explor lastrikti fler, polinizasion, fertilizasion ek kouman lagrenn form ek disperse."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Structure of a flower",
+                "fr": "Structure d'une fleur",
+                "mfe": "Lastrikti enn fler"
+              },
+              "objectives": [
+                "Label the main parts of a flower",
+                "Describe the function of each flower part",
+                "Relate flower structure to reproduction"
+              ]
+            },
+            {
+              "title": {
+                "en": "Pollination",
+                "fr": "La pollinisation",
+                "mfe": "Polinizasion"
+              },
+              "objectives": [
+                "Define pollination and distinguish self and cross pollination",
+                "Describe features of insect-pollinated and wind-pollinated flowers",
+                "Identify local pollinators in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Fertilisation and seed formation",
+                "fr": "Fécondation et formation des graines",
+                "mfe": "Fertilizasion ek formasion lagrenn"
+              },
+              "objectives": [
+                "Describe the process of fertilisation in plants",
+                "Explain how a seed and fruit develop",
+                "Relate fertilisation to the plant life cycle"
+              ]
+            },
+            {
+              "title": {
+                "en": "Seed dispersal",
+                "fr": "La dispersion des graines",
+                "mfe": "Disperson lagrenn"
+              },
+              "objectives": [
+                "Explain why seed dispersal is important",
+                "Describe different methods of seed dispersal",
+                "Identify examples of dispersal in local plants"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Ecosystems and interdependence",
+            "fr": "Écosystèmes et interdépendance",
+            "mfe": "Ekosistenm ek lentedepandans"
+          },
+          "summary": {
+            "en": "Learners examine how organisms interact within ecosystems and how human activities affect the environment in Mauritius.",
+            "fr": "Les élèves examinent comment les organismes interagissent au sein des écosystèmes et comment les activités humaines affectent l'environnement à Maurice.",
+            "mfe": "Bann aprenan examinn kouman organism entéazir dan ekosistenm ek kouman aktivite imin afekte lanvironman Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Components of an ecosystem",
+                "fr": "Les composants d'un écosystème",
+                "mfe": "Bann eleman enn ekosistenm"
+              },
+              "objectives": [
+                "Define ecosystem, habitat and population",
+                "Distinguish biotic and abiotic factors",
+                "Give examples from local ecosystems such as coral reefs or forests"
+              ]
+            },
+            {
+              "title": {
+                "en": "Food chains and food webs",
+                "fr": "Chaînes et réseaux alimentaires",
+                "mfe": "Lasenn ek rezo alimanter"
+              },
+              "objectives": [
+                "Construct simple food chains from local organisms",
+                "Explain the flow of energy through a food chain",
+                "Build a food web from multiple food chains"
+              ]
+            },
+            {
+              "title": {
+                "en": "Adaptations for survival",
+                "fr": "Adaptations pour la survie",
+                "mfe": "Adaptasion pou sirviv"
+              },
+              "objectives": [
+                "Define adaptation and give examples",
+                "Explain how structural and behavioural adaptations help survival",
+                "Relate adaptations to specific Mauritian habitats"
+              ]
+            },
+            {
+              "title": {
+                "en": "Human impact on ecosystems",
+                "fr": "L'impact humain sur les écosystèmes",
+                "mfe": "Linpak imin lor ekosistenm"
+              },
+              "objectives": [
+                "Identify human activities that affect ecosystems",
+                "Explain the impact of pollution and deforestation",
+                "Suggest ways to protect Mauritian ecosystems"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "units": [
+        {
+          "title": {
+            "en": "Cell structure and organisation",
+            "fr": "Structure et organisation cellulaire",
+            "mfe": "Striktir ek organizasyon selil"
+          },
+          "summary": {
+            "en": "Students revisit cell theory and explore the structure and function of plant and animal cells, tissues and organ systems, using the microscope as a key tool of investigation.",
+            "fr": "Les élèves révisent la théorie cellulaire et explorent la structure et la fonction des cellules végétales et animales, des tissus et des systèmes d'organes, en utilisant le microscope comme outil clé d'investigation.",
+            "mfe": "Elev revize teori seliler ek explor striktir ek fonksyon selil plant ek zanimo, tisi ek sistem organ, an itiliz mikroskop kouma enn zouti kle pou investigasyon."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Reviewing cell theory",
+                "fr": "Révision de la théorie cellulaire",
+                "mfe": "Revizyon teori seliler"
+              },
+              "objectives": [
+                "State the main points of cell theory",
+                "Identify differences between plant and animal cells",
+                "Use a microscope to observe prepared slides"
+              ]
+            },
+            {
+              "title": {
+                "en": "Specialised cells and their functions",
+                "fr": "Cellules spécialisées et leurs fonctions",
+                "mfe": "Selil spesyalize ek zot fonksyon"
+              },
+              "objectives": [
+                "Describe examples of specialised cells",
+                "Relate cell structure to function",
+                "Explain the concept of adaptation at cellular level"
+              ]
+            },
+            {
+              "title": {
+                "en": "From cells to organ systems",
+                "fr": "Des cellules aux systèmes d'organes",
+                "mfe": "Depi selil ziska sistem organ"
+              },
+              "objectives": [
+                "Define tissue, organ and organ system",
+                "Sequence the levels of organisation in living things",
+                "Give examples of human organ systems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Diffusion and osmosis in cells",
+                "fr": "Diffusion et osmose dans les cellules",
+                "mfe": "Difizyon ek osmoz dan selil"
+              },
+              "objectives": [
+                "Explain diffusion and osmosis with examples",
+                "Describe the effect of osmosis on plant and animal cells",
+                "Relate these processes to everyday life in Mauritius"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Nutrition in plants and animals",
+            "fr": "La nutrition chez les plantes et les animaux",
+            "mfe": "Nitrisyon dan plant ek zanimo"
+          },
+          "summary": {
+            "en": "This unit covers photosynthesis in plants and the human digestive system, linking nutrient requirements to a balanced diet and common nutritional issues in Mauritius.",
+            "fr": "Cette unité couvre la photosynthèse chez les plantes et le système digestif humain, en reliant les besoins nutritionnels à une alimentation équilibrée et aux problèmes nutritionnels courants à Maurice.",
+            "mfe": "Sa linite la kouver fotosentez dan plant ek sistem dizestif imen, ek li lye bezwen nitrisyonel ar enn regim ekilibre ek problem nitrisyonel kouran dan Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Photosynthesis and leaf structure",
+                "fr": "Photosynthèse et structure de la feuille",
+                "mfe": "Fotosentez ek striktir fey"
+              },
+              "objectives": [
+                "Write the word equation for photosynthesis",
+                "Describe the structure of a leaf adapted for photosynthesis",
+                "Explain factors affecting rate of photosynthesis"
+              ]
+            },
+            {
+              "title": {
+                "en": "Human digestive system overview",
+                "fr": "Aperçu du système digestif humain",
+                "mfe": "Apersi lor sistem dizestif imen"
+              },
+              "objectives": [
+                "Identify main organs of the digestive system",
+                "Describe the pathway of food through the body",
+                "Explain the role of enzymes in digestion"
+              ]
+            },
+            {
+              "title": {
+                "en": "Balanced diet and nutrients",
+                "fr": "Alimentation équilibrée et nutriments",
+                "mfe": "Regim ekilibre ek nitriman"
+              },
+              "objectives": [
+                "List the classes of nutrients and their functions",
+                "Plan a balanced meal using local foods",
+                "Discuss deficiency diseases and their prevention"
+              ]
+            },
+            {
+              "title": {
+                "en": "Nutrition-related health issues",
+                "fr": "Problèmes de santé liés à la nutrition",
+                "mfe": "Problem lasante lye ar nitrisyon"
+              },
+              "objectives": [
+                "Describe causes of obesity and undernutrition",
+                "Explain the link between diet and non-communicable diseases",
+                "Suggest healthy eating habits for teenagers"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Transport systems in living organisms",
+            "fr": "Systèmes de transport chez les organismes vivants",
+            "mfe": "Sistem transpor dan bann organism vivan"
+          },
+          "summary": {
+            "en": "Students explore how substances move within plants and the human circulatory system, including the heart, blood vessels and blood components.",
+            "fr": "Les élèves explorent comment les substances se déplacent dans les plantes et dans le système circulatoire humain, y compris le cœur, les vaisseaux sanguins et les composants du sang.",
+            "mfe": "Elev explor kouma bann sibstans deplase dan plant ek dan sistem sirkilatwar imen, ki inklir leker, tiyo disan ek konpozan disan."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Transport in plants",
+                "fr": "Transport chez les plantes",
+                "mfe": "Transpor dan plant"
+              },
+              "objectives": [
+                "Describe the role of xylem and phloem",
+                "Explain transpiration and its factors",
+                "Investigate water uptake in plants"
+              ]
+            },
+            {
+              "title": {
+                "en": "The human heart and circulation",
+                "fr": "Le cœur humain et la circulation",
+                "mfe": "Leker imen ek sirkilasyon"
+              },
+              "objectives": [
+                "Describe the structure of the heart",
+                "Explain the double circulatory system",
+                "Trace the pathway of blood through the body"
+              ]
+            },
+            {
+              "title": {
+                "en": "Blood and its components",
+                "fr": "Le sang et ses composants",
+                "mfe": "Disan ek so konpozan"
+              },
+              "objectives": [
+                "Identify components of blood and their functions",
+                "Explain how blood clotting protects the body",
+                "Discuss blood groups and donation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Circulatory health and disease",
+                "fr": "Santé et maladies du système circulatoire",
+                "mfe": "Lasante ek maladi sistem sirkilatwar"
+              },
+              "objectives": [
+                "Describe common circulatory diseases",
+                "Explain lifestyle factors affecting heart health",
+                "Suggest ways to maintain a healthy heart"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Respiration and gas exchange",
+            "fr": "Respiration et échange gazeux",
+            "mfe": "Respirasyon ek sanz gaz"
+          },
+          "summary": {
+            "en": "This unit examines the human respiratory system, gas exchange, and the difference between breathing and cellular respiration, with attention to respiratory health.",
+            "fr": "Cette unité examine le système respiratoire humain, les échanges gazeux, et la différence entre la respiration et la respiration cellulaire, avec une attention portée à la santé respiratoire.",
+            "mfe": "Sa linite la examinn sistem respiratwar imen, sanz gaz, ek diferans ant respire ek respirasyon seliler, ek li met lasante respiratwar an valer."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "The human respiratory system",
+                "fr": "Le système respiratoire humain",
+                "mfe": "Sistem respiratwar imen"
+              },
+              "objectives": [
+                "Identify the main organs of the respiratory system",
+                "Describe the mechanism of breathing",
+                "Explain gas exchange in the alveoli"
+              ]
+            },
+            {
+              "title": {
+                "en": "Cellular respiration",
+                "fr": "La respiration cellulaire",
+                "mfe": "Respirasyon seliler"
+              },
+              "objectives": [
+                "Write the word equation for aerobic respiration",
+                "Distinguish between breathing and cellular respiration",
+                "Explain the role of respiration in releasing energy"
+              ]
+            },
+            {
+              "title": {
+                "en": "Anaerobic respiration",
+                "fr": "La respiration anaérobie",
+                "mfe": "Respirasyon anaerobik"
+              },
+              "objectives": [
+                "Define anaerobic respiration",
+                "Compare anaerobic respiration in humans and yeast",
+                "Relate anaerobic respiration to fermentation uses"
+              ]
+            },
+            {
+              "title": {
+                "en": "Respiratory health and disease",
+                "fr": "Santé et maladies respiratoires",
+                "mfe": "Lasante ek maladi respiratwar"
+              },
+              "objectives": [
+                "Describe effects of smoking and pollution on the lungs",
+                "Explain common respiratory illnesses",
+                "Propose measures to protect respiratory health"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Reproduction in living organisms",
+            "fr": "La reproduction chez les organismes vivants",
+            "mfe": "Reprodiksyon dan organism vivan"
+          },
+          "summary": {
+            "en": "Students learn about sexual and asexual reproduction in plants and animals, and study human reproductive systems, puberty and reproductive health.",
+            "fr": "Les élèves apprennent la reproduction sexuée et asexuée chez les plantes et les animaux, et étudient les systèmes reproducteurs humains, la puberté et la santé reproductive.",
+            "mfe": "Elev aprann reprodiksyon sexyel ek asexyel dan plant ek zanimo, ek etidye sistem reprodiktif imen, pibert ek lasante reprodiktif."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Sexual and asexual reproduction",
+                "fr": "Reproduction sexuée et asexuée",
+                "mfe": "Reprodiksyon sexyel ek asexyel"
+              },
+              "objectives": [
+                "Distinguish sexual from asexual reproduction",
+                "Give examples of each type in plants and animals",
+                "Explain advantages and disadvantages of each type"
+              ]
+            },
+            {
+              "title": {
+                "en": "Reproduction in flowering plants",
+                "fr": "La reproduction chez les plantes à fleurs",
+                "mfe": "Reprodiksyon dan plant ki gagn fler"
+              },
+              "objectives": [
+                "Identify parts of a flower and their functions",
+                "Describe pollination and fertilisation",
+                "Explain seed and fruit formation"
+              ]
+            },
+            {
+              "title": {
+                "en": "The human reproductive system",
+                "fr": "Le système reproducteur humain",
+                "mfe": "Sistem reproduktif imen"
+              },
+              "objectives": [
+                "Identify male and female reproductive organs",
+                "Describe the menstrual cycle briefly",
+                "Explain fertilisation and early development"
+              ]
+            },
+            {
+              "title": {
+                "en": "Puberty and reproductive health",
+                "fr": "Puberté et santé reproductive",
+                "mfe": "Pibert ek lasante reproduktif"
+              },
+              "objectives": [
+                "Describe physical and emotional changes during puberty",
+                "Discuss the importance of hygiene during puberty",
+                "Explain responsible attitudes towards reproductive health"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Ecosystems and interdependence",
+            "fr": "Écosystèmes et interdépendance",
+            "mfe": "Ekosistem ek enterdepandans"
+          },
+          "summary": {
+            "en": "This unit explores food chains, food webs, energy flow and the interdependence of organisms within Mauritian ecosystems such as forests, lagoons and coral reefs.",
+            "fr": "Cette unité explore les chaînes alimentaires, les réseaux alimentaires, le flux d'énergie et l'interdépendance des organismes dans les écosystèmes mauriciens tels que les forêts, les lagons et les récifs coralliens.",
+            "mfe": "Sa linite la explor lasenn alimanter, rezo alimanter, fli lenerzi ek enterdepandans ant organism dan ekosistem morisyen kouma forè, lagon ek resif koralyen."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Food chains and food webs",
+                "fr": "Chaînes et réseaux alimentaires",
+                "mfe": "Lasenn ek rezo alimanter"
+              },
+              "objectives": [
+                "Construct food chains from local examples",
+                "Combine food chains into a food web",
+                "Identify producers, consumers and decomposers"
+              ]
+            },
+            {
+              "title": {
+                "en": "Energy flow and nutrient cycling",
+                "fr": "Flux d'énergie et cycle des nutriments",
+                "mfe": "Fli lenerzi ek sik nitriman"
+              },
+              "objectives": [
+                "Explain how energy flows through an ecosystem",
+                "Describe the role of decomposers in recycling nutrients",
+                "Interpret a pyramid of numbers or energy"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mauritian ecosystems",
+                "fr": "Écosystèmes mauriciens",
+                "mfe": "Ekosistem morisyen"
+              },
+              "objectives": [
+                "Describe features of local ecosystems such as forests and lagoons",
+                "Identify organisms adapted to these habitats",
+                "Explain interdependence between species"
+              ]
+            },
+            {
+              "title": {
+                "en": "Human impact and conservation",
+                "fr": "Impact humain et conservation",
+                "mfe": "Lenpak imen ek konsèrvasyon"
+              },
+              "objectives": [
+                "Identify human activities that disturb ecosystems",
+                "Explain the importance of biodiversity conservation",
+                "Suggest ways to protect Mauritian ecosystems"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Health, disease and immunity",
+            "fr": "Santé, maladies et immunité",
+            "mfe": "Lasante, maladi ek imunite"
+          },
+          "summary": {
+            "en": "Students study pathogens, transmission of disease, the body's defence mechanisms and the importance of vaccination and hygiene in preventing illness.",
+            "fr": "Les élèves étudient les agents pathogènes, la transmission des maladies, les mécanismes de défense du corps et l'importance de la vaccination et de l'hygiène dans la prévention des maladies.",
+            "mfe": "Elev etidye pathozèn, transmisyon maladi, mekanism defans lekor ek linportans vaksinasyon ek ladigyenn pou anpes maladi."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Pathogens and disease transmission",
+                "fr": "Agents pathogènes et transmission des maladies",
+                "mfe": "Pathozèn ek transmisyon maladi"
+              },
+              "objectives": [
+                "Identify types of pathogens",
+                "Explain how diseases are transmitted",
+                "Describe methods to prevent disease spread"
+              ]
+            },
+            {
+              "title": {
+                "en": "The body's defence mechanisms",
+                "fr": "Les mécanismes de défense du corps",
+                "mfe": "Mekanism defans lekor"
+              },
+              "objectives": [
+                "Describe physical barriers against pathogens",
+                "Explain the role of white blood cells",
+                "Distinguish between natural and acquired immunity"
+              ]
+            },
+            {
+              "title": {
+                "en": "Vaccination and public health",
+                "fr": "Vaccination et santé publique",
+                "mfe": "Vaksinasyon ek lasante piblik"
+              },
+              "objectives": [
+                "Explain how vaccines work",
+                "Discuss the importance of vaccination programmes",
+                "Relate public health measures to disease control in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Lifestyle diseases and prevention",
+                "fr": "Maladies liées au mode de vie et prévention",
+                "mfe": "Maladi lye ar stil lavi ek prevansyon"
+              },
+              "objectives": [
+                "Identify common lifestyle diseases",
+                "Explain risk factors such as diet, smoking and inactivity",
+                "Propose strategies to reduce risk of lifestyle diseases"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "units": [
+        {
+          "title": {
+            "en": "Characteristics and classification of living organisms",
+            "fr": "Caractéristiques et classification des êtres vivants",
+            "mfe": "Karakteristik ek klasifikasyon bann kreatir vivan"
+          },
+          "summary": {
+            "en": "Explore the features that define living things and how scientists organise the diversity of life into groups.",
+            "fr": "Explorer les caractéristiques qui définissent les êtres vivants et comment les scientifiques organisent la diversité du vivant en groupes.",
+            "mfe": "Explor bann karakteristik ki defini bann kreatir vivan ek kouma bann syantis organiz divers form lavi an group."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Characteristics of living organisms",
+                "fr": "Caractéristiques des êtres vivants",
+                "mfe": "Karakteristik bann kreatir vivan"
+              },
+              "objectives": [
+                "State the characteristics shared by all living organisms",
+                "Apply these characteristics to identify living and non-living things",
+                "Explain why viruses are difficult to classify as living"
+              ]
+            },
+            {
+              "title": {
+                "en": "Principles of classification",
+                "fr": "Principes de classification",
+                "mfe": "Prinsip klasifikasyon"
+              },
+              "objectives": [
+                "Explain the purpose of a biological classification system",
+                "Describe the hierarchy of taxonomic groups",
+                "Use a simple key to identify organisms"
+              ]
+            },
+            {
+              "title": {
+                "en": "The five kingdoms of life",
+                "fr": "Les cinq règnes du vivant",
+                "mfe": "Bann sink renn lavi"
+              },
+              "objectives": [
+                "Describe the main features of each of the five kingdoms",
+                "Compare organisms from different kingdoms using examples",
+                "Relate kingdom features to organisms found in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Features of viruses",
+                "fr": "Caractéristiques des virus",
+                "mfe": "Karakteristik bann viris"
+              },
+              "objectives": [
+                "Describe the basic structure of a virus",
+                "Explain why viruses are considered non-cellular",
+                "Give examples of diseases caused by viruses"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Cell structure and organisation",
+            "fr": "Structure et organisation cellulaire",
+            "mfe": "Striktir ek organizasyon selil"
+          },
+          "summary": {
+            "en": "Study the basic unit of life, comparing plant and animal cells and how cells build up tissues and organs.",
+            "fr": "Étudier l'unité de base du vivant, en comparant les cellules végétales et animales et comment elles forment tissus et organes.",
+            "mfe": "Etidye linite de baz lavi, konpar selil plant ek zanimo ek kouma bann selil form tisi ek organ."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Plant and animal cell structure",
+                "fr": "Structure des cellules végétales et animales",
+                "mfe": "Striktir selil plant ek zanimo"
+              },
+              "objectives": [
+                "Identify the main structures of a plant and animal cell",
+                "Compare the similarities and differences between the two cell types",
+                "Relate cell structures to their functions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Microscopy and measurement",
+                "fr": "Microscopie et mesures",
+                "mfe": "Mikroskopi ek mezirman"
+              },
+              "objectives": [
+                "Describe how a light microscope is used to view cells",
+                "Calculate magnification and actual size of specimens",
+                "Draw and label cells observed under a microscope"
+              ]
+            },
+            {
+              "title": {
+                "en": "Levels of organisation",
+                "fr": "Niveaux d'organisation",
+                "mfe": "Nivo organizasyon"
+              },
+              "objectives": [
+                "Explain the relationship between cells, tissues, organs and systems",
+                "Give examples of tissues and organs in humans and plants",
+                "Describe the concept of an organism as an organised whole"
+              ]
+            },
+            {
+              "title": {
+                "en": "Specialised cells and their functions",
+                "fr": "Cellules spécialisées et leurs fonctions",
+                "mfe": "Selil spesyalize ek zot fonksyon"
+              },
+              "objectives": [
+                "Describe examples of specialised cells in plants and animals",
+                "Explain how cell structure relates to specialised function",
+                "Discuss the concept of cell differentiation"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Movement of substances into and out of cells",
+            "fr": "Mouvement des substances dans et hors des cellules",
+            "mfe": "Mouvman sibstans dan ek andeor selil"
+          },
+          "summary": {
+            "en": "Understand how materials move across cell membranes through diffusion, osmosis and active transport.",
+            "fr": "Comprendre comment les substances traversent les membranes cellulaires par diffusion, osmose et transport actif.",
+            "mfe": "Konpran kouma bann sibstans travers manbran selil atraver difizyon, osmoz ek transpor aktiv."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Diffusion in living systems",
+                "fr": "La diffusion dans les systèmes vivants",
+                "mfe": "Difizyon dan sistem vivan"
+              },
+              "objectives": [
+                "Define diffusion and explain factors affecting its rate",
+                "Give examples of diffusion in living organisms",
+                "Relate surface area to volume ratio to diffusion efficiency"
+              ]
+            },
+            {
+              "title": {
+                "en": "Osmosis and water movement",
+                "fr": "Osmose et mouvement de l'eau",
+                "mfe": "Osmoz ek mouvman delo"
+              },
+              "objectives": [
+                "Define osmosis and explain the role of a partially permeable membrane",
+                "Predict the effect of different solutions on plant and animal cells",
+                "Describe an experiment to investigate osmosis"
+              ]
+            },
+            {
+              "title": {
+                "en": "Active transport",
+                "fr": "Transport actif",
+                "mfe": "Transpor aktiv"
+              },
+              "objectives": [
+                "Define active transport and explain how it differs from diffusion",
+                "Give examples of active transport in living organisms",
+                "Explain the role of energy in active transport"
+              ]
+            },
+            {
+              "title": {
+                "en": "Investigating cell transport experimentally",
+                "fr": "Étudier expérimentalement le transport cellulaire",
+                "mfe": "Investig transpor seliler par lexperyans"
+              },
+              "objectives": [
+                "Plan a simple investigation into diffusion or osmosis",
+                "Record and interpret experimental results",
+                "Draw conclusions relating results to transport processes"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Biological molecules and enzymes",
+            "fr": "Molécules biologiques et enzymes",
+            "mfe": "Molekil byolozik ek anzim"
+          },
+          "summary": {
+            "en": "Investigate the main nutrient groups and how enzymes control the chemical reactions of life.",
+            "fr": "Étudier les principaux groupes de nutriments et comment les enzymes contrôlent les réactions chimiques du vivant.",
+            "mfe": "Investig bann group nitriman prinsipal ek kouma anzim kontrol bann reaksyon kimik lavi."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Carbohydrates, proteins and lipids",
+                "fr": "Glucides, protéines et lipides",
+                "mfe": "Glisid, protein ek lipid"
+              },
+              "objectives": [
+                "Describe the structure and function of carbohydrates, proteins and lipids",
+                "Identify food sources rich in each nutrient",
+                "Relate molecular structure to biological function"
+              ]
+            },
+            {
+              "title": {
+                "en": "Testing for food substances",
+                "fr": "Tests pour les substances alimentaires",
+                "mfe": "Test pou substans alimanter"
+              },
+              "objectives": [
+                "Carry out food tests for starch, sugar, protein and fat",
+                "Interpret results of food tests",
+                "Relate food test results to a balanced diet"
+              ]
+            },
+            {
+              "title": {
+                "en": "Enzymes and their properties",
+                "fr": "Les enzymes et leurs propriétés",
+                "mfe": "Anzim ek zot proprietea"
+              },
+              "objectives": [
+                "Describe the role of enzymes as biological catalysts",
+                "Explain the lock and key model of enzyme action",
+                "Give examples of enzymes and their substrates"
+              ]
+            },
+            {
+              "title": {
+                "en": "Factors affecting enzyme activity",
+                "fr": "Facteurs affectant l'activité enzymatique",
+                "mfe": "Fakter ki afekte aktivite anzimatik"
+              },
+              "objectives": [
+                "Explain the effect of temperature and pH on enzyme activity",
+                "Describe experiments to investigate enzyme activity",
+                "Interpret graphs showing enzyme reaction rates"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Plant nutrition",
+            "fr": "Nutrition des plantes",
+            "mfe": "Nitrisyon plant"
+          },
+          "summary": {
+            "en": "Examine how plants make their own food through photosynthesis and obtain minerals from the soil.",
+            "fr": "Examiner comment les plantes fabriquent leur propre nourriture par la photosynthèse et obtiennent des minéraux du sol.",
+            "mfe": "Examin kouma plant fabrik zot prop manze par fotosintez ek gagn mineral depi later."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "The process of photosynthesis",
+                "fr": "Le processus de la photosynthèse",
+                "mfe": "Prosesis fotosintez"
+              },
+              "objectives": [
+                "Write the word equation for photosynthesis",
+                "Explain the role of chlorophyll and light in photosynthesis",
+                "Describe how gases and water are involved in the process"
+              ]
+            },
+            {
+              "title": {
+                "en": "Leaf structure and adaptations",
+                "fr": "Structure et adaptations de la feuille",
+                "mfe": "Striktir ek adaptasyon fey"
+              },
+              "objectives": [
+                "Identify the tissues within a leaf using a cross-section diagram",
+                "Relate leaf structures to their role in photosynthesis",
+                "Explain adaptations of leaves for efficient gas exchange"
+              ]
+            },
+            {
+              "title": {
+                "en": "Limiting factors of photosynthesis",
+                "fr": "Facteurs limitants de la photosynthèse",
+                "mfe": "Fakter limitan fotosintez"
+              },
+              "objectives": [
+                "Identify factors that limit the rate of photosynthesis",
+                "Interpret graphs of photosynthesis rate against light, carbon dioxide and temperature",
+                "Explain the concept of a limiting factor"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mineral nutrition in plants",
+                "fr": "Nutrition minérale des plantes",
+                "mfe": "Nitrisyon mineral dan plant"
+              },
+              "objectives": [
+                "Identify the importance of nitrate and magnesium ions for plant growth",
+                "Describe the effects of mineral deficiency on plants",
+                "Relate fertiliser use to healthy crop growth"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Human nutrition",
+            "fr": "Nutrition humaine",
+            "mfe": "Nitrisyon imin"
+          },
+          "summary": {
+            "en": "Learn about a balanced diet and the structures and processes involved in human digestion.",
+            "fr": "Apprendre l'alimentation équilibrée et les structures et processus de la digestion humaine.",
+            "mfe": "Aprann lo enn dyet ekilibre ek bann striktir ek prosesis dizesyon imin."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Components of a balanced diet",
+                "fr": "Composants d'une alimentation équilibrée",
+                "mfe": "Konpozan enn dyet ekilibre"
+              },
+              "objectives": [
+                "List the components of a balanced diet",
+                "Explain the importance of each nutrient group for health",
+                "Relate diet to age, activity level and health conditions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Structure of the digestive system",
+                "fr": "Structure du système digestif",
+                "mfe": "Striktir sistem dizestif"
+              },
+              "objectives": [
+                "Identify the main organs of the human digestive system",
+                "Describe the function of each organ",
+                "Trace the pathway of food through the digestive system"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mechanical and chemical digestion",
+                "fr": "Digestion mécanique et chimique",
+                "mfe": "Dizesyon mekanik ek kimik"
+              },
+              "objectives": [
+                "Differentiate between mechanical and chemical digestion",
+                "Describe the role of digestive enzymes in breaking down food",
+                "Explain the role of bile in fat digestion"
+              ]
+            },
+            {
+              "title": {
+                "en": "Absorption and assimilation of nutrients",
+                "fr": "Absorption et assimilation des nutriments",
+                "mfe": "Absorpsyon ek asimilasyon nitriman"
+              },
+              "objectives": [
+                "Describe the structure of the small intestine adapted for absorption",
+                "Explain how absorbed nutrients are used by the body",
+                "Relate villi structure to efficient absorption"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Transport in plants",
+            "fr": "Transport chez les plantes",
+            "mfe": "Transpor dan plant"
+          },
+          "summary": {
+            "en": "Discover how water, minerals and food substances move through plant tissues.",
+            "fr": "Découvrir comment l'eau, les minéraux et les substances alimentaires se déplacent dans les tissus végétaux.",
+            "mfe": "Dekouver kouma delo, mineral ek substans alimanter deplas dan tisi plant."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Xylem and phloem structure",
+                "fr": "Structure du xylème et du phloème",
+                "mfe": "Striktir zilenm ek floenm"
+              },
+              "objectives": [
+                "Identify the structure of xylem and phloem tissue",
+                "Relate structure to the function of transport tissues",
+                "Locate vascular tissue in roots, stems and leaves"
+              ]
+            },
+            {
+              "title": {
+                "en": "Water uptake and transpiration",
+                "fr": "Absorption de l'eau et transpiration",
+                "mfe": "Absorpsyon delo ek transpirasyon"
+              },
+              "objectives": [
+                "Describe the pathway of water from soil to leaf",
+                "Explain the process of transpiration",
+                "Identify factors affecting transpiration rate"
+              ]
+            },
+            {
+              "title": {
+                "en": "Investigating transpiration rate",
+                "fr": "Étudier le taux de transpiration",
+                "mfe": "Investig to transpirasyon"
+              },
+              "objectives": [
+                "Describe the use of a potometer to measure transpiration",
+                "Interpret results from a transpiration experiment",
+                "Explain how environmental conditions affect water loss"
+              ]
+            },
+            {
+              "title": {
+                "en": "Translocation in plants",
+                "fr": "Translocation chez les plantes",
+                "mfe": "Translokasyon dan plant"
+              },
+              "objectives": [
+                "Define translocation and identify the tissue involved",
+                "Describe the movement of food substances between source and sink",
+                "Relate translocation to plant growth and storage"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Transport in animals",
+            "fr": "Transport chez les animaux",
+            "mfe": "Transpor dan zanimo"
+          },
+          "summary": {
+            "en": "Explore the human circulatory system and how blood transports substances around the body.",
+            "fr": "Explorer le système circulatoire humain et comment le sang transporte les substances dans le corps.",
+            "mfe": "Explor sistem sirkilatwar imin ek kouma disan transport substans dan lekor."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Overview of the circulatory system",
+                "fr": "Aperçu du système circulatoire",
+                "mfe": "Apersi sistem sirkilatwar"
+              },
+              "objectives": [
+                "Describe the double circulatory system in humans",
+                "Identify the main components of the circulatory system",
+                "Explain the importance of circulation for transport in the body"
+              ]
+            },
+            {
+              "title": {
+                "en": "Structure and function of the heart",
+                "fr": "Structure et fonction du cœur",
+                "mfe": "Striktir ek fonksyon leker"
+              },
+              "objectives": [
+                "Label the main structures of the heart",
+                "Describe the pathway of blood through the heart",
+                "Explain how heart structure relates to its pumping function"
+              ]
+            },
+            {
+              "title": {
+                "en": "Blood vessels",
+                "fr": "Les vaisseaux sanguins",
+                "mfe": "Vaso sangwin"
+              },
+              "objectives": [
+                "Compare the structure of arteries, veins and capillaries",
+                "Relate blood vessel structure to function",
+                "Explain how blood pressure changes across the circulatory system"
+              ]
+            },
+            {
+              "title": {
+                "en": "Composition and functions of blood",
+                "fr": "Composition et fonctions du sang",
+                "mfe": "Konpozisyon ek fonksyon disan"
+              },
+              "objectives": [
+                "Identify the components of blood and their functions",
+                "Explain the role of red cells, white cells and platelets",
+                "Describe how blood contributes to defence and transport"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "11": {
+      "units": [
+        {
+          "title": {
+            "en": "Respiration",
+            "fr": "La respiration",
+            "mfe": "Respirasyon"
+          },
+          "summary": {
+            "en": "Explores how living organisms release energy from food through aerobic and anaerobic respiration, and how respiration rate can be measured and compared.",
+            "fr": "Explore comment les organismes vivants libèrent de l'énergie à partir des aliments par la respiration aérobie et anaérobie, et comment le taux de respiration peut être mesuré et comparé.",
+            "mfe": "Explor kouma bann organism vivan lib enerzi apartir manze atraver respirasyon aerobik ek anaerobik, ek kouma ou kapav mezir ek konpar to respirasyon."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Aerobic respiration",
+                "fr": "La respiration aérobie",
+                "mfe": "Respirasyon aerobik"
+              },
+              "objectives": [
+                "State the word equation for aerobic respiration",
+                "Explain where aerobic respiration occurs in cells",
+                "Describe the role of oxygen in releasing energy from glucose"
+              ]
+            },
+            {
+              "title": {
+                "en": "Anaerobic respiration",
+                "fr": "La respiration anaérobie",
+                "mfe": "Respirasyon anaerobik"
+              },
+              "objectives": [
+                "Compare anaerobic respiration in humans and yeast",
+                "Explain the build-up of lactic acid during exercise",
+                "Describe fermentation and its uses in food production"
+              ]
+            },
+            {
+              "title": {
+                "en": "Measuring respiration rate",
+                "fr": "Mesurer le taux de respiration",
+                "mfe": "Mezir to respirasyon"
+              },
+              "objectives": [
+                "Describe an experiment to measure the rate of respiration",
+                "Interpret data from respirometer experiments",
+                "Explain factors that affect respiration rate"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Gas exchange in humans and plants",
+            "fr": "Les échanges gazeux chez l'homme et les plantes",
+            "mfe": "Lesanz gaz kot dimoun ek plant"
+          },
+          "summary": {
+            "en": "Covers the structures and mechanisms used by humans and plants to exchange gases, and the effects of smoking on the respiratory system.",
+            "fr": "Couvre les structures et mécanismes utilisés par les humains et les plantes pour échanger des gaz, ainsi que les effets du tabagisme sur le système respiratoire.",
+            "mfe": "Kouver bann striktir ek mekanism ki dimoun ek plant servi pou fer lesanz gaz, ek bann lefe fime lor sistenm respiratwar."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Structure of the human breathing system",
+                "fr": "Structure du système respiratoire humain",
+                "mfe": "Striktir sistenm respiratwar imen"
+              },
+              "objectives": [
+                "Identify the main parts of the human respiratory system",
+                "Describe the structure and function of alveoli",
+                "Explain how alveoli are adapted for gas exchange"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mechanism of breathing",
+                "fr": "Le mécanisme de la respiration",
+                "mfe": "Mekanism respirasyon"
+              },
+              "objectives": [
+                "Explain the roles of the ribcage and diaphragm in breathing",
+                "Describe pressure changes during inhalation and exhalation",
+                "Compare inspired and expired air composition"
+              ]
+            },
+            {
+              "title": {
+                "en": "Gas exchange in plant leaves",
+                "fr": "Les échanges gazeux dans les feuilles des plantes",
+                "mfe": "Lesanz gaz dan fey plant"
+              },
+              "objectives": [
+                "Describe the structure of a leaf related to gas exchange",
+                "Explain the role of stomata and guard cells",
+                "Compare gas exchange in leaves during day and night"
+              ]
+            },
+            {
+              "title": {
+                "en": "Smoking and respiratory health",
+                "fr": "Le tabagisme et la santé respiratoire",
+                "mfe": "Fimen ek lasante respiratwar"
+              },
+              "objectives": [
+                "Describe harmful substances found in tobacco smoke",
+                "Explain effects of smoking on the lungs and circulatory system",
+                "Discuss health campaigns against smoking in Mauritius"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Excretion and homeostasis",
+            "fr": "L'excrétion et l'homéostasie",
+            "mfe": "Ekskresyon ek omeostazi"
+          },
+          "summary": {
+            "en": "Examines how the human body removes waste products and maintains a stable internal environment through kidney function and control mechanisms.",
+            "fr": "Examine comment le corps humain élimine les déchets et maintient un environnement interne stable grâce à la fonction rénale et aux mécanismes de régulation.",
+            "mfe": "Examinn kouma lekor imen elimin dese ek gard enn lanvironnman intern stab atraver fonksyon rin ek mekanism kontrol."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Excretion and kidney structure",
+                "fr": "L'excrétion et la structure du rein",
+                "mfe": "Ekskresyon ek striktir rin"
+              },
+              "objectives": [
+                "Define excretion and identify excretory organs",
+                "Describe the structure of the kidney and nephron",
+                "Explain the importance of removing metabolic waste"
+              ]
+            },
+            {
+              "title": {
+                "en": "Kidney function and urine formation",
+                "fr": "La fonction rénale et la formation de l'urine",
+                "mfe": "Fonksyon rin ek formasyon irin"
+              },
+              "objectives": [
+                "Explain filtration and reabsorption in the nephron",
+                "Describe how urine composition is regulated",
+                "Explain the effect of kidney failure and use of dialysis"
+              ]
+            },
+            {
+              "title": {
+                "en": "Temperature regulation",
+                "fr": "La régulation de la température",
+                "mfe": "Regilasyon temperatir"
+              },
+              "objectives": [
+                "Describe how the skin helps regulate body temperature",
+                "Explain vasodilation and vasoconstriction",
+                "Discuss responses to heat and cold in a tropical climate"
+              ]
+            },
+            {
+              "title": {
+                "en": "Blood glucose regulation",
+                "fr": "La régulation du glucose sanguin",
+                "mfe": "Regilasyon glikoz dan disan"
+              },
+              "objectives": [
+                "Describe the role of insulin and glucagon",
+                "Explain negative feedback in blood glucose control",
+                "Discuss causes and effects of diabetes"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Coordination: nerves and hormones",
+            "fr": "La coordination : nerfs et hormones",
+            "mfe": "Kordinasyon: nerf ek ormonn"
+          },
+          "summary": {
+            "en": "Investigates how the nervous system and hormones enable organisms to detect and respond to changes in their environment.",
+            "fr": "Étudie comment le système nerveux et les hormones permettent aux organismes de détecter et de répondre aux changements de leur environnement.",
+            "mfe": "Investig kouma sistenm nerve ek ormonn permet organism detekte ek reponn a bann sanzman dan zot lanvironnman."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Neurones and the nervous system",
+                "fr": "Les neurones et le système nerveux",
+                "mfe": "Nerone ek sistenm nerve"
+              },
+              "objectives": [
+                "Describe the structure of a motor neurone",
+                "Explain how nerve impulses are transmitted",
+                "Identify the main divisions of the nervous system"
+              ]
+            },
+            {
+              "title": {
+                "en": "Reflex actions",
+                "fr": "Les actions réflexes",
+                "mfe": "Aksion refleks"
+              },
+              "objectives": [
+                "Describe the pathway of a reflex arc",
+                "Explain the survival value of reflex actions",
+                "Compare voluntary and involuntary responses"
+              ]
+            },
+            {
+              "title": {
+                "en": "The eye and vision",
+                "fr": "L'œil et la vision",
+                "mfe": "Lizye ek vizion"
+              },
+              "objectives": [
+                "Identify the structures of the human eye",
+                "Explain how the eye focuses light on the retina",
+                "Describe the pupil reflex in different light intensities"
+              ]
+            },
+            {
+              "title": {
+                "en": "Hormones and the endocrine system",
+                "fr": "Les hormones et le système endocrinien",
+                "mfe": "Ormonn ek sistenm andokrinn"
+              },
+              "objectives": [
+                "Identify major endocrine glands and their hormones",
+                "Compare nervous and hormonal coordination",
+                "Explain the role of adrenaline in the body"
+              ]
+            },
+            {
+              "title": {
+                "en": "Tropic responses in plants",
+                "fr": "Les réponses tropiques chez les plantes",
+                "mfe": "Repons tropik dan plant"
+              },
+              "objectives": [
+                "Define phototropism and geotropism",
+                "Explain the role of auxins in plant growth responses",
+                "Describe experiments demonstrating plant tropisms"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Reproduction in plants and humans",
+            "fr": "La reproduction chez les plantes et les humains",
+            "mfe": "Reprodiksion kot plant ek dimoun"
+          },
+          "summary": {
+            "en": "Covers sexual and asexual reproduction, flower structure and pollination, and the human reproductive systems including fertilisation and development.",
+            "fr": "Couvre la reproduction sexuée et asexuée, la structure des fleurs et la pollinisation, ainsi que les systèmes reproducteurs humains, y compris la fécondation et le développement.",
+            "mfe": "Kouver reprodiksion seksyel ek aseksyel, striktir flerdibwa ek polinizasyon, ek sistenm reprodiktif imen ki inklir fertilizasyon ek devlopman."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Asexual and sexual reproduction",
+                "fr": "La reproduction asexuée et sexuée",
+                "mfe": "Reprodiksion aseksyel ek seksyel"
+              },
+              "objectives": [
+                "Compare asexual and sexual reproduction",
+                "Give examples of asexual reproduction in plants",
+                "Explain advantages and disadvantages of each type"
+              ]
+            },
+            {
+              "title": {
+                "en": "Flower structure and pollination",
+                "fr": "La structure des fleurs et la pollinisation",
+                "mfe": "Striktir flerdibwa ek polinizasyon"
+              },
+              "objectives": [
+                "Identify parts of an insect-pollinated and wind-pollinated flower",
+                "Describe the process of pollination",
+                "Compare self-pollination and cross-pollination"
+              ]
+            },
+            {
+              "title": {
+                "en": "Fertilisation, seed and fruit formation",
+                "fr": "La fécondation, la formation des graines et des fruits",
+                "mfe": "Fertilizasyon, formasyon lagrenn ek frwi"
+              },
+              "objectives": [
+                "Describe fertilisation in flowering plants",
+                "Explain how seeds and fruits develop",
+                "Describe conditions needed for seed germination"
+              ]
+            },
+            {
+              "title": {
+                "en": "Human reproductive systems",
+                "fr": "Les systèmes reproducteurs humains",
+                "mfe": "Sistenm reprodiktif imen"
+              },
+              "objectives": [
+                "Identify structures of the male and female reproductive systems",
+                "Describe the menstrual cycle",
+                "Explain the role of hormones in the menstrual cycle"
+              ]
+            },
+            {
+              "title": {
+                "en": "Fertilisation, pregnancy and birth",
+                "fr": "La fécondation, la grossesse et la naissance",
+                "mfe": "Fertilizasyon, gwoses ek nesans"
+              },
+              "objectives": [
+                "Describe fertilisation and implantation in humans",
+                "Explain the role of the placenta during pregnancy",
+                "Describe the process of birth and early development"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Inheritance and variation",
+            "fr": "L'hérédité et la variation",
+            "mfe": "Eredite ek variasyon"
+          },
+          "summary": {
+            "en": "Introduces chromosomes, genes and DNA, cell division, patterns of inheritance, and how variation contributes to evolution by natural selection.",
+            "fr": "Introduit les chromosomes, les gènes et l'ADN, la division cellulaire, les modes d'hérédité, et comment la variation contribue à l'évolution par sélection naturelle.",
+            "mfe": "Introdir kromozom, zenn ek ADN, divizyon selil, bann pater eredite, ek kouma variasyon kontribye dan levolisyon par seleksyon natirel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Chromosomes, genes and DNA",
+                "fr": "Chromosomes, gènes et ADN",
+                "mfe": "Kromozom, zenn ek ADN"
+              },
+              "objectives": [
+                "Describe the structure of DNA and chromosomes",
+                "Explain the relationship between genes and characteristics",
+                "Define terms such as allele, genotype and phenotype"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mitosis and meiosis",
+                "fr": "La mitose et la méiose",
+                "mfe": "Mitoz ek meyoz"
+              },
+              "objectives": [
+                "Compare mitosis and meiosis and their purposes",
+                "Explain the importance of meiosis in producing gametes",
+                "Describe the significance of chromosome number in cells"
+              ]
+            },
+            {
+              "title": {
+                "en": "Monohybrid inheritance",
+                "fr": "L'hérédité monohybride",
+                "mfe": "Eredite monoibrid"
+              },
+              "objectives": [
+                "Explain dominant and recessive alleles",
+                "Use genetic diagrams to predict inheritance patterns",
+                "Interpret ratios from monohybrid crosses"
+              ]
+            },
+            {
+              "title": {
+                "en": "Variation and mutation",
+                "fr": "La variation et la mutation",
+                "mfe": "Variasyon ek mitasyon"
+              },
+              "objectives": [
+                "Distinguish between continuous and discontinuous variation",
+                "Explain causes of genetic variation including mutation",
+                "Give examples of variation in Mauritian populations"
+              ]
+            },
+            {
+              "title": {
+                "en": "Natural selection and evolution",
+                "fr": "La sélection naturelle et l'évolution",
+                "mfe": "Seleksyon natirel ek levolisyon"
+              },
+              "objectives": [
+                "Explain the theory of natural selection",
+                "Describe examples of adaptation in organisms",
+                "Discuss evidence supporting evolution"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Organisms and their environment",
+            "fr": "Les organismes et leur environnement",
+            "mfe": "Organism ek zot lanvironnman"
+          },
+          "summary": {
+            "en": "Explores relationships between organisms and their environment, energy flow through ecosystems, and cycling of nutrients.",
+            "fr": "Explore les relations entre les organismes et leur environnement, le flux d'énergie à travers les écosystèmes et le cycle des nutriments.",
+            "mfe": "Explor relasyon ant organism ek zot lanvironnman, kouler enerzi atraver bann ekosistenm, ek sikl nitriman."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Food chains and food webs",
+                "fr": "Les chaînes et réseaux alimentaires",
+                "mfe": "Sen alimanter ek rezo alimanter"
+              },
+              "objectives": [
+                "Construct food chains and food webs from local examples",
+                "Identify producers, consumers and decomposers",
+                "Explain the transfer of energy along a food chain"
+              ]
+            },
+            {
+              "title": {
+                "en": "Energy flow in ecosystems",
+                "fr": "Le flux d'énergie dans les écosystèmes",
+                "mfe": "Kouler enerzi dan ekosistenm"
+              },
+              "objectives": [
+                "Explain why energy is lost at each trophic level",
+                "Interpret pyramids of numbers and biomass",
+                "Discuss implications of energy loss for food production"
+              ]
+            },
+            {
+              "title": {
+                "en": "Nutrient cycles",
+                "fr": "Les cycles des nutriments",
+                "mfe": "Sikl nitriman"
+              },
+              "objectives": [
+                "Describe the carbon cycle and role of photosynthesis and respiration",
+                "Describe the nitrogen cycle and role of bacteria",
+                "Explain the importance of decomposers in recycling nutrients"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Human influences on the environment",
+            "fr": "Les influences humaines sur l'environnement",
+            "mfe": "Lenfliyans dimoun lor lanvironnman"
+          },
+          "summary": {
+            "en": "Considers how human activities affect ecosystems in Mauritius and globally, including pollution, deforestation and conservation efforts.",
+            "fr": "Examine comment les activités humaines affectent les écosystèmes à Maurice et dans le monde, y compris la pollution, la déforestation et les efforts de conservation.",
+            "mfe": "Konsider kouma bann aktivite dimoun afekte ekosistenm dan Moris ek dan lemonn, ki inklir polisyon, deforestasyon ek zefor konservasyon."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Air and water pollution",
+                "fr": "La pollution de l'air et de l'eau",
+                "mfe": "Polisyon ler ek dilo"
+              },
+              "objectives": [
+                "Identify sources of air and water pollution in Mauritius",
+                "Explain effects of pollution on organisms and ecosystems",
+                "Discuss ways to reduce pollution"
+              ]
+            },
+            {
+              "title": {
+                "en": "Deforestation and conservation",
+                "fr": "La déforestation et la conservation",
+                "mfe": "Deforestasyon ek konservasyon"
+              },
+              "objectives": [
+                "Explain causes and consequences of deforestation",
+                "Describe conservation efforts for endemic species in Mauritius",
+                "Discuss the role of protected areas and national parks"
+              ]
+            },
+            {
+              "title": {
+                "en": "Agriculture and food supply",
+                "fr": "L'agriculture et l'approvisionnement alimentaire",
+                "mfe": "Lagrikiltir ek lofer manze"
+              },
+              "objectives": [
+                "Describe methods used to increase food production",
+                "Explain effects of fertilisers and pesticides on ecosystems",
+                "Discuss sustainable farming practices"
+              ]
+            },
+            {
+              "title": {
+                "en": "Biodiversity conservation",
+                "fr": "La conservation de la biodiversité",
+                "mfe": "Konservasyon biodiversite"
+              },
+              "objectives": [
+                "Define biodiversity and explain its importance",
+                "Describe threats to biodiversity in Mauritius",
+                "Discuss strategies to conserve endangered species"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "12": {
+      "units": [
+        {
+          "title": {
+            "en": "Cell structure and organisation",
+            "fr": "Structure et organisation cellulaire",
+            "mfe": "Striktir ek organizasion selil"
+          },
+          "summary": {
+            "en": "Explore the fine structure of eukaryotic and prokaryotic cells as revealed by light and electron microscopy, and relate organelle structure to function.",
+            "fr": "Explorer la structure fine des cellules eucaryotes et procaryotes révélée par la microscopie optique et électronique, et relier la structure des organites à leur fonction.",
+            "mfe": "Explor striktir fin selil ekarnot ek prokarnot ki mikroskop lalimyer ek elektron montre, ek relye striktir organel ar zot fonksion."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Microscopy and units of measurement",
+                "fr": "Microscopie et unités de mesure",
+                "mfe": "Mikroskopi ek linite mezir"
+              },
+              "objectives": [
+                "Calculate magnification and actual size using micrographs",
+                "Compare resolution and magnification of light and electron microscopes",
+                "Convert between units used in cell measurements"
+              ]
+            },
+            {
+              "title": {
+                "en": "Structure of eukaryotic cells",
+                "fr": "Structure des cellules eucaryotes",
+                "mfe": "Striktir selil ekarnot"
+              },
+              "objectives": [
+                "Identify organelles found in animal and plant cells",
+                "Describe the ultrastructure of the nucleus, mitochondria and endoplasmic reticulum",
+                "Compare structural features of animal and plant cells"
+              ]
+            },
+            {
+              "title": {
+                "en": "Structure of prokaryotic cells and viruses",
+                "fr": "Structure des cellules procaryotes et des virus",
+                "mfe": "Striktir selil prokarnot ek viris"
+              },
+              "objectives": [
+                "Describe the structure of a prokaryotic cell",
+                "Compare prokaryotic and eukaryotic cells",
+                "Describe the general structure of a virus"
+              ]
+            },
+            {
+              "title": {
+                "en": "Cell organelles and their functions",
+                "fr": "Organites cellulaires et leurs fonctions",
+                "mfe": "Organel seliler ek zot fonksion"
+              },
+              "objectives": [
+                "Relate the structure of organelles to their function",
+                "Explain the role of the cytoskeleton in cell organisation",
+                "Describe how cells are organised into tissues and organs"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Biological molecules",
+            "fr": "Molécules biologiques",
+            "mfe": "Molekil byolozik"
+          },
+          "summary": {
+            "en": "Study the structure and roles of water, carbohydrates, lipids and proteins in living organisms, and learn tests used to identify them.",
+            "fr": "Étudier la structure et les rôles de l'eau, des glucides, des lipides et des protéines chez les organismes vivants, et apprendre les tests permettant de les identifier.",
+            "mfe": "Etidye striktir ek rol dilo, karboidrat, lipid ek proteinn dan bann leta vivan, ek aprann bann test pou idantifye zot."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Water and inorganic ions",
+                "fr": "L'eau et les ions inorganiques",
+                "mfe": "Dilo ek ion inorganik"
+              },
+              "objectives": [
+                "Explain the properties of water important to living organisms",
+                "Describe the roles of inorganic ions in cells",
+                "Relate hydrogen bonding to water's properties"
+              ]
+            },
+            {
+              "title": {
+                "en": "Carbohydrates and their functions",
+                "fr": "Les glucides et leurs fonctions",
+                "mfe": "Karboidrat ek zot fonksion"
+              },
+              "objectives": [
+                "Describe the structure of monosaccharides and disaccharides",
+                "Explain formation and breakage of glycosidic bonds",
+                "Relate the structure of starch, glycogen and cellulose to their functions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Lipids: structure and function",
+                "fr": "Les lipides : structure et fonction",
+                "mfe": "Lipid: striktir ek fonksion"
+              },
+              "objectives": [
+                "Describe the structure of triglycerides and phospholipids",
+                "Relate lipid structure to functions in living organisms",
+                "Compare saturated and unsaturated fatty acids"
+              ]
+            },
+            {
+              "title": {
+                "en": "Proteins: structure and function",
+                "fr": "Les protéines : structure et fonction",
+                "mfe": "Proteinn: striktir ek fonksion"
+              },
+              "objectives": [
+                "Describe primary, secondary, tertiary and quaternary protein structure",
+                "Explain the formation of peptide bonds",
+                "Relate protein structure to examples such as haemoglobin and enzymes"
+              ]
+            },
+            {
+              "title": {
+                "en": "Testing for biological molecules",
+                "fr": "Tests d'identification des molécules biologiques",
+                "mfe": "Test pou idantifye molekil byolozik"
+              },
+              "objectives": [
+                "Carry out tests for reducing and non-reducing sugars",
+                "Carry out tests for starch, proteins and lipids",
+                "Interpret results of biochemical tests"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Enzymes",
+            "fr": "Les enzymes",
+            "mfe": "Bann enzim"
+          },
+          "summary": {
+            "en": "Investigate how enzymes catalyse reactions, the factors affecting their activity, and the mechanisms of inhibition.",
+            "fr": "Étudier comment les enzymes catalysent les réactions, les facteurs affectant leur activité et les mécanismes d'inhibition.",
+            "mfe": "Anket kouma enzim katalize reaksion, bann fakter ki afekte zot aktivite, ek mekanism inibision."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Enzyme structure and mechanism of action",
+                "fr": "Structure des enzymes et mécanisme d'action",
+                "mfe": "Striktir enzim ek mekanism aksion"
+              },
+              "objectives": [
+                "Describe the induced fit model of enzyme action",
+                "Explain how enzymes lower activation energy",
+                "Relate active site structure to enzyme specificity"
+              ]
+            },
+            {
+              "title": {
+                "en": "Factors affecting enzyme activity",
+                "fr": "Facteurs affectant l'activité enzymatique",
+                "mfe": "Fakter ki afekte aktivite enzim"
+              },
+              "objectives": [
+                "Explain the effect of temperature on enzyme activity",
+                "Explain the effect of pH and substrate concentration on enzyme activity",
+                "Interpret graphs of enzyme reaction rates"
+              ]
+            },
+            {
+              "title": {
+                "en": "Enzyme inhibition",
+                "fr": "Inhibition enzymatique",
+                "mfe": "Inibision enzim"
+              },
+              "objectives": [
+                "Distinguish between competitive and non-competitive inhibition",
+                "Explain the effect of inhibitors on reaction rate graphs",
+                "Give examples of enzyme inhibition in medicine and industry"
+              ]
+            },
+            {
+              "title": {
+                "en": "Investigating enzyme activity",
+                "fr": "Investigation de l'activité enzymatique",
+                "mfe": "Anket lor aktivite enzim"
+              },
+              "objectives": [
+                "Plan an investigation into a factor affecting enzyme activity",
+                "Collect and process quantitative data from enzyme experiments",
+                "Evaluate experimental methods for measuring enzyme activity"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Cell membranes and transport",
+            "fr": "Membranes cellulaires et transport",
+            "mfe": "Manbran seliler ek transport"
+          },
+          "summary": {
+            "en": "Examine the fluid mosaic model of membrane structure and the mechanisms by which substances move across membranes.",
+            "fr": "Examiner le modèle de la mosaïque fluide de la structure membranaire et les mécanismes de déplacement des substances à travers les membranes.",
+            "mfe": "Egzamine model mozaik fliyid pou striktir manbran ek bann mekanism ki substans deplase atraver manbran."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Fluid mosaic model of membrane structure",
+                "fr": "Modèle de la mosaïque fluide",
+                "mfe": "Model mozaik fliyid"
+              },
+              "objectives": [
+                "Describe the fluid mosaic model of membrane structure",
+                "Explain the roles of proteins, phospholipids and cholesterol in membranes",
+                "Relate membrane structure to selective permeability"
+              ]
+            },
+            {
+              "title": {
+                "en": "Diffusion and facilitated diffusion",
+                "fr": "Diffusion et diffusion facilitée",
+                "mfe": "Difizion ek difizion fasilite"
+              },
+              "objectives": [
+                "Explain the process of simple diffusion across membranes",
+                "Explain how channel and carrier proteins facilitate diffusion",
+                "Relate factors affecting rate of diffusion to membrane transport"
+              ]
+            },
+            {
+              "title": {
+                "en": "Osmosis and water potential",
+                "fr": "Osmose et potentiel hydrique",
+                "mfe": "Osmoz ek potansyel dilo"
+              },
+              "objectives": [
+                "Define water potential and explain osmosis in terms of water potential",
+                "Investigate the effect of solute concentration on plant tissue",
+                "Explain the effects of osmosis on animal and plant cells"
+              ]
+            },
+            {
+              "title": {
+                "en": "Active transport and bulk transport",
+                "fr": "Transport actif et transport en masse",
+                "mfe": "Transport aktif ek transport an mas"
+              },
+              "objectives": [
+                "Explain active transport across membranes using carrier proteins",
+                "Describe endocytosis and exocytosis as forms of bulk transport",
+                "Compare active transport with diffusion and osmosis"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Cell division and genetic material",
+            "fr": "Division cellulaire et matériel génétique",
+            "mfe": "Divizion selil ek materyo zenetik"
+          },
+          "summary": {
+            "en": "Study the mitotic cell cycle, the structure of nucleic acids, and how genetic information is expressed through protein synthesis.",
+            "fr": "Étudier le cycle cellulaire mitotique, la structure des acides nucléiques et comment l'information génétique s'exprime par la synthèse des protéines.",
+            "mfe": "Etidye sik seliler mitotik, striktir asid nikleik, ek kouma linformasion zenetik eksprime atraver sintez proteinn."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "The cell cycle and mitosis",
+                "fr": "Le cycle cellulaire et la mitose",
+                "mfe": "Sik seliler ek mitoz"
+              },
+              "objectives": [
+                "Describe the stages of the mitotic cell cycle",
+                "Explain the significance of mitosis in growth and repair",
+                "Identify stages of mitosis from micrographs"
+              ]
+            },
+            {
+              "title": {
+                "en": "Chromosome behaviour during mitosis",
+                "fr": "Comportement des chromosomes pendant la mitose",
+                "mfe": "Konportman kromozom pandan mitoz"
+              },
+              "objectives": [
+                "Describe chromosome behaviour during each stage of mitosis",
+                "Explain how mitosis produces genetically identical cells",
+                "Relate cell cycle control to uncontrolled cell division and cancer"
+              ]
+            },
+            {
+              "title": {
+                "en": "Structure of DNA and RNA",
+                "fr": "Structure de l'ADN et de l'ARN",
+                "mfe": "Striktir ADN ek ARN"
+              },
+              "objectives": [
+                "Describe the structure of nucleotides and the double helix",
+                "Compare the structure of DNA and RNA",
+                "Explain the significance of complementary base pairing"
+              ]
+            },
+            {
+              "title": {
+                "en": "DNA replication",
+                "fr": "Réplication de l'ADN",
+                "mfe": "Replikasion ADN"
+              },
+              "objectives": [
+                "Describe the semi-conservative model of DNA replication",
+                "Explain the role of enzymes in DNA replication",
+                "Relate DNA replication to accurate transmission of genetic information"
+              ]
+            },
+            {
+              "title": {
+                "en": "Protein synthesis: transcription and translation",
+                "fr": "Synthèse des protéines : transcription et traduction",
+                "mfe": "Sintez proteinn: transkripsion ek tradiksion"
+              },
+              "objectives": [
+                "Describe the process of transcription in the nucleus",
+                "Describe the process of translation at the ribosome",
+                "Explain the roles of mRNA, tRNA and codons in protein synthesis"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Transport in plants",
+            "fr": "Transport chez les plantes",
+            "mfe": "Transport dan bann plant"
+          },
+          "summary": {
+            "en": "Understand how water and organic substances are transported through vascular tissues in flowering plants, and how plants adapt to their water environment.",
+            "fr": "Comprendre comment l'eau et les substances organiques sont transportées dans les tissus vasculaires des plantes à fleurs, et comment les plantes s'adaptent à leur environnement hydrique.",
+            "mfe": "Konpran kouma dilo ek substans organik transporte dan tisi vaskiler bann plant a fler, ek kouma plant adapte ar zot lanvironnman dilo."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Structure of xylem and phloem",
+                "fr": "Structure du xylème et du phloème",
+                "mfe": "Striktir xilem ek floem"
+              },
+              "objectives": [
+                "Describe the structure of xylem vessels and phloem sieve tubes",
+                "Relate structure of vascular tissues to their functions",
+                "Identify vascular tissue in stem and root sections"
+              ]
+            },
+            {
+              "title": {
+                "en": "Water uptake and transpiration",
+                "fr": "Absorption de l'eau et transpiration",
+                "mfe": "Absorpsion dilo ek transpirasion"
+              },
+              "objectives": [
+                "Explain the pathway of water from soil to xylem",
+                "Explain the cohesion-tension theory of water transport",
+                "Describe factors affecting transpiration rate"
+              ]
+            },
+            {
+              "title": {
+                "en": "Translocation of assimilates",
+                "fr": "Translocation des assimilats",
+                "mfe": "Translokasion asimila"
+              },
+              "objectives": [
+                "Describe the mass flow hypothesis of translocation",
+                "Explain the role of source and sink in translocation",
+                "Compare translocation with transpiration in terms of mechanism"
+              ]
+            },
+            {
+              "title": {
+                "en": "Adaptations of plants to water availability",
+                "fr": "Adaptations des plantes à la disponibilité en eau",
+                "mfe": "Adaptasion plant ar disponibilite dilo"
+              },
+              "objectives": [
+                "Describe xerophytic adaptations to reduce water loss",
+                "Describe hydrophytic adaptations to aquatic environments",
+                "Relate plant structure to water availability in Mauritian habitats"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Transport in mammals",
+            "fr": "Transport chez les mammifères",
+            "mfe": "Transport dan mamifer"
+          },
+          "summary": {
+            "en": "Study the mammalian circulatory system, the structure and function of the heart, and the formation of tissue fluid.",
+            "fr": "Étudier le système circulatoire des mammifères, la structure et la fonction du cœur, ainsi que la formation du liquide interstitiel.",
+            "mfe": "Etidye sistem sirkilasion mamifer, striktir ek fonksion leker, ek formasion likid tisilaire."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "The mammalian circulatory system",
+                "fr": "Le système circulatoire des mammifères",
+                "mfe": "Sistem sirkilasion mamifer"
+              },
+              "objectives": [
+                "Describe the double circulatory system of mammals",
+                "Compare the structure of arteries, veins and capillaries",
+                "Relate blood vessel structure to their function"
+              ]
+            },
+            {
+              "title": {
+                "en": "Structure and function of the heart",
+                "fr": "Structure et fonction du cœur",
+                "mfe": "Striktir ek fonksion leker"
+              },
+              "objectives": [
+                "Describe the internal structure of the mammalian heart",
+                "Explain the role of valves in maintaining blood flow direction",
+                "Relate heart structure to its function as a pump"
+              ]
+            },
+            {
+              "title": {
+                "en": "The cardiac cycle",
+                "fr": "Le cycle cardiaque",
+                "mfe": "Sik kardiak"
+              },
+              "objectives": [
+                "Describe the events of the cardiac cycle",
+                "Explain the initiation and coordination of the heartbeat",
+                "Interpret pressure and volume changes during the cardiac cycle"
+              ]
+            },
+            {
+              "title": {
+                "en": "Blood vessels and tissue fluid formation",
+                "fr": "Vaisseaux sanguins et formation du liquide tissulaire",
+                "mfe": "Vaso sanguin ek formasion likid tisilaire"
+              },
+              "objectives": [
+                "Explain the formation of tissue fluid at capillaries",
+                "Describe the return of tissue fluid via the lymphatic system",
+                "Relate blood pressure changes to tissue fluid formation"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Gas exchange, disease and immunity",
+            "fr": "Échanges gazeux, maladies et immunité",
+            "mfe": "Lesanz gaz, maladi ek imunite"
+          },
+          "summary": {
+            "en": "Explore the structure of the gas exchange system, effects of smoking, transmission of infectious diseases, and the body's immune response.",
+            "fr": "Explorer la structure du système d'échanges gazeux, les effets du tabagisme, la transmission des maladies infectieuses et la réponse immunitaire du corps.",
+            "mfe": "Explor striktir sistem lesanz gaz, lefe fime, transmision maladi infeksye, ek repons imin lekor."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Structure of the gas exchange system",
+                "fr": "Structure du système d'échanges gazeux",
+                "mfe": "Striktir sistem lesanz gaz"
+              },
+              "objectives": [
+                "Describe the structure of the human gas exchange system",
+                "Relate alveolar structure to efficient gas exchange",
+                "Describe the mechanism of ventilation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Effects of smoking on gas exchange",
+                "fr": "Effets du tabagisme sur les échanges gazeux",
+                "mfe": "Lefe fime lor lesanz gaz"
+              },
+              "objectives": [
+                "Explain how smoking damages the gas exchange system",
+                "Describe diseases associated with smoking such as bronchitis and emphysema",
+                "Discuss the impact of smoking on public health"
+              ]
+            },
+            {
+              "title": {
+                "en": "Infectious diseases and transmission",
+                "fr": "Maladies infectieuses et transmission",
+                "mfe": "Maladi infeksye ek transmision"
+              },
+              "objectives": [
+                "Describe the transmission of selected infectious diseases",
+                "Explain how pathogens cause disease in the body",
+                "Discuss measures used to control disease transmission in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Antibodies and the immune response",
+                "fr": "Anticorps et réponse immunitaire",
+                "mfe": "Antikor ek repons imin"
+              },
+              "objectives": [
+                "Describe the structure and function of antibodies",
+                "Explain the roles of B and T lymphocytes in the immune response",
+                "Distinguish between primary and secondary immune responses"
+              ]
+            },
+            {
+              "title": {
+                "en": "Vaccination and immunity",
+                "fr": "Vaccination et immunité",
+                "mfe": "Vaksinasion ek imunite"
+              },
+              "objectives": [
+                "Explain how vaccination provides active immunity",
+                "Distinguish between active and passive immunity",
+                "Discuss the role of vaccination programmes in disease control"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "13": {
+      "units": [
+        {
+          "title": {
+            "en": "Energy and respiration",
+            "fr": "Énergie et respiration",
+            "mfe": "Lenerzi ek respirasyon"
+          },
+          "summary": {
+            "en": "Explores how living organisms release energy from respiratory substrates through glycolysis, the Krebs cycle and oxidative phosphorylation, and how ATP is used and produced.",
+            "fr": "Explore comment les organismes vivants libèrent de l'énergie à partir de substrats respiratoires par la glycolyse, le cycle de Krebs et la phosphorylation oxydative, et comment l'ATP est utilisé et produit.",
+            "mfe": "Explor kouman bann organism vivan lib lenerzi apartir bann sibstra respiratwar par glikoliz, sik Krebs ek fosforilasyon oksidativ, ek kouman ATP servi ek prodwir."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "ATP and energy in living organisms",
+                "fr": "L'ATP et l'énergie chez les organismes vivants",
+                "mfe": "ATP ek lenerzi dan bann organism vivan"
+              },
+              "objectives": [
+                "Explain the role of ATP as the universal energy currency",
+                "Describe the structure of ATP and its hydrolysis",
+                "Relate ATP production to cellular respiration"
+              ]
+            },
+            {
+              "title": {
+                "en": "Glycolysis and pyruvate oxidation",
+                "fr": "Glycolyse et oxydation du pyruvate",
+                "mfe": "Glikoliz ek oksidasyon pirivat"
+              },
+              "objectives": [
+                "Outline the stages of glycolysis and its net ATP yield",
+                "Describe the link reaction converting pyruvate to acetyl coenzyme A",
+                "Explain the role of NAD in these processes"
+              ]
+            },
+            {
+              "title": {
+                "en": "Krebs cycle and oxidative phosphorylation",
+                "fr": "Cycle de Krebs et phosphorylation oxydative",
+                "mfe": "Sik Krebs ek fosforilasyon oksidativ"
+              },
+              "objectives": [
+                "Outline the reactions of the Krebs cycle",
+                "Explain the role of the electron transport chain in ATP synthesis",
+                "Describe chemiosmosis and the role of ATP synthase"
+              ]
+            },
+            {
+              "title": {
+                "en": "Anaerobic respiration and respiratory substrates",
+                "fr": "Respiration anaérobie et substrats respiratoires",
+                "mfe": "Respirasyon anaerob ek sibstra respiratwar"
+              },
+              "objectives": [
+                "Compare aerobic and anaerobic respiration in animals and yeast",
+                "Calculate respiratory quotients for different substrates",
+                "Explain the significance of different respiratory substrates in energy release"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Photosynthesis",
+            "fr": "Photosynthèse",
+            "mfe": "Fotosintez"
+          },
+          "summary": {
+            "en": "Examines the structure of the chloroplast and the light-dependent and light-independent reactions of photosynthesis, and factors limiting its rate.",
+            "fr": "Examine la structure du chloroplaste ainsi que les réactions photochimiques et biochimiques de la photosynthèse, et les facteurs limitant son taux.",
+            "mfe": "Examinn striktir kloroplast ek bann reaksyon depandan-lalimyer ek non-depandan-lalimyer dan fotosintez, ek bann fakter ki limit so vites."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Chloroplast structure and pigments",
+                "fr": "Structure du chloroplaste et pigments",
+                "mfe": "Striktir kloroplast ek pigman"
+              },
+              "objectives": [
+                "Describe the structure of the chloroplast in relation to its function",
+                "Explain the role of photosynthetic pigments in light absorption",
+                "Interpret absorption and action spectra"
+              ]
+            },
+            {
+              "title": {
+                "en": "Light-dependent reactions",
+                "fr": "Réactions photochimiques",
+                "mfe": "Reaksyon depandan-lalimyer"
+              },
+              "objectives": [
+                "Describe the process of photolysis of water",
+                "Explain non-cyclic and cyclic photophosphorylation",
+                "Relate electron transport to ATP and NADPH production"
+              ]
+            },
+            {
+              "title": {
+                "en": "Light-independent reactions (Calvin cycle)",
+                "fr": "Réactions biochimiques (cycle de Calvin)",
+                "mfe": "Reaksyon non-depandan-lalimyer (sik Calvin)"
+              },
+              "objectives": [
+                "Outline the stages of the Calvin cycle",
+                "Explain the roles of ATP and NADPH from the light-dependent reactions",
+                "Describe how triose phosphate is used to form organic molecules"
+              ]
+            },
+            {
+              "title": {
+                "en": "Factors affecting photosynthetic rate",
+                "fr": "Facteurs affectant le taux de photosynthèse",
+                "mfe": "Fakter ki afekte vites fotosintez"
+              },
+              "objectives": [
+                "Investigate the effect of light intensity, carbon dioxide and temperature on rate of photosynthesis",
+                "Interpret graphs of limiting factors",
+                "Relate findings to crop production in Mauritius"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Homeostasis and excretion",
+            "fr": "Homéostasie et excrétion",
+            "mfe": "Omeostazi ek eksekresyon"
+          },
+          "summary": {
+            "en": "Covers the principles of homeostasis, control of blood glucose, kidney structure and function, and osmoregulation through hormonal control.",
+            "fr": "Couvre les principes de l'homéostasie, la régulation de la glycémie, la structure et le fonctionnement du rein, et l'osmorégulation par contrôle hormonal.",
+            "mfe": "Kouver bann prensip omeostazi, kontrol niso glikoz dan disan, striktir ek fonksyon rin, ek osmoregilasyon par kontrol ormonal."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Principles of homeostasis and negative feedback",
+                "fr": "Principes de l'homéostasie et rétroaction négative",
+                "mfe": "Prensip omeostazi ek retroaksyon negativ"
+              },
+              "objectives": [
+                "Define homeostasis and explain its importance",
+                "Describe negative feedback mechanisms with examples",
+                "Distinguish negative from positive feedback"
+              ]
+            },
+            {
+              "title": {
+                "en": "Control of blood glucose",
+                "fr": "Régulation de la glycémie",
+                "mfe": "Kontrol niso glikoz dan disan"
+              },
+              "objectives": [
+                "Explain the roles of insulin and glucagon in blood glucose regulation",
+                "Describe the structure and function of the liver in glycogen storage",
+                "Discuss the causes and management of diabetes mellitus"
+              ]
+            },
+            {
+              "title": {
+                "en": "Kidney structure and function",
+                "fr": "Structure et fonction du rein",
+                "mfe": "Striktir ek fonksyon rin"
+              },
+              "objectives": [
+                "Describe the gross and microscopic structure of the kidney and nephron",
+                "Explain ultrafiltration and selective reabsorption",
+                "Relate nephron structure to its function"
+              ]
+            },
+            {
+              "title": {
+                "en": "Osmoregulation and hormonal control",
+                "fr": "Osmorégulation et contrôle hormonal",
+                "mfe": "Osmoregilasyon ek kontrol ormonal"
+              },
+              "objectives": [
+                "Explain the role of ADH in water reabsorption",
+                "Describe the counter-current multiplier mechanism in the loop of Henle",
+                "Discuss kidney failure and treatment options such as dialysis"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Coordination and response",
+            "fr": "Coordination et réponse",
+            "mfe": "Kordinasyon ek repons"
+          },
+          "summary": {
+            "en": "Studies nervous and hormonal coordination in mammals, the structure and function of neurones and synapses, and coordination in plants through tropisms.",
+            "fr": "Étudie la coordination nerveuse et hormonale chez les mammifères, la structure et le fonctionnement des neurones et synapses, et la coordination chez les plantes par les tropismes.",
+            "mfe": "Etidye kordinasyon nerve ek ormonal dan mamifer, striktir ek fonksyon nerone ek sinaps, ek kordinasyon dan plant atraver tropizm."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Neurones and synapses",
+                "fr": "Neurones et synapses",
+                "mfe": "Nerone ek sinaps"
+              },
+              "objectives": [
+                "Describe the structure of a motor neurone",
+                "Explain the generation and transmission of nerve impulses",
+                "Describe synaptic transmission and its significance"
+              ]
+            },
+            {
+              "title": {
+                "en": "The mammalian nervous system and reflexes",
+                "fr": "Le système nerveux des mammifères et les réflexes",
+                "mfe": "Sistem nerve mamifer ek reflex"
+              },
+              "objectives": [
+                "Distinguish between the central and peripheral nervous systems",
+                "Describe the reflex arc and its survival value",
+                "Explain the role of the autonomic nervous system"
+              ]
+            },
+            {
+              "title": {
+                "en": "Hormonal communication in mammals",
+                "fr": "Communication hormonale chez les mammifères",
+                "mfe": "Komiunikasyon ormonal dan mamifer"
+              },
+              "objectives": [
+                "Compare nervous and hormonal communication",
+                "Describe the role of endocrine glands in mammals",
+                "Explain the fight-or-flight response and adrenaline action"
+              ]
+            },
+            {
+              "title": {
+                "en": "Coordination in plants",
+                "fr": "Coordination chez les plantes",
+                "mfe": "Kordinasyon dan plant"
+              },
+              "objectives": [
+                "Explain the role of auxins in phototropism and gravitropism",
+                "Describe experimental evidence for plant hormone action",
+                "Relate plant hormone use to agricultural practices in Mauritius"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Inherited change",
+            "fr": "Changement héréditaire",
+            "mfe": "Sanzman erediter"
+          },
+          "summary": {
+            "en": "Focuses on DNA and chromosome structure, meiosis, patterns of inheritance, gene mutation and sex determination.",
+            "fr": "Se concentre sur la structure de l'ADN et des chromosomes, la méiose, les modes d'hérédité, la mutation génétique et la détermination du sexe.",
+            "mfe": "Konsantre lor striktir ADN ek kromozom, meyoz, model erediter, mitasyon zenetik ek determinasyon seks."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "DNA and chromosome structure",
+                "fr": "Structure de l'ADN et des chromosomes",
+                "mfe": "Striktir ADN ek kromozom"
+              },
+              "objectives": [
+                "Describe the structure of DNA and chromosomes",
+                "Explain the organisation of genes on chromosomes",
+                "Relate chromosome structure to genetic information storage"
+              ]
+            },
+            {
+              "title": {
+                "en": "Meiosis and genetic variation",
+                "fr": "Méiose et variation génétique",
+                "mfe": "Meyoz ek varyasyon zenetik"
+              },
+              "objectives": [
+                "Describe the stages of meiosis",
+                "Explain how meiosis generates genetic variation",
+                "Relate crossing over and independent assortment to variation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Monohybrid and dihybrid inheritance",
+                "fr": "Hérédité monohybride et dihybride",
+                "mfe": "Erediter monohibrid ek diibrid"
+              },
+              "objectives": [
+                "Use genetic diagrams to predict monohybrid and dihybrid crosses",
+                "Apply the chi-squared test to genetic data",
+                "Explain codominance and multiple alleles with examples"
+              ]
+            },
+            {
+              "title": {
+                "en": "Gene mutation and linkage",
+                "fr": "Mutation génique et liaison génétique",
+                "mfe": "Mitasyon zenn ek lyezon zenetik"
+              },
+              "objectives": [
+                "Describe types and causes of gene mutation",
+                "Explain the concept of gene linkage and recombination",
+                "Discuss the effects of mutation on protein function"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sex determination and pedigree analysis",
+                "fr": "Détermination du sexe et analyse de pedigrees",
+                "mfe": "Determinasyon seks ek analiz pedigri"
+              },
+              "objectives": [
+                "Explain sex determination in humans",
+                "Interpret pedigree diagrams for inherited conditions",
+                "Discuss sex-linked inheritance patterns"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Selection and evolution",
+            "fr": "Sélection et évolution",
+            "mfe": "Selesyon ek levolisyon"
+          },
+          "summary": {
+            "en": "Examines the mechanisms of natural selection, types of selection, speciation and the evidence supporting evolutionary theory.",
+            "fr": "Examine les mécanismes de la sélection naturelle, les types de sélection, la spéciation et les preuves soutenant la théorie de l'évolution.",
+            "mfe": "Examinn mekanism selesyon natirel, diferan tip selesyon, spesyasyon ek prev ki soutenir teori levolisyon."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Variation and natural selection",
+                "fr": "Variation et sélection naturelle",
+                "mfe": "Varyasyon ek selesyon natirel"
+              },
+              "objectives": [
+                "Explain sources of genetic variation in populations",
+                "Describe the process of natural selection",
+                "Relate selection pressures to survival and reproduction"
+              ]
+            },
+            {
+              "title": {
+                "en": "Types of selection",
+                "fr": "Types de sélection",
+                "mfe": "Diferan tip selesyon"
+              },
+              "objectives": [
+                "Distinguish stabilising, directional and disruptive selection",
+                "Interpret graphs showing selection effects on populations",
+                "Discuss examples such as antibiotic resistance"
+              ]
+            },
+            {
+              "title": {
+                "en": "Species and speciation",
+                "fr": "Espèces et spéciation",
+                "mfe": "Lespes ek spesyasyon"
+              },
+              "objectives": [
+                "Define species using the biological species concept",
+                "Explain allopatric and sympatric speciation",
+                "Discuss examples of speciation relevant to island ecosystems like Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Evidence for evolution",
+                "fr": "Preuves de l'évolution",
+                "mfe": "Prev pou levolisyon"
+              },
+              "objectives": [
+                "Discuss evidence from fossils, comparative anatomy and molecular biology",
+                "Evaluate the significance of the Mauritian dodo as evolutionary evidence",
+                "Explain the role of geographical isolation in evolution"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Biodiversity, classification and conservation",
+            "fr": "Biodiversité, classification et conservation",
+            "mfe": "Biodiversite, klasifikasyon ek konservasyon"
+          },
+          "summary": {
+            "en": "Explores classification systems, methods of measuring biodiversity, and the conservation of species with reference to Mauritius's unique ecosystems.",
+            "fr": "Explore les systèmes de classification, les méthodes de mesure de la biodiversité et la conservation des espèces en référence aux écosystèmes uniques de Maurice.",
+            "mfe": "Explor sistem klasifikasyon, metod pou mezire biodiversite, ek konservasyon lespes an referans avek bann ekosistem inik Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Principles of classification",
+                "fr": "Principes de classification",
+                "mfe": "Prensip klasifikasyon"
+              },
+              "objectives": [
+                "Describe the hierarchical system of classification",
+                "Explain the use of molecular evidence in classification",
+                "Compare traditional and modern classification methods"
+              ]
+            },
+            {
+              "title": {
+                "en": "Measuring biodiversity",
+                "fr": "Mesurer la biodiversité",
+                "mfe": "Mezire biodiversite"
+              },
+              "objectives": [
+                "Explain species richness and evenness",
+                "Use sampling techniques to estimate biodiversity",
+                "Calculate an index of diversity"
+              ]
+            },
+            {
+              "title": {
+                "en": "Threats to biodiversity in Mauritius",
+                "fr": "Menaces sur la biodiversité à Maurice",
+                "mfe": "Menas lor biodiversite Moris"
+              },
+              "objectives": [
+                "Identify causes of biodiversity loss such as habitat destruction and invasive species",
+                "Discuss the impact of human activity on endemic species",
+                "Evaluate the extinction of the dodo as a case study"
+              ]
+            },
+            {
+              "title": {
+                "en": "Conservation strategies",
+                "fr": "Stratégies de conservation",
+                "mfe": "Stratezi konservasyon"
+              },
+              "objectives": [
+                "Describe in situ and ex situ conservation methods",
+                "Evaluate conservation projects in Mauritius such as those on Round Island",
+                "Discuss the role of international agreements in biodiversity conservation"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Gene technology and biotechnology",
+            "fr": "Technologie génique et biotechnologie",
+            "mfe": "Teknolozi zenetik ek bioteknolozi"
+          },
+          "summary": {
+            "en": "Introduces recombinant DNA technology, techniques such as PCR and gel electrophoresis, applications of genetic engineering, and related ethical issues.",
+            "fr": "Introduit la technologie de l'ADN recombinant, des techniques telles que la PCR et l'électrophorèse sur gel, les applications du génie génétique et les questions éthiques associées.",
+            "mfe": "Introdir teknolozi ADN rekombinan, teknik kouma PCR ek elektroforez zele, aplikasyon zeni zenetik, ek problem etik ki asosye ar li."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Recombinant DNA technology",
+                "fr": "Technologie de l'ADN recombinant",
+                "mfe": "Teknolozi ADN rekombinan"
+              },
+              "objectives": [
+                "Explain the principles of genetic engineering",
+                "Describe the use of restriction enzymes and ligases",
+                "Outline the process of inserting genes into vectors"
+              ]
+            },
+            {
+              "title": {
+                "en": "PCR and gel electrophoresis",
+                "fr": "PCR et électrophorèse sur gel",
+                "mfe": "PCR ek elektroforez zele"
+              },
+              "objectives": [
+                "Describe the polymerase chain reaction and its uses",
+                "Explain gel electrophoresis for separating DNA fragments",
+                "Interpret results of DNA profiling"
+              ]
+            },
+            {
+              "title": {
+                "en": "Applications of genetic engineering",
+                "fr": "Applications du génie génétique",
+                "mfe": "Aplikasyon zeni zenetik"
+              },
+              "objectives": [
+                "Discuss applications in agriculture such as genetically modified crops",
+                "Explain the production of human insulin using bacteria",
+                "Evaluate benefits and risks of genetic engineering"
+              ]
+            },
+            {
+              "title": {
+                "en": "Ethical issues in biotechnology",
+                "fr": "Questions éthiques en biotechnologie",
+                "mfe": "Problem etik dan bioteknolozi"
+              },
+              "objectives": [
+                "Discuss ethical, social and economic issues raised by gene technology",
+                "Evaluate different viewpoints on genetically modified organisms",
+                "Consider regulation of biotechnology in a Mauritian and global context"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

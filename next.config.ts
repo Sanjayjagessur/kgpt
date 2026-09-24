@@ -4,6 +4,10 @@ import createNextIntlPlugin from "next-intl/plugin";
 const nextConfig: NextConfig = {
   poweredByHeader: false,
   images: { formats: ["image/avif", "image/webp"] },
+  // Browsers still probe /favicon.ico; serve the app icon.
+  async rewrites() {
+    return [{ source: "/favicon.ico", destination: "/icons/192.png" }];
+  },
   async headers() {
     return [
       {

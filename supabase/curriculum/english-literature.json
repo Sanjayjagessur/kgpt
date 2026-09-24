@@ -1,0 +1,1843 @@
+{
+  "subject": "english-literature",
+  "grades": {
+    "10": {
+      "units": [
+        {
+          "title": {
+            "en": "Foundations of literary study",
+            "fr": "Fondements de l'étude littéraire",
+            "mfe": "Baz létid literer"
+          },
+          "summary": {
+            "en": "An introduction to the key concepts and vocabulary needed to analyse literary texts, including plot, character, theme and figurative language.",
+            "fr": "Une introduction aux concepts clés et au vocabulaire nécessaires pour analyser des textes littéraires, notamment l'intrigue, les personnages, le thème et le langage figuré.",
+            "mfe": "Enn lentrodiksion lor bann konsep kle ek vokabiler ki bizin pou analiz text literer, kouma intrig, personaz, tem ek langaz figiratif."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "What is literature and why we study it",
+                "fr": "Qu'est-ce que la littérature et pourquoi l'étudier",
+                "mfe": "Ki sa literatir ete ek kifer nou etidye li"
+              },
+              "objectives": [
+                "Define literature and its main purposes",
+                "Explain why literary study matters for personal and social understanding",
+                "Identify the main genres studied at O Level"
+              ]
+            },
+            {
+              "title": {
+                "en": "Elements of fiction: plot and character",
+                "fr": "Éléments de fiction: intrigue et personnage",
+                "mfe": "Bann element fiksion: intrig ek personaz"
+              },
+              "objectives": [
+                "Identify the stages of a typical plot structure",
+                "Distinguish between major and minor characters",
+                "Analyse how characters are revealed through action and dialogue"
+              ]
+            },
+            {
+              "title": {
+                "en": "Understanding theme and tone",
+                "fr": "Comprendre le thème et le ton",
+                "mfe": "Konpran tem ek ton"
+              },
+              "objectives": [
+                "Define theme and tone in a literary text",
+                "Identify how word choice creates tone",
+                "Discuss how themes reflect wider human experience"
+              ]
+            },
+            {
+              "title": {
+                "en": "Introduction to literary devices",
+                "fr": "Introduction aux procédés littéraires",
+                "mfe": "Lentrodiksion bann teknik literer"
+              },
+              "objectives": [
+                "Identify metaphor, simile and imagery in short extracts",
+                "Explain the effect of figurative language on meaning",
+                "Practise using literary terminology accurately"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Reading and appreciating poetry",
+            "fr": "Lire et apprécier la poésie",
+            "mfe": "Lir ek apresie poezi"
+          },
+          "summary": {
+            "en": "Students explore set poems, developing skills to interpret imagery, sound and structure while comparing different poets' approaches to shared themes.",
+            "fr": "Les élèves explorent des poèmes au programme, développant des compétences pour interpréter l'imagerie, le son et la structure tout en comparant les approches de différents poètes sur des thèmes communs.",
+            "mfe": "Bann etidian explor bann poem lor program, devlop konpetans pou interpret imaz, son ek striktir pandan ki zot konpar diferan lapros poet lor mem tem."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Approaching an unfamiliar poem",
+                "fr": "Aborder un poème inconnu",
+                "mfe": "Aprosh enn poem ki pa konplike"
+              },
+              "objectives": [
+                "Apply a step-by-step method to read a new poem",
+                "Identify speaker, subject and situation",
+                "Make initial observations about tone and mood"
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysing imagery and sound devices",
+                "fr": "Analyser l'imagerie et les procédés sonores",
+                "mfe": "Analiz imaz ek teknik son"
+              },
+              "objectives": [
+                "Identify alliteration, assonance and rhyme in poems",
+                "Explain how sound devices affect meaning",
+                "Discuss the impact of visual imagery on the reader"
+              ]
+            },
+            {
+              "title": {
+                "en": "Exploring themes of nature and identity",
+                "fr": "Explorer les thèmes de la nature et de l'identité",
+                "mfe": "Explor tem nater ek idantite"
+              },
+              "objectives": [
+                "Identify how poets present nature and identity",
+                "Compare personal responses to shared human experiences",
+                "Support interpretations with quotations"
+              ]
+            },
+            {
+              "title": {
+                "en": "Comparing two poems",
+                "fr": "Comparer deux poèmes",
+                "mfe": "Konpar de poem"
+              },
+              "objectives": [
+                "Identify similarities and differences between two poems",
+                "Structure a comparative paragraph effectively",
+                "Use linking language to compare ideas"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing a poetry essay",
+                "fr": "Rédiger un essai sur la poésie",
+                "mfe": "Ekrir enn dissertation lor poezi"
+              },
+              "objectives": [
+                "Plan a well-structured poetry essay",
+                "Integrate quotations to support analysis",
+                "Write a clear introduction and conclusion"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Studying Lord of the Flies",
+            "fr": "Étudier Sa Majesté des Mouches",
+            "mfe": "Etidye Lord of the Flies"
+          },
+          "summary": {
+            "en": "A close study of William Golding's novel, focusing on character development, symbolism and the central conflict between civilization and savagery.",
+            "fr": "Une étude approfondie du roman de William Golding, axée sur le développement des personnages, le symbolisme et le conflit central entre civilisation et sauvagerie.",
+            "mfe": "Enn letid apronfondi roman William Golding, ki fokis lor devlopman personaz, senbolism ek konfli santral ant sivilizasion ek sovaziz."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Context and background of the novel",
+                "fr": "Contexte et arrière-plan du roman",
+                "mfe": "Kontex ek background roman-la"
+              },
+              "objectives": [
+                "Explain the historical context of the novel's publication",
+                "Summarise the opening situation of the boys on the island",
+                "Identify key narrative techniques used by Golding"
+              ]
+            },
+            {
+              "title": {
+                "en": "Character analysis: Ralph, Jack and Piggy",
+                "fr": "Analyse des personnages: Ralph, Jack et Piggy",
+                "mfe": "Analiz personaz: Ralph, Jack ek Piggy"
+              },
+              "objectives": [
+                "Describe the personalities and roles of the main characters",
+                "Analyse how each character represents different values",
+                "Track character development across the novel"
+              ]
+            },
+            {
+              "title": {
+                "en": "Key themes: civilization versus savagery",
+                "fr": "Thèmes clés: civilisation contre sauvagerie",
+                "mfe": "Tem kle: sivilizasion kont sovaziz"
+              },
+              "objectives": [
+                "Identify moments where order breaks down",
+                "Explain how the novel presents human nature",
+                "Support arguments with evidence from the text"
+              ]
+            },
+            {
+              "title": {
+                "en": "Symbolism in the novel",
+                "fr": "Symbolisme dans le roman",
+                "mfe": "Senbolism dan roman-la"
+              },
+              "objectives": [
+                "Identify key symbols such as the conch and the beast",
+                "Explain the significance of symbols to the novel's themes",
+                "Discuss how symbols change meaning over the story"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing about narrative structure",
+                "fr": "Écrire sur la structure narrative",
+                "mfe": "Ekrir lor striktir naratif"
+              },
+              "objectives": [
+                "Identify how tension builds through the chapters",
+                "Analyse the effect of the novel's ending",
+                "Write an essay paragraph analysing structure"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Studying Julius Caesar",
+            "fr": "Étudier Jules César",
+            "mfe": "Etidye Julius Caesar"
+          },
+          "summary": {
+            "en": "Students study Shakespeare's tragedy, examining its historical context, characters, themes of power and betrayal, and dramatic techniques.",
+            "fr": "Les élèves étudient la tragédie de Shakespeare, en examinant son contexte historique, ses personnages, les thèmes du pouvoir et de la trahison, et les techniques dramatiques.",
+            "mfe": "Bann etidian etidye trazedi Shakespeare, examine so kontex istorik, personaz, tem pouvwar ek trayizon, ek teknik dramatik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Introduction to Shakespearean drama and context",
+                "fr": "Introduction au théâtre shakespearien et à son contexte",
+                "mfe": "Lentrodiksion teat Shakespeare ek so kontex"
+              },
+              "objectives": [
+                "Explain the historical setting of Julius Caesar",
+                "Describe key features of Elizabethan theatre",
+                "Summarise the play's central conflict"
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysing key characters: Brutus, Cassius and Antony",
+                "fr": "Analyser les personnages clés: Brutus, Cassius et Antoine",
+                "mfe": "Analiz personaz kle: Brutus, Cassius ek Antony"
+              },
+              "objectives": [
+                "Describe the motivations of the main characters",
+                "Compare the leadership styles presented in the play",
+                "Analyse how characters change through the play"
+              ]
+            },
+            {
+              "title": {
+                "en": "Exploring themes of power and betrayal",
+                "fr": "Explorer les thèmes du pouvoir et de la trahison",
+                "mfe": "Explor tem pouvwar ek trayizon"
+              },
+              "objectives": [
+                "Identify examples of ambition and betrayal in the play",
+                "Explain how the play presents political manipulation",
+                "Support interpretations with textual evidence"
+              ]
+            },
+            {
+              "title": {
+                "en": "Dramatic techniques and stagecraft",
+                "fr": "Techniques dramatiques et mise en scène",
+                "mfe": "Teknik dramatik ek mizansenn"
+              },
+              "objectives": [
+                "Identify use of soliloquy and dramatic irony",
+                "Explain the effect of staging on audience response",
+                "Discuss the role of rhetoric in persuading characters"
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysing a key scene extract",
+                "fr": "Analyser un extrait de scène clé",
+                "mfe": "Analiz enn extrait sen kle"
+              },
+              "objectives": [
+                "Analyse language and structure of a chosen extract",
+                "Explain how the extract relates to wider themes",
+                "Write a focused response to an extract question"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Developing unseen poetry skills",
+            "fr": "Développer les compétences en poésie inconnue",
+            "mfe": "Devlop konpetans poezi ki pa vwar avan"
+          },
+          "summary": {
+            "en": "Focused practice in reading and responding to unfamiliar poems under timed conditions, building confidence for the examination.",
+            "fr": "Une pratique ciblée de lecture et de réponse à des poèmes inconnus dans des conditions chronométrées, renforçant la confiance pour l'examen.",
+            "mfe": "Pratik fokalize pou lir ek reponn poem ki pa konnen dan kondision ki gard letan, pou ranforsi konfians pou lexamen."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Strategies for approaching unseen poems",
+                "fr": "Stratégies pour aborder des poèmes inconnus",
+                "mfe": "Stratezi pou aprosh poem ki pa konnen"
+              },
+              "objectives": [
+                "Apply a systematic reading strategy to unseen poems",
+                "Annotate a poem effectively under time pressure",
+                "Identify key features to comment on first"
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysing structure and form",
+                "fr": "Analyser la structure et la forme",
+                "mfe": "Analiz striktir ek form"
+              },
+              "objectives": [
+                "Identify stanza structure and rhyme scheme",
+                "Explain how form contributes to meaning",
+                "Compare free verse and structured poems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Interpreting tone and voice",
+                "fr": "Interpréter le ton et la voix",
+                "mfe": "Interpret ton ek vwa"
+              },
+              "objectives": [
+                "Identify the speaker's attitude in a poem",
+                "Explain how word choice conveys tone",
+                "Discuss shifts in tone within a poem"
+              ]
+            },
+            {
+              "title": {
+                "en": "Practice: writing a timed unseen poetry response",
+                "fr": "Pratique: rédiger une réponse chronométrée sur un poème inconnu",
+                "mfe": "Pratik: ekrir enn repons kronometre lor poem ki pa konnen"
+              },
+              "objectives": [
+                "Plan a response within a set time limit",
+                "Structure an analytical paragraph on an unseen poem",
+                "Self-assess a practice response using exam criteria"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Developing unseen prose skills",
+            "fr": "Développer les compétences en prose inconnue",
+            "mfe": "Devlop konpetans proz ki pa konnen"
+          },
+          "summary": {
+            "en": "Students build skills in analysing unfamiliar prose extracts, focusing on narrative viewpoint, language and stylistic features.",
+            "fr": "Les élèves développent des compétences pour analyser des extraits de prose inconnus, en se concentrant sur le point de vue narratif, le langage et les procédés stylistiques.",
+            "mfe": "Bann etidian devlop konpetans pou analiz extrait proz ki pa konnen, fokis lor pwin-de-vi naratif, langaz ek teknik stilistik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Reading unseen prose extracts critically",
+                "fr": "Lire de manière critique des extraits de prose inconnus",
+                "mfe": "Lir kritikman extrait proz ki pa konnen"
+              },
+              "objectives": [
+                "Apply close reading techniques to prose extracts",
+                "Identify key events and characters quickly",
+                "Form initial impressions supported by evidence"
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysing narrative viewpoint",
+                "fr": "Analyser le point de vue narratif",
+                "mfe": "Analiz pwin-de-vi naratif"
+              },
+              "objectives": [
+                "Distinguish between first-person and third-person narration",
+                "Explain the effect of narrative perspective on the reader",
+                "Identify examples of unreliable narration"
+              ]
+            },
+            {
+              "title": {
+                "en": "Identifying language and stylistic features",
+                "fr": "Identifier le langage et les procédés stylistiques",
+                "mfe": "Idantifie langaz ek teknik stilistik"
+              },
+              "objectives": [
+                "Identify figurative language in prose extracts",
+                "Explain how sentence structure affects pace and mood",
+                "Comment on the writer's choice of vocabulary"
+              ]
+            },
+            {
+              "title": {
+                "en": "Practice: timed unseen prose response",
+                "fr": "Pratique: réponse chronométrée sur un extrait de prose inconnu",
+                "mfe": "Pratik: repons kronometre lor extrait proz ki pa konnen"
+              },
+              "objectives": [
+                "Plan a structured response within time limits",
+                "Support points with well-chosen quotations",
+                "Review a practice response against assessment criteria"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Essay writing and exam preparation",
+            "fr": "Rédaction d'essais et préparation à l'examen",
+            "mfe": "Ekritir dissertation ek preparasion pou lexamen"
+          },
+          "summary": {
+            "en": "A final unit consolidating essay-writing skills and exam techniques across poetry, prose and drama in preparation for the SC examination.",
+            "fr": "Une dernière unité consolidant les compétences de rédaction d'essais et les techniques d'examen en poésie, prose et théâtre en préparation de l'examen SC.",
+            "mfe": "Enn dernier linite ki konsolid konpetans ekritir dissertation ek teknik lexamen dan poezi, proz ek teat pou prepar lexamen SC."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Structuring a literature essay",
+                "fr": "Structurer un essai de littérature",
+                "mfe": "Striktir enn dissertation literer"
+              },
+              "objectives": [
+                "Plan an essay with clear introduction, body and conclusion",
+                "Organise paragraphs around a central argument",
+                "Use topic sentences to guide the reader"
+              ]
+            },
+            {
+              "title": {
+                "en": "Using textual evidence effectively",
+                "fr": "Utiliser efficacement des preuves textuelles",
+                "mfe": "Servi levidans text efikasman"
+              },
+              "objectives": [
+                "Select relevant quotations to support points",
+                "Embed quotations smoothly into sentences",
+                "Balance analysis with evidence appropriately"
+              ]
+            },
+            {
+              "title": {
+                "en": "Planning under timed conditions",
+                "fr": "Planifier dans des conditions chronométrées",
+                "mfe": "Planifie dan kondision ki gard letan"
+              },
+              "objectives": [
+                "Create a quick essay plan within a few minutes",
+                "Allocate time effectively across exam questions",
+                "Prioritise key points for a strong response"
+              ]
+            },
+            {
+              "title": {
+                "en": "Reviewing and improving your writing",
+                "fr": "Réviser et améliorer son écriture",
+                "mfe": "Revize ek ameliore to lekritir"
+              },
+              "objectives": [
+                "Identify common weaknesses in practice essays",
+                "Apply feedback to improve future responses",
+                "Edit an essay for clarity and precision"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "11": {
+      "units": [
+        {
+          "title": {
+            "en": "Refining poetry analysis skills",
+            "fr": "Affiner les compétences d'analyse poétique",
+            "mfe": "Rafinn konpetans analiz lapoezi"
+          },
+          "summary": {
+            "en": "Students deepen their ability to analyse the set poetry anthology, focusing on imagery, sound and structure to build strong exam responses.",
+            "fr": "Les élèves approfondissent leur capacité à analyser l'anthologie de poésie au programme, en se concentrant sur les images, les sonorités et la structure pour construire des réponses solides à l'examen.",
+            "mfe": "Bann elev apronfondi zot kapasite pou analiz lantolozi lapoezi ki dan program, ar fokis lor imazri, son ek striktir pou konstir bann repons solid pou lexamen."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Reviewing imagery and figurative language",
+                "fr": "Revoir les images et le langage figuré",
+                "mfe": "Revize imazri ek langaz figiratif"
+              },
+              "objectives": [
+                "Identify metaphors, similes and symbols in set poems",
+                "Explain how figurative language creates meaning",
+                "Compare use of imagery across two poems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sound devices and rhythm",
+                "fr": "Les procédés sonores et le rythme",
+                "mfe": "Bann teknik son ek ritm"
+              },
+              "objectives": [
+                "Recognise alliteration, assonance and rhyme scheme",
+                "Discuss how sound effects reinforce mood",
+                "Analyse rhythm patterns in a chosen poem"
+              ]
+            },
+            {
+              "title": {
+                "en": "Structure and form in poetry",
+                "fr": "Structure et forme en poésie",
+                "mfe": "Striktir ek form dan lapoezi"
+              },
+              "objectives": [
+                "Describe stanza structure and its effect on meaning",
+                "Compare fixed and free verse forms",
+                "Explain how form supports the poem's theme"
+              ]
+            },
+            {
+              "title": {
+                "en": "Comparing two poems effectively",
+                "fr": "Comparer efficacement deux poèmes",
+                "mfe": "Konpar de lapoezi dan enn fason efikas"
+              },
+              "objectives": [
+                "Select relevant comparison points between poems",
+                "Structure a comparative paragraph",
+                "Use linking phrases to show similarity and contrast"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Deepening study of the set novel",
+            "fr": "Approfondir l'étude du roman au programme",
+            "mfe": "Apronfondi letid lo roman ki dan program"
+          },
+          "summary": {
+            "en": "Students explore character development, narrative technique and themes in the set novel to prepare detailed critical responses.",
+            "fr": "Les élèves explorent le développement des personnages, la technique narrative et les thèmes du roman au programme pour préparer des réponses critiques détaillées.",
+            "mfe": "Bann elev explor devlopman personaz, teknik naratif ek tem dan roman ki dan program pou prepar bann repons kritik detaye."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Tracking character development",
+                "fr": "Suivre l'évolution des personnages",
+                "mfe": "Swiv devlopman personaz"
+              },
+              "objectives": [
+                "Trace changes in a main character across chapters",
+                "Support analysis with textual evidence",
+                "Explain the author's purpose in character change"
+              ]
+            },
+            {
+              "title": {
+                "en": "Narrative voice and point of view",
+                "fr": "Voix narrative et point de vue",
+                "mfe": "Vwa naratif ek pwennvi"
+              },
+              "objectives": [
+                "Identify the narrator's perspective in the novel",
+                "Discuss effects of first or third person narration",
+                "Compare narrative distance in different chapters"
+              ]
+            },
+            {
+              "title": {
+                "en": "Exploring major themes",
+                "fr": "Explorer les thèmes majeurs",
+                "mfe": "Explor bann gran tem"
+              },
+              "objectives": [
+                "List key themes present in the novel",
+                "Explain how themes connect to plot events",
+                "Discuss relevance of themes to readers today"
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysing setting and context",
+                "fr": "Analyser le cadre et le contexte",
+                "mfe": "Analiz kad ek kontext"
+              },
+              "objectives": [
+                "Describe how setting shapes mood and events",
+                "Link historical or social context to the story",
+                "Discuss author's choices about place and time"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Exploring the set play in depth",
+            "fr": "Explorer en profondeur la pièce au programme",
+            "mfe": "Explor an profonder lapies ki dan program"
+          },
+          "summary": {
+            "en": "Students examine dramatic techniques, characterisation and staging choices in the set play to strengthen essay writing.",
+            "fr": "Les élèves examinent les techniques dramatiques, la caractérisation et les choix de mise en scène de la pièce au programme pour renforcer leur rédaction.",
+            "mfe": "Bann elev examine teknik dramatik, karakteryzasyon ek swa mizansenn dan lapies ki dan program pou ranforsi zot redaksyon."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Dramatic irony and tension",
+                "fr": "Ironie dramatique et tension",
+                "mfe": "Ironi dramatik ek tansyon"
+              },
+              "objectives": [
+                "Define dramatic irony with examples from the play",
+                "Explain how tension builds in a key scene",
+                "Discuss audience reaction to dramatic irony"
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysing key monologues",
+                "fr": "Analyser les monologues clés",
+                "mfe": "Analiz bann monolog kle"
+              },
+              "objectives": [
+                "Identify purpose of a chosen monologue",
+                "Analyse language choices within the speech",
+                "Explain what the monologue reveals about character"
+              ]
+            },
+            {
+              "title": {
+                "en": "Staging and stage directions",
+                "fr": "Mise en scène et didascalies",
+                "mfe": "Mizansenn ek direksyon lasenn"
+              },
+              "objectives": [
+                "Interpret stage directions for meaning",
+                "Discuss how staging affects audience understanding",
+                "Suggest alternative staging choices with justification"
+              ]
+            },
+            {
+              "title": {
+                "en": "Themes and moral questions in the play",
+                "fr": "Thèmes et questions morales dans la pièce",
+                "mfe": "Tem ek kestyon moral dan lapies"
+              },
+              "objectives": [
+                "Identify central moral dilemmas in the play",
+                "Discuss how characters respond to conflict",
+                "Link themes to broader human experience"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Comparing characters and relationships",
+            "fr": "Comparer personnages et relations",
+            "mfe": "Konpar personaz ek relasyon"
+          },
+          "summary": {
+            "en": "Students compare characters and relationships across set texts to develop analytical and comparative writing skills.",
+            "fr": "Les élèves comparent des personnages et des relations entre les textes au programme pour développer des compétences d'écriture analytique et comparative.",
+            "mfe": "Bann elev konpar personaz ek relasyon ant bann text ki dan program pou devlop konpetans lekritir analitik ek konparativ."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Comparing protagonists across texts",
+                "fr": "Comparer les protagonistes des différents textes",
+                "mfe": "Konpar bann protagonist dan diferan text"
+              },
+              "objectives": [
+                "Identify similarities and differences between protagonists",
+                "Support comparisons with quotations",
+                "Draft a comparative thesis statement"
+              ]
+            },
+            {
+              "title": {
+                "en": "Family and social relationships",
+                "fr": "Relations familiales et sociales",
+                "mfe": "Relasyon fami ek sosyal"
+              },
+              "objectives": [
+                "Discuss portrayal of family relationships in set texts",
+                "Compare social expectations shown in different texts",
+                "Explain impact of relationships on plot"
+              ]
+            },
+            {
+              "title": {
+                "en": "Conflict between characters",
+                "fr": "Conflit entre personnages",
+                "mfe": "Konfli ant personaz"
+              },
+              "objectives": [
+                "Identify sources of conflict in set texts",
+                "Explain how conflict drives the narrative",
+                "Compare resolution of conflicts across texts"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Tackling unseen poetry and prose",
+            "fr": "Aborder poésie et prose inconnues",
+            "mfe": "Abord lapoezi ek proz ki pa konpli"
+          },
+          "summary": {
+            "en": "Students practise close reading strategies for unseen extracts to build confidence for the unseen examination paper.",
+            "fr": "Les élèves s'exercent aux stratégies de lecture attentive pour des extraits inconnus afin de renforcer leur confiance pour l'épreuve de textes inconnus.",
+            "mfe": "Bann elev pratik bann estrateji lekti atantiv pou extre ki pa konpli pou ranforsi zot konfyans pou lepev tex ki pa konpli."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "First response strategies for unseen texts",
+                "fr": "Stratégies de première réaction aux textes inconnus",
+                "mfe": "Estrateji premie repons pou tex ki pa konpli"
+              },
+              "objectives": [
+                "Apply a step-by-step approach to unseen extracts",
+                "Annotate a text for key features quickly",
+                "Form an initial personal response"
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysing unseen poetry",
+                "fr": "Analyser une poésie inconnue",
+                "mfe": "Analiz enn lapoezi ki pa konpli"
+              },
+              "objectives": [
+                "Identify tone and mood in an unseen poem",
+                "Comment on language and imagery under time pressure",
+                "Write a structured paragraph response"
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysing unseen prose extracts",
+                "fr": "Analyser des extraits de prose inconnus",
+                "mfe": "Analiz extre proz ki pa konpli"
+              },
+              "objectives": [
+                "Identify narrative techniques in an unseen extract",
+                "Discuss characterisation shown in limited text",
+                "Practise timed writing on an unseen extract"
+              ]
+            },
+            {
+              "title": {
+                "en": "Comparing unseen texts",
+                "fr": "Comparer des textes inconnus",
+                "mfe": "Konpar tex ki pa konpli"
+              },
+              "objectives": [
+                "Compare tone and theme across two unseen extracts",
+                "Use comparative language effectively",
+                "Plan a comparative response within time limits"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Mastering essay writing techniques",
+            "fr": "Maîtriser les techniques de rédaction d'essais",
+            "mfe": "Metriz teknik redaksyon lesse"
+          },
+          "summary": {
+            "en": "Students refine essay planning, argument structure and use of evidence to write higher-scoring literature essays.",
+            "fr": "Les élèves affinent la planification des essais, la structure de l'argumentation et l'utilisation des preuves pour rédiger des essais littéraires mieux notés.",
+            "mfe": "Bann elev rafinn planifikasyon lesse, striktir largiman ek servi levidans pou ekrir bann lesse literer ki gagn pli bon not."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Planning a strong essay outline",
+                "fr": "Planifier un plan d'essai solide",
+                "mfe": "Planifie enn plan lesse solid"
+              },
+              "objectives": [
+                "Break down an essay question into key parts",
+                "Create a clear thesis statement",
+                "Organise points into a logical outline"
+              ]
+            },
+            {
+              "title": {
+                "en": "Using textual evidence effectively",
+                "fr": "Utiliser efficacement les preuves textuelles",
+                "mfe": "Servi levidans text dan enn fason efikas"
+              },
+              "objectives": [
+                "Select relevant quotations to support points",
+                "Embed quotations smoothly into sentences",
+                "Explain the significance of chosen evidence"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing strong introductions and conclusions",
+                "fr": "Rédiger des introductions et conclusions solides",
+                "mfe": "Ekrir bann lentrodiksyon ek konklizyon solid"
+              },
+              "objectives": [
+                "Craft an engaging introduction with clear focus",
+                "Summarise key arguments in a conclusion",
+                "Avoid common introduction and conclusion mistakes"
+              ]
+            },
+            {
+              "title": {
+                "en": "Using literary terminology accurately",
+                "fr": "Utiliser la terminologie littéraire avec précision",
+                "mfe": "Servi terminolozi literer korekteman"
+              },
+              "objectives": [
+                "Apply correct literary terms in analysis",
+                "Avoid vague or generic descriptions",
+                "Check accuracy of terminology in practice answers"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Preparing for the literature examination",
+            "fr": "Se préparer à l'examen de littérature",
+            "mfe": "Prepar pou lexamen literati"
+          },
+          "summary": {
+            "en": "Students consolidate learning through timed practice, past paper analysis and targeted revision of all set texts.",
+            "fr": "Les élèves consolident leurs apprentissages par des exercices chronométrés, l'analyse d'anciens sujets et une révision ciblée de tous les textes au programme.",
+            "mfe": "Bann elev konsolid zot lantiseman atraver pratik ar tan limite, analiz ansien lepev ek revizyon sible tou text ki dan program."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Understanding exam question types",
+                "fr": "Comprendre les types de questions d'examen",
+                "mfe": "Konpran diferan tip kestyon lexamen"
+              },
+              "objectives": [
+                "Identify command words used in exam questions",
+                "Distinguish between passage-based and general essay questions",
+                "Match question types to suitable planning approaches"
+              ]
+            },
+            {
+              "title": {
+                "en": "Practising past paper questions",
+                "fr": "S'entraîner sur d'anciens sujets d'examen",
+                "mfe": "Pratik lor ansien sizet lexamen"
+              },
+              "objectives": [
+                "Complete a timed response to a past paper question",
+                "Self-assess using mark scheme criteria",
+                "Identify areas for improvement from practice"
+              ]
+            },
+            {
+              "title": {
+                "en": "Revising key quotations and themes",
+                "fr": "Réviser les citations et thèmes clés",
+                "mfe": "Revize sitasyon ek tem kle"
+              },
+              "objectives": [
+                "Compile a revision list of key quotations",
+                "Link quotations to major themes",
+                "Test recall of quotations under time pressure"
+              ]
+            },
+            {
+              "title": {
+                "en": "Final exam strategy and time management",
+                "fr": "Stratégie finale et gestion du temps à l'examen",
+                "mfe": "Estrateji final ek zestion letan pou lexamen"
+              },
+              "objectives": [
+                "Plan time allocation across exam sections",
+                "Apply checklist for reviewing answers before submission",
+                "Build confidence through a full mock examination"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "12": {
+      "units": [
+        {
+          "title": {
+            "en": "Foundations of literary study",
+            "fr": "Fondements de l'étude littéraire",
+            "mfe": "Baz létid literer"
+          },
+          "summary": {
+            "en": "An introduction to the analytical skills, terminology and essay-writing techniques needed for AS Level literature study.",
+            "fr": "Une introduction aux compétences analytiques, à la terminologie et aux techniques de rédaction nécessaires pour l'étude de la littérature au niveau AS.",
+            "mfe": "Enn lintrodiksion lor bann konpetans analitik, terminolozi ek teknik pou ekri esse ki bizin pou létid literatir AS Level."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Understanding genre and form",
+                "fr": "Comprendre le genre et la forme",
+                "mfe": "Konpran zanr ek form"
+              },
+              "objectives": [
+                "Identify major literary genres and their conventions",
+                "Explain how form shapes meaning in a text",
+                "Distinguish between poetry, prose and drama features"
+              ]
+            },
+            {
+              "title": {
+                "en": "Close reading techniques",
+                "fr": "Techniques de lecture approfondie",
+                "mfe": "Teknik lekti apronfondi"
+              },
+              "objectives": [
+                "Apply close reading strategies to short extracts",
+                "Identify significant words and phrases in a text",
+                "Explain how word choice affects meaning"
+              ]
+            },
+            {
+              "title": {
+                "en": "Literary terminology toolkit",
+                "fr": "Boîte à outils terminologique littéraire",
+                "mfe": "Bwat zouti terminolozi literer"
+              },
+              "objectives": [
+                "Define key literary terms used at AS level",
+                "Use appropriate terminology when analysing texts",
+                "Apply terminology accurately in written responses"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing effective literary essays",
+                "fr": "Rédiger des dissertations littéraires efficaces",
+                "mfe": "Ekrir bon esse literer"
+              },
+              "objectives": [
+                "Structure an essay with a clear argument",
+                "Support points with relevant textual evidence",
+                "Develop a coherent introduction and conclusion"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Studying poetry closely",
+            "fr": "Étudier la poésie en profondeur",
+            "mfe": "Etidye pwezi an profonder"
+          },
+          "summary": {
+            "en": "Explores set poems through analysis of imagery, sound, tone and structure to build interpretive skills.",
+            "fr": "Explore des poèmes au programme à travers l'analyse de l'imagerie, du son, du ton et de la structure pour développer des compétences interprétatives.",
+            "mfe": "Explor bann poem ki dan program atraver analiz imazri, son, ton ek striktir pou devlop konpetans lentèrpretasion."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Analysing imagery and sound",
+                "fr": "Analyser l'imagerie et le son",
+                "mfe": "Analiz imazri ek son"
+              },
+              "objectives": [
+                "Identify types of imagery used in poems",
+                "Explain how sound devices create effect",
+                "Analyse how imagery contributes to meaning"
+              ]
+            },
+            {
+              "title": {
+                "en": "Exploring tone and voice",
+                "fr": "Explorer le ton et la voix",
+                "mfe": "Explor ton ek vwa"
+              },
+              "objectives": [
+                "Identify shifts in tone within a poem",
+                "Explain the effect of the poetic voice",
+                "Compare tone across different poems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Structure and form in poetry",
+                "fr": "Structure et forme en poésie",
+                "mfe": "Striktir ek form dan pwezi"
+              },
+              "objectives": [
+                "Identify structural features such as stanzas and rhyme",
+                "Explain how structure reinforces meaning",
+                "Analyse the effect of enjambment and caesura"
+              ]
+            },
+            {
+              "title": {
+                "en": "Comparing poems thematically",
+                "fr": "Comparer des poèmes par thème",
+                "mfe": "Konpar poem par tem"
+              },
+              "objectives": [
+                "Identify shared themes across set poems",
+                "Compare poetic techniques used by different poets",
+                "Write a comparative paragraph on two poems"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "The study of prose fiction",
+            "fr": "L'étude de la fiction en prose",
+            "mfe": "Létid fiksion an proz"
+          },
+          "summary": {
+            "en": "Examines narrative technique, characterisation, setting and theme in a set novel studied for AS level.",
+            "fr": "Examine la technique narrative, la caractérisation, le cadre et le thème dans un roman au programme pour le niveau AS.",
+            "mfe": "Examinn teknik naratif, karakterizasion, kad ek tem dan enn roman ki dan program AS level."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Narrative voice and perspective",
+                "fr": "Voix narrative et perspective",
+                "mfe": "Vwa naratif ek pèrspektiv"
+              },
+              "objectives": [
+                "Identify the narrative point of view in a novel",
+                "Explain how narrative voice affects reader response",
+                "Analyse the reliability of a narrator"
+              ]
+            },
+            {
+              "title": {
+                "en": "Characterisation techniques",
+                "fr": "Techniques de caractérisation",
+                "mfe": "Teknik karakterizasion"
+              },
+              "objectives": [
+                "Identify methods used to portray characters",
+                "Explain how dialogue reveals character",
+                "Analyse character development across the novel"
+              ]
+            },
+            {
+              "title": {
+                "en": "Setting and symbolism",
+                "fr": "Cadre et symbolisme",
+                "mfe": "Kad ek senbolism"
+              },
+              "objectives": [
+                "Identify significant settings in the novel",
+                "Explain the symbolic meaning of key objects or places",
+                "Analyse how setting reflects mood or theme"
+              ]
+            },
+            {
+              "title": {
+                "en": "Themes and social context",
+                "fr": "Thèmes et contexte social",
+                "mfe": "Tem ek kontex sosyal"
+              },
+              "objectives": [
+                "Identify major themes explored in the novel",
+                "Explain how social context shapes the narrative",
+                "Discuss the novel's relevance to contemporary readers"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Shakespearean drama",
+            "fr": "Le théâtre shakespearien",
+            "mfe": "Teat Shakespeare"
+          },
+          "summary": {
+            "en": "Studies a Shakespeare play focusing on dramatic structure, language, character and performance.",
+            "fr": "Étudie une pièce de Shakespeare en se concentrant sur la structure dramatique, le langage, les personnages et la mise en scène.",
+            "mfe": "Etidye enn pyes Shakespeare an fokis lor striktir dramatik, langaz, karakter ek perfòmans."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Dramatic structure and conventions",
+                "fr": "Structure dramatique et conventions",
+                "mfe": "Striktir dramatik ek konvansyon"
+              },
+              "objectives": [
+                "Identify the five-act structure of the play",
+                "Explain the function of key scenes",
+                "Analyse how structure builds dramatic tension"
+              ]
+            },
+            {
+              "title": {
+                "en": "Language and rhetoric in Shakespeare",
+                "fr": "Langage et rhétorique chez Shakespeare",
+                "mfe": "Langaz ek rhetorik dan Shakespeare"
+              },
+              "objectives": [
+                "Identify rhetorical devices in key speeches",
+                "Explain the effect of verse and prose alternation",
+                "Analyse how language reveals character motivation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Character and motivation",
+                "fr": "Personnage et motivation",
+                "mfe": "Karakter ek motivasion"
+              },
+              "objectives": [
+                "Analyse the motivations of central characters",
+                "Explain how relationships drive the plot",
+                "Discuss changes in a character across the play"
+              ]
+            },
+            {
+              "title": {
+                "en": "Staging and performance choices",
+                "fr": "Choix de mise en scène",
+                "mfe": "Swa mizonsenn ek perfòmans"
+              },
+              "objectives": [
+                "Explain how staging affects audience interpretation",
+                "Compare different performance interpretations of a scene",
+                "Discuss the impact of costume and setting choices"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Modern and twentieth-century drama",
+            "fr": "Théâtre moderne du vingtième siècle",
+            "mfe": "Teat modern ventyem syek"
+          },
+          "summary": {
+            "en": "Explores a modern play through dialogue, stagecraft and social themes relevant to its period.",
+            "fr": "Explore une pièce moderne à travers le dialogue, la mise en scène et les thèmes sociaux pertinents à son époque.",
+            "mfe": "Explor enn pyes modern atraver dyalog, mizonsenn ek tem sosyal ki relevan pou so lepok."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Stage directions and dramatic tension",
+                "fr": "Didascalies et tension dramatique",
+                "mfe": "Direksion sennik ek tansion dramatik"
+              },
+              "objectives": [
+                "Identify the function of stage directions",
+                "Explain how tension is built within scenes",
+                "Analyse pacing across the play"
+              ]
+            },
+            {
+              "title": {
+                "en": "Dialogue and subtext",
+                "fr": "Dialogue et sous-texte",
+                "mfe": "Dyalog ek soutext"
+              },
+              "objectives": [
+                "Identify subtext within character dialogue",
+                "Explain how silence and pause convey meaning",
+                "Analyse power dynamics through dialogue"
+              ]
+            },
+            {
+              "title": {
+                "en": "Social and political themes",
+                "fr": "Thèmes sociaux et politiques",
+                "mfe": "Tem sosyal ek politik"
+              },
+              "objectives": [
+                "Identify social issues addressed in the play",
+                "Explain the playwright's perspective on these issues",
+                "Discuss the play's relevance to modern audiences"
+              ]
+            },
+            {
+              "title": {
+                "en": "Comparing dramatic techniques",
+                "fr": "Comparer les techniques dramatiques",
+                "mfe": "Konpar teknik dramatik"
+              },
+              "objectives": [
+                "Compare techniques used in Shakespearean and modern drama",
+                "Identify similarities and differences in dramatic structure",
+                "Write a comparative analysis of two plays"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Unseen text analysis skills",
+            "fr": "Compétences d'analyse de textes inconnus",
+            "mfe": "Konpetans analiz text initil"
+          },
+          "summary": {
+            "en": "Develops confidence in analysing unfamiliar poetry and prose extracts under timed conditions.",
+            "fr": "Développe la confiance dans l'analyse d'extraits de poésie et de prose inconnus dans des conditions chronométrées.",
+            "mfe": "Devlop konfyans dan analiz extrait pwezi ek proz initil dan kondisyon avek letan limite."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Approaching unseen poetry",
+                "fr": "Aborder la poésie inconnue",
+                "mfe": "Abord pwezi initil"
+              },
+              "objectives": [
+                "Identify key features on a first reading",
+                "Annotate a poem for meaning and technique",
+                "Plan a response within time constraints"
+              ]
+            },
+            {
+              "title": {
+                "en": "Approaching unseen prose",
+                "fr": "Aborder la prose inconnue",
+                "mfe": "Abord proz initil"
+              },
+              "objectives": [
+                "Identify narrative techniques in an unfamiliar extract",
+                "Annotate prose for language and structure",
+                "Plan a focused response to the extract"
+              ]
+            },
+            {
+              "title": {
+                "en": "Structuring the unseen commentary",
+                "fr": "Structurer le commentaire de texte inconnu",
+                "mfe": "Striktir komanter text initil"
+              },
+              "objectives": [
+                "Organise a commentary with clear paragraphs",
+                "Integrate quotations effectively into analysis",
+                "Balance analysis of language, form and structure"
+              ]
+            },
+            {
+              "title": {
+                "en": "Practising timed responses",
+                "fr": "Pratiquer des réponses chronométrées",
+                "mfe": "Pratik repons avek letan limite"
+              },
+              "objectives": [
+                "Complete a full unseen commentary within time limits",
+                "Self-assess a response against marking criteria",
+                "Identify areas for improvement in exam technique"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Contexts and critical perspectives",
+            "fr": "Contextes et perspectives critiques",
+            "mfe": "Kontex ek pèrspektiv kritik"
+          },
+          "summary": {
+            "en": "Considers historical, cultural and critical contexts to deepen interpretation of set texts.",
+            "fr": "Considère les contextes historiques, culturels et critiques pour approfondir l'interprétation des textes au programme.",
+            "mfe": "Konsider kontex istorik, kiltirel ek kritik pou aprofondi lentèrpretasion bann text ki dan program."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Historical and cultural context",
+                "fr": "Contexte historique et culturel",
+                "mfe": "Kontex istorik ek kiltirel"
+              },
+              "objectives": [
+                "Explain how historical events shape a text",
+                "Identify cultural references within set texts",
+                "Discuss how context affects reader interpretation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Author's biography and intention",
+                "fr": "Biographie et intention de l'auteur",
+                "mfe": "Byografi ek intansion loter"
+              },
+              "objectives": [
+                "Research relevant biographical details of an author",
+                "Discuss possible authorial intentions",
+                "Evaluate how biography influences textual meaning"
+              ]
+            },
+            {
+              "title": {
+                "en": "Critical approaches and interpretations",
+                "fr": "Approches et interprétations critiques",
+                "mfe": "Aprosh ek lentèrpretasion kritik"
+              },
+              "objectives": [
+                "Identify different critical approaches to literature",
+                "Compare alternative interpretations of a text",
+                "Apply a critical approach to a set text"
+              ]
+            },
+            {
+              "title": {
+                "en": "Using critical quotations effectively",
+                "fr": "Utiliser efficacement les citations critiques",
+                "mfe": "Servi sitasion kritik korekteman"
+              },
+              "objectives": [
+                "Select relevant critical quotations to support analysis",
+                "Integrate critical views into an essay argument",
+                "Evaluate the validity of a critical viewpoint"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "13": {
+      "units": [
+        {
+          "title": {
+            "en": "Advanced poetry analysis",
+            "fr": "Analyse avancée de la poésie",
+            "mfe": "Analiz avanse lor lapoezi"
+          },
+          "summary": {
+            "en": "Students deepen their skills in analysing unseen and set poems, focusing on structure, tone, and poetic craft at an advanced level for HSC.",
+            "fr": "Les élèves approfondissent leurs compétences d'analyse de poèmes inconnus et prescrits, en se concentrant sur la structure, le ton et l'art poétique à un niveau avancé pour le HSC.",
+            "mfe": "Bann elev apronfondi zot konesans pou analiz bann poem inkoni ek prevwar, get striktir, ton ek lar poetik a enn nivo avanse pou HSC."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Exploring poetic voice and persona",
+                "fr": "Explorer la voix poétique et le persona",
+                "mfe": "Explor lavwa poetik ek personaz"
+              },
+              "objectives": [
+                "Identify the speaker's voice and persona in a poem",
+                "Analyse how persona shapes meaning",
+                "Compare persona across two poems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Structure and form in modern poetry",
+                "fr": "Structure et forme dans la poésie moderne",
+                "mfe": "Striktir ek form dan lapoezi modern"
+              },
+              "objectives": [
+                "Recognise structural choices in free verse and fixed forms",
+                "Explain how form reinforces meaning",
+                "Evaluate the effect of enjambment and caesura"
+              ]
+            },
+            {
+              "title": {
+                "en": "Comparative poetry essays",
+                "fr": "Essais comparatifs de poésie",
+                "mfe": "Lesse konparativ lor lapoezi"
+              },
+              "objectives": [
+                "Plan a comparative essay on two poems",
+                "Use connective phrases to link comparisons",
+                "Write a structured comparative paragraph"
+              ]
+            },
+            {
+              "title": {
+                "en": "Tackling unseen poetry under timed conditions",
+                "fr": "Aborder la poésie inconnue en temps limité",
+                "mfe": "Abord poem inkoni dan letan limite"
+              },
+              "objectives": [
+                "Apply a timed reading strategy to unseen poems",
+                "Annotate efficiently under exam pressure",
+                "Draft a concise analytical response"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Shakespearean tragedy in depth",
+            "fr": "La tragédie shakespearienne en profondeur",
+            "mfe": "Trazedi Shakespeare an profondeur"
+          },
+          "summary": {
+            "en": "An in-depth study of a set Shakespearean tragedy, examining character, theme, language and dramatic technique for critical essays.",
+            "fr": "Une étude approfondie d'une tragédie shakespearienne prescrite, examinant les personnages, thèmes, langage et technique dramatique pour les essais critiques.",
+            "mfe": "Enn letid an profondeur enn trazedi Shakespeare prevwar, examin personaz, tem, langaz ek teknik dramatik pou bann lesse kritik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Tragic heroes and their flaws",
+                "fr": "Héros tragiques et leurs défauts",
+                "mfe": "Ero trazik ek zot defo"
+              },
+              "objectives": [
+                "Define the concept of the tragic flaw",
+                "Trace the hero's downfall through key scenes",
+                "Discuss audience response to the tragic hero"
+              ]
+            },
+            {
+              "title": {
+                "en": "Power, ambition and morality",
+                "fr": "Pouvoir, ambition et moralité",
+                "mfe": "Pouvwar, lanbision ek moralite"
+              },
+              "objectives": [
+                "Analyse how the play presents power struggles",
+                "Discuss the moral consequences of ambition",
+                "Support arguments with textual quotations"
+              ]
+            },
+            {
+              "title": {
+                "en": "Language and imagery in the play",
+                "fr": "Langage et imagerie dans la pièce",
+                "mfe": "Langaz ek limaz dan lapies"
+              },
+              "objectives": [
+                "Identify recurring imagery patterns",
+                "Explain the dramatic effect of key soliloquies",
+                "Analyse Shakespeare's use of verse and prose"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing critical essays on the tragedy",
+                "fr": "Rédiger des essais critiques sur la tragédie",
+                "mfe": "Ekrir lesse kritik lor trazedi"
+              },
+              "objectives": [
+                "Construct a thesis-driven essay plan",
+                "Integrate critical viewpoints into analysis",
+                "Write a well-supported extended essay response"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "The twentieth century novel",
+            "fr": "Le roman du vingtième siècle",
+            "mfe": "Roman vintiem siek"
+          },
+          "summary": {
+            "en": "Study of a set twentieth century novel, exploring narrative technique, themes and social context relevant to the human experience.",
+            "fr": "Étude d'un roman prescrit du vingtième siècle, explorant la technique narrative, les thèmes et le contexte social liés à l'expérience humaine.",
+            "mfe": "Letid enn roman vintiem siek prevwar, explor teknik naratif, tem ek kontex sosyal ki relye avek lexperyans imen."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Narrative perspective and voice",
+                "fr": "Perspective narrative et voix",
+                "mfe": "Perspektiv naratif ek lavwa"
+              },
+              "objectives": [
+                "Identify the narrative point of view used",
+                "Discuss the reliability of the narrator",
+                "Analyse how perspective shapes reader sympathy"
+              ]
+            },
+            {
+              "title": {
+                "en": "Themes of identity and society",
+                "fr": "Thèmes d'identité et de société",
+                "mfe": "Tem lidantite ek sosyete"
+              },
+              "objectives": [
+                "Trace the development of identity themes",
+                "Link themes to the novel's social context",
+                "Discuss the author's social commentary"
+              ]
+            },
+            {
+              "title": {
+                "en": "Characterisation techniques",
+                "fr": "Techniques de caractérisation",
+                "mfe": "Teknik karakterizasion"
+              },
+              "objectives": [
+                "Analyse methods used to develop characters",
+                "Compare protagonist and antagonist development",
+                "Evaluate character relationships and conflict"
+              ]
+            },
+            {
+              "title": {
+                "en": "Symbolism and setting",
+                "fr": "Symbolisme et cadre",
+                "mfe": "Senbolism ek desor"
+              },
+              "objectives": [
+                "Identify symbolic objects and settings",
+                "Explain how setting reflects theme",
+                "Write an analytical paragraph on symbolism"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Modern drama and performance",
+            "fr": "Théâtre moderne et mise en scène",
+            "mfe": "Teat modern ek prezantasion lor lasenn"
+          },
+          "summary": {
+            "en": "Analysis of a set modern play, considering stagecraft, dialogue and how performance choices affect meaning.",
+            "fr": "Analyse d'une pièce moderne prescrite, en considérant la mise en scène, le dialogue et l'impact des choix de représentation sur le sens.",
+            "mfe": "Analiz enn lapies modern prevwar, konsider lar-lasenn, dialog ek kouma bann swa prezantasion afekt sinifikasion."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Stage directions and staging choices",
+                "fr": "Didascalies et choix de mise en scène",
+                "mfe": "Direktiv lasenn ek swa prezantasion"
+              },
+              "objectives": [
+                "Interpret the function of stage directions",
+                "Discuss how staging influences audience interpretation",
+                "Compare different staging possibilities for a scene"
+              ]
+            },
+            {
+              "title": {
+                "en": "Dialogue and dramatic tension",
+                "fr": "Dialogue et tension dramatique",
+                "mfe": "Dialog ek tansion dramatik"
+              },
+              "objectives": [
+                "Analyse how dialogue builds tension",
+                "Identify dramatic irony in key scenes",
+                "Explain pacing through dialogue exchanges"
+              ]
+            },
+            {
+              "title": {
+                "en": "Themes of conflict and reconciliation",
+                "fr": "Thèmes de conflit et de réconciliation",
+                "mfe": "Tem konfli ek rekonsilyasion"
+              },
+              "objectives": [
+                "Trace the development of central conflicts",
+                "Discuss resolutions offered by the playwright",
+                "Evaluate the play's closing message"
+              ]
+            },
+            {
+              "title": {
+                "en": "Critical approaches to the play",
+                "fr": "Approches critiques de la pièce",
+                "mfe": "Bann apros kritik lor lapies"
+              },
+              "objectives": [
+                "Apply a critical lens to interpret the play",
+                "Compare critical readings of the same scene",
+                "Construct an argument using critical perspectives"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Comparative literary study",
+            "fr": "Étude littéraire comparative",
+            "mfe": "Letid literer konparativ"
+          },
+          "summary": {
+            "en": "Students compare texts across genres, developing skills for extended comparative essays required at HSC level.",
+            "fr": "Les élèves comparent des textes de genres différents, développant des compétences pour les essais comparatifs approfondis exigés au niveau HSC.",
+            "mfe": "Bann elev konpar text dan diferan zanr, devlop konpetans pou lesse konparativ etandi ki bizin pou nivo HSC."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Comparing themes across genres",
+                "fr": "Comparer les thèmes entre les genres",
+                "mfe": "Konpar tem ant diferan zanr"
+              },
+              "objectives": [
+                "Identify shared themes across poetry, prose and drama",
+                "Discuss how genre affects thematic treatment",
+                "Draft a comparative thesis statement"
+              ]
+            },
+            {
+              "title": {
+                "en": "Comparing narrative and dramatic techniques",
+                "fr": "Comparer les techniques narratives et dramatiques",
+                "mfe": "Konpar teknik naratif ek dramatik"
+              },
+              "objectives": [
+                "Compare narrative techniques with dramatic techniques",
+                "Discuss the impact of form on storytelling",
+                "Support comparisons with precise textual evidence"
+              ]
+            },
+            {
+              "title": {
+                "en": "Structuring the comparative essay",
+                "fr": "Structurer l'essai comparatif",
+                "mfe": "Striktir lesse konparativ"
+              },
+              "objectives": [
+                "Plan a balanced comparative essay structure",
+                "Use effective linking language between texts",
+                "Write an introduction and conclusion for comparison"
+              ]
+            },
+            {
+              "title": {
+                "en": "Peer review and refining comparisons",
+                "fr": "Révision par les pairs et affinement des comparaisons",
+                "mfe": "Revizyon par kamarad ek amelior konparezon"
+              },
+              "objectives": [
+                "Evaluate a peer's comparative essay",
+                "Give constructive feedback on argument clarity",
+                "Revise own essay based on feedback"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Literary criticism and context",
+            "fr": "Critique littéraire et contexte",
+            "mfe": "Kritik literer ek kontex"
+          },
+          "summary": {
+            "en": "An introduction to critical approaches and historical context, helping students engage with texts through different critical lenses.",
+            "fr": "Une introduction aux approches critiques et au contexte historique, aidant les élèves à aborder les textes sous différents angles critiques.",
+            "mfe": "Enn introdiksion bann apros kritik ek kontex istorik, ki ed bann elev abord text avek diferan lantiy kritik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Understanding historical and social context",
+                "fr": "Comprendre le contexte historique et social",
+                "mfe": "Konpran kontex istorik ek sosyal"
+              },
+              "objectives": [
+                "Research the historical background of a set text",
+                "Explain how context shapes authorial intent",
+                "Link context to specific textual moments"
+              ]
+            },
+            {
+              "title": {
+                "en": "Introducing feminist and postcolonial readings",
+                "fr": "Introduction aux lectures féministes et postcoloniales",
+                "mfe": "Introdiksion lekti feminis ek postkolonyal"
+              },
+              "objectives": [
+                "Define feminist and postcolonial critical approaches",
+                "Apply a chosen critical lens to a text extract",
+                "Discuss the value of multiple critical perspectives"
+              ]
+            },
+            {
+              "title": {
+                "en": "Using critical quotations effectively",
+                "fr": "Utiliser efficacement les citations critiques",
+                "mfe": "Servi sitasion kritik dan enn fason efikas"
+              },
+              "objectives": [
+                "Select relevant critical quotations",
+                "Integrate criticism smoothly into essays",
+                "Evaluate critics' viewpoints against personal analysis"
+              ]
+            },
+            {
+              "title": {
+                "en": "Debating interpretations of a text",
+                "fr": "Débattre des interprétations d'un texte",
+                "mfe": "Debat lor bann lentepretasion enn text"
+              },
+              "objectives": [
+                "Present an argument for a chosen interpretation",
+                "Respond respectfully to opposing viewpoints",
+                "Justify interpretations using textual evidence"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Independent critical writing",
+            "fr": "Rédaction critique autonome",
+            "mfe": "Lekritir kritik endepandan"
+          },
+          "summary": {
+            "en": "Students develop independent research and essay-writing skills, preparing extended critical responses for coursework or examination.",
+            "fr": "Les élèves développent des compétences de recherche indépendante et de rédaction d'essais, préparant des réponses critiques approfondies pour le contrôle continu ou l'examen.",
+            "mfe": "Bann elev devlop konpetans rese endepandan ek lekritir lesse, prepar repons kritik etandi pou travay-kour ouswa lexame."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Formulating a personal research question",
+                "fr": "Formuler une question de recherche personnelle",
+                "mfe": "Formil enn kestion rese personel"
+              },
+              "objectives": [
+                "Choose a focused essay question on a set text",
+                "Narrow a broad topic into a manageable thesis",
+                "Justify the significance of the chosen question"
+              ]
+            },
+            {
+              "title": {
+                "en": "Gathering and evaluating critical sources",
+                "fr": "Rassembler et évaluer des sources critiques",
+                "mfe": "Ramas ek evalye sours kritik"
+              },
+              "objectives": [
+                "Locate credible literary criticism sources",
+                "Evaluate the reliability of critical sources",
+                "Take organised notes for essay planning"
+              ]
+            },
+            {
+              "title": {
+                "en": "Drafting an extended critical essay",
+                "fr": "Rédiger un essai critique approfondi",
+                "mfe": "Ekrir enn lesse kritik etandi"
+              },
+              "objectives": [
+                "Structure a multi-paragraph extended essay",
+                "Develop a sustained argument with evidence",
+                "Maintain academic tone throughout the essay"
+              ]
+            },
+            {
+              "title": {
+                "en": "Editing and finalising coursework",
+                "fr": "Réviser et finaliser le travail de contrôle continu",
+                "mfe": "Korize ek finaliz travay-kour"
+              },
+              "objectives": [
+                "Proofread for clarity and coherence",
+                "Check referencing and quotation accuracy",
+                "Finalise the essay for submission"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Examination preparation and revision",
+            "fr": "Préparation et révision pour l'examen",
+            "mfe": "Preparasion ek revizyon pou lexame"
+          },
+          "summary": {
+            "en": "A final unit consolidating skills across all set texts, with focused practice on exam technique for HSC Literature papers.",
+            "fr": "Une unité finale consolidant les compétences sur tous les textes prescrits, avec une pratique ciblée des techniques d'examen pour les épreuves de Littérature du HSC.",
+            "mfe": "Enn dernie linite ki konsolid konpetans lor tou text prevwar, avek pratik fokis lor teknik lexame pou papie Literatir HSC."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Revising key quotations and themes",
+                "fr": "Réviser les citations et thèmes clés",
+                "mfe": "Revize sitasion ek tem kle"
+              },
+              "objectives": [
+                "Compile a revision bank of key quotations",
+                "Organise themes across set texts",
+                "Test recall through timed quotation drills"
+              ]
+            },
+            {
+              "title": {
+                "en": "Practising exam-style essay questions",
+                "fr": "S'entraîner aux questions d'examen",
+                "mfe": "Pratik kestion stil lexame"
+              },
+              "objectives": [
+                "Analyse past exam question wording",
+                "Plan essay responses within time limits",
+                "Write full timed responses to practice questions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Peer marking using examiner criteria",
+                "fr": "Correction par les pairs selon les critères d'examen",
+                "mfe": "Marke par kamarad servi kriter lexaminater"
+              },
+              "objectives": [
+                "Apply examiner assessment criteria to sample essays",
+                "Give feedback based on marking bands",
+                "Identify common weaknesses in exam responses"
+              ]
+            },
+            {
+              "title": {
+                "en": "Final exam strategies and confidence building",
+                "fr": "Stratégies finales et renforcement de la confiance",
+                "mfe": "Stratezi final ek ranforsi konfyans"
+              },
+              "objectives": [
+                "Develop a personalised exam-day strategy",
+                "Manage time effectively across exam papers",
+                "Build confidence through structured practice"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

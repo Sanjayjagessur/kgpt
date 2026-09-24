@@ -1,0 +1,3328 @@
+{
+  "subject": "physics",
+  "grades": {
+    "7": {
+      "units": [
+        {
+          "title": {
+            "en": "Measurement and scientific method",
+            "fr": "Mesure et démarche scientifique",
+            "mfe": "Mezir ek metod syantifik"
+          },
+          "summary": {
+            "en": "Students learn how scientists observe, measure and record data using correct units and simple apparatus, building the foundation for all physics investigations.",
+            "fr": "Les élèves apprennent comment les scientifiques observent, mesurent et enregistrent des données en utilisant des unités correctes et des appareils simples, posant les bases de toute investigation en physique.",
+            "mfe": "Bann elev aprann kouma bann syantis observe, mezire ek anrezistre done avek bann linite korek ek bann laparey sinp, sa form baz pou tou bann investigasyon fizik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "What is physics",
+                "fr": "Qu'est-ce que la physique",
+                "mfe": "Ki sa fizik ete"
+              },
+              "objectives": [
+                "Define physics as a branch of science",
+                "Identify examples of physics in everyday Mauritian life",
+                "Describe the main branches of physical science"
+              ]
+            },
+            {
+              "title": {
+                "en": "Measuring length and time",
+                "fr": "Mesurer la longueur et le temps",
+                "mfe": "Mezir longer ek letan"
+              },
+              "objectives": [
+                "Use a ruler and measuring tape to measure length accurately",
+                "Use a stopwatch to measure time intervals",
+                "Record measurements with correct units and precision"
+              ]
+            },
+            {
+              "title": {
+                "en": "Measuring mass and volume",
+                "fr": "Mesurer la masse et le volume",
+                "mfe": "Mezir mas ek volim"
+              },
+              "objectives": [
+                "Use a balance to measure mass in grams and kilograms",
+                "Measure volume of liquids using a measuring cylinder",
+                "Determine volume of irregular objects by displacement"
+              ]
+            },
+            {
+              "title": {
+                "en": "Recording and presenting data",
+                "fr": "Enregistrer et présenter des données",
+                "mfe": "Anrezistre ek prezant done"
+              },
+              "objectives": [
+                "Organise measurements into simple tables",
+                "Draw basic bar charts from collected data",
+                "Explain why accurate recording matters in experiments"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "States of matter",
+            "fr": "Les états de la matière",
+            "mfe": "Bann eta matyer"
+          },
+          "summary": {
+            "en": "This unit explores solids, liquids and gases through the particle model, explaining everyday changes of state observed in Mauritius.",
+            "fr": "Cette unité explore les solides, les liquides et les gaz à travers le modèle particulaire, expliquant les changements d'état observés au quotidien à Maurice.",
+            "mfe": "Sa lini-la explor bann solid, likid ek gaz atraver model partikil, ek explik bann sanzman leta ki nou observe dan lavi tou-le-zour Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Solids, liquids and gases",
+                "fr": "Solides, liquides et gaz",
+                "mfe": "Solid, likid ek gaz"
+              },
+              "objectives": [
+                "Describe the properties of solids, liquids and gases",
+                "Compare arrangement and movement of particles in each state",
+                "Identify examples of each state in daily life"
+              ]
+            },
+            {
+              "title": {
+                "en": "Changes of state",
+                "fr": "Changements d'état",
+                "mfe": "Sanzman deta"
+              },
+              "objectives": [
+                "Explain melting, freezing, evaporation and condensation",
+                "Describe sublimation with local examples",
+                "Relate changes of state to particle energy"
+              ]
+            },
+            {
+              "title": {
+                "en": "Diffusion and expansion",
+                "fr": "Diffusion et dilatation",
+                "mfe": "Difizyon ek dilatasyon"
+              },
+              "objectives": [
+                "Describe diffusion in gases and liquids using examples",
+                "Explain thermal expansion of solids, liquids and gases",
+                "Relate expansion to everyday situations such as railway tracks or bridges"
+              ]
+            },
+            {
+              "title": {
+                "en": "Density of materials",
+                "fr": "Densité des matériaux",
+                "mfe": "Densite bann materyo"
+              },
+              "objectives": [
+                "Define density and its units",
+                "Calculate density using mass and volume",
+                "Explain why some objects float and others sink"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Forces and their effects",
+            "fr": "Les forces et leurs effets",
+            "mfe": "Bann fors ek zot lefe"
+          },
+          "summary": {
+            "en": "Students investigate different types of forces, how they change motion and shape, and learn to measure force using a newton meter.",
+            "fr": "Les élèves étudient différents types de forces, comment elles modifient le mouvement et la forme, et apprennent à mesurer une force avec un dynamomètre.",
+            "mfe": "Bann elev examine diferan tip fors, kouma zot sanz mouvman ek form, ek aprann mezir fors avek enn nyoutonmet."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Introducing forces",
+                "fr": "Introduction aux forces",
+                "mfe": "Introdiksyon lor fors"
+              },
+              "objectives": [
+                "Define force and identify its effects",
+                "Give examples of push and pull forces",
+                "Represent forces using simple arrow diagrams"
+              ]
+            },
+            {
+              "title": {
+                "en": "Types of forces",
+                "fr": "Types de forces",
+                "mfe": "Bann tip fors"
+              },
+              "objectives": [
+                "Distinguish between contact and non-contact forces",
+                "Identify gravity, friction and magnetism as examples",
+                "Explain how friction affects movement in daily life"
+              ]
+            },
+            {
+              "title": {
+                "en": "Measuring force and weight",
+                "fr": "Mesurer la force et le poids",
+                "mfe": "Mezir fors ek pwa"
+              },
+              "objectives": [
+                "Use a newton meter to measure force",
+                "Distinguish between mass and weight",
+                "Explain why weight changes with gravity"
+              ]
+            },
+            {
+              "title": {
+                "en": "Forces and shape",
+                "fr": "Forces et forme des objets",
+                "mfe": "Fors ek form bann obze"
+              },
+              "objectives": [
+                "Describe how forces can stretch, compress or bend objects",
+                "Investigate elasticity using a spring",
+                "Explain the difference between elastic and plastic deformation"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Energy around us",
+            "fr": "L'énergie autour de nous",
+            "mfe": "Lenerzi otour nou"
+          },
+          "summary": {
+            "en": "This unit introduces different forms of energy, energy sources used in Mauritius, and the idea that energy can change from one form to another.",
+            "fr": "Cette unité présente les différentes formes d'énergie, les sources d'énergie utilisées à Maurice, et l'idée que l'énergie peut se transformer d'une forme à une autre.",
+            "mfe": "Sa lini-la introdir diferan form lenerzi, bann sours lenerzi ki servi Moris, ek lide ki lenerzi kapav sanz form."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Forms of energy",
+                "fr": "Formes d'énergie",
+                "mfe": "Bann form lenerzi"
+              },
+              "objectives": [
+                "Identify common forms of energy such as light, heat, sound and electrical",
+                "Give everyday examples of each form of energy",
+                "Describe energy as the ability to do work"
+              ]
+            },
+            {
+              "title": {
+                "en": "Energy sources in Mauritius",
+                "fr": "Sources d'énergie à Maurice",
+                "mfe": "Sours lenerzi Moris"
+              },
+              "objectives": [
+                "Distinguish renewable and non-renewable energy sources",
+                "Identify local sources such as solar, wind and bagasse",
+                "Discuss the importance of saving energy"
+              ]
+            },
+            {
+              "title": {
+                "en": "Energy transfer and transformation",
+                "fr": "Transfert et transformation de l'énergie",
+                "mfe": "Transfer ek transformasyon lenerzi"
+              },
+              "objectives": [
+                "Explain how energy changes from one form to another",
+                "Trace energy changes in simple devices like a torch or fan",
+                "Describe the law of conservation of energy in simple terms"
+              ]
+            },
+            {
+              "title": {
+                "en": "Saving energy at home and school",
+                "fr": "Économiser l'énergie à la maison et à l'école",
+                "mfe": "Ekonomiz lenerzi kot lakaz ek lekol"
+              },
+              "objectives": [
+                "Identify ways to reduce energy waste",
+                "Explain benefits of energy-efficient devices",
+                "Propose simple actions to save energy in daily life"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Light and shadows",
+            "fr": "La lumière et les ombres",
+            "mfe": "Lalimyer ek lonbraz"
+          },
+          "summary": {
+            "en": "Students explore how light travels, how shadows are formed, and how light interacts with mirrors and different materials.",
+            "fr": "Les élèves explorent comment la lumière se propage, comment les ombres se forment et comment la lumière interagit avec les miroirs et différents matériaux.",
+            "mfe": "Bann elev explor kouma lalimyer voyaze, kouma lonbraz forme, ek kouma lalimyer aze avek bann miwar ek diferan materyo."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Sources of light",
+                "fr": "Sources de lumière",
+                "mfe": "Sours lalimyer"
+              },
+              "objectives": [
+                "Distinguish luminous and non-luminous objects",
+                "Identify natural and artificial light sources",
+                "Explain that light travels in straight lines"
+              ]
+            },
+            {
+              "title": {
+                "en": "Formation of shadows",
+                "fr": "Formation des ombres",
+                "mfe": "Formasyon lonbraz"
+              },
+              "objectives": [
+                "Explain how shadows are formed",
+                "Investigate the effect of distance on shadow size",
+                "Relate shadow formation to opaque, translucent and transparent materials"
+              ]
+            },
+            {
+              "title": {
+                "en": "Reflection of light",
+                "fr": "La réflexion de la lumière",
+                "mfe": "Reflexyon lalimyer"
+              },
+              "objectives": [
+                "Describe how light reflects off a plane mirror",
+                "State the law of reflection using angle of incidence and reflection",
+                "Identify everyday uses of mirrors"
+              ]
+            },
+            {
+              "title": {
+                "en": "Light and colour",
+                "fr": "La lumière et la couleur",
+                "mfe": "Lalimyer ek kouler"
+              },
+              "objectives": [
+                "Explain that white light is made of many colours",
+                "Describe how coloured filters affect light",
+                "Relate colour perception to reflected light"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Sound and hearing",
+            "fr": "Le son et l'audition",
+            "mfe": "Son ek lekout"
+          },
+          "summary": {
+            "en": "This unit covers how sound is produced, how it travels, and how our ears detect sound, with attention to noise and hearing safety.",
+            "fr": "Cette unité traite de la production du son, de sa propagation et de la manière dont nos oreilles le détectent, en insistant sur le bruit et la sécurité auditive.",
+            "mfe": "Sa lini-la kouver kouma son prodwir, kouma li voyaze, ek kouma nou zorey detekte son, avek latansyon lor bri ek sekirite lekout."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "How sound is produced",
+                "fr": "Comment le son est produit",
+                "mfe": "Kouma son prodwir"
+              },
+              "objectives": [
+                "Explain that sound is produced by vibrations",
+                "Identify sources of sound in daily life",
+                "Demonstrate vibration using simple objects"
+              ]
+            },
+            {
+              "title": {
+                "en": "How sound travels",
+                "fr": "Comment le son se propage",
+                "mfe": "Kouma son voyaze"
+              },
+              "objectives": [
+                "Explain that sound needs a medium to travel",
+                "Compare speed of sound in solids, liquids and gases",
+                "Describe why sound cannot travel in a vacuum"
+              ]
+            },
+            {
+              "title": {
+                "en": "Pitch, loudness and hearing",
+                "fr": "Hauteur, intensité et audition",
+                "mfe": "Pitch, for son ek lekout"
+              },
+              "objectives": [
+                "Relate pitch to frequency of vibration",
+                "Relate loudness to amplitude of vibration",
+                "Describe the basic structure of the human ear"
+              ]
+            },
+            {
+              "title": {
+                "en": "Noise pollution and safety",
+                "fr": "Pollution sonore et sécurité",
+                "mfe": "Polisyon son ek sekirite"
+              },
+              "objectives": [
+                "Explain the effects of excessive noise on health",
+                "Identify sources of noise pollution in Mauritius",
+                "Suggest ways to reduce exposure to loud sound"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Magnetism and static electricity",
+            "fr": "Magnétisme et électricité statique",
+            "mfe": "Manyetis ek elektrisite statik"
+          },
+          "summary": {
+            "en": "Students investigate magnetic materials and forces, and are introduced to static electricity and its everyday effects.",
+            "fr": "Les élèves étudient les matériaux et forces magnétiques, et découvrent l'électricité statique et ses effets quotidiens.",
+            "mfe": "Bann elev examine bann materyo ek fors manyetik, ek zot introdir avek elektrisite statik ek so bann lefe dan lavi tou-le-zour."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Magnetic materials",
+                "fr": "Matériaux magnétiques",
+                "mfe": "Materyo manyetik"
+              },
+              "objectives": [
+                "Identify materials attracted to magnets",
+                "Distinguish magnetic and non-magnetic materials",
+                "Describe uses of magnets in daily life"
+              ]
+            },
+            {
+              "title": {
+                "en": "Poles and magnetic fields",
+                "fr": "Pôles et champs magnétiques",
+                "mfe": "Pol ek sanp manyetik"
+              },
+              "objectives": [
+                "Identify north and south poles of a magnet",
+                "Explain attraction and repulsion between poles",
+                "Investigate magnetic field patterns using iron filings"
+              ]
+            },
+            {
+              "title": {
+                "en": "Making and using magnets",
+                "fr": "Fabriquer et utiliser des aimants",
+                "mfe": "Fabrik ek servi leman"
+              },
+              "objectives": [
+                "Describe simple methods of making a magnet",
+                "Compare temporary and permanent magnets",
+                "Explain practical uses of magnets in devices"
+              ]
+            },
+            {
+              "title": {
+                "en": "Static electricity",
+                "fr": "Électricité statique",
+                "mfe": "Elektrisite statik"
+              },
+              "objectives": [
+                "Explain how objects become electrically charged by friction",
+                "Describe attraction and repulsion between charges",
+                "Identify everyday examples of static electricity"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "8": {
+      "units": [
+        {
+          "title": {
+            "en": "Measurement and scientific method",
+            "fr": "Mesure et méthode scientifique",
+            "mfe": "Mezir ek metod syantifik"
+          },
+          "summary": {
+            "en": "Students revise measurement skills and learn how scientists plan and carry out fair investigations.",
+            "fr": "Les élèves révisent les compétences de mesure et apprennent comment les scientifiques planifient et réalisent des expériences équitables.",
+            "mfe": "Bann elev revize kompetans mezir ek aprann kouma bann syantis planifie ek fer bann lanket ekitab."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Physical quantities and SI units",
+                "fr": "Grandeurs physiques et unités SI",
+                "mfe": "Grander fizik ek linite SI"
+              },
+              "objectives": [
+                "Identify common physical quantities used in science",
+                "Convert between common SI units",
+                "Select appropriate instruments for measuring length, mass and time"
+              ]
+            },
+            {
+              "title": {
+                "en": "Using measuring instruments accurately",
+                "fr": "Utiliser les instruments de mesure avec précision",
+                "mfe": "Servi zouti mezir avek presizion"
+              },
+              "objectives": [
+                "Read scales on rulers, thermometers and balances correctly",
+                "Explain sources of measurement error",
+                "Record measurements with appropriate precision"
+              ]
+            },
+            {
+              "title": {
+                "en": "Planning a fair test",
+                "fr": "Planifier une expérience équitable",
+                "mfe": "Planifie enn lesai ekitab"
+              },
+              "objectives": [
+                "Define independent, dependent and controlled variables",
+                "Design a simple fair test for a given question",
+                "Predict expected results before testing"
+              ]
+            },
+            {
+              "title": {
+                "en": "Recording and presenting results",
+                "fr": "Enregistrer et présenter les résultats",
+                "mfe": "Anrezistre ek prezant bann rezilta"
+              },
+              "objectives": [
+                "Construct simple tables to record data",
+                "Draw line graphs from experimental data",
+                "Draw conclusions supported by evidence"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Matter and its states",
+            "fr": "La matière et ses états",
+            "mfe": "Matyer ek so bann leta"
+          },
+          "summary": {
+            "en": "This unit explores the particle model of matter and explains changes of state observed in daily life.",
+            "fr": "Cette unité explore le modèle particulaire de la matière et explique les changements d'état observés au quotidien.",
+            "mfe": "Sa linite-la explor modelparticil matyer ek explik chanzman leta ki nou observ dan lavi toulezour."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "The particle model of matter",
+                "fr": "Le modèle particulaire de la matière",
+                "mfe": "Modelparticil matyer"
+              },
+              "objectives": [
+                "Describe the arrangement and movement of particles in solids, liquids and gases",
+                "Relate particle arrangement to properties like shape and volume",
+                "Use diagrams to represent the three states of matter"
+              ]
+            },
+            {
+              "title": {
+                "en": "Changes of state",
+                "fr": "Changements d'état",
+                "mfe": "Chanzman leta"
+              },
+              "objectives": [
+                "Name the processes of melting, freezing, evaporation, boiling and condensation",
+                "Explain changes of state using the particle model",
+                "Give Mauritian examples of changes of state, such as sugarcane juice evaporating"
+              ]
+            },
+            {
+              "title": {
+                "en": "Density of materials",
+                "fr": "Densité des matériaux",
+                "mfe": "Dansite bann materio"
+              },
+              "objectives": [
+                "Define density and its formula",
+                "Calculate density from mass and volume",
+                "Explain why some objects float and others sink"
+              ]
+            },
+            {
+              "title": {
+                "en": "Diffusion and Brownian motion",
+                "fr": "Diffusion et mouvement brownien",
+                "mfe": "Difizion ek mouvman brownyin"
+              },
+              "objectives": [
+                "Describe diffusion in gases and liquids using particle theory",
+                "Explain evidence for Brownian motion",
+                "Relate diffusion rate to temperature"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Forces and their effects",
+            "fr": "Les forces et leurs effets",
+            "mfe": "Bann fors ek zot lefe"
+          },
+          "summary": {
+            "en": "Students investigate different types of forces and how they change the motion and shape of objects.",
+            "fr": "Les élèves étudient différents types de forces et comment elles modifient le mouvement et la forme des objets.",
+            "mfe": "Bann elev etidie diferan tip fors ek kouma zot sanz mouvman ek form bann lobze."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Types of forces",
+                "fr": "Types de forces",
+                "mfe": "Tip fors"
+              },
+              "objectives": [
+                "Identify contact and non-contact forces",
+                "Give examples of friction, gravity and magnetic forces",
+                "Draw force diagrams for simple situations"
+              ]
+            },
+            {
+              "title": {
+                "en": "Measuring forces and weight",
+                "fr": "Mesurer les forces et le poids",
+                "mfe": "Mezir fors ek pwa"
+              },
+              "objectives": [
+                "Use a newton meter to measure force",
+                "Distinguish between mass and weight",
+                "Calculate weight using the formula W = mg"
+              ]
+            },
+            {
+              "title": {
+                "en": "Effects of forces on motion",
+                "fr": "Effets des forces sur le mouvement",
+                "mfe": "Lefe fors lor mouvman"
+              },
+              "objectives": [
+                "Describe how balanced and unbalanced forces affect motion",
+                "Explain effects of friction and air resistance in daily life",
+                "Relate force to acceleration in simple terms"
+              ]
+            },
+            {
+              "title": {
+                "en": "Turning effect and simple machines",
+                "fr": "Effet de rotation et machines simples",
+                "mfe": "Lefe tourne ek bann mesinn sinp"
+              },
+              "objectives": [
+                "Explain the concept of moment of a force",
+                "Describe how levers and pulleys make work easier",
+                "Solve simple problems involving moments"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Energy and its transformations",
+            "fr": "L'énergie et ses transformations",
+            "mfe": "Lenerzi ek so bann transformasyon"
+          },
+          "summary": {
+            "en": "This unit introduces forms of energy, how energy changes from one form to another, and the idea of energy conservation.",
+            "fr": "Cette unité présente les formes d'énergie, la transformation de l'énergie et le principe de conservation de l'énergie.",
+            "mfe": "Sa linite-la introdir bann form lenerzi, kouma lenerzi sanz form ek prinsip konservasion lenerzi."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Forms of energy",
+                "fr": "Formes d'énergie",
+                "mfe": "Bann form lenerzi"
+              },
+              "objectives": [
+                "Name common forms of energy such as kinetic, potential, light and heat",
+                "Give Mauritian examples of energy sources like solar and wind",
+                "Classify energy sources as renewable or non-renewable"
+              ]
+            },
+            {
+              "title": {
+                "en": "Energy transfers and transformations",
+                "fr": "Transferts et transformations d'énergie",
+                "mfe": "Transfer ek transformasyon lenerzi"
+              },
+              "objectives": [
+                "Trace energy changes in everyday devices",
+                "Draw simple energy transfer diagrams",
+                "Explain the law of conservation of energy"
+              ]
+            },
+            {
+              "title": {
+                "en": "Work and simple calculations",
+                "fr": "Le travail et calculs simples",
+                "mfe": "Travay ek kalkil sinp"
+              },
+              "objectives": [
+                "Define work done by a force",
+                "Calculate work using force and distance",
+                "Relate work done to energy transferred"
+              ]
+            },
+            {
+              "title": {
+                "en": "Energy efficiency and conservation",
+                "fr": "Efficacité énergétique et économie d'énergie",
+                "mfe": "Lefikasite lenerzi ek ekonomi lenerzi"
+              },
+              "objectives": [
+                "Explain why some energy is always wasted as heat",
+                "Suggest ways to save energy at home and school",
+                "Discuss the importance of renewable energy in Mauritius"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Heat and temperature",
+            "fr": "La chaleur et la température",
+            "mfe": "Chalar ek tanperatir"
+          },
+          "summary": {
+            "en": "Students learn the difference between heat and temperature and explore how heat is transferred between objects.",
+            "fr": "Les élèves apprennent la différence entre chaleur et température et explorent les modes de transfert de chaleur.",
+            "mfe": "Bann elev aprann diferans ant chalar ek tanperatir ek explor kouma chalar transfer ant bann lobze."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Heat versus temperature",
+                "fr": "Chaleur contre température",
+                "mfe": "Chalar kont tanperatir"
+              },
+              "objectives": [
+                "Distinguish between heat and temperature",
+                "Explain how a thermometer works",
+                "Convert temperature between Celsius and Kelvin scales"
+              ]
+            },
+            {
+              "title": {
+                "en": "Conduction, convection and radiation",
+                "fr": "Conduction, convection et radiation",
+                "mfe": "Kondiksyon, konveksyon ek radiasion"
+              },
+              "objectives": [
+                "Describe the three methods of heat transfer",
+                "Give everyday examples of each method in Mauritius",
+                "Explain why some materials are good or poor conductors"
+              ]
+            },
+            {
+              "title": {
+                "en": "Effects of heat on materials",
+                "fr": "Effets de la chaleur sur les matériaux",
+                "mfe": "Lefe chalar lor materio"
+              },
+              "objectives": [
+                "Describe thermal expansion in solids, liquids and gases",
+                "Explain practical applications and problems caused by expansion",
+                "Relate expansion to the particle model of matter"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Light and sound waves",
+            "fr": "Ondes lumineuses et sonores",
+            "mfe": "Bann onn limyer ek son"
+          },
+          "summary": {
+            "en": "This unit examines the basic properties of light and sound and how they travel and interact with materials.",
+            "fr": "Cette unité examine les propriétés de base de la lumière et du son et leur propagation à travers les matériaux.",
+            "mfe": "Sa linite-la examine bann propriete debaz limyer ek son ek kouma zot propaz atraver bann materio."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Reflection of light",
+                "fr": "Réflexion de la lumière",
+                "mfe": "Reflekson limyer"
+              },
+              "objectives": [
+                "State the laws of reflection",
+                "Construct ray diagrams for plane mirrors",
+                "Explain uses of mirrors in daily life"
+              ]
+            },
+            {
+              "title": {
+                "en": "Refraction of light",
+                "fr": "Réfraction de la lumière",
+                "mfe": "Refraksyon limyer"
+              },
+              "objectives": [
+                "Describe how light bends when passing between materials",
+                "Explain everyday examples of refraction, such as a straw in water",
+                "Relate refraction to the change in speed of light"
+              ]
+            },
+            {
+              "title": {
+                "en": "Properties of sound",
+                "fr": "Propriétés du son",
+                "mfe": "Propriete son"
+              },
+              "objectives": [
+                "Explain how sound is produced and travels as a wave",
+                "Describe how sound needs a medium to travel",
+                "Relate pitch and loudness to frequency and amplitude"
+              ]
+            },
+            {
+              "title": {
+                "en": "Echoes and uses of sound",
+                "fr": "Échos et utilisations du son",
+                "mfe": "Lekso ek itilizasyon son"
+              },
+              "objectives": [
+                "Explain how echoes are formed",
+                "Calculate distance using speed of sound and echo time",
+                "Describe practical uses of sound waves, such as sonar"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Electricity and magnetism basics",
+            "fr": "Bases de l'électricité et du magnétisme",
+            "mfe": "Baz elektrisite ek mayetis"
+          },
+          "summary": {
+            "en": "Students build on earlier knowledge of circuits and explore the relationship between electricity and magnetism.",
+            "fr": "Les élèves approfondissent leurs connaissances sur les circuits et explorent la relation entre électricité et magnétisme.",
+            "mfe": "Bann elev devlop zot konesans lor sirkwi ek explor relasyon ant elektrisite ek mayetis."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Simple circuits and circuit symbols",
+                "fr": "Circuits simples et symboles de circuit",
+                "mfe": "Sirkwi sinp ek senbol sirkwi"
+              },
+              "objectives": [
+                "Draw and interpret simple circuit diagrams using standard symbols",
+                "Distinguish between series and parallel circuits",
+                "Predict the effect of adding components to a circuit"
+              ]
+            },
+            {
+              "title": {
+                "en": "Current, voltage and resistance",
+                "fr": "Courant, tension et résistance",
+                "mfe": "Kouran, tansyon ek rezistans"
+              },
+              "objectives": [
+                "Define current, voltage and resistance with correct units",
+                "Use an ammeter and voltmeter correctly in a circuit",
+                "Explain how resistance affects current flow"
+              ]
+            },
+            {
+              "title": {
+                "en": "Magnets and magnetic fields",
+                "fr": "Aimants et champs magnétiques",
+                "mfe": "Leman ek shan mayetik"
+              },
+              "objectives": [
+                "Describe properties of magnets and magnetic materials",
+                "Draw magnetic field lines around a bar magnet",
+                "Explain how to magnetise and demagnetise materials"
+              ]
+            },
+            {
+              "title": {
+                "en": "Electromagnetism",
+                "fr": "Électromagnétisme",
+                "mfe": "Elektromayetis"
+              },
+              "objectives": [
+                "Explain how a current-carrying wire produces a magnetic field",
+                "Describe the working principle of an electromagnet",
+                "Give practical applications of electromagnets in devices"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "units": [
+        {
+          "title": {
+            "en": "Measurement and scientific inquiry",
+            "fr": "Mesure et démarche scientifique",
+            "mfe": "Mezir ek demars syantifik"
+          },
+          "summary": {
+            "en": "Students revise and extend their understanding of physical quantities, SI units and measuring instruments, and learn how scientists collect and present reliable data.",
+            "fr": "Les élèves révisent et approfondissent leur compréhension des grandeurs physiques, des unités SI et des instruments de mesure, et apprennent comment les scientifiques collectent et présentent des données fiables.",
+            "mfe": "Bann elev revize ek dekouver pli lwen kantite fizik, inite SI ek lezenstriman mezir, ek aprann kouma syantis kolekte ek prezant done fiab."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Physical quantities and SI units",
+                "fr": "Grandeurs physiques et unités SI",
+                "mfe": "Kantite fizik ek inite SI"
+              },
+              "objectives": [
+                "Identify base and derived physical quantities",
+                "Convert between common units of measurement",
+                "Apply SI prefixes to express large and small quantities"
+              ]
+            },
+            {
+              "title": {
+                "en": "Using measuring instruments",
+                "fr": "Utiliser les instruments de mesure",
+                "mfe": "Servi lezenstriman mezir"
+              },
+              "objectives": [
+                "Select appropriate instruments for length, mass, time and volume",
+                "Read scales correctly avoiding parallax error",
+                "Record measurements to an appropriate degree of precision"
+              ]
+            },
+            {
+              "title": {
+                "en": "Accuracy, precision and errors",
+                "fr": "Exactitude, précision et erreurs",
+                "mfe": "Egzaktitid, presizyon ek erer"
+              },
+              "objectives": [
+                "Distinguish between accuracy and precision",
+                "Identify sources of measurement error",
+                "Calculate average values from repeated readings"
+              ]
+            },
+            {
+              "title": {
+                "en": "Scientific method and data presentation",
+                "fr": "Méthode scientifique et présentation des données",
+                "mfe": "Metod syantifik ek prezantasyon done"
+              },
+              "objectives": [
+                "Describe the steps of a scientific investigation",
+                "Construct tables and graphs to present results",
+                "Draw conclusions supported by evidence"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Forces and motion",
+            "fr": "Forces et mouvement",
+            "mfe": "Fors ek mouvman"
+          },
+          "summary": {
+            "en": "This unit introduces the effects of forces on motion, including speed, velocity, acceleration and Newton's laws, using everyday Mauritian examples.",
+            "fr": "Cette unité présente les effets des forces sur le mouvement, incluant la vitesse, la vélocité, l'accélération et les lois de Newton, à travers des exemples mauriciens du quotidien.",
+            "mfe": "Sa linite-la introdir lefe fors lor mouvman, ki inklir vites, veloste, akselerasyon ek lalwa Newton, avek lexanp ki bann Morisyen konn dan lavi toulezour."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Types of forces",
+                "fr": "Types de forces",
+                "mfe": "Diferan tip fors"
+              },
+              "objectives": [
+                "Identify contact and non-contact forces",
+                "Describe the effects of forces on objects",
+                "Represent forces using vector diagrams"
+              ]
+            },
+            {
+              "title": {
+                "en": "Speed, velocity and acceleration",
+                "fr": "Vitesse, vélocité et accélération",
+                "mfe": "Vites, veloste ek akselerasyon"
+              },
+              "objectives": [
+                "Distinguish between speed and velocity",
+                "Calculate speed, distance and time using formulas",
+                "Define acceleration and calculate its value"
+              ]
+            },
+            {
+              "title": {
+                "en": "Distance-time and speed-time graphs",
+                "fr": "Graphiques distance-temps et vitesse-temps",
+                "mfe": "Grafik distans-letan ek vites-letan"
+              },
+              "objectives": [
+                "Interpret distance-time graphs to describe motion",
+                "Interpret speed-time graphs to find acceleration",
+                "Calculate distance travelled from a speed-time graph"
+              ]
+            },
+            {
+              "title": {
+                "en": "Newton's laws of motion",
+                "fr": "Les lois de Newton sur le mouvement",
+                "mfe": "Lalwa mouvman Newton"
+              },
+              "objectives": [
+                "State Newton's first, second and third laws",
+                "Apply Newton's second law to simple problems",
+                "Explain examples of Newton's laws in daily life"
+              ]
+            },
+            {
+              "title": {
+                "en": "Friction and its effects",
+                "fr": "Le frottement et ses effets",
+                "mfe": "Friksion ek so lefe"
+              },
+              "objectives": [
+                "Explain the causes of friction",
+                "Describe advantages and disadvantages of friction",
+                "Suggest ways to increase or reduce friction"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Energy",
+            "fr": "L'énergie",
+            "mfe": "Lenerzi"
+          },
+          "summary": {
+            "en": "Students explore the different forms of energy, how energy is transformed and conserved, and consider energy resources relevant to Mauritius.",
+            "fr": "Les élèves explorent les différentes formes d'énergie, comment elle est transformée et conservée, et étudient les ressources énergétiques pertinentes pour Maurice.",
+            "mfe": "Bann elev explor diferan form lenerzi, kouma lenerzi transforme ek konserve, ek examine resours lenerzi ki pertinan pou Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Forms of energy",
+                "fr": "Formes d'énergie",
+                "mfe": "Form lenerzi"
+              },
+              "objectives": [
+                "List different forms of energy",
+                "Give examples of each form of energy",
+                "Describe how energy can be stored"
+              ]
+            },
+            {
+              "title": {
+                "en": "Work and power",
+                "fr": "Travail et puissance",
+                "mfe": "Travay ek pwisans"
+              },
+              "objectives": [
+                "Define work done and calculate it using force and distance",
+                "Define power and calculate it using work and time",
+                "Relate work and power to everyday activities"
+              ]
+            },
+            {
+              "title": {
+                "en": "Energy conversion and conservation",
+                "fr": "Conversion et conservation de l'énergie",
+                "mfe": "Konversion ek konservasyon lenerzi"
+              },
+              "objectives": [
+                "Describe energy transformations in devices",
+                "State the principle of conservation of energy",
+                "Explain energy losses due to friction and heat"
+              ]
+            },
+            {
+              "title": {
+                "en": "Energy resources in Mauritius",
+                "fr": "Ressources énergétiques à Maurice",
+                "mfe": "Resours lenerzi dan Moris"
+              },
+              "objectives": [
+                "Identify renewable and non-renewable energy sources used in Mauritius",
+                "Discuss advantages and disadvantages of each source",
+                "Evaluate the importance of sustainable energy use"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Pressure",
+            "fr": "La pression",
+            "mfe": "Presion"
+          },
+          "summary": {
+            "en": "This unit covers pressure in solids, liquids and the atmosphere, and explains everyday applications such as hydraulics and barometers.",
+            "fr": "Cette unité couvre la pression dans les solides, les liquides et l'atmosphère, et explique des applications quotidiennes comme l'hydraulique et les baromètres.",
+            "mfe": "Sa linite-la kouver presion dan solid, likid ek latmosfer, ek explik bann aplikasion toulezour kouma idrolik ek barometer."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Pressure in solids",
+                "fr": "La pression dans les solides",
+                "mfe": "Presion dan solid"
+              },
+              "objectives": [
+                "Define pressure and state its formula",
+                "Calculate pressure from force and area",
+                "Explain how area affects pressure exerted"
+              ]
+            },
+            {
+              "title": {
+                "en": "Pressure in liquids",
+                "fr": "La pression dans les liquides",
+                "mfe": "Presion dan likid"
+              },
+              "objectives": [
+                "Explain how liquid pressure varies with depth and density",
+                "Describe how liquid pressure acts equally in all directions",
+                "Apply the concept to real examples such as dams"
+              ]
+            },
+            {
+              "title": {
+                "en": "Atmospheric pressure",
+                "fr": "La pression atmosphérique",
+                "mfe": "Presion atmosferik"
+              },
+              "objectives": [
+                "Explain the cause of atmospheric pressure",
+                "Describe how a barometer measures atmospheric pressure",
+                "Relate atmospheric pressure changes to weather"
+              ]
+            },
+            {
+              "title": {
+                "en": "Applications of pressure",
+                "fr": "Applications de la pression",
+                "mfe": "Aplikasion presion"
+              },
+              "objectives": [
+                "Explain the working principle of hydraulic systems",
+                "Describe the operation of a simple syringe or pump",
+                "Discuss real-life devices that use pressure concepts"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Matter and the particle model",
+            "fr": "La matière et le modèle particulaire",
+            "mfe": "Matyer ek model partikil"
+          },
+          "summary": {
+            "en": "Students study the particle model of matter to explain states of matter, changes of state, diffusion and density.",
+            "fr": "Les élèves étudient le modèle particulaire de la matière pour expliquer les états de la matière, les changements d'état, la diffusion et la densité.",
+            "mfe": "Bann elev etidye model partikil matyer pou explik eta matyer, sanzman eta, difizion ek densite."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "States of matter and particle arrangement",
+                "fr": "États de la matière et arrangement des particules",
+                "mfe": "Eta matyer ek arranzman partikil"
+              },
+              "objectives": [
+                "Describe the arrangement and movement of particles in solids, liquids and gases",
+                "Relate particle arrangement to properties of each state",
+                "Compare the three states of matter using the particle model"
+              ]
+            },
+            {
+              "title": {
+                "en": "Changes of state",
+                "fr": "Changements d'état",
+                "mfe": "Sanzman eta"
+              },
+              "objectives": [
+                "Explain melting, freezing, boiling, evaporation and condensation",
+                "Describe energy changes during changes of state",
+                "Interpret heating and cooling curves"
+              ]
+            },
+            {
+              "title": {
+                "en": "Diffusion and Brownian motion",
+                "fr": "Diffusion et mouvement brownien",
+                "mfe": "Difizion ek mouvman brownyen"
+              },
+              "objectives": [
+                "Explain diffusion using the particle model",
+                "Describe evidence for Brownian motion",
+                "Relate diffusion rate to temperature and particle size"
+              ]
+            },
+            {
+              "title": {
+                "en": "Density",
+                "fr": "La densité",
+                "mfe": "Densite"
+              },
+              "objectives": [
+                "Define density and state its formula",
+                "Calculate density from mass and volume",
+                "Explain why objects float or sink using density"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Light and waves",
+            "fr": "La lumière et les ondes",
+            "mfe": "Limyer ek lezond"
+          },
+          "summary": {
+            "en": "This unit introduces the behaviour of light through reflection and refraction, basic wave properties, and the electromagnetic spectrum.",
+            "fr": "Cette unité présente le comportement de la lumière à travers la réflexion et la réfraction, les propriétés de base des ondes, et le spectre électromagnétique.",
+            "mfe": "Sa linite-la introdir konportman limyer atraver reflexion ek refraksion, proprite baz lezond, ek spektr elektromagnetik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Reflection of light",
+                "fr": "La réflexion de la lumière",
+                "mfe": "Reflexion limyer"
+              },
+              "objectives": [
+                "State the laws of reflection",
+                "Construct ray diagrams for plane mirrors",
+                "Describe uses of mirrors in daily life"
+              ]
+            },
+            {
+              "title": {
+                "en": "Refraction of light",
+                "fr": "La réfraction de la lumière",
+                "mfe": "Refraksion limyer"
+              },
+              "objectives": [
+                "Explain why light bends when passing between media",
+                "Describe the terms angle of incidence and angle of refraction",
+                "Give examples of refraction in nature and technology"
+              ]
+            },
+            {
+              "title": {
+                "en": "Introduction to waves",
+                "fr": "Introduction aux ondes",
+                "mfe": "Introdiksion lezond"
+              },
+              "objectives": [
+                "Describe transverse and longitudinal waves",
+                "Define wavelength, frequency and amplitude",
+                "Calculate wave speed using frequency and wavelength"
+              ]
+            },
+            {
+              "title": {
+                "en": "The electromagnetic spectrum",
+                "fr": "Le spectre électromagnétique",
+                "mfe": "Spektr elektromagnetik"
+              },
+              "objectives": [
+                "List the regions of the electromagnetic spectrum in order",
+                "Describe uses and dangers of different electromagnetic waves",
+                "Relate visible light to the wider spectrum"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Electricity",
+            "fr": "L'électricité",
+            "mfe": "Lelektrisite"
+          },
+          "summary": {
+            "en": "Students explore static and current electricity, building simple circuits and understanding the relationships between voltage, current and resistance.",
+            "fr": "Les élèves explorent l'électricité statique et le courant électrique, construisent des circuits simples et comprennent les relations entre tension, courant et résistance.",
+            "mfe": "Bann elev explor lelektrisite statik ek kouran, konstrir sirkwi sinp ek konpran relasion ant tansion, kouran ek rezistans."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Static electricity",
+                "fr": "L'électricité statique",
+                "mfe": "Lelektrisite statik"
+              },
+              "objectives": [
+                "Explain how objects become electrically charged",
+                "Describe attraction and repulsion between charges",
+                "Give examples of static electricity in everyday life"
+              ]
+            },
+            {
+              "title": {
+                "en": "Electric current and circuits",
+                "fr": "Le courant électrique et les circuits",
+                "mfe": "Kouran elektrik ek sirkwi"
+              },
+              "objectives": [
+                "Define electric current and state its unit",
+                "Draw and interpret simple circuit diagrams using standard symbols",
+                "Explain the role of a battery in a circuit"
+              ]
+            },
+            {
+              "title": {
+                "en": "Series and parallel circuits",
+                "fr": "Circuits en série et en parallèle",
+                "mfe": "Sirkwi an serie ek an paralel"
+              },
+              "objectives": [
+                "Distinguish between series and parallel circuits",
+                "Describe how current behaves in each type of circuit",
+                "Compare brightness of bulbs in series and parallel arrangements"
+              ]
+            },
+            {
+              "title": {
+                "en": "Voltage and resistance",
+                "fr": "Tension et résistance",
+                "mfe": "Tansion ek rezistans"
+              },
+              "objectives": [
+                "Define voltage and resistance and state their units",
+                "Explain the relationship between voltage, current and resistance",
+                "Describe factors affecting the resistance of a wire"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Magnetism",
+            "fr": "Le magnétisme",
+            "mfe": "Mayetism"
+          },
+          "summary": {
+            "en": "This unit covers the properties of magnets, magnetic fields, and the basic principles of electromagnetism.",
+            "fr": "Cette unité couvre les propriétés des aimants, les champs magnétiques, et les principes de base de l'électromagnétisme.",
+            "mfe": "Sa linite-la kouver proprite leman, sanp mayetik, ek prinsip baz elektromayetism."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Properties of magnets",
+                "fr": "Propriétés des aimants",
+                "mfe": "Proprite leman"
+              },
+              "objectives": [
+                "Describe properties of magnetic materials",
+                "Identify poles of a magnet and their interactions",
+                "Explain the difference between magnetic and non-magnetic materials"
+              ]
+            },
+            {
+              "title": {
+                "en": "Magnetic fields",
+                "fr": "Champs magnétiques",
+                "mfe": "Sanp mayetik"
+              },
+              "objectives": [
+                "Describe how to plot a magnetic field using a compass",
+                "Draw magnetic field patterns around a bar magnet",
+                "Explain the concept of field lines"
+              ]
+            },
+            {
+              "title": {
+                "en": "Electromagnetism basics",
+                "fr": "Principes de l'électromagnétisme",
+                "mfe": "Baz elektromayetism"
+              },
+              "objectives": [
+                "Explain how current produces a magnetic field",
+                "Describe the construction of a simple electromagnet",
+                "Give practical applications of electromagnets"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "units": [
+        {
+          "title": {
+            "en": "Physical quantities and measurement",
+            "fr": "Grandeurs physiques et mesures",
+            "mfe": "Kantite fizik ek mezir"
+          },
+          "summary": {
+            "en": "Introduces SI units, measurement instruments and techniques used to record length, time and other quantities accurately, forming the foundation for O Level physics.",
+            "fr": "Présente les unités SI, les instruments de mesure et les techniques permettant d'enregistrer avec précision la longueur, le temps et d'autres grandeurs, base de la physique du niveau O.",
+            "mfe": "Prezant bann inite SI, bann lenstriman ek teknik mezir pou anrezistre longer, letan ek lezot kantite avek presizyon, ki form baz fizik O Level."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "SI units and physical quantities",
+                "fr": "Unités SI et grandeurs physiques",
+                "mfe": "Inite SI ek kantite fizik"
+              },
+              "objectives": [
+                "State the base SI units for length, mass, time and temperature",
+                "Distinguish between base and derived quantities",
+                "Express measurements using standard prefixes"
+              ]
+            },
+            {
+              "title": {
+                "en": "Measuring length and time",
+                "fr": "Mesurer la longueur et le temps",
+                "mfe": "Mezir longer ek letan"
+              },
+              "objectives": [
+                "Use rulers and measuring tapes to record length",
+                "Use stopwatches to measure time intervals accurately",
+                "Identify sources of error in timing experiments"
+              ]
+            },
+            {
+              "title": {
+                "en": "Vernier calipers and micrometers",
+                "fr": "Pied à coulisse et micromètre",
+                "mfe": "Vernie kalip ek mikrometre"
+              },
+              "objectives": [
+                "Read measurements from a vernier caliper",
+                "Read measurements from a micrometer screw gauge",
+                "Choose the appropriate instrument for a given precision"
+              ]
+            },
+            {
+              "title": {
+                "en": "Scalars and vectors",
+                "fr": "Grandeurs scalaires et vectorielles",
+                "mfe": "Kantite skaler ek vekter"
+              },
+              "objectives": [
+                "Differentiate between scalar and vector quantities",
+                "Give examples of scalars and vectors in daily life",
+                "Represent vectors using arrow diagrams"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Kinematics of motion",
+            "fr": "Cinématique du mouvement",
+            "mfe": "Sinematik mouvman"
+          },
+          "summary": {
+            "en": "Covers the description of motion including speed, velocity, acceleration and the use of graphs and equations to analyse movement.",
+            "fr": "Couvre la description du mouvement, y compris la vitesse, la vélocité, l'accélération et l'utilisation de graphiques et d'équations pour analyser le déplacement.",
+            "mfe": "Kouver deskripsyon mouvman ki inklir vites, velosite, akselerasyon ek servi grafik ek ekwasyon pou analiz mouvman."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Distance, speed and velocity",
+                "fr": "Distance, vitesse et vélocité",
+                "mfe": "Distans, vites ek velosite"
+              },
+              "objectives": [
+                "Define distance, speed and velocity",
+                "Calculate speed and velocity from given data",
+                "Distinguish between speed and velocity"
+              ]
+            },
+            {
+              "title": {
+                "en": "Acceleration and motion graphs",
+                "fr": "Accélération et graphiques du mouvement",
+                "mfe": "Akselerasyon ek grafik mouvman"
+              },
+              "objectives": [
+                "Define acceleration and calculate its value",
+                "Interpret distance-time and speed-time graphs",
+                "Calculate distance and acceleration from graphs"
+              ]
+            },
+            {
+              "title": {
+                "en": "Equations of motion",
+                "fr": "Équations du mouvement",
+                "mfe": "Ekwasyon mouvman"
+              },
+              "objectives": [
+                "Apply equations of uniformly accelerated motion",
+                "Solve numerical problems involving motion",
+                "Check consistency of units in calculations"
+              ]
+            },
+            {
+              "title": {
+                "en": "Free fall and gravity",
+                "fr": "Chute libre et gravité",
+                "mfe": "Sitiasyon tonbe lib ek gravite"
+              },
+              "objectives": [
+                "Describe motion of objects under gravity",
+                "Explain the effect of air resistance on falling objects",
+                "Calculate motion parameters for free fall"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Dynamics and forces",
+            "fr": "Dynamique et forces",
+            "mfe": "Dinamik ek forse"
+          },
+          "summary": {
+            "en": "Explores Newton's laws of motion, the effects of forces on objects, friction and momentum in everyday and Mauritian contexts.",
+            "fr": "Explore les lois du mouvement de Newton, les effets des forces sur les objets, le frottement et la quantité de mouvement dans des contextes quotidiens et mauriciens.",
+            "mfe": "Explor lalwa mouvman Newton, lefe bann forse lor bann lobze, friksyon ek momantom dan kontex de tou le zour ek Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Newton's laws of motion",
+                "fr": "Les lois de Newton",
+                "mfe": "Lalwa mouvman Newton"
+              },
+              "objectives": [
+                "State Newton's three laws of motion",
+                "Apply the laws to explain everyday situations",
+                "Relate force, mass and acceleration using F=ma"
+              ]
+            },
+            {
+              "title": {
+                "en": "Mass and inertia",
+                "fr": "Masse et inertie",
+                "mfe": "Mas ek inersi"
+              },
+              "objectives": [
+                "Define inertia and relate it to mass",
+                "Explain why objects resist changes in motion",
+                "Give real-life examples of inertia"
+              ]
+            },
+            {
+              "title": {
+                "en": "Friction",
+                "fr": "Le frottement",
+                "mfe": "Friksyon"
+              },
+              "objectives": [
+                "Describe the causes and effects of friction",
+                "Explain methods to increase or reduce friction",
+                "Relate friction to everyday transport in Mauritius"
+              ]
+            },
+            {
+              "title": {
+                "en": "Momentum and collisions",
+                "fr": "Quantité de mouvement et collisions",
+                "mfe": "Momantom ek kolizyon"
+              },
+              "objectives": [
+                "Define momentum and calculate its value",
+                "State the principle of conservation of momentum",
+                "Apply momentum conservation to simple collisions"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Mass, weight and density",
+            "fr": "Masse, poids et densité",
+            "mfe": "Mas, pwa ek densite"
+          },
+          "summary": {
+            "en": "Clarifies the difference between mass and weight and teaches how to determine and apply density in practical situations.",
+            "fr": "Clarifie la différence entre masse et poids et enseigne comment déterminer et appliquer la densité dans des situations pratiques.",
+            "mfe": "Klarifye diferans ant mas ek pwa e montre kouma pou determinn ek aplik densite dan situasyon pratik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Mass versus weight",
+                "fr": "Masse contre poids",
+                "mfe": "Mas kont pwa"
+              },
+              "objectives": [
+                "Distinguish between mass and weight",
+                "Explain why weight varies with gravitational field strength",
+                "Calculate weight using W=mg"
+              ]
+            },
+            {
+              "title": {
+                "en": "Density and its measurement",
+                "fr": "Densité et sa mesure",
+                "mfe": "Densite ek so mezir"
+              },
+              "objectives": [
+                "Define density and state its formula",
+                "Measure density of regular and irregular objects",
+                "Calculate density from mass and volume data"
+              ]
+            },
+            {
+              "title": {
+                "en": "Applications of density",
+                "fr": "Applications de la densité",
+                "mfe": "Aplikasyon densite"
+              },
+              "objectives": [
+                "Explain floating and sinking using density",
+                "Relate density to material selection in construction",
+                "Solve problems involving density in mixtures"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Turning effects and equilibrium",
+            "fr": "Effets de rotation et équilibre",
+            "mfe": "Lefe rotasyon ek balans"
+          },
+          "summary": {
+            "en": "Examines moments, centre of gravity and the conditions needed for objects to remain balanced and stable.",
+            "fr": "Examine les moments, le centre de gravité et les conditions nécessaires pour que les objets restent équilibrés et stables.",
+            "mfe": "Examinn moman, sant gravite ek kondisyon neseser pou bann lobze reste balanse ek stab."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Moments of a force",
+                "fr": "Moments d'une force",
+                "mfe": "Moman enn forse"
+              },
+              "objectives": [
+                "Define moment of a force and its unit",
+                "Calculate moments using force and distance",
+                "Identify examples of moments in daily life"
+              ]
+            },
+            {
+              "title": {
+                "en": "Principle of moments",
+                "fr": "Principe des moments",
+                "mfe": "Prinsip moman"
+              },
+              "objectives": [
+                "State the principle of moments",
+                "Apply the principle to solve balance problems",
+                "Verify equilibrium using calculations"
+              ]
+            },
+            {
+              "title": {
+                "en": "Centre of gravity",
+                "fr": "Centre de gravité",
+                "mfe": "Sant gravite"
+              },
+              "objectives": [
+                "Define centre of gravity",
+                "Locate centre of gravity of regular objects",
+                "Explain its importance in stability of structures"
+              ]
+            },
+            {
+              "title": {
+                "en": "Stability and equilibrium",
+                "fr": "Stabilité et équilibre",
+                "mfe": "Stabilite ek balans"
+              },
+              "objectives": [
+                "State conditions for equilibrium of a body",
+                "Explain factors affecting stability of objects",
+                "Relate stability to design of vehicles and furniture"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Energy, work and power",
+            "fr": "Énergie, travail et puissance",
+            "mfe": "Lenerzi, travay ek pwisans"
+          },
+          "summary": {
+            "en": "Develops understanding of work done, energy transformations, conservation of energy, power and efficiency in mechanical systems.",
+            "fr": "Développe la compréhension du travail effectué, des transformations d'énergie, de la conservation de l'énergie, de la puissance et de l'efficacité dans les systèmes mécaniques.",
+            "mfe": "Devlop konpreansyon travay fer, transformasyon lenerzi, konservasyon lenerzi, pwisans ek efikasite dan bann sistem mekanik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Work done by a force",
+                "fr": "Travail effectué par une force",
+                "mfe": "Travay fer par enn forse"
+              },
+              "objectives": [
+                "Define work done and state its unit",
+                "Calculate work done using force and distance",
+                "Identify situations where no work is done"
+              ]
+            },
+            {
+              "title": {
+                "en": "Forms of energy and conservation",
+                "fr": "Formes d'énergie et conservation",
+                "mfe": "Form lenerzi ek konservasyon"
+              },
+              "objectives": [
+                "List different forms of energy",
+                "State the principle of conservation of energy",
+                "Explain energy transformations in everyday devices"
+              ]
+            },
+            {
+              "title": {
+                "en": "Power",
+                "fr": "La puissance",
+                "mfe": "Pwisans"
+              },
+              "objectives": [
+                "Define power and state its unit",
+                "Calculate power from work done and time",
+                "Relate power to everyday appliances"
+              ]
+            },
+            {
+              "title": {
+                "en": "Efficiency of machines",
+                "fr": "Efficacité des machines",
+                "mfe": "Efikasite bann masinn"
+              },
+              "objectives": [
+                "Define efficiency of a machine",
+                "Calculate efficiency using energy input and output",
+                "Explain causes of energy loss in machines"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Pressure in fluids and solids",
+            "fr": "Pression dans les fluides et solides",
+            "mfe": "Presyon dan fluid ek solid"
+          },
+          "summary": {
+            "en": "Explains how pressure arises in solids and liquids, atmospheric pressure and its applications including hydraulic systems.",
+            "fr": "Explique comment la pression se produit dans les solides et les liquides, la pression atmosphérique et ses applications, y compris les systèmes hydrauliques.",
+            "mfe": "Explik kouma presyon aparet dan solid ek likid, presyon atmosferik ek so bann aplikasyon ki inklir sistem idrolik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Pressure in solids",
+                "fr": "Pression dans les solides",
+                "mfe": "Presyon dan solid"
+              },
+              "objectives": [
+                "Define pressure and state its unit",
+                "Calculate pressure using force and area",
+                "Explain everyday applications of pressure in solids"
+              ]
+            },
+            {
+              "title": {
+                "en": "Pressure in liquids",
+                "fr": "Pression dans les liquides",
+                "mfe": "Presyon dan likid"
+              },
+              "objectives": [
+                "Explain how pressure varies with depth in liquids",
+                "Calculate liquid pressure using density, gravity and depth",
+                "Describe how liquid pressure acts equally in all directions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Atmospheric pressure",
+                "fr": "Pression atmosphérique",
+                "mfe": "Presyon atmosferik"
+              },
+              "objectives": [
+                "Explain the cause of atmospheric pressure",
+                "Describe how a barometer measures atmospheric pressure",
+                "Relate atmospheric pressure to weather and altitude"
+              ]
+            },
+            {
+              "title": {
+                "en": "Pascal's principle and hydraulics",
+                "fr": "Principe de Pascal et hydraulique",
+                "mfe": "Prinsip Pascal ek idrolik"
+              },
+              "objectives": [
+                "State Pascal's principle",
+                "Explain the working of a hydraulic system",
+                "Solve problems involving hydraulic force multiplication"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Thermal physics fundamentals",
+            "fr": "Fondements de la physique thermique",
+            "mfe": "Bann fondaman fizik termik"
+          },
+          "summary": {
+            "en": "Introduces the kinetic model of matter, thermal expansion, specific heat capacity, latent heat and temperature measurement.",
+            "fr": "Présente le modèle cinétique de la matière, la dilatation thermique, la chaleur spécifique, la chaleur latente et la mesure de la température.",
+            "mfe": "Prezant modelsinetik matyer, dilatasyon termik, kapasite termik spesifik, saler latant ek mezir temperatir."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Kinetic model of matter",
+                "fr": "Modèle cinétique de la matière",
+                "mfe": "Model sinetik matyer"
+              },
+              "objectives": [
+                "Describe the arrangement and motion of particles in solids, liquids and gases",
+                "Explain changes of state using the kinetic model",
+                "Relate temperature to particle motion"
+              ]
+            },
+            {
+              "title": {
+                "en": "Thermal expansion",
+                "fr": "Dilatation thermique",
+                "mfe": "Dilatasyon termik"
+              },
+              "objectives": [
+                "Explain thermal expansion of solids, liquids and gases",
+                "Give practical examples and applications of expansion",
+                "Explain precautions taken due to thermal expansion in construction"
+              ]
+            },
+            {
+              "title": {
+                "en": "Specific heat capacity",
+                "fr": "Chaleur spécifique",
+                "mfe": "Kapasite termik spesifik"
+              },
+              "objectives": [
+                "Define specific heat capacity and its unit",
+                "Calculate heat energy using mass, specific heat capacity and temperature change",
+                "Explain practical significance of specific heat capacity"
+              ]
+            },
+            {
+              "title": {
+                "en": "Latent heat and thermometers",
+                "fr": "Chaleur latente et thermomètres",
+                "mfe": "Saler latant ek termometre"
+              },
+              "objectives": [
+                "Define latent heat of fusion and vaporisation",
+                "Explain how thermometers measure temperature",
+                "Describe calibration of a liquid-in-glass thermometer"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "11": {
+      "units": [
+        {
+          "title": {
+            "en": "Thermal physics",
+            "fr": "Physique thermique",
+            "mfe": "Fizik term"
+          },
+          "summary": {
+            "en": "Explore the kinetic model of matter and how heat affects materials, including expansion, specific heat capacity, latent heat and methods of heat transfer relevant to daily life in Mauritius.",
+            "fr": "Explorer le modèle cinétique de la matière et l'effet de la chaleur sur les matériaux, y compris la dilatation, la capacité thermique massique, la chaleur latente et les modes de transfert de chaleur utiles au quotidien à Maurice.",
+            "mfe": "Explor model sinetik lamater ek kouma lasaler afekte bann materyo, ki inklir dilatasion, kapasite term spesifik, saler latan ek fason transfer saler dan lavi toulezour Moris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Kinetic model of matter",
+                "fr": "Modèle cinétique de la matière",
+                "mfe": "Model sinetik lamater"
+              },
+              "objectives": [
+                "Explain the arrangement and movement of particles in solids, liquids and gases",
+                "Relate temperature to average kinetic energy of particles",
+                "Describe changes of state using the kinetic model"
+              ]
+            },
+            {
+              "title": {
+                "en": "Thermal expansion of materials",
+                "fr": "Dilatation thermique des matériaux",
+                "mfe": "Dilatasion term bann materyo"
+              },
+              "objectives": [
+                "Describe expansion and contraction in solids, liquids and gases",
+                "Explain everyday applications such as expansion gaps in bridges and railways",
+                "Investigate factors affecting expansion using simple experiments"
+              ]
+            },
+            {
+              "title": {
+                "en": "Specific heat capacity",
+                "fr": "Capacité thermique massique",
+                "mfe": "Kapasite term spesifik"
+              },
+              "objectives": [
+                "Define specific heat capacity and its unit",
+                "Calculate heat energy using the equation Q=mcΔθ",
+                "Relate specific heat capacity to real-life heating and cooling situations"
+              ]
+            },
+            {
+              "title": {
+                "en": "Latent heat and heat transfer",
+                "fr": "Chaleur latente et transfert de chaleur",
+                "mfe": "Saler latan ek transfer saler"
+              },
+              "objectives": [
+                "Distinguish between specific latent heat of fusion and vaporisation",
+                "Describe conduction, convection and radiation with local examples",
+                "Explain how heat transfer methods apply to cooling drinks and sea breezes in Mauritius"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Waves and their properties",
+            "fr": "Les ondes et leurs propriétés",
+            "mfe": "Bann lond ek zot proprete"
+          },
+          "summary": {
+            "en": "Study the general properties of waves, the difference between transverse and longitudinal waves, and the behaviour of waves at boundaries such as reflection, refraction and diffraction.",
+            "fr": "Étudier les propriétés générales des ondes, la différence entre ondes transversales et longitudinales, et leur comportement aux frontières comme la réflexion, la réfraction et la diffraction.",
+            "mfe": "Etidie bann proprete zeneral lond, diferans ant lond transversal ek longitidinal, ek konporteman lond kan zot zwenn bann fronte kouma refleksion, refraksion ek difraksion."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Describing waves",
+                "fr": "Décrire les ondes",
+                "mfe": "Dekrir bann lond"
+              },
+              "objectives": [
+                "Define amplitude, wavelength, frequency and period",
+                "Use the wave equation v=fλ to solve problems",
+                "Interpret displacement-time and displacement-distance graphs"
+              ]
+            },
+            {
+              "title": {
+                "en": "Transverse and longitudinal waves",
+                "fr": "Ondes transversales et longitudinales",
+                "mfe": "Lond transversal ek longitidinal"
+              },
+              "objectives": [
+                "Distinguish between transverse and longitudinal waves with examples",
+                "Represent compressions and rarefactions in longitudinal waves",
+                "Identify examples of each wave type in nature and technology"
+              ]
+            },
+            {
+              "title": {
+                "en": "Reflection, refraction and diffraction",
+                "fr": "Réflexion, réfraction et diffraction",
+                "mfe": "Refleksion, refraksion ek difraksion"
+              },
+              "objectives": [
+                "Describe reflection and refraction of waves at boundaries",
+                "Explain diffraction of waves through gaps and around obstacles",
+                "Relate these behaviours to real examples such as sea waves at Mauritian coasts"
+              ]
+            },
+            {
+              "title": {
+                "en": "The electromagnetic spectrum",
+                "fr": "Le spectre électromagnétique",
+                "mfe": "Spektr elektromagnetik"
+              },
+              "objectives": [
+                "List the regions of the electromagnetic spectrum in order of wavelength",
+                "Describe common uses and dangers of each region",
+                "Explain that all electromagnetic waves travel at the same speed in a vacuum"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Light",
+            "fr": "La lumière",
+            "mfe": "Lalimier"
+          },
+          "summary": {
+            "en": "Investigate how light behaves when it reflects and refracts, including total internal reflection and image formation by lenses, with applications such as optical fibres and cameras.",
+            "fr": "Étudier le comportement de la lumière lors de la réflexion et de la réfraction, y compris la réflexion totale interne et la formation d'images par les lentilles, avec des applications comme la fibre optique et les appareils photo.",
+            "mfe": "Investig kouma lalimier konporte kan li refletir ek refrakte, ki inklir refleksion total intern ek formasion imaz par bann lantiy, avek aplikasion kouma fib optik ek kamera."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Reflection of light",
+                "fr": "Réflexion de la lumière",
+                "mfe": "Refleksion lalimier"
+              },
+              "objectives": [
+                "State the laws of reflection",
+                "Construct ray diagrams for plane mirrors",
+                "Explain image formation by a plane mirror"
+              ]
+            },
+            {
+              "title": {
+                "en": "Refraction of light",
+                "fr": "Réfraction de la lumière",
+                "mfe": "Refraksion lalimier"
+              },
+              "objectives": [
+                "Define refractive index and explain the bending of light at interfaces",
+                "Apply Snell's law to solve numerical problems",
+                "Investigate refraction experimentally using a glass block"
+              ]
+            },
+            {
+              "title": {
+                "en": "Total internal reflection",
+                "fr": "Réflexion totale interne",
+                "mfe": "Refleksion total intern"
+              },
+              "objectives": [
+                "Define critical angle and total internal reflection",
+                "Explain the conditions required for total internal reflection to occur",
+                "Describe applications such as optical fibres used in telecommunications"
+              ]
+            },
+            {
+              "title": {
+                "en": "Lenses and image formation",
+                "fr": "Lentilles et formation d'images",
+                "mfe": "Lantiy ek formasion imaz"
+              },
+              "objectives": [
+                "Distinguish between converging and diverging lenses",
+                "Construct ray diagrams to locate images formed by converging lenses",
+                "Describe uses of lenses in cameras, magnifying glasses and corrective eyewear"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Sound",
+            "fr": "Le son",
+            "mfe": "Son"
+          },
+          "summary": {
+            "en": "Examine the nature of sound as a wave, how its speed is measured, and how properties like pitch and loudness relate to frequency and amplitude, with everyday and cultural examples.",
+            "fr": "Examiner la nature du son en tant qu'onde, la mesure de sa vitesse, et le lien entre hauteur, intensité, fréquence et amplitude, avec des exemples quotidiens et culturels.",
+            "mfe": "Examine natir son kouma enn lond, kouma mezir so vites, ek kouma proprete kouma pitch ek fors lason relie ar frekans ek amplitid, avek bann lexanp toulezour ek kiltirel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Nature of sound waves",
+                "fr": "Nature des ondes sonores",
+                "mfe": "Natir lond son"
+              },
+              "objectives": [
+                "Describe sound as a longitudinal wave requiring a medium",
+                "Explain how vibrations produce sound",
+                "Relate sound production to musical instruments used locally, such as the ravanne"
+              ]
+            },
+            {
+              "title": {
+                "en": "Speed of sound",
+                "fr": "Vitesse du son",
+                "mfe": "Vites son"
+              },
+              "objectives": [
+                "Describe methods to measure the speed of sound in air",
+                "Compare the speed of sound in different media",
+                "Solve problems involving speed, distance and time for sound"
+              ]
+            },
+            {
+              "title": {
+                "en": "Echoes and applications",
+                "fr": "Échos et applications",
+                "mfe": "Lekso ek aplikasion"
+              },
+              "objectives": [
+                "Explain how echoes are formed by reflection of sound",
+                "Describe uses of echoes such as sonar and echo sounding",
+                "Solve simple calculations involving echo timing"
+              ]
+            },
+            {
+              "title": {
+                "en": "Pitch and loudness",
+                "fr": "Hauteur et intensité du son",
+                "mfe": "Pitch ek fors lason"
+              },
+              "objectives": [
+                "Relate pitch to frequency and loudness to amplitude",
+                "Interpret oscilloscope traces of different sounds",
+                "Explain factors affecting the quality of sound"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Electricity fundamentals",
+            "fr": "Fondements de l'électricité",
+            "mfe": "Baz lelektrisite"
+          },
+          "summary": {
+            "en": "Build understanding of electric charge, current, potential difference and resistance, and apply these concepts to analyse simple series and parallel circuits.",
+            "fr": "Développer la compréhension de la charge électrique, du courant, de la tension et de la résistance, et appliquer ces notions à l'analyse de circuits simples en série et en parallèle.",
+            "mfe": "Devlop konpreansion lasarz elektrik, kouran, diferans potansiel ek rezistans, ek aplik sa bann konsep pou analiz bann sirkwi sinp an serie ek an paralel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Static electricity",
+                "fr": "L'électricité statique",
+                "mfe": "Lelektrisite statik"
+              },
+              "objectives": [
+                "Explain how objects become electrically charged by friction",
+                "Describe attraction and repulsion between charges",
+                "Relate static electricity to everyday phenomena and safety precautions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Current, charge and circuits",
+                "fr": "Courant, charge et circuits",
+                "mfe": "Kouran, lasarz ek sirkwi"
+              },
+              "objectives": [
+                "Define electric current and charge and relate them using Q=It",
+                "Draw and interpret simple circuit diagrams using standard symbols",
+                "Distinguish between conductors and insulators"
+              ]
+            },
+            {
+              "title": {
+                "en": "Potential difference and resistance",
+                "fr": "Tension et résistance",
+                "mfe": "Diferans potansiel ek rezistans"
+              },
+              "objectives": [
+                "Define potential difference and electromotive force",
+                "State and apply Ohm's law to solve problems",
+                "Investigate factors affecting resistance of a conductor"
+              ]
+            },
+            {
+              "title": {
+                "en": "Series and parallel circuits",
+                "fr": "Circuits en série et en parallèle",
+                "mfe": "Sirkwi an serie ek an paralel"
+              },
+              "objectives": [
+                "Compare current and voltage behaviour in series and parallel circuits",
+                "Calculate total resistance in series and parallel combinations",
+                "Apply circuit rules to solve problems involving household wiring"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Electrical energy and safety",
+            "fr": "Énergie électrique et sécurité",
+            "mfe": "Lenerzi elektrik ek sekirite"
+          },
+          "summary": {
+            "en": "Understand how electrical energy is calculated and used safely in homes, and get an introduction to basic electronic components used in devices.",
+            "fr": "Comprendre comment l'énergie électrique est calculée et utilisée en toute sécurité à la maison, et découvrir les composants électroniques de base utilisés dans les appareils.",
+            "mfe": "Konpran kouma lenerzi elektrik kalkile ek servi an sekirite dan lakaz, ek gagn enn introdiksion bann konpozan elektronik debaz servi dan bann aparey."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Electrical power and energy",
+                "fr": "Puissance et énergie électriques",
+                "mfe": "Pwisans ek lenerzi elektrik"
+              },
+              "objectives": [
+                "Calculate electrical power using P=IV",
+                "Calculate energy consumed by appliances and relate to CEB electricity bills",
+                "Explain the significance of the kilowatt-hour as a unit of energy"
+              ]
+            },
+            {
+              "title": {
+                "en": "Household electricity and safety",
+                "fr": "Électricité domestique et sécurité",
+                "mfe": "Lelektrisite domestik ek sekirite"
+              },
+              "objectives": [
+                "Describe safe wiring practices including fuses and earthing",
+                "Explain the function of circuit breakers and switches",
+                "Identify common electrical hazards in Mauritian homes"
+              ]
+            },
+            {
+              "title": {
+                "en": "Introduction to electronics",
+                "fr": "Introduction à l'électronique",
+                "mfe": "Introdiksion elektronik"
+              },
+              "objectives": [
+                "Identify basic electronic components such as diodes and LEDs",
+                "Describe the function of a diode in rectification",
+                "Explain the use of light-dependent resistors and thermistors in sensing circuits"
+              ]
+            },
+            {
+              "title": {
+                "en": "Logic and simple electronic systems",
+                "fr": "Logique et systèmes électroniques simples",
+                "mfe": "Lozik ek sistem elektronik sinp"
+              },
+              "objectives": [
+                "Explain the idea of input, process and output in electronic systems",
+                "Describe simple applications like automatic street lighting",
+                "Interpret simple circuit diagrams involving sensors and switches"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Magnetism and electromagnetism",
+            "fr": "Magnétisme et électromagnétisme",
+            "mfe": "Manyetism ek elektromanyetism"
+          },
+          "summary": {
+            "en": "Explore magnetic fields, how electric currents create magnetism, and how electromagnetic induction underlies devices such as generators and transformers.",
+            "fr": "Explorer les champs magnétiques, la manière dont les courants électriques créent du magnétisme, et le principe de l'induction électromagnétique dans les générateurs et transformateurs.",
+            "mfe": "Explor bann sam manyetik, kouma kouran elektrik kree manyetism, ek kouma indiksion elektromanyetik form baz bann zeneratir ek transformater."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Magnetic fields",
+                "fr": "Champs magnétiques",
+                "mfe": "Sam manyetik"
+              },
+              "objectives": [
+                "Describe magnetic field patterns around bar magnets",
+                "Use field lines to represent magnetic field direction and strength",
+                "Distinguish between magnetic and non-magnetic materials"
+              ]
+            },
+            {
+              "title": {
+                "en": "Electromagnets",
+                "fr": "Électroaimants",
+                "mfe": "Elektroeman"
+              },
+              "objectives": [
+                "Explain how a current-carrying wire produces a magnetic field",
+                "Describe the construction and uses of electromagnets",
+                "Investigate factors that affect the strength of an electromagnet"
+              ]
+            },
+            {
+              "title": {
+                "en": "Force on a current-carrying conductor",
+                "fr": "Force sur un conducteur parcouru par un courant",
+                "mfe": "Fors lor enn kondiktor kouran"
+              },
+              "objectives": [
+                "Explain the motor effect using the left-hand rule",
+                "Describe the working principle of a simple electric motor",
+                "Relate the motor effect to devices such as fans and blenders"
+              ]
+            },
+            {
+              "title": {
+                "en": "Electromagnetic induction and generators",
+                "fr": "Induction électromagnétique et générateurs",
+                "mfe": "Indiksion elektromanyetik ek zeneratir"
+              },
+              "objectives": [
+                "Describe how a changing magnetic field induces an electromotive force",
+                "Explain the working principle of a simple generator",
+                "Relate electromagnetic induction to electricity generation in Mauritius"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Atomic and nuclear physics",
+            "fr": "Physique atomique et nucléaire",
+            "mfe": "Fizik atomik ek nikleer"
+          },
+          "summary": {
+            "en": "Discover the structure of the atom, the nature of radioactivity, and the uses and hazards of nuclear radiation in medicine, industry and energy production.",
+            "fr": "Découvrir la structure de l'atome, la nature de la radioactivité, ainsi que les usages et dangers des rayonnements nucléaires en médecine, dans l'industrie et la production d'énergie.",
+            "mfe": "Dekouver striktir latom, natir radioaktivite, ek servis ek danze radiasion nikleer dan medsinn, indistri ek prodiksion lenerzi."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Structure of the atom",
+                "fr": "Structure de l'atome",
+                "mfe": "Striktir latom"
+              },
+              "objectives": [
+                "Describe the structure of an atom in terms of protons, neutrons and electrons",
+                "Define atomic number and mass number",
+                "Explain the concept of isotopes with examples"
+              ]
+            },
+            {
+              "title": {
+                "en": "Radioactivity and decay",
+                "fr": "Radioactivité et désintégration",
+                "mfe": "Radioaktivite ek dezintegrasion"
+              },
+              "objectives": [
+                "Describe alpha, beta and gamma radiation and their properties",
+                "Explain the concept of half-life using graphs",
+                "Write simple nuclear decay equations"
+              ]
+            },
+            {
+              "title": {
+                "en": "Detecting and measuring radiation",
+                "fr": "Détection et mesure des radiations",
+                "mfe": "Deteksion ek mezir radiasion"
+              },
+              "objectives": [
+                "Describe how radiation can be detected using instruments such as Geiger counters",
+                "Explain the penetrating power of different types of radiation",
+                "Interpret experimental data on radioactive decay"
+              ]
+            },
+            {
+              "title": {
+                "en": "Uses and hazards of radiation",
+                "fr": "Usages et dangers des radiations",
+                "mfe": "Servis ek danze radiasion"
+              },
+              "objectives": [
+                "Describe beneficial uses of radioactivity in medicine and industry",
+                "Explain safety precautions needed when handling radioactive sources",
+                "Discuss the environmental and health hazards of radiation exposure"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "12": {
+      "units": [
+        {
+          "title": {
+            "en": "Physical quantities and measurement",
+            "fr": "Grandeurs physiques et mesures",
+            "mfe": "Kantite fizik ek mezir"
+          },
+          "summary": {
+            "en": "Introduces SI units, measurement techniques, uncertainties, and the distinction between scalar and vector quantities used throughout AS Physics.",
+            "fr": "Introduit les unites du SI, les techniques de mesure, les incertitudes et la distinction entre grandeurs scalaires et vectorielles utilisees tout au long du programme AS de physique.",
+            "mfe": "Introdir bann linite SI, bann teknik mezir, ensertitid, ek diferans ant kantite skalaire ek vekteris ki servi partou dan program AS Physics."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "SI units and base quantities",
+                "fr": "Unites du SI et grandeurs de base",
+                "mfe": "Linite SI ek kantite baz"
+              },
+              "objectives": [
+                "State the seven SI base quantities and their units",
+                "Express derived units in terms of base units",
+                "Use prefixes and scientific notation correctly",
+                "Check homogeneity of physical equations"
+              ]
+            },
+            {
+              "title": {
+                "en": "Measurement techniques and errors",
+                "fr": "Techniques de mesure et erreurs",
+                "mfe": "Teknik mezir ek erer"
+              },
+              "objectives": [
+                "Select appropriate instruments for measurement",
+                "Distinguish systematic and random errors",
+                "Calculate percentage uncertainty in measurements",
+                "Determine significant figures in a result"
+              ]
+            },
+            {
+              "title": {
+                "en": "Scalars and vectors",
+                "fr": "Scalaires et vecteurs",
+                "mfe": "Skalaire ek vekter"
+              },
+              "objectives": [
+                "Define scalar and vector quantities",
+                "Give examples of common scalars and vectors",
+                "Represent vectors diagrammatically",
+                "Distinguish magnitude from direction"
+              ]
+            },
+            {
+              "title": {
+                "en": "Vector addition and resolution",
+                "fr": "Addition et decomposition des vecteurs",
+                "mfe": "Adision ek rezolisyon vekter"
+              },
+              "objectives": [
+                "Add vectors using the triangle and parallelogram rules",
+                "Resolve a vector into perpendicular components",
+                "Solve problems involving combined vectors",
+                "Apply vector methods to simple mechanics contexts"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Kinematics of motion",
+            "fr": "Cinematique du mouvement",
+            "mfe": "Sinematik mouvman"
+          },
+          "summary": {
+            "en": "Explores how objects move in a straight line and in projectile paths, using equations and graphs to describe motion.",
+            "fr": "Explore comment les objets se deplacent en ligne droite et selon une trajectoire de projectile, en utilisant equations et graphiques pour decrire le mouvement.",
+            "mfe": "Explor kouma bann lobze deplase dan enn lign drwat ek dan enn trazektwar prozektil, servi ekwasyon ek grafik pou dekrir mouvman."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Distance, speed, velocity and acceleration",
+                "fr": "Distance, vitesse et acceleration",
+                "mfe": "Distans, vites ek akselerasyon"
+              },
+              "objectives": [
+                "Define displacement, speed, velocity and acceleration",
+                "Distinguish between scalar and vector kinematic quantities",
+                "Interpret motion using everyday Mauritian examples",
+                "Calculate average and instantaneous values"
+              ]
+            },
+            {
+              "title": {
+                "en": "Equations of motion",
+                "fr": "Equations du mouvement",
+                "mfe": "Ekwasyon mouvman"
+              },
+              "objectives": [
+                "Derive the suvat equations for uniform acceleration",
+                "Apply suvat equations to solve motion problems",
+                "Identify when equations of motion are valid",
+                "Solve multi-stage motion problems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Graphs of motion",
+                "fr": "Graphiques du mouvement",
+                "mfe": "Grafik mouvman"
+              },
+              "objectives": [
+                "Sketch displacement-time and velocity-time graphs",
+                "Determine velocity from a displacement-time graph gradient",
+                "Determine acceleration and displacement from graphs",
+                "Interpret non-uniform motion from curved graphs"
+              ]
+            },
+            {
+              "title": {
+                "en": "Projectile motion",
+                "fr": "Mouvement des projectiles",
+                "mfe": "Mouvman prozektil"
+              },
+              "objectives": [
+                "Describe projectile motion as independent horizontal and vertical components",
+                "Calculate time of flight, range and maximum height",
+                "Apply projectile concepts to real situations",
+                "Sketch the trajectory of a projectile"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Dynamics and forces",
+            "fr": "Dynamique et forces",
+            "mfe": "Dinamik ek fors"
+          },
+          "summary": {
+            "en": "Covers Newton's laws of motion, momentum conservation and collisions, building the foundation for understanding forces.",
+            "fr": "Couvre les lois du mouvement de Newton, la conservation de la quantite de mouvement et les collisions, base essentielle pour comprendre les forces.",
+            "mfe": "Kouver bann lwa mouvman Newton, konservasyon moman ek kolizyon, ki form baz pou konpran fors."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Newton's laws of motion",
+                "fr": "Lois du mouvement de Newton",
+                "mfe": "Lwa mouvman Newton"
+              },
+              "objectives": [
+                "State Newton's three laws of motion",
+                "Apply Newton's second law to calculate force, mass and acceleration",
+                "Identify force pairs using Newton's third law",
+                "Analyse forces on objects in equilibrium"
+              ]
+            },
+            {
+              "title": {
+                "en": "Linear momentum and conservation",
+                "fr": "Quantite de mouvement lineaire et conservation",
+                "mfe": "Moman lineer ek konservasyon"
+              },
+              "objectives": [
+                "Define linear momentum and its units",
+                "State the principle of conservation of momentum",
+                "Apply momentum conservation to simple systems",
+                "Solve numerical problems involving momentum change"
+              ]
+            },
+            {
+              "title": {
+                "en": "Elastic and inelastic collisions",
+                "fr": "Collisions elastiques et inelastiques",
+                "mfe": "Kolizyon elastik ek non-elastik"
+              },
+              "objectives": [
+                "Distinguish elastic from inelastic collisions",
+                "Calculate velocities after collisions using conservation laws",
+                "Determine kinetic energy loss in inelastic collisions",
+                "Apply collision concepts to real-world examples"
+              ]
+            },
+            {
+              "title": {
+                "en": "Impulse and force-time graphs",
+                "fr": "Impulsion et graphiques force-temps",
+                "mfe": "Lenpilsyon ek grafik fors-letan"
+              },
+              "objectives": [
+                "Define impulse and relate it to change in momentum",
+                "Interpret force-time graphs to find impulse",
+                "Explain the effect of time on impact force",
+                "Apply impulse concepts to safety features like airbags"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Forces, density and pressure",
+            "fr": "Forces, densite et pression",
+            "mfe": "Fors, densite ek presyon"
+          },
+          "summary": {
+            "en": "Examines equilibrium of forces, turning effects, and how density and pressure behave in fluids.",
+            "fr": "Examine l'equilibre des forces, les effets de rotation, et comment la densite et la pression se comportent dans les fluides.",
+            "mfe": "Examinn ekilib fors, bann lefe rotasyon, ek kouma densite ek presyon aji dan bann likid ek gaz."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Forces in equilibrium and moments",
+                "fr": "Forces en equilibre et moments",
+                "mfe": "Fors an ekilib ek moman"
+              },
+              "objectives": [
+                "Define the moment of a force",
+                "Apply the principle of moments to solve problems",
+                "Determine conditions for equilibrium of a rigid body",
+                "Locate the centre of gravity of simple objects"
+              ]
+            },
+            {
+              "title": {
+                "en": "Density and pressure basics",
+                "fr": "Notions de densite et de pression",
+                "mfe": "Baz densite ek presyon"
+              },
+              "objectives": [
+                "Define density and calculate it for given materials",
+                "Define pressure and its SI unit",
+                "Relate pressure to force and area",
+                "Solve simple density and pressure problems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Pressure in fluids",
+                "fr": "Pression dans les fluides",
+                "mfe": "Presyon dan likid"
+              },
+              "objectives": [
+                "Explain how pressure varies with depth in a fluid",
+                "Calculate pressure using the hydrostatic pressure formula",
+                "Describe pressure transmission in enclosed fluids",
+                "Apply fluid pressure concepts to everyday examples"
+              ]
+            },
+            {
+              "title": {
+                "en": "Upthrust and Archimedes' principle",
+                "fr": "Poussee d'Archimede",
+                "mfe": "Fors leve ek prensip Archimede"
+              },
+              "objectives": [
+                "State Archimedes' principle",
+                "Calculate upthrust on a submerged object",
+                "Explain floating and sinking using upthrust",
+                "Relate upthrust to density comparisons"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Work, energy and power",
+            "fr": "Travail, energie et puissance",
+            "mfe": "Travay, lenerzi ek pwisans"
+          },
+          "summary": {
+            "en": "Develops the concepts of work, kinetic and potential energy, energy conservation, and power in mechanical systems.",
+            "fr": "Developpe les concepts de travail, d'energie cinetique et potentielle, de conservation de l'energie et de puissance dans les systemes mecaniques.",
+            "mfe": "Devlop bann konsep travay, lenerzi sinetik ek potansyel, konservasyon lenerzi, ek pwisans dan bann sistem mekanik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Work done by a force",
+                "fr": "Travail effectue par une force",
+                "mfe": "Travay fer par enn fors"
+              },
+              "objectives": [
+                "Define work done in terms of force and displacement",
+                "Calculate work done when force and displacement are at an angle",
+                "Identify situations where no work is done",
+                "Apply the work equation to practical examples"
+              ]
+            },
+            {
+              "title": {
+                "en": "Kinetic and potential energy",
+                "fr": "Energie cinetique et potentielle",
+                "mfe": "Lenerzi sinetik ek potansyel"
+              },
+              "objectives": [
+                "Define kinetic energy and gravitational potential energy",
+                "Calculate kinetic and potential energy for given objects",
+                "Explain energy transformations in motion",
+                "Relate energy changes to work done"
+              ]
+            },
+            {
+              "title": {
+                "en": "Conservation of energy",
+                "fr": "Conservation de l'energie",
+                "mfe": "Konservasyon lenerzi"
+              },
+              "objectives": [
+                "State the principle of conservation of energy",
+                "Apply energy conservation to solve mechanics problems",
+                "Identify energy losses due to friction or resistance",
+                "Analyse energy transfers in simple systems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Power and efficiency",
+                "fr": "Puissance et rendement",
+                "mfe": "Pwisans ek randman"
+              },
+              "objectives": [
+                "Define power and its units",
+                "Calculate power from work done and time taken",
+                "Define efficiency and calculate it for a system",
+                "Apply power and efficiency concepts to machines"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Deformation of solids",
+            "fr": "Deformation des solides",
+            "mfe": "Defomasyon solid"
+          },
+          "summary": {
+            "en": "Investigates how materials stretch and deform under load, including Hooke's law, stress, strain and the Young modulus.",
+            "fr": "Etudie comment les materiaux s'etirent et se deforment sous charge, incluant la loi de Hooke, la contrainte, la deformation et le module de Young.",
+            "mfe": "Etidye kouma bann materyo alonze ek defome anba enn sarz, ki inkli lwa Hooke, stress, strain ek modil Young."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Hooke's law and elastic behaviour",
+                "fr": "Loi de Hooke et comportement elastique",
+                "mfe": "Lwa Hooke ek konportman elastik"
+              },
+              "objectives": [
+                "State Hooke's law for a spring or wire",
+                "Calculate the spring constant from experimental data",
+                "Distinguish elastic from plastic behaviour",
+                "Sketch force-extension graphs"
+              ]
+            },
+            {
+              "title": {
+                "en": "Stress, strain and Young modulus",
+                "fr": "Contrainte, deformation et module de Young",
+                "mfe": "Stress, strain ek modil Young"
+              },
+              "objectives": [
+                "Define stress and strain for a material",
+                "Calculate the Young modulus from stress-strain data",
+                "Interpret stress-strain graphs for different materials",
+                "Compare stiffness of different materials"
+              ]
+            },
+            {
+              "title": {
+                "en": "Elastic and plastic deformation",
+                "fr": "Deformation elastique et plastique",
+                "mfe": "Defomasyon elastik ek plastik"
+              },
+              "objectives": [
+                "Distinguish elastic limit from yield point",
+                "Explain permanent deformation in materials",
+                "Calculate strain energy stored in a stretched material",
+                "Relate deformation behaviour to material selection"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Waves and superposition",
+            "fr": "Ondes et superposition",
+            "mfe": "Bann ond ek siperpozisyon"
+          },
+          "summary": {
+            "en": "Covers wave properties, types of waves, and phenomena arising from the superposition of waves such as interference and stationary waves.",
+            "fr": "Couvre les proprietes des ondes, les types d'ondes, et les phenomenes resultant de la superposition des ondes comme l'interference et les ondes stationnaires.",
+            "mfe": "Kouver proprite ond, tip ond, ek fenomenn ki sorti kan ond siperpoze kouma lenterferans ek ond stasyoner."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Describing waves",
+                "fr": "Decrire les ondes",
+                "mfe": "Dekrir bann ond"
+              },
+              "objectives": [
+                "Define terms such as amplitude, wavelength, frequency and period",
+                "Relate wave speed to frequency and wavelength",
+                "Sketch and interpret wave diagrams",
+                "Distinguish transverse from longitudinal waves"
+              ]
+            },
+            {
+              "title": {
+                "en": "Longitudinal and transverse waves",
+                "fr": "Ondes longitudinales et transversales",
+                "mfe": "Ond longitidinal ek transversal"
+              },
+              "objectives": [
+                "Give examples of longitudinal and transverse waves",
+                "Explain compressions and rarefactions in sound waves",
+                "Compare properties of the electromagnetic spectrum",
+                "Relate wave type to medium of propagation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Superposition and interference",
+                "fr": "Superposition et interference",
+                "mfe": "Siperpozisyon ek lenterferans"
+              },
+              "objectives": [
+                "State the principle of superposition of waves",
+                "Explain constructive and destructive interference",
+                "Describe the conditions needed for observable interference",
+                "Apply superposition to two-source interference patterns"
+              ]
+            },
+            {
+              "title": {
+                "en": "Stationary waves",
+                "fr": "Ondes stationnaires",
+                "mfe": "Ond stasyoner"
+              },
+              "objectives": [
+                "Explain the formation of stationary waves",
+                "Identify nodes and antinodes on a stationary wave",
+                "Compare stationary waves with progressive waves",
+                "Relate stationary waves to musical instruments"
+              ]
+            },
+            {
+              "title": {
+                "en": "Diffraction of waves",
+                "fr": "Diffraction des ondes",
+                "mfe": "Difraksyon ond"
+              },
+              "objectives": [
+                "Describe diffraction through a gap or around an obstacle",
+                "Explain how gap size affects diffraction pattern",
+                "Relate diffraction to wavelength",
+                "Give practical examples of diffraction"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Electricity and DC circuits",
+            "fr": "Electricite et circuits en courant continu",
+            "mfe": "Elektrisite ek sirkwi kouran kontini"
+          },
+          "summary": {
+            "en": "Introduces electric current, potential difference, resistance and the analysis of direct current circuits using Kirchhoff's laws.",
+            "fr": "Introduit le courant electrique, la difference de potentiel, la resistance et l'analyse des circuits a courant continu a l'aide des lois de Kirchhoff.",
+            "mfe": "Introdir kouran elektrik, diferans potansyel, rezistans ek analiz sirkwi kouran kontini servi lwa Kirchhoff."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Electric current and charge",
+                "fr": "Courant electrique et charge",
+                "mfe": "Kouran elektrik ek sarz"
+              },
+              "objectives": [
+                "Define electric current in terms of charge flow",
+                "Relate current to the rate of flow of charge",
+                "Explain conventional current and electron flow",
+                "Solve problems involving current and charge"
+              ]
+            },
+            {
+              "title": {
+                "en": "Potential difference, EMF and resistance",
+                "fr": "Difference de potentiel, force electromotrice et resistance",
+                "mfe": "Diferans potansyel, fem ek rezistans"
+              },
+              "objectives": [
+                "Define potential difference and electromotive force",
+                "Define resistance and state Ohm's law",
+                "Distinguish EMF from terminal potential difference",
+                "Solve circuit problems using Ohm's law"
+              ]
+            },
+            {
+              "title": {
+                "en": "Resistivity and I-V characteristics",
+                "fr": "Resistivite et caracteristiques I-V",
+                "mfe": "Rezistivite ek karakteristik I-V"
+              },
+              "objectives": [
+                "Define resistivity and relate it to resistance",
+                "Sketch I-V graphs for common components",
+                "Explain the behaviour of ohmic and non-ohmic conductors",
+                "Determine resistance from an I-V graph"
+              ]
+            },
+            {
+              "title": {
+                "en": "Kirchhoff's laws",
+                "fr": "Lois de Kirchhoff",
+                "mfe": "Lwa Kirchhoff"
+              },
+              "objectives": [
+                "State Kirchhoff's first and second laws",
+                "Apply Kirchhoff's laws to analyse simple circuits",
+                "Explain conservation of charge and energy in circuits",
+                "Solve for unknown currents and voltages in circuits"
+              ]
+            },
+            {
+              "title": {
+                "en": "Series and parallel circuits",
+                "fr": "Circuits en serie et en parallele",
+                "mfe": "Sirkwi an serye ek an paralel"
+              },
+              "objectives": [
+                "Calculate total resistance in series and parallel circuits",
+                "Compare current and voltage distribution in each arrangement",
+                "Apply circuit rules to solve combined circuits",
+                "Design simple circuits for given requirements"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "13": {
+      "units": [
+        {
+          "title": {
+            "en": "Circular motion and gravitational fields",
+            "fr": "Mouvement circulaire et champs gravitationnels",
+            "mfe": "Mouvman sirkiler ek shan gravitasyonel"
+          },
+          "summary": {
+            "en": "Explore motion in circles and the forces that keep planets and satellites in orbit, extending gravitation to fields and potential.",
+            "fr": "Explorer le mouvement circulaire et les forces maintenant les planètes et satellites en orbite, en étendant la gravitation aux champs et au potentiel.",
+            "mfe": "Explor mouvman sirkiler ek bann fors ki gard bann planet ek satelit an orbit, agrandi gravitasyon ver shan ek potansyel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Angular speed and centripetal force",
+                "fr": "Vitesse angulaire et force centripète",
+                "mfe": "Vites angiler ek fors sentripet"
+              },
+              "objectives": [
+                "Define angular displacement and angular velocity",
+                "Derive the centripetal acceleration formula",
+                "Apply centripetal force equations to circular motion problems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Gravitational field strength",
+                "fr": "Intensité du champ gravitationnel",
+                "mfe": "Lintansite shan gravitasyonel"
+              },
+              "objectives": [
+                "Define gravitational field strength",
+                "Apply Newton's law of gravitation to point masses",
+                "Sketch field lines for point masses"
+              ]
+            },
+            {
+              "title": {
+                "en": "Gravitational potential and energy",
+                "fr": "Potentiel et énergie gravitationnels",
+                "mfe": "Potansyel ek lenerzi gravitasyonel"
+              },
+              "objectives": [
+                "Define gravitational potential",
+                "Calculate escape velocity",
+                "Relate potential gradient to field strength"
+              ]
+            },
+            {
+              "title": {
+                "en": "Orbits and satellites",
+                "fr": "Orbites et satellites",
+                "mfe": "Orbit ek satelit"
+              },
+              "objectives": [
+                "Derive orbital period from gravitational force",
+                "Explain geostationary orbits used for Mauritian telecommunications",
+                "Compare kinetic, potential and total energy in orbit"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Oscillations",
+            "fr": "Oscillations",
+            "mfe": "Osilasyon"
+          },
+          "summary": {
+            "en": "Study simple harmonic motion, energy exchange in oscillators, and the effects of damping and resonance in real systems.",
+            "fr": "Étudier le mouvement harmonique simple, l'échange d'énergie dans les oscillateurs, ainsi que les effets de l'amortissement et de la résonance.",
+            "mfe": "Etidye mouvman armonik senp, lesanz lenerzi dan bann osilater, ek bann lefe amortisman ek rezonans dan sistem reel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Describing simple harmonic motion",
+                "fr": "Décrire le mouvement harmonique simple",
+                "mfe": "Dekrir mouvman armonik senp"
+              },
+              "objectives": [
+                "Define simple harmonic motion mathematically",
+                "Use displacement, velocity and acceleration equations",
+                "Interpret graphs of shm quantities"
+              ]
+            },
+            {
+              "title": {
+                "en": "Energy in simple harmonic motion",
+                "fr": "Énergie dans le mouvement harmonique simple",
+                "mfe": "Lenerzi dan mouvman armonik senp"
+              },
+              "objectives": [
+                "Calculate kinetic and potential energy during oscillation",
+                "Sketch energy-displacement graphs",
+                "Apply conservation of energy to oscillators"
+              ]
+            },
+            {
+              "title": {
+                "en": "Damping and resonance",
+                "fr": "Amortissement et résonance",
+                "mfe": "Amortisman ek rezonans"
+              },
+              "objectives": [
+                "Distinguish light, critical and heavy damping",
+                "Explain conditions for resonance",
+                "Discuss examples like cyclone-resistant building design in Mauritius"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Thermal physics and ideal gases",
+            "fr": "Physique thermique et gaz parfaits",
+            "mfe": "Fizik termik ek gaz parfe"
+          },
+          "summary": {
+            "en": "Understand temperature, internal energy, and the behaviour of ideal gases using kinetic theory and the first law of thermodynamics.",
+            "fr": "Comprendre la température, l'énergie interne et le comportement des gaz parfaits à l'aide de la théorie cinétique et du premier principe de la thermodynamique.",
+            "mfe": "Konpran temperatir, lenerzi intern ek konportman gaz parfe atraver teori sinetik ek premie lwa termodinamik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Thermal equilibrium and temperature scales",
+                "fr": "Équilibre thermique et échelles de température",
+                "mfe": "Ekilib termik ek lesel temperatir"
+              },
+              "objectives": [
+                "Explain thermal equilibrium between systems",
+                "Convert between Celsius and Kelvin scales",
+                "Describe the thermodynamic temperature scale"
+              ]
+            },
+            {
+              "title": {
+                "en": "Specific heat and latent heat",
+                "fr": "Chaleur spécifique et chaleur latente",
+                "mfe": "Kalorifik spesifik ek shalor latant"
+              },
+              "objectives": [
+                "Define specific heat capacity and specific latent heat",
+                "Calculate energy changes during heating and phase change",
+                "Design simple experiments to measure these quantities"
+              ]
+            },
+            {
+              "title": {
+                "en": "The ideal gas laws",
+                "fr": "Les lois des gaz parfaits",
+                "mfe": "Lwa bann gaz parfe"
+              },
+              "objectives": [
+                "State Boyle's, Charles's and pressure laws",
+                "Apply the ideal gas equation pV=nRT",
+                "Interpret pressure-volume-temperature graphs"
+              ]
+            },
+            {
+              "title": {
+                "en": "Kinetic theory and internal energy",
+                "fr": "Théorie cinétique et énergie interne",
+                "mfe": "Teori sinetik ek lenerzi intern"
+              },
+              "objectives": [
+                "Derive the kinetic theory equation for gas pressure",
+                "Relate mean kinetic energy to temperature",
+                "Apply the first law of thermodynamics to gas processes"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Electric fields and capacitance",
+            "fr": "Champs électriques et capacité",
+            "mfe": "Shan elektrik ek kapasite"
+          },
+          "summary": {
+            "en": "Investigate electric fields around charges, potential, and how capacitors store and release electrical energy.",
+            "fr": "Étudier les champs électriques autour des charges, le potentiel, et comment les condensateurs stockent et libèrent l'énergie électrique.",
+            "mfe": "Investig shan elektrik otour sarz, potansyel, ek kouma kapasiter stok ek lib lenerzi elektrik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Electric field strength and Coulomb's law",
+                "fr": "Intensité du champ électrique et loi de Coulomb",
+                "mfe": "Lintansite shan elektrik ek lwa Coulomb"
+              },
+              "objectives": [
+                "Define electric field strength",
+                "Apply Coulomb's law to point charges",
+                "Compare electric and gravitational fields"
+              ]
+            },
+            {
+              "title": {
+                "en": "Electric potential and potential difference",
+                "fr": "Potentiel électrique et différence de potentiel",
+                "mfe": "Potansyel elektrik ek diferans potansyel"
+              },
+              "objectives": [
+                "Define electric potential at a point",
+                "Calculate work done moving charges in a field",
+                "Sketch equipotential surfaces"
+              ]
+            },
+            {
+              "title": {
+                "en": "Capacitors and capacitance",
+                "fr": "Condensateurs et capacité",
+                "mfe": "Kapasiter ek kapasite"
+              },
+              "objectives": [
+                "Define capacitance and calculate charge stored",
+                "Analyse capacitors in series and parallel",
+                "Calculate energy stored in a capacitor"
+              ]
+            },
+            {
+              "title": {
+                "en": "Capacitor charge and discharge",
+                "fr": "Charge et décharge d'un condensateur",
+                "mfe": "Sarzman ek desarzman kapasiter"
+              },
+              "objectives": [
+                "Describe exponential charge and discharge curves",
+                "Use time constant RC in calculations",
+                "Relate capacitor behaviour to practical circuits like camera flashes"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Magnetic fields and electromagnetic induction",
+            "fr": "Champs magnétiques et induction électromagnétique",
+            "mfe": "Shan manyetik ek induksyon elektromanyetik"
+          },
+          "summary": {
+            "en": "Explore magnetic forces on currents and charges, and how changing fields generate electromotive force.",
+            "fr": "Explorer les forces magnétiques sur les courants et charges, et comment les champs variables génèrent une force électromotrice.",
+            "mfe": "Explor bann fors manyetik lor kouran ek sarz, ek kouma shan sanzman genere fors elektromotris."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Magnetic force on currents and charges",
+                "fr": "Force magnétique sur les courants et charges",
+                "mfe": "Fors manyetik lor kouran ek sarz"
+              },
+              "objectives": [
+                "Apply the formula for force on a current-carrying conductor",
+                "Use the right-hand rule for force direction",
+                "Calculate force on moving charges in magnetic fields"
+              ]
+            },
+            {
+              "title": {
+                "en": "Magnetic fields due to currents",
+                "fr": "Champs magnétiques dus aux courants",
+                "mfe": "Shan manyetik akoz kouran"
+              },
+              "objectives": [
+                "Sketch field patterns for wires, coils and solenoids",
+                "Apply the formula for field strength near a long wire",
+                "Explain applications like electromagnets"
+              ]
+            },
+            {
+              "title": {
+                "en": "Electromagnetic induction",
+                "fr": "Induction électromagnétique",
+                "mfe": "Induksyon elektromanyetik"
+              },
+              "objectives": [
+                "State Faraday's and Lenz's laws",
+                "Calculate induced emf from changing flux",
+                "Explain energy conservation in induction"
+              ]
+            },
+            {
+              "title": {
+                "en": "Generators and transformers",
+                "fr": "Générateurs et transformateurs",
+                "mfe": "Zenerater ek transformater"
+              },
+              "objectives": [
+                "Explain how ac generators produce alternating emf",
+                "Describe transformer operation and turns ratio",
+                "Discuss transformer efficiency in power distribution in Mauritius"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Alternating currents and quantum physics",
+            "fr": "Courants alternatifs et physique quantique",
+            "mfe": "Kouran alternatif ek fizik kantik"
+          },
+          "summary": {
+            "en": "Analyse alternating current circuits and discover the quantum nature of light and matter.",
+            "fr": "Analyser les circuits à courant alternatif et découvrir la nature quantique de la lumière et de la matière.",
+            "mfe": "Analiz sirkwi kouran alternatif ek dekouver natir kantik lalimyer ek matyer."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Describing alternating currents",
+                "fr": "Décrire les courants alternatifs",
+                "mfe": "Dekrir kouran alternatif"
+              },
+              "objectives": [
+                "Define peak and root-mean-square values",
+                "Calculate power in ac circuits",
+                "Compare ac and dc power delivery"
+              ]
+            },
+            {
+              "title": {
+                "en": "The photoelectric effect",
+                "fr": "L'effet photoélectrique",
+                "mfe": "Lefe fotoelektrik"
+              },
+              "objectives": [
+                "Describe the photoelectric effect experimentally",
+                "Explain why the effect supports particle theory of light",
+                "Apply Einstein's photoelectric equation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Wave-particle duality",
+                "fr": "Dualité onde-particule",
+                "mfe": "Dialite ond-partikil"
+              },
+              "objectives": [
+                "Explain de Broglie wavelength of particles",
+                "Describe evidence for electron diffraction",
+                "Discuss implications for models of matter"
+              ]
+            },
+            {
+              "title": {
+                "en": "Energy levels and atomic spectra",
+                "fr": "Niveaux d'énergie et spectres atomiques",
+                "mfe": "Nivo lenerzi ek spektr atomik"
+              },
+              "objectives": [
+                "Explain discrete energy levels in atoms",
+                "Relate spectral lines to electron transitions",
+                "Calculate photon energies from spectral data"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Nuclear physics and astrophysics",
+            "fr": "Physique nucléaire et astrophysique",
+            "mfe": "Fizik nikleer ek astrofizik"
+          },
+          "summary": {
+            "en": "Examine the structure of the nucleus, radioactive decay, and apply physics to stars and the wider universe.",
+            "fr": "Examiner la structure du noyau, la désintégration radioactive, et appliquer la physique aux étoiles et à l'univers.",
+            "mfe": "Egzamin striktir nwayo, dezintegrasyon radioaktif, ek aplik fizik lor zetwal ek liniver."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Nuclear structure and binding energy",
+                "fr": "Structure nucléaire et énergie de liaison",
+                "mfe": "Striktir nikleer ek lenerzi lyezon"
+              },
+              "objectives": [
+                "Describe nuclear composition using nucleon number",
+                "Calculate binding energy from mass defect",
+                "Interpret binding energy per nucleon curves"
+              ]
+            },
+            {
+              "title": {
+                "en": "Radioactive decay",
+                "fr": "Désintégration radioactive",
+                "mfe": "Dezintegrasyon radioaktif"
+              },
+              "objectives": [
+                "Explain the random and spontaneous nature of decay",
+                "Apply the exponential decay law and half-life",
+                "Discuss safe use of radioactive sources in Mauritian hospitals"
+              ]
+            },
+            {
+              "title": {
+                "en": "Nuclear fission and fusion",
+                "fr": "Fission et fusion nucléaires",
+                "mfe": "Fisyon ek fizyon nikleer"
+              },
+              "objectives": [
+                "Explain the process of induced nuclear fission",
+                "Describe fusion reactions in stars",
+                "Compare energy release in fission and fusion"
+              ]
+            },
+            {
+              "title": {
+                "en": "Stars and the universe",
+                "fr": "Les étoiles et l'univers",
+                "mfe": "Zetwal ek liniver"
+              },
+              "objectives": [
+                "Describe the life cycle of stars",
+                "Explain redshift and Hubble's law",
+                "Discuss evidence for the expanding universe"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

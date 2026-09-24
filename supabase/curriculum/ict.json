@@ -1,0 +1,3237 @@
+{
+  "subject": "ict",
+  "grades": {
+    "7": {
+      "units": [
+        {
+          "title": {
+            "en": "Introduction to computers and ICT",
+            "fr": "Introduction aux ordinateurs et aux TIC",
+            "mfe": "Introduksion a lordinater ek TIC"
+          },
+          "summary": {
+            "en": "Students learn what a computer is, how ICT affects daily life in Mauritius, and the basic components of a computer system.",
+            "fr": "Les élèves apprennent ce qu'est un ordinateur, comment les TIC influencent la vie quotidienne à Maurice, et les composants de base d'un système informatique.",
+            "mfe": "Bann elev aprann ki sa enn lordinater, kouma TIC influans lavi toulezour dan Moris, ek bann kompozan debaz enn sistem lordinater."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "What is a computer?",
+                "fr": "Qu'est-ce qu'un ordinateur?",
+                "mfe": "Ki sa enn lordinater?"
+              },
+              "objectives": [
+                "Define what a computer is",
+                "Identify examples of computers used in daily life",
+                "Describe the input-process-output cycle"
+              ]
+            },
+            {
+              "title": {
+                "en": "ICT in everyday life in Mauritius",
+                "fr": "Les TIC dans la vie quotidienne à Maurice",
+                "mfe": "TIC dan lavi toulezour dan Moris"
+              },
+              "objectives": [
+                "Identify uses of ICT in schools, banks and hospitals",
+                "Explain benefits of ICT for Mauritian society",
+                "Discuss examples of ICT devices seen at home"
+              ]
+            },
+            {
+              "title": {
+                "en": "History of computers",
+                "fr": "Histoire des ordinateurs",
+                "mfe": "Listwar lordinater"
+              },
+              "objectives": [
+                "Describe early computing devices",
+                "Outline key stages in computer development",
+                "Compare old and modern computers"
+              ]
+            },
+            {
+              "title": {
+                "en": "Types of computers",
+                "fr": "Types d'ordinateurs",
+                "mfe": "Diferan tip lordinater"
+              },
+              "objectives": [
+                "Classify computers as desktop, laptop, tablet and smartphone",
+                "Compare features of different computer types",
+                "Choose suitable devices for given tasks"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Computer hardware",
+            "fr": "Le matériel informatique",
+            "mfe": "Materyel lordinater"
+          },
+          "summary": {
+            "en": "This unit introduces the physical parts of a computer, including input, output and storage devices.",
+            "fr": "Cette unité présente les parties physiques d'un ordinateur, y compris les périphériques d'entrée, de sortie et de stockage.",
+            "mfe": "Sa linite-la introdir bann parti fizik enn lordinater, ki inklir bann aparey input, output ek stokaz."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Input devices",
+                "fr": "Les périphériques d'entrée",
+                "mfe": "Bann aparey input"
+              },
+              "objectives": [
+                "Identify common input devices",
+                "Explain the function of a keyboard and mouse",
+                "Describe uses of scanners and microphones"
+              ]
+            },
+            {
+              "title": {
+                "en": "Output devices",
+                "fr": "Les périphériques de sortie",
+                "mfe": "Bann aparey output"
+              },
+              "objectives": [
+                "Identify common output devices",
+                "Explain the function of monitors and printers",
+                "Compare speakers and projectors as output devices"
+              ]
+            },
+            {
+              "title": {
+                "en": "Storage devices",
+                "fr": "Les dispositifs de stockage",
+                "mfe": "Bann aparey stokaz"
+              },
+              "objectives": [
+                "Distinguish between internal and external storage",
+                "Compare hard disks, USB drives and memory cards",
+                "Estimate storage capacity needed for common files"
+              ]
+            },
+            {
+              "title": {
+                "en": "The system unit",
+                "fr": "L'unité centrale",
+                "mfe": "Linite santral"
+              },
+              "objectives": [
+                "Identify main parts inside the system unit",
+                "Describe the role of the CPU and RAM",
+                "Explain the purpose of the motherboard"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Computer software",
+            "fr": "Les logiciels",
+            "mfe": "Bann lozisiel"
+          },
+          "summary": {
+            "en": "Students explore the difference between system and application software and learn about common software used in schools.",
+            "fr": "Les élèves explorent la différence entre logiciels système et applicatifs et découvrent les logiciels courants utilisés à l'école.",
+            "mfe": "Bann elev explor diferans ant lozisiel sistem ek lozisiel aplikasion ek aprann konsernan bann lozisiel kouramman servi dan lekol."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "System software vs application software",
+                "fr": "Logiciels système et logiciels applicatifs",
+                "mfe": "Lozisiel sistem ek lozisiel aplikasion"
+              },
+              "objectives": [
+                "Define system software and application software",
+                "Give examples of each type",
+                "Explain why computers need both types"
+              ]
+            },
+            {
+              "title": {
+                "en": "Introducing operating systems",
+                "fr": "Découverte des systèmes d'exploitation",
+                "mfe": "Introdiksion bann sistem operasion"
+              },
+              "objectives": [
+                "Explain the purpose of an operating system",
+                "Name common operating systems",
+                "Identify the desktop and icons in an operating system"
+              ]
+            },
+            {
+              "title": {
+                "en": "Common application software",
+                "fr": "Logiciels applicatifs courants",
+                "mfe": "Bann lozisiel aplikasion kouramman servi"
+              },
+              "objectives": [
+                "List examples of word processors, spreadsheets and browsers",
+                "Match software to appropriate tasks",
+                "Discuss educational software used in schools"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Files and folders",
+            "fr": "Fichiers et dossiers",
+            "mfe": "Fichie ek dosie"
+          },
+          "summary": {
+            "en": "Students learn how to organise, save and manage files and folders using an operating system.",
+            "fr": "Les élèves apprennent à organiser, enregistrer et gérer des fichiers et dossiers à l'aide d'un système d'exploitation.",
+            "mfe": "Bann elev aprann kouma pou organiz, anrezistre ek zer fichie ek dosie servi enn sistem operasion."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Creating and naming folders",
+                "fr": "Créer et nommer des dossiers",
+                "mfe": "Kree ek nom bann dosie"
+              },
+              "objectives": [
+                "Create a new folder",
+                "Rename folders appropriately",
+                "Organise folders in a logical structure"
+              ]
+            },
+            {
+              "title": {
+                "en": "Saving and retrieving files",
+                "fr": "Enregistrer et retrouver des fichiers",
+                "mfe": "Anrezistre ek retrouv fichie"
+              },
+              "objectives": [
+                "Save a file to a chosen location",
+                "Retrieve a saved file",
+                "Identify common file types by extension"
+              ]
+            },
+            {
+              "title": {
+                "en": "Managing files",
+                "fr": "Gérer les fichiers",
+                "mfe": "Zer bann fichie"
+              },
+              "objectives": [
+                "Copy, move and delete files",
+                "Search for a file on a computer",
+                "Explain the importance of backing up files"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Introduction to word processing",
+            "fr": "Introduction au traitement de texte",
+            "mfe": "Introdiksion tretman tex"
+          },
+          "summary": {
+            "en": "This unit teaches basic skills in creating, formatting and printing documents using word processing software.",
+            "fr": "Cette unité enseigne les compétences de base pour créer, mettre en forme et imprimer des documents avec un logiciel de traitement de texte.",
+            "mfe": "Sa linite-la ansegn bann konpetans debaz pou kree, format ek enprim dokiman servi lozisiel tretman tex."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Getting started with word processing",
+                "fr": "Premiers pas en traitement de texte",
+                "mfe": "Premie pa dan tretman tex"
+              },
+              "objectives": [
+                "Open and explore a word processor interface",
+                "Type and edit simple text",
+                "Save a document with a suitable name"
+              ]
+            },
+            {
+              "title": {
+                "en": "Formatting text",
+                "fr": "Mise en forme du texte",
+                "mfe": "Format tex"
+              },
+              "objectives": [
+                "Change font style, size and colour",
+                "Apply bold, italic and underline",
+                "Align paragraphs appropriately"
+              ]
+            },
+            {
+              "title": {
+                "en": "Inserting images and tables",
+                "fr": "Insérer des images et des tableaux",
+                "mfe": "Ensere zimaz ek tablo"
+              },
+              "objectives": [
+                "Insert an image into a document",
+                "Resize and position an image",
+                "Create a simple table"
+              ]
+            },
+            {
+              "title": {
+                "en": "Printing documents",
+                "fr": "Imprimer des documents",
+                "mfe": "Enprim dokiman"
+              },
+              "objectives": [
+                "Preview a document before printing",
+                "Select print settings such as pages and copies",
+                "Explain the importance of proofreading before printing"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Introduction to spreadsheets",
+            "fr": "Introduction aux tableurs",
+            "mfe": "Introdiksion tableur"
+          },
+          "summary": {
+            "en": "Students learn to enter data, use simple formulas and create charts using spreadsheet software.",
+            "fr": "Les élèves apprennent à saisir des données, utiliser des formules simples et créer des graphiques avec un tableur.",
+            "mfe": "Bann elev aprann rant done, servi bann formil senp ek kree grafik servi lozisiel tableur."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Understanding the spreadsheet layout",
+                "fr": "Comprendre la structure d'un tableur",
+                "mfe": "Konpran laranzman enn tableur"
+              },
+              "objectives": [
+                "Identify rows, columns and cells",
+                "Enter and edit data in cells",
+                "Navigate a spreadsheet using cell references"
+              ]
+            },
+            {
+              "title": {
+                "en": "Simple formulas and calculations",
+                "fr": "Formules simples et calculs",
+                "mfe": "Formil senp ek kalkil"
+              },
+              "objectives": [
+                "Write simple formulas using addition and subtraction",
+                "Use the SUM function",
+                "Copy formulas across cells"
+              ]
+            },
+            {
+              "title": {
+                "en": "Creating charts",
+                "fr": "Créer des graphiques",
+                "mfe": "Kree grafik"
+              },
+              "objectives": [
+                "Select data to create a chart",
+                "Create a simple bar or pie chart",
+                "Label a chart appropriately"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Internet and online safety",
+            "fr": "Internet et sécurité en ligne",
+            "mfe": "Lintenet ek sekirite anlign"
+          },
+          "summary": {
+            "en": "This unit introduces the internet, safe browsing practices and responsible online behaviour for young students.",
+            "fr": "Cette unité présente Internet, les pratiques de navigation sécurisée et le comportement responsable en ligne pour les jeunes élèves.",
+            "mfe": "Sa linite-la introdir lintenet, bann prattik navigasion an sekirite ek konportman responsab anlign pou bann zenn elev."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "What is the internet?",
+                "fr": "Qu'est-ce qu'Internet?",
+                "mfe": "Ki sa lintenet?"
+              },
+              "objectives": [
+                "Define the internet and World Wide Web",
+                "Explain how devices connect to the internet",
+                "Identify uses of the internet in daily life"
+              ]
+            },
+            {
+              "title": {
+                "en": "Searching the web safely",
+                "fr": "Rechercher sur le web en toute sécurité",
+                "mfe": "Rod lor web an sekirite"
+              },
+              "objectives": [
+                "Use a search engine effectively",
+                "Evaluate reliability of website information",
+                "Identify safe and unsafe websites"
+              ]
+            },
+            {
+              "title": {
+                "en": "Staying safe online",
+                "fr": "Rester en sécurité en ligne",
+                "mfe": "Reste an sekirite anlign"
+              },
+              "objectives": [
+                "Explain the importance of protecting personal information",
+                "Identify signs of cyberbullying",
+                "Describe steps to take if uncomfortable online"
+              ]
+            },
+            {
+              "title": {
+                "en": "Netiquette and digital citizenship",
+                "fr": "Nétiquette et citoyenneté numérique",
+                "mfe": "Netiket ek sitwayennte dizital"
+              },
+              "objectives": [
+                "Explain rules of good online behaviour",
+                "Describe respectful communication online",
+                "Discuss responsible sharing on social media"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "8": {
+      "units": [
+        {
+          "title": {
+            "en": "Computer systems and hardware",
+            "fr": "Systèmes informatiques et matériel",
+            "mfe": "Sistem informatik ek materyel"
+          },
+          "summary": {
+            "en": "Students explore the main components of a computer system, learn about input, output and storage devices, and understand basic care and maintenance of computer equipment.",
+            "fr": "Les élèves explorent les principaux composants d'un système informatique, découvrent les périphériques d'entrée, de sortie et de stockage, et comprennent l'entretien de base du matériel informatique.",
+            "mfe": "Elev pou explor bann prinsipal parti enn sistem informatik, aprann konsernan periferik antre, sorti ek stokaz, ek konpran ki manyer pran swin materyel informatik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Components of a computer system",
+                "fr": "Composants d'un système informatique",
+                "mfe": "Bann parti enn sistem informatik"
+              },
+              "objectives": [
+                "Identify the main hardware components of a computer system",
+                "Distinguish between hardware and peripherals",
+                "Describe the function of the CPU, RAM and motherboard"
+              ]
+            },
+            {
+              "title": {
+                "en": "Input and output devices",
+                "fr": "Périphériques d'entrée et de sortie",
+                "mfe": "Periferik antre ek sorti"
+              },
+              "objectives": [
+                "Classify devices as input or output",
+                "Explain the purpose of common input devices",
+                "Explain the purpose of common output devices"
+              ]
+            },
+            {
+              "title": {
+                "en": "Storage devices and memory",
+                "fr": "Dispositifs de stockage et mémoire",
+                "mfe": "Periferik stokaz ek memwar"
+              },
+              "objectives": [
+                "Differentiate between primary and secondary storage",
+                "Compare storage devices such as SSD, hard disk and USB drives",
+                "Estimate suitable storage for common tasks"
+              ]
+            },
+            {
+              "title": {
+                "en": "Computer care and maintenance",
+                "fr": "Entretien et maintenance de l'ordinateur",
+                "mfe": "Antretenir ek okip zafer informatik"
+              },
+              "objectives": [
+                "List good practices for maintaining computer equipment",
+                "Explain risks of poor handling of devices",
+                "Describe simple troubleshooting steps for common hardware issues"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Software and operating systems",
+            "fr": "Logiciels et systèmes d'exploitation",
+            "mfe": "Lozisyel ek sistem operasyon"
+          },
+          "summary": {
+            "en": "This unit introduces the difference between system and application software, the role of the operating system, and basic file management and software installation skills.",
+            "fr": "Cette unité présente la différence entre logiciels système et applicatifs, le rôle du système d'exploitation, ainsi que la gestion des fichiers et l'installation de logiciels.",
+            "mfe": "Sa unit-la introdir diferans ant lozisyel sistem ek lozisyel aplikasyon, rol sistem operasyon, ek konpetans debaz pou zere fisye ek install lozisyel."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "System software versus application software",
+                "fr": "Logiciels système et logiciels applicatifs",
+                "mfe": "Lozisyel sistem kont lozisyel aplikasyon"
+              },
+              "objectives": [
+                "Define system software and application software",
+                "Give examples of each type of software",
+                "Explain why both types are needed on a computer"
+              ]
+            },
+            {
+              "title": {
+                "en": "The role of the operating system",
+                "fr": "Le rôle du système d'exploitation",
+                "mfe": "Rol sistem operasyon"
+              },
+              "objectives": [
+                "Describe the main functions of an operating system",
+                "Identify common operating systems used on devices",
+                "Explain how the operating system manages hardware resources"
+              ]
+            },
+            {
+              "title": {
+                "en": "File management",
+                "fr": "Gestion des fichiers",
+                "mfe": "Zerans fisye"
+              },
+              "objectives": [
+                "Organise files and folders in a logical structure",
+                "Use file naming conventions effectively",
+                "Copy, move and delete files safely"
+              ]
+            },
+            {
+              "title": {
+                "en": "Installing and updating software",
+                "fr": "Installer et mettre à jour des logiciels",
+                "mfe": "Install ek met a zour lozisyel"
+              },
+              "objectives": [
+                "Explain the steps involved in installing software",
+                "Understand why software updates are important",
+                "Identify safe sources for downloading software"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Networks and the internet",
+            "fr": "Réseaux et internet",
+            "mfe": "Rezo ek Internet"
+          },
+          "summary": {
+            "en": "Students learn what a computer network is, the differences between LANs and WANs, how the internet functions, and the range of services it provides.",
+            "fr": "Les élèves découvrent ce qu'est un réseau informatique, les différences entre LAN et WAN, le fonctionnement d'internet et les services qu'il offre.",
+            "mfe": "Elev aprann ki enn rezo informatik ete, diferans ant LAN ek WAN, kimanyer Internet fonksyone ek bann servis ki li ofer."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "What is a network",
+                "fr": "Qu'est-ce qu'un réseau",
+                "mfe": "Ki enn rezo ete"
+              },
+              "objectives": [
+                "Define a computer network",
+                "Explain the benefits of networking computers",
+                "Identify basic network devices such as routers and switches"
+              ]
+            },
+            {
+              "title": {
+                "en": "Types of networks: LAN and WAN",
+                "fr": "Types de réseaux : LAN et WAN",
+                "mfe": "Bann tip rezo: LAN ek WAN"
+              },
+              "objectives": [
+                "Distinguish between LAN and WAN",
+                "Give examples of LAN and WAN in Mauritius",
+                "Compare wired and wireless networking"
+              ]
+            },
+            {
+              "title": {
+                "en": "How the internet works",
+                "fr": "Comment fonctionne internet",
+                "mfe": "Kimanyer Internet marse"
+              },
+              "objectives": [
+                "Describe the role of servers and clients",
+                "Explain what an IP address is",
+                "Outline how data travels across the internet"
+              ]
+            },
+            {
+              "title": {
+                "en": "Internet services: email, web and cloud",
+                "fr": "Services internet : courriel, web et cloud",
+                "mfe": "Servis Internet: email, web ek cloud"
+              },
+              "objectives": [
+                "Identify common internet services",
+                "Explain the purpose of cloud storage",
+                "Compose a professional email using correct etiquette"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Data representation",
+            "fr": "Représentation des données",
+            "mfe": "Reprezantasyon done"
+          },
+          "summary": {
+            "en": "This unit introduces how computers represent numbers, text, images and sound using binary, and the units used to measure digital data.",
+            "fr": "Cette unité présente la manière dont les ordinateurs représentent les nombres, le texte, les images et le son en binaire, ainsi que les unités de mesure des données numériques.",
+            "mfe": "Sa unit-la introdir kimanyer lordinater reprezant nomb, text, imaz ek son an binaire, ek bann inite ki servi pou mezir done dizital."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Binary numbers basics",
+                "fr": "Bases des nombres binaires",
+                "mfe": "Baz nomb binaire"
+              },
+              "objectives": [
+                "Explain why computers use binary",
+                "Convert small decimal numbers to binary",
+                "Convert small binary numbers to decimal"
+              ]
+            },
+            {
+              "title": {
+                "en": "Representing text and characters",
+                "fr": "Représentation du texte et des caractères",
+                "mfe": "Reprezantasyon text ek karakter"
+              },
+              "objectives": [
+                "Explain how characters are represented using codes such as ASCII",
+                "Describe the concept of a character set",
+                "Recognise the link between bits and character encoding"
+              ]
+            },
+            {
+              "title": {
+                "en": "Representing images and sound",
+                "fr": "Représentation des images et du son",
+                "mfe": "Reprezantasyon imaz ek son"
+              },
+              "objectives": [
+                "Explain how images are represented using pixels",
+                "Describe how sound is digitised for storage",
+                "Discuss how resolution and quality affect file size"
+              ]
+            },
+            {
+              "title": {
+                "en": "Units of data storage",
+                "fr": "Unités de stockage de données",
+                "mfe": "Inite pou stokaz done"
+              },
+              "objectives": [
+                "Order units of data from bit to terabyte",
+                "Convert between common units of data",
+                "Estimate storage needs for simple everyday files"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Introduction to algorithms and programming",
+            "fr": "Introduction aux algorithmes et à la programmation",
+            "mfe": "Introdiksyon ar algoritm ek programasyon"
+          },
+          "summary": {
+            "en": "Students learn what an algorithm is, how to represent one using flowcharts, and begin block-based programming using sequence, selection and loops.",
+            "fr": "Les élèves découvrent ce qu'est un algorithme, comment le représenter avec des organigrammes, et débutent la programmation par blocs avec séquences, sélections et boucles.",
+            "mfe": "Elev aprann ki enn algoritm ete, kimanyer reprezant li ar flowchart, ek koumans programasyon par blok ar sekans, seleksyon ek lup."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "What is an algorithm",
+                "fr": "Qu'est-ce qu'un algorithme",
+                "mfe": "Ki enn algoritm ete"
+              },
+              "objectives": [
+                "Define the term algorithm",
+                "Explain the importance of algorithms in everyday tasks",
+                "Write a simple algorithm in plain language"
+              ]
+            },
+            {
+              "title": {
+                "en": "Representing algorithms with flowcharts",
+                "fr": "Représenter les algorithmes avec des organigrammes",
+                "mfe": "Reprezant algoritm ar flowchart"
+              },
+              "objectives": [
+                "Identify standard flowchart symbols",
+                "Draw a flowchart for a simple everyday process",
+                "Trace through a flowchart to predict its outcome"
+              ]
+            },
+            {
+              "title": {
+                "en": "Introduction to block-based programming",
+                "fr": "Introduction à la programmation par blocs",
+                "mfe": "Introdiksyon a programasyon par blok"
+              },
+              "objectives": [
+                "Navigate a block-based programming environment such as Scratch",
+                "Create a simple program using sprites and blocks",
+                "Test and debug a simple program"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sequence, selection and loops",
+                "fr": "Séquence, sélection et boucles",
+                "mfe": "Sekans, seleksyon ek lup"
+              },
+              "objectives": [
+                "Explain the concepts of sequence, selection and iteration",
+                "Use if statements to control program flow",
+                "Use loops to repeat actions in a program"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Productivity tools",
+            "fr": "Outils de productivité",
+            "mfe": "Zouti prodiktivite"
+          },
+          "summary": {
+            "en": "This unit develops practical skills in word processing and spreadsheets, including formulas, functions and creating charts to present data.",
+            "fr": "Cette unité développe des compétences pratiques en traitement de texte et en tableurs, incluant les formules, les fonctions et la création de graphiques.",
+            "mfe": "Sa unit-la devlop konpetans pratik dan traitman text ek fey kalkil, enkli formil, fonksyon ek kreasyon graf pou prezant done."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Word processing skills",
+                "fr": "Compétences en traitement de texte",
+                "mfe": "Konpetans traitman text"
+              },
+              "objectives": [
+                "Format text using styles, fonts and alignment",
+                "Insert tables and images into a document",
+                "Use spelling and grammar tools effectively"
+              ]
+            },
+            {
+              "title": {
+                "en": "Spreadsheet basics",
+                "fr": "Bases des tableurs",
+                "mfe": "Baz fey kalkil"
+              },
+              "objectives": [
+                "Navigate a spreadsheet using rows, columns and cells",
+                "Enter and format data in a spreadsheet",
+                "Sort and filter simple data sets"
+              ]
+            },
+            {
+              "title": {
+                "en": "Formulas and functions",
+                "fr": "Formules et fonctions",
+                "mfe": "Formil ek fonksyon"
+              },
+              "objectives": [
+                "Write basic formulas using arithmetic operators",
+                "Use common functions such as SUM and AVERAGE",
+                "Apply cell referencing correctly in formulas"
+              ]
+            },
+            {
+              "title": {
+                "en": "Creating charts from data",
+                "fr": "Créer des graphiques à partir de données",
+                "mfe": "Kree graf apartir done"
+              },
+              "objectives": [
+                "Select appropriate chart types for data",
+                "Create a chart from spreadsheet data",
+                "Label and format a chart for clarity"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "E-safety, ethics and digital citizenship",
+            "fr": "Sécurité en ligne, éthique et citoyenneté numérique",
+            "mfe": "Sekirite anlign, etik ek sitwayennte dizital"
+          },
+          "summary": {
+            "en": "Students learn how to stay safe online, understand digital footprints, respect copyright, and use social media responsibly.",
+            "fr": "Les élèves apprennent à rester en sécurité en ligne, comprennent l'empreinte numérique, respectent le droit d'auteur et utilisent les réseaux sociaux de façon responsable.",
+            "mfe": "Elev aprann kimanyer reste an sekirite anlign, konpran anprint dizital, respekte drwa dotor ek servi rezo sosyal dan enn fason responsab."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Staying safe online",
+                "fr": "Rester en sécurité en ligne",
+                "mfe": "Reste an sekirite anlign"
+              },
+              "objectives": [
+                "Identify common online risks and threats",
+                "Explain how to create strong passwords",
+                "Describe safe practices when using public Wi-Fi"
+              ]
+            },
+            {
+              "title": {
+                "en": "Cyberbullying and digital footprint",
+                "fr": "Cyberharcèlement et empreinte numérique",
+                "mfe": "Cyberharselman ek anprint dizital"
+              },
+              "objectives": [
+                "Define cyberbullying and its impact",
+                "Explain what a digital footprint is",
+                "Describe steps to take if faced with online harassment"
+              ]
+            },
+            {
+              "title": {
+                "en": "Copyright and plagiarism",
+                "fr": "Droit d'auteur et plagiat",
+                "mfe": "Drwa dotor ek plazya"
+              },
+              "objectives": [
+                "Explain the concept of copyright",
+                "Identify examples of plagiarism",
+                "Describe how to properly credit sources"
+              ]
+            },
+            {
+              "title": {
+                "en": "Responsible use of social media",
+                "fr": "Utilisation responsable des réseaux sociaux",
+                "mfe": "Servi rezo sosyal dan enn fason responsab"
+              },
+              "objectives": [
+                "Discuss the benefits and risks of social media",
+                "Explain the importance of privacy settings",
+                "Evaluate the reliability of online information"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Multimedia and presentation skills",
+            "fr": "Multimédia et compétences de présentation",
+            "mfe": "Miltimedya ek konpetans prezantasyon"
+          },
+          "summary": {
+            "en": "This unit covers the basics of multimedia, effective presentation design, simple image editing, and combining media for school projects.",
+            "fr": "Cette unité couvre les bases du multimédia, la conception de présentations efficaces, l'édition d'images simple et la combinaison de médias pour des projets scolaires.",
+            "mfe": "Sa unit-la kouver baz miltimedya, konsepsyon prezantasyon efikas, edisyon imaz senp ek konbinezon medya pou projet lekol."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Introduction to multimedia",
+                "fr": "Introduction au multimédia",
+                "mfe": "Introdiksyon a miltimedya"
+              },
+              "objectives": [
+                "Define multimedia and its common forms",
+                "Explain where multimedia is used in daily life",
+                "Identify appropriate media types for different purposes"
+              ]
+            },
+            {
+              "title": {
+                "en": "Creating effective presentations",
+                "fr": "Créer des présentations efficaces",
+                "mfe": "Kree prezantasyon efikas"
+              },
+              "objectives": [
+                "Design a clear and organised slide presentation",
+                "Apply consistent formatting across slides",
+                "Use transitions and animations appropriately"
+              ]
+            },
+            {
+              "title": {
+                "en": "Editing images",
+                "fr": "Modifier des images",
+                "mfe": "Modifie imaz"
+              },
+              "objectives": [
+                "Use basic tools to crop and resize images",
+                "Adjust brightness and contrast of an image",
+                "Apply simple effects to enhance an image"
+              ]
+            },
+            {
+              "title": {
+                "en": "Combining media for projects",
+                "fr": "Combiner les médias pour des projets",
+                "mfe": "Konbine medya pou projet"
+              },
+              "objectives": [
+                "Plan a multimedia project combining text, image and sound",
+                "Integrate different media types into one presentation",
+                "Evaluate the effectiveness of a multimedia project"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "units": [
+        {
+          "title": {
+            "en": "Computer systems and data",
+            "fr": "Systèmes informatiques et données",
+            "mfe": "Sistem informatik ek done"
+          },
+          "summary": {
+            "en": "Students revise hardware and software concepts and learn how computers represent data such as numbers, text and images using binary code.",
+            "fr": "Les élèves révisent le matériel et les logiciels et apprennent comment les ordinateurs représentent les données telles que les nombres, le texte et les images en code binaire.",
+            "mfe": "Bann elev revize konsep hardware ek software, ek aprann kouma bann lordinater reprezant done kouma nimero, text ek zimaz an kod binaire."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Components of a computer system",
+                "fr": "Composants d'un système informatique",
+                "mfe": "Bann konpozan enn sistem informatik"
+              },
+              "objectives": [
+                "Identify the main hardware components of a computer system",
+                "Distinguish between input, output and storage devices",
+                "Explain the role of the CPU and memory"
+              ]
+            },
+            {
+              "title": {
+                "en": "Binary numbers and data storage",
+                "fr": "Nombres binaires et stockage des données",
+                "mfe": "Nimero binaire ek stokaz done"
+              },
+              "objectives": [
+                "Convert small denary numbers into binary and back",
+                "Explain why computers use binary to store data",
+                "Describe units of data storage such as bit, byte and kilobyte"
+              ]
+            },
+            {
+              "title": {
+                "en": "Representing text and images",
+                "fr": "Représenter le texte et les images",
+                "mfe": "Reprezant text ek zimaz"
+              },
+              "objectives": [
+                "Explain how characters are represented using character codes",
+                "Describe how images are represented as pixels",
+                "Discuss the effect of resolution on image file size"
+              ]
+            },
+            {
+              "title": {
+                "en": "Software types and their uses",
+                "fr": "Types de logiciels et leurs usages",
+                "mfe": "Bann tip software ek zot lizaz"
+              },
+              "objectives": [
+                "Differentiate between system software and application software",
+                "Give examples of operating systems and utility programs",
+                "Match common software applications to appropriate tasks"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Networks and the internet",
+            "fr": "Réseaux et internet",
+            "mfe": "Bann rezo ek internet"
+          },
+          "summary": {
+            "en": "Learners explore how computer networks work, how the internet connects devices worldwide, and how to use online services safely and effectively.",
+            "fr": "Les apprenants explorent le fonctionnement des réseaux informatiques, la manière dont internet connecte les appareils dans le monde et comment utiliser les services en ligne en toute sécurité.",
+            "mfe": "Bann aprenan explor kouma bann rezo informatik marse, kouma internet konekte bann aparey partou dan lemond, ek kouma servi bann servis anlign an sekirite."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "What is a computer network",
+                "fr": "Qu'est-ce qu'un réseau informatique",
+                "mfe": "Kisannla enn rezo informatik"
+              },
+              "objectives": [
+                "Define local area network and wide area network",
+                "Identify common network devices such as routers and switches",
+                "Explain the benefits of networking computers"
+              ]
+            },
+            {
+              "title": {
+                "en": "How the internet works",
+                "fr": "Comment fonctionne internet",
+                "mfe": "Kouma internet marse"
+              },
+              "objectives": [
+                "Explain the role of an internet service provider",
+                "Describe how data travels between devices using IP addresses",
+                "Understand the basic function of the World Wide Web"
+              ]
+            },
+            {
+              "title": {
+                "en": "Searching and evaluating information online",
+                "fr": "Rechercher et évaluer l'information en ligne",
+                "mfe": "Rod ek evalie linformasion anlign"
+              },
+              "objectives": [
+                "Use search engines effectively with keywords and filters",
+                "Evaluate the reliability of a website's content",
+                "Recognise signs of misinformation online"
+              ]
+            },
+            {
+              "title": {
+                "en": "Staying safe and responsible online",
+                "fr": "Rester en sécurité et responsable en ligne",
+                "mfe": "Reste an sekirite ek responsab anlign"
+              },
+              "objectives": [
+                "Identify online risks such as phishing and cyberbullying",
+                "Apply strategies to protect personal information online",
+                "Describe Mauritian laws and school rules related to internet use"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Problem solving and algorithms",
+            "fr": "Résolution de problèmes et algorithmes",
+            "mfe": "Rezoud problem ek algoritm"
+          },
+          "summary": {
+            "en": "Students learn to break problems into steps and express solutions using flowcharts, pseudocode and simple algorithms.",
+            "fr": "Les élèves apprennent à décomposer des problèmes en étapes et à exprimer des solutions à l'aide d'organigrammes, de pseudocode et d'algorithmes simples.",
+            "mfe": "Bann elev aprann kraze problem an bann letap ek exprim solision servi flowchart, pseudokod ek bann algoritm senp."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Thinking like a computer scientist",
+                "fr": "Penser comme un informaticien",
+                "mfe": "Panse kouma enn informatisyen"
+              },
+              "objectives": [
+                "Explain what an algorithm is with everyday examples",
+                "Break down a simple problem into smaller steps",
+                "Understand the concept of decomposition"
+              ]
+            },
+            {
+              "title": {
+                "en": "Drawing flowcharts",
+                "fr": "Dessiner des organigrammes",
+                "mfe": "Desine flowchart"
+              },
+              "objectives": [
+                "Use standard flowchart symbols correctly",
+                "Represent a simple algorithm as a flowchart",
+                "Trace through a flowchart to predict outcomes"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing pseudocode",
+                "fr": "Écrire du pseudocode",
+                "mfe": "Ekrir pseudokod"
+              },
+              "objectives": [
+                "Write simple pseudocode statements for sequence and selection",
+                "Convert a flowchart into pseudocode",
+                "Identify errors in given pseudocode"
+              ]
+            },
+            {
+              "title": {
+                "en": "Using loops and repetition",
+                "fr": "Utiliser les boucles et la répétition",
+                "mfe": "Servi bann boukle ek repetision"
+              },
+              "objectives": [
+                "Explain the purpose of loops in algorithms",
+                "Write pseudocode using count-controlled loops",
+                "Trace a loop to determine its output"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Introduction to programming",
+            "fr": "Introduction à la programmation",
+            "mfe": "Introdiksion a programasion"
+          },
+          "summary": {
+            "en": "Students write and test simple programs using a beginner-friendly programming language, applying sequence, selection and repetition.",
+            "fr": "Les élèves écrivent et testent des programmes simples avec un langage adapté aux débutants, en appliquant séquence, sélection et répétition.",
+            "mfe": "Bann elev ekrir ek teste bann programm senp servi enn langaz fasil pou konmanse, aplik sekans, seleksion ek repetision."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Getting started with a programming language",
+                "fr": "Premiers pas en programmation",
+                "mfe": "Premie pa dan programasion"
+              },
+              "objectives": [
+                "Set up and navigate a beginner programming environment",
+                "Write a simple program that displays output",
+                "Understand the concept of variables"
+              ]
+            },
+            {
+              "title": {
+                "en": "Making decisions in programs",
+                "fr": "Prendre des décisions dans les programmes",
+                "mfe": "Pran desizion dan bann programm"
+              },
+              "objectives": [
+                "Use if and else statements to control program flow",
+                "Write a program that responds to user input",
+                "Test a program with different inputs"
+              ]
+            },
+            {
+              "title": {
+                "en": "Repeating actions with loops",
+                "fr": "Répéter des actions avec des boucles",
+                "mfe": "Repet aksion avek boukle"
+              },
+              "objectives": [
+                "Use for and while loops in a program",
+                "Write a program that repeats a task a set number of times",
+                "Debug simple errors in loop code"
+              ]
+            },
+            {
+              "title": {
+                "en": "Building a small project",
+                "fr": "Créer un petit projet",
+                "mfe": "Fer enn ti proze"
+              },
+              "objectives": [
+                "Combine sequence, selection and repetition in one program",
+                "Test and debug a small program systematically",
+                "Present the finished program to peers"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Databases and information",
+            "fr": "Bases de données et information",
+            "mfe": "Baz done ek linformasion"
+          },
+          "summary": {
+            "en": "Learners explore how databases store and organise information and practise creating simple tables and queries.",
+            "fr": "Les apprenants découvrent comment les bases de données stockent et organisent l'information et créent des tables et requêtes simples.",
+            "mfe": "Bann aprenan explor kouma bann baz done stok ek organiz linformasion ek prakti kree bann tab ek rekèt senp."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "What is a database",
+                "fr": "Qu'est-ce qu'une base de données",
+                "mfe": "Kisannla enn baz done"
+              },
+              "objectives": [
+                "Explain what a database is and why it is used",
+                "Identify examples of databases used in Mauritius",
+                "Distinguish between a table, record and field"
+              ]
+            },
+            {
+              "title": {
+                "en": "Creating a simple table",
+                "fr": "Créer une table simple",
+                "mfe": "Kree enn tab senp"
+              },
+              "objectives": [
+                "Design a table structure with appropriate field names",
+                "Choose suitable data types for fields",
+                "Enter and edit records in a table"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sorting and searching data",
+                "fr": "Trier et rechercher des données",
+                "mfe": "Triye ek rod done"
+              },
+              "objectives": [
+                "Sort records by one or more fields",
+                "Use simple queries to search for specific records",
+                "Interpret results of a search query"
+              ]
+            },
+            {
+              "title": {
+                "en": "Presenting data with reports",
+                "fr": "Présenter les données sous forme de rapports",
+                "mfe": "Prezant done kouma rapor"
+              },
+              "objectives": [
+                "Generate a simple report from a database table",
+                "Format a report for clarity",
+                "Explain the benefits of storing data digitally over paper records"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Spreadsheets for data analysis",
+            "fr": "Tableurs pour l'analyse de données",
+            "mfe": "Tableur pou analiz done"
+          },
+          "summary": {
+            "en": "Students use spreadsheets to organise data, perform calculations with formulas and present findings using charts.",
+            "fr": "Les élèves utilisent des tableurs pour organiser des données, effectuer des calculs avec des formules et présenter les résultats avec des graphiques.",
+            "mfe": "Bann elev servi tableur pou organiz done, fer kalkil avek fromil ek prezant rezilta servi bann grafik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Spreadsheet basics revisited",
+                "fr": "Retour sur les bases du tableur",
+                "mfe": "Retourn lor bann baz tableur"
+              },
+              "objectives": [
+                "Navigate a spreadsheet using cells, rows and columns",
+                "Enter and format data appropriately",
+                "Understand relative and absolute cell references"
+              ]
+            },
+            {
+              "title": {
+                "en": "Formulas and functions",
+                "fr": "Formules et fonctions",
+                "mfe": "Fromil ek fonksion"
+              },
+              "objectives": [
+                "Use basic formulas such as SUM and AVERAGE",
+                "Apply the IF function to make simple decisions",
+                "Check formulas for errors"
+              ]
+            },
+            {
+              "title": {
+                "en": "Creating charts from data",
+                "fr": "Créer des graphiques à partir de données",
+                "mfe": "Kree grafik depi done"
+              },
+              "objectives": [
+                "Select appropriate data for a chart",
+                "Create and label bar, line and pie charts",
+                "Choose the most suitable chart type for given data"
+              ]
+            },
+            {
+              "title": {
+                "en": "Analysing a real dataset",
+                "fr": "Analyser un jeu de données réel",
+                "mfe": "Analiz enn done reel"
+              },
+              "objectives": [
+                "Organise a real-world dataset such as weather or school data",
+                "Use formulas and charts to draw conclusions",
+                "Present findings clearly to an audience"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "ICT, society and careers",
+            "fr": "TIC, société et carrières",
+            "mfe": "ICT, sosiete ek karyer"
+          },
+          "summary": {
+            "en": "Students examine the impact of ICT on Mauritian society, ethical issues, and explore career opportunities in the digital sector.",
+            "fr": "Les élèves examinent l'impact des TIC sur la société mauricienne, les questions éthiques et explorent les opportunités de carrière dans le numérique.",
+            "mfe": "Bann elev examin lefe ICT lor sosiete morisien, bann kestion etik, ek explor bann opportinite karyer dan sekter dizital."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "ICT in everyday Mauritian life",
+                "fr": "Les TIC dans la vie quotidienne mauricienne",
+                "mfe": "ICT dan lavi toulezour Morisien"
+              },
+              "objectives": [
+                "Identify examples of ICT use in local businesses and government services",
+                "Discuss how ICT has changed daily life in Mauritius",
+                "Evaluate benefits and challenges of digital services"
+              ]
+            },
+            {
+              "title": {
+                "en": "Ethical and legal issues in ICT",
+                "fr": "Questions éthiques et légales en TIC",
+                "mfe": "Bann kestion etik ek legal dan ICT"
+              },
+              "objectives": [
+                "Explain the importance of copyright and data protection",
+                "Discuss ethical issues such as privacy and plagiarism",
+                "Identify relevant Mauritian ICT laws and policies"
+              ]
+            },
+            {
+              "title": {
+                "en": "Health and environmental impact of ICT",
+                "fr": "Impact sanitaire et environnemental des TIC",
+                "mfe": "Lefe lasante ek lanvironman ICT"
+              },
+              "objectives": [
+                "Identify health risks associated with prolonged computer use",
+                "Explain the environmental impact of electronic waste",
+                "Suggest ways to use ICT more sustainably"
+              ]
+            },
+            {
+              "title": {
+                "en": "Careers in the digital world",
+                "fr": "Carrières dans le monde numérique",
+                "mfe": "Karyer dan lemond dizital"
+              },
+              "objectives": [
+                "Identify a range of ICT-related careers in Mauritius",
+                "Describe the skills needed for different digital careers",
+                "Reflect on personal interests related to future ICT study"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "units": [
+        {
+          "title": {
+            "en": "Number systems and data representation",
+            "fr": "Systèmes numériques et représentation des données",
+            "mfe": "Sistem nimerik ek reprezantasyon done"
+          },
+          "summary": {
+            "en": "Introduces binary, denary and hexadecimal number systems and how computers represent text and numbers.",
+            "fr": "Présente les systèmes binaire, décimal et hexadécimal et la façon dont les ordinateurs représentent le texte et les nombres.",
+            "mfe": "Prezant sistem biner, desimal ek eksadesimal ek kouma lordinater reprezant text ek nimero."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Binary and denary conversion",
+                "fr": "Conversion binaire et décimale",
+                "mfe": "Konversyon biner ek desimal"
+              },
+              "objectives": [
+                "Convert denary numbers to binary and vice versa",
+                "Explain why computers use binary",
+                "Perform binary addition with carrying"
+              ]
+            },
+            {
+              "title": {
+                "en": "Hexadecimal representation",
+                "fr": "Représentation hexadécimale",
+                "mfe": "Reprezantasyon eksadesimal"
+              },
+              "objectives": [
+                "Convert between binary and hexadecimal",
+                "Explain uses of hexadecimal in computing",
+                "Convert hexadecimal to denary"
+              ]
+            },
+            {
+              "title": {
+                "en": "Text representation and character sets",
+                "fr": "Représentation du texte et jeux de caractères",
+                "mfe": "Reprezantasyon text ek zwe karakter"
+              },
+              "objectives": [
+                "Describe ASCII and Unicode character sets",
+                "Explain how characters are stored as binary codes",
+                "Compare storage requirements of ASCII and Unicode"
+              ]
+            },
+            {
+              "title": {
+                "en": "Units of storage and file size",
+                "fr": "Unités de stockage et taille des fichiers",
+                "mfe": "Linite depozisyon ek gran fisye"
+              },
+              "objectives": [
+                "Define bit, byte, kilobyte up to terabyte",
+                "Calculate file sizes from given data",
+                "Estimate storage requirements for simple files"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Multimedia data representation",
+            "fr": "Représentation des données multimédias",
+            "mfe": "Reprezantasyon done miltimedya"
+          },
+          "summary": {
+            "en": "Explores how images, sound and compression techniques are represented and processed digitally.",
+            "fr": "Explore la manière dont les images, le son et les techniques de compression sont représentés et traités numériquement.",
+            "mfe": "Explor kouma imaz, son ek teknik konpresyon reprezante ek trete an dizital."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Bitmap image representation",
+                "fr": "Représentation des images matricielles",
+                "mfe": "Reprezantasyon imaz bitmap"
+              },
+              "objectives": [
+                "Explain pixels, resolution and colour depth",
+                "Calculate file size of a bitmap image",
+                "Describe effects of resolution on image quality"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sound representation and sampling",
+                "fr": "Représentation du son et échantillonnage",
+                "mfe": "Reprezantasyon son ek sanpling"
+              },
+              "objectives": [
+                "Explain analogue to digital sound conversion",
+                "Describe sampling rate and sample resolution",
+                "Calculate size of a sound file"
+              ]
+            },
+            {
+              "title": {
+                "en": "Data compression techniques",
+                "fr": "Techniques de compression des données",
+                "mfe": "Teknik konpresyon done"
+              },
+              "objectives": [
+                "Distinguish lossy and lossless compression",
+                "Give examples of file types using each method",
+                "Explain benefits and drawbacks of compression"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Data transmission and networks",
+            "fr": "Transmission des données et réseaux",
+            "mfe": "Transmisyon done ek rezo"
+          },
+          "summary": {
+            "en": "Covers methods of data transmission, network types and error detection methods used in communication.",
+            "fr": "Couvre les méthodes de transmission des données, les types de réseaux et les méthodes de détection d'erreurs utilisées dans la communication.",
+            "mfe": "Kouver metod transmisyon done, tip rezo ek metod deteksyon erer itilize dan kominikasyon."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Networks and topologies",
+                "fr": "Réseaux et topologies",
+                "mfe": "Rezo ek topolozi"
+              },
+              "objectives": [
+                "Define LAN and WAN",
+                "Describe star and mesh network topologies",
+                "Compare advantages of each topology"
+              ]
+            },
+            {
+              "title": {
+                "en": "Data transmission methods",
+                "fr": "Méthodes de transmission des données",
+                "mfe": "Metod transmisyon done"
+              },
+              "objectives": [
+                "Explain serial and parallel transmission",
+                "Distinguish simplex, half-duplex and full-duplex modes",
+                "Identify suitable transmission methods for scenarios"
+              ]
+            },
+            {
+              "title": {
+                "en": "Error detection methods",
+                "fr": "Méthodes de détection d'erreurs",
+                "mfe": "Metod deteksyon erer"
+              },
+              "objectives": [
+                "Explain parity checks and checksums",
+                "Describe how check digits detect errors",
+                "Apply an error detection method to sample data"
+              ]
+            },
+            {
+              "title": {
+                "en": "Network hardware and the cloud",
+                "fr": "Matériel réseau et le cloud",
+                "mfe": "Materyel rezo ek cloud"
+              },
+              "objectives": [
+                "Identify roles of routers, switches and hubs",
+                "Explain cloud storage and its benefits",
+                "Discuss risks of using cloud services"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Network security",
+            "fr": "Sécurité des réseaux",
+            "mfe": "Sekirite rezo"
+          },
+          "summary": {
+            "en": "Examines common security threats to networks and the methods used to protect data and systems.",
+            "fr": "Examine les menaces courantes à la sécurité des réseaux et les méthodes utilisées pour protéger les données et les systèmes.",
+            "mfe": "Examin menas sekirite komen lor rezo ek metod pou proteze done ek sistem."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Malware and cyber threats",
+                "fr": "Logiciels malveillants et cybermenaces",
+                "mfe": "Malware ek menas siber"
+              },
+              "objectives": [
+                "Describe viruses, worms, trojans and spyware",
+                "Explain phishing and pharming attacks",
+                "Suggest ways to prevent malware infection"
+              ]
+            },
+            {
+              "title": {
+                "en": "Authentication and encryption",
+                "fr": "Authentification et chiffrement",
+                "mfe": "Otantifikasyon ek kriptaz"
+              },
+              "objectives": [
+                "Explain use of passwords and biometrics",
+                "Describe symmetric encryption at a basic level",
+                "Explain purpose of digital certificates"
+              ]
+            },
+            {
+              "title": {
+                "en": "Firewalls and secure browsing",
+                "fr": "Pare-feux et navigation sécurisée",
+                "mfe": "Firewall ek navigasyon sekirize"
+              },
+              "objectives": [
+                "Explain how firewalls control network traffic",
+                "Identify features of a secure website",
+                "Discuss safe practices for online banking"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Computer hardware",
+            "fr": "Matériel informatique",
+            "mfe": "Materyel lordinater"
+          },
+          "summary": {
+            "en": "Looks at the components of a computer system including processors, memory and storage devices.",
+            "fr": "Étudie les composants d'un système informatique, y compris les processeurs, la mémoire et les périphériques de stockage.",
+            "mfe": "Get konpozan enn sistem lordinater ki gen prosesyer, memwar ek aparey depozisyon."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "The central processing unit",
+                "fr": "L'unité centrale de traitement",
+                "mfe": "Linite santral tretman"
+              },
+              "objectives": [
+                "Describe the fetch-execute cycle",
+                "Explain factors affecting CPU performance",
+                "Identify components of the von Neumann architecture"
+              ]
+            },
+            {
+              "title": {
+                "en": "Primary and secondary storage",
+                "fr": "Mémoire primaire et secondaire",
+                "mfe": "Memwar prensipal ek segonder"
+              },
+              "objectives": [
+                "Distinguish RAM, ROM and cache memory",
+                "Compare magnetic, optical and solid-state storage",
+                "Choose appropriate storage for given scenarios"
+              ]
+            },
+            {
+              "title": {
+                "en": "Input and output devices",
+                "fr": "Périphériques d'entrée et de sortie",
+                "mfe": "Aparey lantre ek sorti"
+              },
+              "objectives": [
+                "Identify common input and output devices",
+                "Match devices to appropriate use cases",
+                "Explain how sensors collect data"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Computer software",
+            "fr": "Logiciels informatiques",
+            "mfe": "Lozisyel lordinater"
+          },
+          "summary": {
+            "en": "Introduces types of system and application software and their roles in a computer system.",
+            "fr": "Présente les types de logiciels système et applicatifs et leurs rôles dans un système informatique.",
+            "mfe": "Prezant tip lozisyel sistem ek aplikasyon ek zot rol dan enn sistem lordinater."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Operating systems and utilities",
+                "fr": "Systèmes d'exploitation et utilitaires",
+                "mfe": "Sistem operasyonel ek itilite"
+              },
+              "objectives": [
+                "Explain functions of an operating system",
+                "Describe purposes of utility software",
+                "Give examples of common operating systems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Application software types",
+                "fr": "Types de logiciels d'application",
+                "mfe": "Tip lozisyel aplikasyon"
+              },
+              "objectives": [
+                "Distinguish general purpose and bespoke software",
+                "Give examples of application software used in Mauritius",
+                "Explain criteria for selecting software"
+              ]
+            },
+            {
+              "title": {
+                "en": "High-level and low-level languages",
+                "fr": "Langages de haut et bas niveau",
+                "mfe": "Lang ot-nivo ek ba-nivo"
+              },
+              "objectives": [
+                "Compare high-level and low-level programming languages",
+                "Explain the roles of compilers and interpreters",
+                "Describe the assembly process"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "The internet and the web",
+            "fr": "Internet et le web",
+            "mfe": "Internet ek web"
+          },
+          "summary": {
+            "en": "Explores how the internet works and considers ethical, legal and environmental issues in ICT.",
+            "fr": "Explore le fonctionnement d'internet et examine les questions éthiques, juridiques et environnementales liées aux TIC.",
+            "mfe": "Explor kouma internet fonksyone ek konsider kestyon etik, legal ek anvironnmantal dan ICT."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "How the internet works",
+                "fr": "Comment fonctionne internet",
+                "mfe": "Kouma internet fonksyone"
+              },
+              "objectives": [
+                "Explain the role of IP addresses and DNS",
+                "Describe how web pages are requested and delivered",
+                "Distinguish between the internet and the web"
+              ]
+            },
+            {
+              "title": {
+                "en": "Ethical and legal issues in ICT",
+                "fr": "Questions éthiques et juridiques en TIC",
+                "mfe": "Kestyon etik ek legal dan ICT"
+              },
+              "objectives": [
+                "Discuss data protection and privacy issues",
+                "Explain copyright and intellectual property in ICT",
+                "Describe effects of ICT on employment"
+              ]
+            },
+            {
+              "title": {
+                "en": "Environmental impact of ICT",
+                "fr": "Impact environnemental des TIC",
+                "mfe": "Lenpak anvironnmantal ICT"
+              },
+              "objectives": [
+                "Discuss energy consumption of ICT devices",
+                "Explain issues of e-waste disposal",
+                "Suggest ways to reduce environmental impact of ICT"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Algorithm design and problem-solving",
+            "fr": "Conception d'algorithmes et résolution de problèmes",
+            "mfe": "Konsepsyon algoritm ek rezourd problem"
+          },
+          "summary": {
+            "en": "Develops skills in designing and representing algorithms using flowcharts and pseudocode.",
+            "fr": "Développe des compétences pour concevoir et représenter des algorithmes à l'aide d'organigrammes et de pseudocode.",
+            "mfe": "Devlop konpetans pou konsevwar ek reprezant algoritm avek flowchart ek psedokod."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Representing algorithms with flowcharts",
+                "fr": "Représenter des algorithmes avec des organigrammes",
+                "mfe": "Reprezant algoritm avek flowchart"
+              },
+              "objectives": [
+                "Use standard flowchart symbols",
+                "Design a flowchart for a simple problem",
+                "Trace a flowchart to determine output"
+              ]
+            },
+            {
+              "title": {
+                "en": "Writing pseudocode",
+                "fr": "Écrire du pseudocode",
+                "mfe": "Ekrir psedokod"
+              },
+              "objectives": [
+                "Use pseudocode conventions for sequence and selection",
+                "Convert flowcharts into pseudocode",
+                "Write pseudocode for iteration structures"
+              ]
+            },
+            {
+              "title": {
+                "en": "Trace tables and testing",
+                "fr": "Tables de trace et tests",
+                "mfe": "Tab tras ek teste"
+              },
+              "objectives": [
+                "Construct a trace table for an algorithm",
+                "Identify logic errors using trace tables",
+                "Explain the purpose of test data types"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "11": {
+      "units": [
+        {
+          "title": {
+            "en": "Computer architecture and system software",
+            "fr": "Architecture des ordinateurs et logiciels système",
+            "mfe": "Arsitektir lordinater ek lozisyel sistem"
+          },
+          "summary": {
+            "en": "Students explore how the CPU processes instructions, how storage devices work, and the role of operating systems and utility software in managing computer resources.",
+            "fr": "Les élèves explorent le fonctionnement du CPU, des périphériques de stockage, ainsi que le rôle des systèmes d'exploitation et des logiciels utilitaires.",
+            "mfe": "Bann elev explor kouma CPU tret bann lenstriksyon, kouma bann aparey stokaz travay, ek rol sistem dekplwatasyon ek lozisyel itiliter dan zestyon resours lordinater."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "CPU components and the fetch-execute cycle",
+                "fr": "Composants du CPU et cycle de recherche-exécution",
+                "mfe": "Konpozan CPU ek sik reser-egzekisyon"
+              },
+              "objectives": [
+                "Identify the main components of the CPU",
+                "Describe the fetch-decode-execute cycle",
+                "Explain the role of registers in processing instructions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Primary and secondary storage",
+                "fr": "Mémoire principale et secondaire",
+                "mfe": "Memwar prinsipal ek segonder"
+              },
+              "objectives": [
+                "Differentiate between primary and secondary storage",
+                "Compare types of secondary storage devices",
+                "Explain factors affecting storage device choice"
+              ]
+            },
+            {
+              "title": {
+                "en": "Operating systems and their functions",
+                "fr": "Systèmes d'exploitation et leurs fonctions",
+                "mfe": "Sistem dekplwatasyon ek zot fonksyon"
+              },
+              "objectives": [
+                "Explain the purpose of an operating system",
+                "Describe key functions such as memory and file management",
+                "Compare different types of operating systems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Utility software and system maintenance",
+                "fr": "Logiciels utilitaires et maintenance système",
+                "mfe": "Lozisyel itiliter ek lantretyen sistem"
+              },
+              "objectives": [
+                "Identify common types of utility software",
+                "Explain how utility software maintains system performance",
+                "Evaluate the need for regular system maintenance"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Boolean logic and logic circuits",
+            "fr": "Logique booléenne et circuits logiques",
+            "mfe": "Lozik boolean ek sirkwi lozik"
+          },
+          "summary": {
+            "en": "This unit covers logic gates, truth tables, and how simple circuits can be built and simplified to represent digital decision-making.",
+            "fr": "Cette unité couvre les portes logiques, les tables de vérité et la construction et simplification de circuits simples.",
+            "mfe": "Sa linite la kouver bann pot lozik, tab verite, ek kouma konstrir ek simplifye bann sirkwi senp."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Logic gates and truth tables",
+                "fr": "Portes logiques et tables de vérité",
+                "mfe": "Pot lozik ek tab verite"
+              },
+              "objectives": [
+                "Identify AND, OR and NOT logic gates",
+                "Construct truth tables for simple gates",
+                "Interpret logic gate symbols"
+              ]
+            },
+            {
+              "title": {
+                "en": "Combining gates into logic circuits",
+                "fr": "Combinaison de portes en circuits logiques",
+                "mfe": "Konbine pot pou fer sirkwi lozik"
+              },
+              "objectives": [
+                "Draw logic circuits combining multiple gates",
+                "Derive truth tables for combined circuits",
+                "Interpret circuit diagrams"
+              ]
+            },
+            {
+              "title": {
+                "en": "Simplifying boolean expressions",
+                "fr": "Simplification des expressions booléennes",
+                "mfe": "Simplifye lekspresyon boolean"
+              },
+              "objectives": [
+                "Write boolean expressions from logic circuits",
+                "Apply boolean algebra laws to simplify expressions",
+                "Verify simplifications using truth tables"
+              ]
+            },
+            {
+              "title": {
+                "en": "Applications of logic in computing",
+                "fr": "Applications de la logique en informatique",
+                "mfe": "Aplikasyon lozik dan lenformatik"
+              },
+              "objectives": [
+                "Explain real-world uses of logic circuits",
+                "Relate logic gates to computer decision-making",
+                "Analyse simple logic-based problems"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Algorithm design and problem solving",
+            "fr": "Conception d'algorithmes et résolution de problèmes",
+            "mfe": "Konsepsyon algoritm ek rezourd problem"
+          },
+          "summary": {
+            "en": "Students learn to break down problems, design algorithms using flowcharts and pseudocode, and verify their solutions with trace tables.",
+            "fr": "Les élèves apprennent à décomposer des problèmes, concevoir des algorithmes avec organigrammes et pseudocode, et vérifier leurs solutions.",
+            "mfe": "Bann elev aprann kraz bann problem, konsepsyon algoritm avek organigram ek psedokod, ek verifye zot solisyon."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Decomposition and abstraction",
+                "fr": "Décomposition et abstraction",
+                "mfe": "Dekonpozisyon ek abstraksyon"
+              },
+              "objectives": [
+                "Explain the concept of problem decomposition",
+                "Apply abstraction to simplify complex problems",
+                "Break down a real-world task into sub-tasks"
+              ]
+            },
+            {
+              "title": {
+                "en": "Flowcharts and pseudocode",
+                "fr": "Organigrammes et pseudocode",
+                "mfe": "Organigram ek psedokod"
+              },
+              "objectives": [
+                "Draw flowcharts to represent algorithms",
+                "Write pseudocode for simple problems",
+                "Compare flowcharts and pseudocode approaches"
+              ]
+            },
+            {
+              "title": {
+                "en": "Trace tables and dry runs",
+                "fr": "Tables de trace et exécutions manuelles",
+                "mfe": "Tab tras ek egzekisyon manyel"
+              },
+              "objectives": [
+                "Construct trace tables for given algorithms",
+                "Identify errors using dry runs",
+                "Predict output of an algorithm"
+              ]
+            },
+            {
+              "title": {
+                "en": "Structured programming approach",
+                "fr": "Approche de programmation structurée",
+                "mfe": "Aprosh programasyon striktir"
+              },
+              "objectives": [
+                "Explain principles of structured programming",
+                "Identify sequence, selection and iteration in algorithms",
+                "Design a structured solution to a problem"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Programming fundamentals",
+            "fr": "Fondamentaux de la programmation",
+            "mfe": "Baz programasyon"
+          },
+          "summary": {
+            "en": "This unit introduces core programming concepts including variables, control structures, arrays and subroutines using a high-level language.",
+            "fr": "Cette unité introduit les concepts fondamentaux de programmation, y compris variables, structures de contrôle, tableaux et sous-programmes.",
+            "mfe": "Sa linite la introdir konsep debaz programasyon, ki inklir variab, striktir kontrol, tablo ek sou-programm."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Variables, data types and operators",
+                "fr": "Variables, types de données et opérateurs",
+                "mfe": "Variab, tip done ek operater"
+              },
+              "objectives": [
+                "Declare and use variables of different data types",
+                "Apply arithmetic and comparison operators",
+                "Write simple input-output programs"
+              ]
+            },
+            {
+              "title": {
+                "en": "Selection and iteration structures",
+                "fr": "Structures de sélection et d'itération",
+                "mfe": "Striktir seleksyon ek iterasyon"
+              },
+              "objectives": [
+                "Implement if-else statements in code",
+                "Write loops using for and while structures",
+                "Choose appropriate control structures for a task"
+              ]
+            },
+            {
+              "title": {
+                "en": "Arrays and string handling",
+                "fr": "Tableaux et manipulation de chaînes",
+                "mfe": "Tablo ek manipilasyon de sten"
+              },
+              "objectives": [
+                "Declare and use one-dimensional arrays",
+                "Perform basic string manipulation operations",
+                "Solve problems using arrays and strings"
+              ]
+            },
+            {
+              "title": {
+                "en": "Procedures and functions",
+                "fr": "Procédures et fonctions",
+                "mfe": "Prosedir ek fonksyon"
+              },
+              "objectives": [
+                "Define procedures and functions with parameters",
+                "Explain the benefits of modular programming",
+                "Write a program using subroutines"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Databases and data management",
+            "fr": "Bases de données et gestion des données",
+            "mfe": "Baz done ek zestyon done"
+          },
+          "summary": {
+            "en": "Students explore how data is organised, stored and retrieved in relational databases, and practise basic SQL queries and data validation.",
+            "fr": "Les élèves explorent l'organisation, le stockage et la récupération des données dans les bases relationnelles, et pratiquent SQL et validation des données.",
+            "mfe": "Bann elev explor kouma done organize, stoke ek retrouve dan baz done relasyonnel, ek pratik SQL ek validasyon done."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "File organisation and data structures",
+                "fr": "Organisation des fichiers et structures de données",
+                "mfe": "Organizasyon fisye ek striktir done"
+              },
+              "objectives": [
+                "Explain methods of file organisation",
+                "Describe fields, records and files",
+                "Compare different data structures"
+              ]
+            },
+            {
+              "title": {
+                "en": "Relational database concepts",
+                "fr": "Concepts des bases de données relationnelles",
+                "mfe": "Konsep baz done relasyonnel"
+              },
+              "objectives": [
+                "Explain the concept of tables and relationships",
+                "Identify primary and foreign keys",
+                "Design a simple relational database structure"
+              ]
+            },
+            {
+              "title": {
+                "en": "Structured Query Language basics",
+                "fr": "Bases du langage SQL",
+                "mfe": "Baz langaz SQL"
+              },
+              "objectives": [
+                "Write simple SELECT queries",
+                "Use WHERE clauses to filter data",
+                "Sort and order query results"
+              ]
+            },
+            {
+              "title": {
+                "en": "Data validation and verification",
+                "fr": "Validation et vérification des données",
+                "mfe": "Validasyon ek verifikasyon done"
+              },
+              "objectives": [
+                "Distinguish between validation and verification",
+                "Apply validation checks to input data",
+                "Evaluate the effectiveness of data checks"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Networks and the internet",
+            "fr": "Réseaux et internet",
+            "mfe": "Rezo ek lintenet"
+          },
+          "summary": {
+            "en": "This unit covers network types, communication protocols, internet services and the security challenges of connected systems.",
+            "fr": "Cette unité couvre les types de réseaux, les protocoles de communication, les services internet et les défis de sécurité.",
+            "mfe": "Sa linite la kouver tip rezo, protokol kominikasyon, servis lintenet ek defi sekirite bann sistem konekte."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Network types and topologies",
+                "fr": "Types de réseaux et topologies",
+                "mfe": "Tip rezo ek topolozi"
+              },
+              "objectives": [
+                "Compare LAN, WAN and wireless networks",
+                "Describe common network topologies",
+                "Identify hardware needed to build a network"
+              ]
+            },
+            {
+              "title": {
+                "en": "Communication protocols and the internet",
+                "fr": "Protocoles de communication et internet",
+                "mfe": "Protokol kominikasyon ek lintenet"
+              },
+              "objectives": [
+                "Explain the purpose of common protocols",
+                "Describe how data is transmitted over the internet",
+                "Identify the roles of ISPs and routers"
+              ]
+            },
+            {
+              "title": {
+                "en": "Network security threats",
+                "fr": "Menaces à la sécurité des réseaux",
+                "mfe": "Menas sekirite rezo"
+              },
+              "objectives": [
+                "Identify common network security threats",
+                "Explain risks of unsecured networks",
+                "Suggest measures to protect network data"
+              ]
+            },
+            {
+              "title": {
+                "en": "Cloud computing and online services",
+                "fr": "Informatique en nuage et services en ligne",
+                "mfe": "Cloud computing ek servis anlinn"
+              },
+              "objectives": [
+                "Explain the concept of cloud computing",
+                "Identify advantages and disadvantages of cloud storage",
+                "Evaluate uses of online services in daily life"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Security, ethics and legislation",
+            "fr": "Sécurité, éthique et législation",
+            "mfe": "Sekirite, letik ek lezislasyon"
+          },
+          "summary": {
+            "en": "Students examine cyber threats, protective measures, ethical issues and the laws governing data protection in Mauritius and beyond.",
+            "fr": "Les élèves examinent les cybermenaces, les mesures de protection, les questions éthiques et les lois sur la protection des données.",
+            "mfe": "Bann elev egzamine bann menas siber, mezir proteksyon, kestyon letik ek lalwa protekson done."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Malware and cyber threats",
+                "fr": "Logiciels malveillants et cybermenaces",
+                "mfe": "Malware ek menas siber"
+              },
+              "objectives": [
+                "Identify different types of malware",
+                "Explain how malware spreads and infects systems",
+                "Describe symptoms of infected systems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Security measures and encryption",
+                "fr": "Mesures de sécurité et chiffrement",
+                "mfe": "Mezir sekirite ek ankriptaz"
+              },
+              "objectives": [
+                "Explain common security measures such as firewalls",
+                "Describe the purpose of encryption",
+                "Evaluate the effectiveness of different security methods"
+              ]
+            },
+            {
+              "title": {
+                "en": "Computer ethics and digital citizenship",
+                "fr": "Éthique informatique et citoyenneté numérique",
+                "mfe": "Letik lenformatik ek sitwayennte dizital"
+              },
+              "objectives": [
+                "Discuss ethical issues in computing",
+                "Explain responsible use of digital technology",
+                "Evaluate impacts of ICT on society"
+              ]
+            },
+            {
+              "title": {
+                "en": "Data protection legislation",
+                "fr": "Législation sur la protection des données",
+                "mfe": "Lezislasyon protekson done"
+              },
+              "objectives": [
+                "Explain the purpose of data protection laws",
+                "Describe rights and responsibilities under data protection legislation",
+                "Discuss consequences of data breaches"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Exam preparation and applied problem solving",
+            "fr": "Préparation à l'examen et résolution de problèmes appliquée",
+            "mfe": "Preparasyon lekzamen ek rezourd problem aplike"
+          },
+          "summary": {
+            "en": "This unit consolidates programming, algorithm and theory skills through practice tasks and revision techniques for the SC ICT examination.",
+            "fr": "Cette unité consolide les compétences en programmation, algorithmique et théorie à travers des exercices pratiques et des techniques de révision.",
+            "mfe": "Sa linite la konsolid konpetans programasyon, algoritm ek teori atraver egzersis pratik ek teknik revizyon pou lekzamen SC ICT."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Programming practice with exam-style tasks",
+                "fr": "Pratique de programmation avec exercices type examen",
+                "mfe": "Pratik programasyon avek egzersis stil lekzamen"
+              },
+              "objectives": [
+                "Solve past-paper style programming problems",
+                "Apply structured programming techniques under time constraints",
+                "Debug and correct sample programs"
+              ]
+            },
+            {
+              "title": {
+                "en": "Algorithm tracing and error correction",
+                "fr": "Traçage d'algorithmes et correction d'erreurs",
+                "mfe": "Tras algoritm ek korije erer"
+              },
+              "objectives": [
+                "Trace complex algorithms accurately",
+                "Identify and correct logical errors",
+                "Justify corrections made to algorithms"
+              ]
+            },
+            {
+              "title": {
+                "en": "System design case studies",
+                "fr": "Études de cas de conception de systèmes",
+                "mfe": "Etid ka konsepsyon sistem"
+              },
+              "objectives": [
+                "Analyse real-world ICT system scenarios",
+                "Propose suitable hardware and software solutions",
+                "Evaluate proposed system designs"
+              ]
+            },
+            {
+              "title": {
+                "en": "Revision strategies for the ICT examination",
+                "fr": "Stratégies de révision pour l'examen d'ICT",
+                "mfe": "Estrateji revizyon pou lekzamen ICT"
+              },
+              "objectives": [
+                "Organise revision using past paper questions",
+                "Identify personal areas needing improvement",
+                "Apply exam technique strategies effectively"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "12": {
+      "units": [
+        {
+          "title": {
+            "en": "Data representation",
+            "fr": "Représentation des données",
+            "mfe": "Reprezantasyon done"
+          },
+          "summary": {
+            "en": "Explore how numbers, text, images and sound are represented and compressed in binary form inside computer systems.",
+            "fr": "Découvrez comment les nombres, le texte, les images et le son sont représentés et compressés sous forme binaire dans les systèmes informatiques.",
+            "mfe": "Explor kouma nimero, tex, imaz ek son reprezante ek konpres an form biner dan sistem informatik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Number systems and conversions",
+                "fr": "Systèmes numériques et conversions",
+                "mfe": "Sistem nimerik ek konversyon"
+              },
+              "objectives": [
+                "Convert numbers between binary, denary and hexadecimal",
+                "Perform binary addition and explain overflow",
+                "Represent negative numbers using two's complement"
+              ]
+            },
+            {
+              "title": {
+                "en": "Text, image and sound representation",
+                "fr": "Représentation du texte, des images et du son",
+                "mfe": "Reprezantasyon tex, imaz ek son"
+              },
+              "objectives": [
+                "Explain character sets such as ASCII and Unicode",
+                "Describe how bitmap images are stored using pixels and colour depth",
+                "Explain sampling rate and resolution in sound representation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Data compression techniques",
+                "fr": "Techniques de compression des données",
+                "mfe": "Teknik konpresyon done"
+              },
+              "objectives": [
+                "Distinguish lossy and lossless compression",
+                "Explain run-length encoding with examples",
+                "Evaluate compression trade-offs for storage and quality"
+              ]
+            },
+            {
+              "title": {
+                "en": "Measuring data and storage",
+                "fr": "Mesure des données et du stockage",
+                "mfe": "Mezir done ek stokaz"
+              },
+              "objectives": [
+                "Calculate file sizes from given parameters",
+                "Compare storage devices used in Mauritian schools and businesses",
+                "Explain units of data from bit to petabyte"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Communication and internet technologies",
+            "fr": "Technologies de communication et internet",
+            "mfe": "Teknolozi kominikasyon ek internet"
+          },
+          "summary": {
+            "en": "Study networks, protocols and internet technologies that connect devices and support communication across Mauritius and beyond.",
+            "fr": "Étudiez les réseaux, les protocoles et les technologies internet qui connectent les appareils et facilitent la communication à Maurice et ailleurs.",
+            "mfe": "Etidye rezo, protokol ek teknolozi internet ki konekte laparey ek fasilit kominikasyon dan Moris ek pli lwen."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Network types and topologies",
+                "fr": "Types et topologies de réseaux",
+                "mfe": "Tip ek topolozi rezo"
+              },
+              "objectives": [
+                "Compare LAN, WAN and wireless networks",
+                "Describe star, bus and mesh topologies",
+                "Explain factors affecting network performance"
+              ]
+            },
+            {
+              "title": {
+                "en": "Protocols and standards",
+                "fr": "Protocoles et normes",
+                "mfe": "Protokol ek norm"
+              },
+              "objectives": [
+                "Explain the role of TCP/IP and HTTP/HTTPS",
+                "Describe how email protocols work",
+                "Discuss the importance of open standards for interoperability"
+              ]
+            },
+            {
+              "title": {
+                "en": "How the internet works",
+                "fr": "Comment fonctionne internet",
+                "mfe": "Kouma internet fonksionn"
+              },
+              "objectives": [
+                "Explain packet switching and routing",
+                "Describe the role of DNS and IP addressing",
+                "Discuss the client-server model"
+              ]
+            },
+            {
+              "title": {
+                "en": "Web technologies and markup languages",
+                "fr": "Technologies web et langages de balisage",
+                "mfe": "Teknolozi web ek langaz balizaz"
+              },
+              "objectives": [
+                "Explain the purpose of HTML and CSS",
+                "Describe how a browser renders a web page",
+                "Compare static and dynamic web pages"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Hardware and processor fundamentals",
+            "fr": "Matériel et fondamentaux du processeur",
+            "mfe": "Materyel ek fondamantal prosesor"
+          },
+          "summary": {
+            "en": "Understand the architecture of computer systems, processor components and how instructions are executed.",
+            "fr": "Comprenez l'architecture des systèmes informatiques, les composants du processeur et l'exécution des instructions.",
+            "mfe": "Konpran larsitektir sistem informatik, konpozan prosesor ek kouma instriksyon exekite."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Von Neumann architecture",
+                "fr": "Architecture de Von Neumann",
+                "mfe": "Larsitektir Von Neumann"
+              },
+              "objectives": [
+                "Identify the main components of the CPU",
+                "Explain the role of registers, ALU and control unit",
+                "Describe the fetch-decode-execute cycle"
+              ]
+            },
+            {
+              "title": {
+                "en": "Memory and storage hierarchy",
+                "fr": "Hiérarchie mémoire et stockage",
+                "mfe": "Ierarsi memwar ek stokaz"
+              },
+              "objectives": [
+                "Compare cache, RAM and secondary storage",
+                "Explain the concept of the memory hierarchy",
+                "Discuss factors affecting processor performance"
+              ]
+            },
+            {
+              "title": {
+                "en": "Input, output and secondary storage devices",
+                "fr": "Périphériques d'entrée, de sortie et de stockage",
+                "mfe": "Laparey lantre, sorti ek stokaz segonder"
+              },
+              "objectives": [
+                "Select appropriate devices for given scenarios",
+                "Compare magnetic, optical and solid-state storage",
+                "Justify hardware choices for specific applications"
+              ]
+            },
+            {
+              "title": {
+                "en": "Logic gates and boolean algebra",
+                "fr": "Portes logiques et algèbre booléenne",
+                "mfe": "Port lozik ek alzeb bulean"
+              },
+              "objectives": [
+                "Draw truth tables for basic logic gates",
+                "Simplify boolean expressions using laws",
+                "Design simple logic circuits from problem statements"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "System software",
+            "fr": "Logiciel système",
+            "mfe": "Lozisyel sistem"
+          },
+          "summary": {
+            "en": "Learn about operating systems, utility software and virtual machines that manage computer resources.",
+            "fr": "Apprenez les systèmes d'exploitation, les logiciels utilitaires et les machines virtuelles qui gèrent les ressources informatiques.",
+            "mfe": "Aprann lo sistem exploitasyon, lozisyel utiliter ek machin virtiel ki manaz resours informatik."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Roles of the operating system",
+                "fr": "Rôles du système d'exploitation",
+                "mfe": "Rol sistem exploitasyon"
+              },
+              "objectives": [
+                "Explain memory management and scheduling",
+                "Describe interrupt handling",
+                "Compare multitasking and multiprogramming"
+              ]
+            },
+            {
+              "title": {
+                "en": "Utility software and compilers",
+                "fr": "Logiciels utilitaires et compilateurs",
+                "mfe": "Lozisyel utiliter ek konpilater"
+              },
+              "objectives": [
+                "Explain the purpose of common utility programs",
+                "Distinguish between compilers, interpreters and assemblers",
+                "Describe stages of compilation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Virtual machines and translators",
+                "fr": "Machines virtuelles et traducteurs",
+                "mfe": "Machin virtiel ek traduktor"
+              },
+              "objectives": [
+                "Explain the concept of a virtual machine",
+                "Describe advantages of platform independence",
+                "Compare interpreted and compiled execution"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Security, privacy and data integrity",
+            "fr": "Sécurité, confidentialité et intégrité des données",
+            "mfe": "Sekirite, konfidansyalite ek entegrite done"
+          },
+          "summary": {
+            "en": "Examine threats to computer systems and the measures used to protect data, privacy and system integrity.",
+            "fr": "Examinez les menaces aux systèmes informatiques et les mesures pour protéger les données, la vie privée et l'intégrité du système.",
+            "mfe": "Examinn menas lor sistem informatik ek mezir pou protez done, prive ek entegrite sistem."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Malware and cyber threats",
+                "fr": "Logiciels malveillants et cybermenaces",
+                "mfe": "Malveyan ek menas siber"
+              },
+              "objectives": [
+                "Identify types of malware and their effects",
+                "Explain phishing and social engineering attacks",
+                "Recommend measures to reduce cyber risks"
+              ]
+            },
+            {
+              "title": {
+                "en": "Encryption and authentication",
+                "fr": "Chiffrement et authentification",
+                "mfe": "Kriptaz ek otantifikasyon"
+              },
+              "objectives": [
+                "Explain symmetric and asymmetric encryption",
+                "Describe how digital certificates work",
+                "Discuss authentication methods including biometrics"
+              ]
+            },
+            {
+              "title": {
+                "en": "Data protection and validation",
+                "fr": "Protection et validation des données",
+                "mfe": "Proteksyon ek validasyon done"
+              },
+              "objectives": [
+                "Explain validation and verification techniques",
+                "Discuss data protection legislation relevant to Mauritius",
+                "Evaluate methods for maintaining data integrity"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Algorithm design and problem solving",
+            "fr": "Conception d'algorithmes et résolution de problèmes",
+            "mfe": "Konsepsyon algoritm ek rezolisyon problem"
+          },
+          "summary": {
+            "en": "Develop structured approaches to solving problems using pseudocode, flowcharts and standard algorithms.",
+            "fr": "Développez des approches structurées pour résoudre des problèmes à l'aide de pseudocode, d'organigrammes et d'algorithmes standards.",
+            "mfe": "Devlop apros striktir pou rezoud problem servi psedokod, organigram ek algoritm standar."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Structured design and pseudocode",
+                "fr": "Conception structurée et pseudocode",
+                "mfe": "Konsepsyon striktir ek psedokod"
+              },
+              "objectives": [
+                "Represent problems using structured pseudocode",
+                "Draw flowcharts for given scenarios",
+                "Apply top-down design to decompose problems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Standard searching and sorting algorithms",
+                "fr": "Algorithmes standards de recherche et de tri",
+                "mfe": "Algoritm standar rechers ek triaz"
+              },
+              "objectives": [
+                "Trace linear and binary search algorithms",
+                "Trace bubble and insertion sort algorithms",
+                "Compare efficiency of different algorithms"
+              ]
+            },
+            {
+              "title": {
+                "en": "Data structures for algorithms",
+                "fr": "Structures de données pour les algorithmes",
+                "mfe": "Striktir done pou algoritm"
+              },
+              "objectives": [
+                "Explain arrays, stacks and queues",
+                "Trace operations on stacks and queues",
+                "Select appropriate data structures for problems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Testing and refining algorithms",
+                "fr": "Test et amélioration des algorithmes",
+                "mfe": "Test ek amelior algoritm"
+              },
+              "objectives": [
+                "Design test data including boundary and erroneous cases",
+                "Perform dry runs using trace tables",
+                "Identify and correct logical errors"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Programming fundamentals",
+            "fr": "Fondamentaux de la programmation",
+            "mfe": "Fondamantal programasyon"
+          },
+          "summary": {
+            "en": "Apply structured programming concepts to write, test and debug programs in a high-level language.",
+            "fr": "Appliquez des concepts de programmation structurée pour écrire, tester et déboguer des programmes dans un langage de haut niveau.",
+            "mfe": "Aplik konsep programasyon striktir pou ekrir, teste ek debog program dan enn langaz nivo elve."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Variables, data types and operators",
+                "fr": "Variables, types de données et opérateurs",
+                "mfe": "Varyab, tip done ek operater"
+              },
+              "objectives": [
+                "Declare variables with appropriate data types",
+                "Use arithmetic, relational and logical operators",
+                "Write expressions to solve simple problems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Selection and iteration constructs",
+                "fr": "Structures de sélection et d'itération",
+                "mfe": "Striktir seleksyon ek iterasyon"
+              },
+              "objectives": [
+                "Write programs using if and case statements",
+                "Implement for, while and repeat loops",
+                "Choose appropriate constructs for given tasks"
+              ]
+            },
+            {
+              "title": {
+                "en": "Procedures, functions and parameters",
+                "fr": "Procédures, fonctions et paramètres",
+                "mfe": "Prosedir, fonksyon ek parametra"
+              },
+              "objectives": [
+                "Write modular programs using procedures and functions",
+                "Pass parameters by value and by reference",
+                "Explain benefits of modular programming"
+              ]
+            },
+            {
+              "title": {
+                "en": "File handling and error handling",
+                "fr": "Gestion des fichiers et des erreurs",
+                "mfe": "Zesyon fisye ek erer"
+              },
+              "objectives": [
+                "Read from and write to text files",
+                "Handle runtime errors using exception handling",
+                "Test programs using suitable test data"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Databases and data modelling",
+            "fr": "Bases de données et modélisation des données",
+            "mfe": "Baz done ek modelizasyon done"
+          },
+          "summary": {
+            "en": "Model relational databases and use structured query language to manage and retrieve data effectively.",
+            "fr": "Modélisez des bases de données relationnelles et utilisez le langage SQL pour gérer et récupérer les données efficacement.",
+            "mfe": "Modelize baz done relasyonel ek servi SQL pou zer ek rekipere done efikasman."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Relational database concepts",
+                "fr": "Concepts de bases de données relationnelles",
+                "mfe": "Konsep baz done relasyonel"
+              },
+              "objectives": [
+                "Explain entities, attributes and relationships",
+                "Identify primary and foreign keys",
+                "Draw entity relationship diagrams"
+              ]
+            },
+            {
+              "title": {
+                "en": "Normalisation techniques",
+                "fr": "Techniques de normalisation",
+                "mfe": "Teknik normalizasyon"
+              },
+              "objectives": [
+                "Explain the purpose of normalisation",
+                "Normalise tables to third normal form",
+                "Identify problems caused by data redundancy"
+              ]
+            },
+            {
+              "title": {
+                "en": "Structured query language basics",
+                "fr": "Bases du langage SQL",
+                "mfe": "Baz langaz SQL"
+              },
+              "objectives": [
+                "Write SQL queries to select and filter data",
+                "Use joins to combine data from multiple tables",
+                "Insert, update and delete records using SQL"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "13": {
+      "units": [
+        {
+          "title": {
+            "en": "Object-oriented programming",
+            "fr": "Programmation orientée objet",
+            "mfe": "Programasion orante-objet"
+          },
+          "summary": {
+            "en": "Explore the principles of object-oriented programming including classes, inheritance and encapsulation, and apply them to build structured software solutions.",
+            "fr": "Explorez les principes de la programmation orientée objet, notamment les classes, l'héritage et l'encapsulation, et appliquez-les pour construire des solutions logicielles structurées.",
+            "mfe": "Explor bann prinsip programasion orante-objet, ki inklir bann klas, eritaz ek ansapsilasion, ek aplik zot pou konstrir bann solision logisiel byen striktir."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Classes and objects",
+                "fr": "Classes et objets",
+                "mfe": "Bann klas ek objet"
+              },
+              "objectives": [
+                "Define classes with attributes and methods",
+                "Instantiate objects from a class",
+                "Explain the relationship between classes and objects"
+              ]
+            },
+            {
+              "title": {
+                "en": "Inheritance and polymorphism",
+                "fr": "Héritage et polymorphisme",
+                "mfe": "Eritaz ek polimorfism"
+              },
+              "objectives": [
+                "Explain inheritance between superclasses and subclasses",
+                "Implement method overriding",
+                "Describe polymorphism in object-oriented design"
+              ]
+            },
+            {
+              "title": {
+                "en": "Encapsulation and data hiding",
+                "fr": "Encapsulation et masquage des données",
+                "mfe": "Ansapsilasion ek kasiet done"
+              },
+              "objectives": [
+                "Explain the purpose of encapsulation",
+                "Apply access modifiers to protect data",
+                "Justify the use of getters and setters"
+              ]
+            },
+            {
+              "title": {
+                "en": "Implementing OOP programs",
+                "fr": "Mise en œuvre de programmes OOP",
+                "mfe": "Realizasion progam OOP"
+              },
+              "objectives": [
+                "Design a class hierarchy for a given problem",
+                "Write and test object-oriented code",
+                "Debug object-oriented programs"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Abstract data types and data structures",
+            "fr": "Types de données abstraits et structures de données",
+            "mfe": "Tip done abstre ek striktir done"
+          },
+          "summary": {
+            "en": "Study abstract data types such as stacks, queues, linked lists, trees and graphs, and learn how to implement and manipulate them.",
+            "fr": "Étudiez les types de données abstraits tels que les piles, les files, les listes chaînées, les arbres et les graphes, et apprenez à les implémenter et à les manipuler.",
+            "mfe": "Etidie bann tip done abstre kouma stack, queue, list sene, pyebwa ek grafik, ek aprann kouma pou implemant ek manipil zot."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Stacks and queues",
+                "fr": "Piles et files",
+                "mfe": "Stack ek queue"
+              },
+              "objectives": [
+                "Explain the LIFO and FIFO principles",
+                "Implement push, pop, enqueue and dequeue operations",
+                "Apply stacks and queues to solve problems"
+              ]
+            },
+            {
+              "title": {
+                "en": "Linked lists",
+                "fr": "Listes chaînées",
+                "mfe": "List sene"
+              },
+              "objectives": [
+                "Describe the structure of a linked list",
+                "Implement insertion and deletion in a linked list",
+                "Compare linked lists with arrays"
+              ]
+            },
+            {
+              "title": {
+                "en": "Trees and binary trees",
+                "fr": "Arbres et arbres binaires",
+                "mfe": "Pyebwa ek pyebwa biner"
+              },
+              "objectives": [
+                "Define tree terminology such as root, node and leaf",
+                "Traverse a binary tree using preorder, inorder and postorder",
+                "Implement a binary search tree"
+              ]
+            },
+            {
+              "title": {
+                "en": "Graphs and traversal algorithms",
+                "fr": "Graphes et algorithmes de parcours",
+                "mfe": "Grafik ek algoritm parkour"
+              },
+              "objectives": [
+                "Represent graphs using adjacency lists and matrices",
+                "Apply breadth-first and depth-first traversal",
+                "Solve problems using graph algorithms"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Further databases and SQL",
+            "fr": "Bases de données avancées et SQL",
+            "mfe": "Baz done avanse ek SQL"
+          },
+          "summary": {
+            "en": "Deepen your understanding of database design through entity relationship modelling, normalisation and advanced SQL queries.",
+            "fr": "Approfondissez votre compréhension de la conception de bases de données grâce à la modélisation entité-relation, la normalisation et les requêtes SQL avancées.",
+            "mfe": "Apronfondi to konprenasion konsepsion baz done atraver modelizasion antite-relasion, normalizasion ek bann rekwet SQL avanse."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Entity relationship diagrams",
+                "fr": "Diagrammes entité-relation",
+                "mfe": "Diagram antite-relasion"
+              },
+              "objectives": [
+                "Identify entities, attributes and relationships",
+                "Draw an entity relationship diagram",
+                "Interpret cardinality and degree of relationships"
+              ]
+            },
+            {
+              "title": {
+                "en": "Normalisation to 3NF",
+                "fr": "Normalisation jusqu'à la 3FN",
+                "mfe": "Normalizasion ziska 3NF"
+              },
+              "objectives": [
+                "Explain the purpose of normalisation",
+                "Normalise a database to first, second and third normal form",
+                "Evaluate the benefits of a normalised design"
+              ]
+            },
+            {
+              "title": {
+                "en": "Advanced SQL queries",
+                "fr": "Requêtes SQL avancées",
+                "mfe": "Rekwet SQL avanse"
+              },
+              "objectives": [
+                "Write SQL queries using joins",
+                "Use aggregate functions and grouping",
+                "Construct nested subqueries"
+              ]
+            },
+            {
+              "title": {
+                "en": "Database design project",
+                "fr": "Projet de conception de base de données",
+                "mfe": "Projet konsepsion baz done"
+              },
+              "objectives": [
+                "Design a database for a real-world scenario",
+                "Implement the database using SQL",
+                "Test and refine the database structure"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Boolean algebra and logic circuits",
+            "fr": "Algèbre booléenne et circuits logiques",
+            "mfe": "Alzeb bouleen ek sirkwi lozik"
+          },
+          "summary": {
+            "en": "Learn Boolean algebra laws, simplify expressions using Karnaugh maps and design logic circuits using gates and flip-flops.",
+            "fr": "Apprenez les lois de l'algèbre booléenne, simplifiez les expressions avec des cartes de Karnaugh et concevez des circuits logiques avec des portes et des bascules.",
+            "mfe": "Aprann bann lwa alzeb bouleen, simplifie bann ekspresion avek Karnaugh maps ek konsevwar sirkwi lozik avek gates ek flip-flops."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Boolean algebra laws",
+                "fr": "Lois de l'algèbre booléenne",
+                "mfe": "Lwa alzeb bouleen"
+              },
+              "objectives": [
+                "State the laws of Boolean algebra",
+                "Simplify Boolean expressions algebraically",
+                "Prove equivalence of Boolean expressions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Karnaugh maps",
+                "fr": "Cartes de Karnaugh",
+                "mfe": "Karnaugh maps"
+              },
+              "objectives": [
+                "Construct a Karnaugh map from a truth table",
+                "Simplify Boolean expressions using Karnaugh maps",
+                "Verify simplified expressions"
+              ]
+            },
+            {
+              "title": {
+                "en": "Logic gates and circuits",
+                "fr": "Portes et circuits logiques",
+                "mfe": "Gates ek sirkwi lozik"
+              },
+              "objectives": [
+                "Identify standard logic gate symbols",
+                "Draw logic circuits from Boolean expressions",
+                "Analyse the output of a logic circuit"
+              ]
+            },
+            {
+              "title": {
+                "en": "Flip-flops and registers",
+                "fr": "Bascules et registres",
+                "mfe": "Flip-flops ek rezistr"
+              },
+              "objectives": [
+                "Explain the function of a D-type flip-flop",
+                "Describe how registers store binary data",
+                "Construct simple sequential circuits"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Networking and communication technologies",
+            "fr": "Réseaux et technologies de communication",
+            "mfe": "Rezo ek teknolozi kominikasion"
+          },
+          "summary": {
+            "en": "Examine networking protocols, packet switching, wireless technologies and cloud computing that support modern communication.",
+            "fr": "Examinez les protocoles réseau, la commutation de paquets, les technologies sans fil et l'informatique en nuage qui soutiennent la communication moderne.",
+            "mfe": "Egzamine bann protokol rezo, komitasion paket, teknolozi san fil ek cloud computing ki siporte kominikasion modern."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Network protocols and layers",
+                "fr": "Protocoles et couches réseau",
+                "mfe": "Protokol ek kouss rezo"
+              },
+              "objectives": [
+                "Describe the OSI and TCP/IP models",
+                "Explain the function of common protocols",
+                "Compare network layers and their roles"
+              ]
+            },
+            {
+              "title": {
+                "en": "Packet switching and routing",
+                "fr": "Commutation de paquets et routage",
+                "mfe": "Komitasion paket ek routage"
+              },
+              "objectives": [
+                "Explain how packet switching works",
+                "Describe the role of routers in forwarding packets",
+                "Trace a packet's path across a network"
+              ]
+            },
+            {
+              "title": {
+                "en": "Wireless networking",
+                "fr": "Réseaux sans fil",
+                "mfe": "Rezo san fil"
+              },
+              "objectives": [
+                "Compare wireless networking standards",
+                "Explain factors affecting wireless signal quality",
+                "Evaluate security measures for wireless networks"
+              ]
+            },
+            {
+              "title": {
+                "en": "Cloud computing and virtualisation",
+                "fr": "Informatique en nuage et virtualisation",
+                "mfe": "Cloud computing ek virtwalizasion"
+              },
+              "objectives": [
+                "Define cloud computing service models",
+                "Explain the concept of virtualisation",
+                "Evaluate benefits and risks of cloud services"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Systems software and translators",
+            "fr": "Logiciels système et traducteurs",
+            "mfe": "Logisiel sistem ek tradiktor"
+          },
+          "summary": {
+            "en": "Investigate the role of operating systems and translator programs such as compilers, interpreters, linkers and loaders.",
+            "fr": "Étudiez le rôle des systèmes d'exploitation et des programmes traducteurs tels que compilateurs, interpréteurs, éditeurs de liens et chargeurs.",
+            "mfe": "Investig rol sistem exploatasion ek program tradiktor kouma compilateur, interpret, linker ek loader."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Operating system functions",
+                "fr": "Fonctions du système d'exploitation",
+                "mfe": "Fonksion sistem exploatasion"
+              },
+              "objectives": [
+                "Describe key functions of an operating system",
+                "Explain process and memory management",
+                "Compare scheduling algorithms"
+              ]
+            },
+            {
+              "title": {
+                "en": "Translators: compilers and interpreters",
+                "fr": "Traducteurs : compilateurs et interpréteurs",
+                "mfe": "Tradiktor: compilateur ek interpret"
+              },
+              "objectives": [
+                "Distinguish between compilers and interpreters",
+                "Explain when each translator type is used",
+                "Evaluate trade-offs between compilation and interpretation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Compilation stages",
+                "fr": "Étapes de compilation",
+                "mfe": "Etap kompilasion"
+              },
+              "objectives": [
+                "List the stages of compilation",
+                "Explain lexical and syntax analysis",
+                "Describe the role of code generation and optimisation"
+              ]
+            },
+            {
+              "title": {
+                "en": "Linkers and loaders",
+                "fr": "Éditeurs de liens et chargeurs",
+                "mfe": "Linker ek loader"
+              },
+              "objectives": [
+                "Explain the function of a linker",
+                "Describe how a loader prepares programs for execution",
+                "Discuss the concept of dynamic linking"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Algorithm design and problem solving",
+            "fr": "Conception d'algorithmes et résolution de problèmes",
+            "mfe": "Konsepsion algoritm ek rezolision problem"
+          },
+          "summary": {
+            "en": "Develop skills in designing recursive algorithms, analysing efficiency and applying standard sorting and searching techniques.",
+            "fr": "Développez des compétences en conception d'algorithmes récursifs, en analyse d'efficacité et en application de techniques standards de tri et de recherche.",
+            "mfe": "Devlop konpetans dan konsepsion algoritm rekirsif, analiz lefikasite ek aplikasion bann teknik tri ek rod standar."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Recursive algorithms",
+                "fr": "Algorithmes récursifs",
+                "mfe": "Algoritm rekirsif"
+              },
+              "objectives": [
+                "Explain the concept of recursion",
+                "Write recursive functions to solve problems",
+                "Trace recursive calls using a stack frame"
+              ]
+            },
+            {
+              "title": {
+                "en": "Algorithm complexity and Big O",
+                "fr": "Complexité des algorithmes et notation Big O",
+                "mfe": "Konpleksite algoritm ek notasion Big O"
+              },
+              "objectives": [
+                "Explain time and space complexity",
+                "Use Big O notation to describe efficiency",
+                "Compare algorithms based on complexity"
+              ]
+            },
+            {
+              "title": {
+                "en": "Sorting algorithms",
+                "fr": "Algorithmes de tri",
+                "mfe": "Algoritm tri"
+              },
+              "objectives": [
+                "Describe bubble, insertion and merge sort",
+                "Trace the steps of a sorting algorithm",
+                "Compare sorting algorithms by efficiency"
+              ]
+            },
+            {
+              "title": {
+                "en": "Searching algorithms",
+                "fr": "Algorithmes de recherche",
+                "mfe": "Algoritm rod"
+              },
+              "objectives": [
+                "Describe linear and binary search",
+                "Trace the steps of a search algorithm",
+                "Evaluate when to use each search method"
+              ]
+            }
+          ]
+        },
+        {
+          "title": {
+            "en": "Security, ethics and current issues",
+            "fr": "Sécurité, éthique et enjeux actuels",
+            "mfe": "Sekirite, letik ek problem aktyel"
+          },
+          "summary": {
+            "en": "Analyse cybersecurity threats, encryption methods and the ethical, legal and social implications of emerging computing technologies.",
+            "fr": "Analysez les menaces de cybersécurité, les méthodes de cryptage et les implications éthiques, juridiques et sociales des technologies informatiques émergentes.",
+            "mfe": "Analiz bann menas sekirite sibernetik, metod kriptaz ek implikasion letik, legal ek sosial bann teknolozi informatik emerzan."
+          },
+          "lessons": [
+            {
+              "title": {
+                "en": "Cybersecurity threats and defences",
+                "fr": "Menaces et défenses en cybersécurité",
+                "mfe": "Menas ek defans sekirite sibernetik"
+              },
+              "objectives": [
+                "Identify common cybersecurity threats",
+                "Describe measures to prevent cyberattacks",
+                "Evaluate the effectiveness of security defences"
+              ]
+            },
+            {
+              "title": {
+                "en": "Encryption and cryptography",
+                "fr": "Chiffrement et cryptographie",
+                "mfe": "Kriptaz ek kriptografi"
+              },
+              "objectives": [
+                "Explain symmetric and asymmetric encryption",
+                "Describe the role of digital certificates and signatures",
+                "Evaluate the strength of encryption methods"
+              ]
+            },
+            {
+              "title": {
+                "en": "Legal and ethical issues",
+                "fr": "Questions juridiques et éthiques",
+                "mfe": "Kestion legal ek letik"
+              },
+              "objectives": [
+                "Discuss data protection legislation",
+                "Evaluate ethical issues in computing",
+                "Analyse intellectual property concerns in software"
+              ]
+            },
+            {
+              "title": {
+                "en": "Emerging technologies impact",
+                "fr": "Impact des technologies émergentes",
+                "mfe": "Lenpak teknolozi emerzan"
+              },
+              "objectives": [
+                "Discuss the impact of artificial intelligence on society",
+                "Evaluate implications of automation on employment",
+                "Assess future trends in computing technology"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
