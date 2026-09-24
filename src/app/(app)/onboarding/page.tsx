@@ -6,7 +6,7 @@ import { getStudent } from "@/server/session";
 
 export async function generateMetadata(): Promise<Metadata> {
   const t = await getTranslations("onboarding");
-  return { title: t("nameTitle") };
+  return { title: t("metaTitle") };
 }
 
 export default async function OnboardingPage() {

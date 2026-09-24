@@ -119,7 +119,8 @@
       "grade": "Choisis ton grade.",
       "subjects": "Choisis au moins une matière.",
       "save": "Impossible d'enregistrer tes choix. Réessaie."
-    }
+    },
+    "metaTitle": "Configure ton compte"
   },
   "home": {
     "greetingMorning": "Bonjour, {name}",

@@ -119,7 +119,8 @@
       "grade": "Choose your grade.",
       "subjects": "Choose at least one subject.",
       "save": "We couldn't save your choices. Try again."
-    }
+    },
+    "metaTitle": "Set up your account"
   },
   "home": {
     "greetingMorning": "Good morning, {name}",

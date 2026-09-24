@@ -119,7 +119,8 @@
       "grade": "Swazir to grade.",
       "subjects": "Swazir omwin enn matier.",
       "save": "Nou pa finn kapav sov to swa. Esey ankor."
-    }
+    },
+    "metaTitle": "Prepar to kont"
   },
   "home": {
     "greetingMorning": "Bonzour, {name}",
