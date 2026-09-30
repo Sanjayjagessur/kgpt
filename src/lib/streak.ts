@@ -33,3 +33,16 @@ export function currentStreak(studied: Set<string>, today: string): number {
 }
 
 export { addDays };
+
+/** Longest run of consecutive study days. */
+export function longestStreak(studied: Set<string>): number {
+  let best = 0;
+  for (const day of studied) {
+    // Only count from the first day of each run.
+    if (studied.has(addDays(day, -1))) continue;
+    let length = 1;
+    while (studied.has(addDays(day, length))) length += 1;
+    best = Math.max(best, length);
+  }
+  return best;
+}

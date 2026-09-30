@@ -9,12 +9,14 @@ import { ReefLine } from "@/components/common/reef-line";
 import { Breadcrumbs } from "@/components/learning/breadcrumbs";
 import { LessonChecks } from "@/components/learning/lesson-checks";
 import { LessonPreparing } from "@/components/learning/lesson-preparing";
+import { BookmarkButton } from "@/components/notes/bookmark-button";
 import { WorkedExample } from "@/components/learning/worked-example";
 import { subjectStyle } from "@/config/subjects";
 import { contentLocale, LessonContentSchema, type LessonContent } from "@/lib/lesson-content";
 import { localized } from "@/lib/supabase/database.types";
 import { createClient } from "@/lib/supabase/server";
 import { getLessonProgress, getUnitWithLessons } from "@/server/learning";
+import { isBookmarked } from "@/server/notes";
 import { recordLessonView } from "@/server/progress-core";
 import { requireStudent } from "@/server/session";
 
@@ -47,9 +49,10 @@ export default async function LessonPage(props: Props) {
 
   const supabase = await createClient();
   const lang = contentLocale(unit.subject_id, student.profile.ui_locale);
-  const [{ data: row }, progress] = await Promise.all([
+  const [{ data: row }, progress, bookmarked] = await Promise.all([
     supabase.from("lesson_content").select("content").eq("lesson_id", lesson.id).eq("locale", lang).maybeSingle(),
     getLessonProgress(student.id, lesson.id),
+    isBookmarked("lesson", lesson.id),
   ]);
   const parsed = row ? LessonContentSchema.safeParse(row.content) : null;
   const content: LessonContent | null = parsed?.success ? parsed.data : null;
@@ -78,7 +81,10 @@ export default async function LessonPage(props: Props) {
         <h1 className="mt-1 text-3xl font-extrabold tracking-[-0.025em] sm:text-4xl" lang={lang}>
           {localized(lesson.title, locale)}
         </h1>
-        <ReefLine className="text-subject mt-3" />
+        <div className="mt-3 flex flex-wrap items-center justify-between gap-3">
+          <ReefLine className="text-subject" />
+          <BookmarkButton kind="lesson" refId={lesson.id} initial={bookmarked} />
+        </div>
         {objectives.length > 0 && (
           <div className="bg-subject-tint mt-6 rounded-xl p-4 sm:p-5">
             <p className="mb-2 flex items-center gap-2 text-sm font-bold">

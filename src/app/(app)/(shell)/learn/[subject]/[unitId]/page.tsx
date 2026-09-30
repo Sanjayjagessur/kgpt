@@ -7,11 +7,13 @@ import { z } from "zod";
 import { ReefLine } from "@/components/common/reef-line";
 import { Breadcrumbs } from "@/components/learning/breadcrumbs";
 import { ProgressBar } from "@/components/learning/progress-bar";
+import { BookmarkButton } from "@/components/notes/bookmark-button";
 import { ButtonLink } from "@/components/ui/button-link";
 import { subjectStyle } from "@/config/subjects";
 import { localized } from "@/lib/supabase/database.types";
 import { cn } from "@/lib/utils";
 import { getUnitWithLessons } from "@/server/learning";
+import { isBookmarked } from "@/server/notes";
 import { requireStudent } from "@/server/session";
 
 async function load(props: PageProps<"/learn/[subject]/[unitId]">) {
@@ -30,11 +32,12 @@ export async function generateMetadata(props: PageProps<"/learn/[subject]/[unitI
 
 export default async function UnitPage(props: PageProps<"/learn/[subject]/[unitId]">) {
   const { unit } = await load(props);
-  const [t, ts, tn, locale] = await Promise.all([
+  const [t, ts, tn, locale, bookmarked] = await Promise.all([
     getTranslations("learn"),
     getTranslations("subjects"),
     getTranslations("nav"),
     getLocale(),
+    isBookmarked("unit", unit.id),
   ]);
 
   const done = unit.lessons.filter((l) => l.status === "completed").length;
@@ -52,7 +55,10 @@ export default async function UnitPage(props: PageProps<"/learn/[subject]/[unitI
       />
       <p className="text-subject-ink text-sm font-bold">{t("unitLabel", { number: unit.position })}</p>
       <h1 className="mt-1 text-3xl font-extrabold tracking-[-0.025em] sm:text-4xl">{localized(unit.title, locale)}</h1>
-      <ReefLine className="text-subject mt-3 mb-4" />
+      <div className="mt-3 mb-4 flex flex-wrap items-center justify-between gap-3">
+        <ReefLine className="text-subject" />
+        <BookmarkButton kind="unit" refId={unit.id} initial={bookmarked} />
+      </div>
       <p className="text-muted-foreground">{localized(unit.summary, locale)}</p>
 
       <div className="mt-6 flex flex-col gap-4 rounded-xl bg-card p-4 shadow-sm sm:flex-row sm:items-center sm:justify-between">

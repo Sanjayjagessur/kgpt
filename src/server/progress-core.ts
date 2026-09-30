@@ -84,31 +84,48 @@ export async function recordLessonCompletion(userId: string, lessonId: string, s
   return !error;
 }
 
-/**
- * Unit mastery: mastered = every lesson completed with an average best score of at least 80%.
- */
+/** Recalculates mastery for the unit a lesson belongs to. */
 export async function refreshUnitMastery(userId: string, lessonId: string) {
-  const admin = createAdminClient();
-  const { data: lesson } = await admin.from("lessons").select("unit_id").eq("id", lessonId).maybeSingle();
-  if (!lesson) return;
+  const { data: lesson } = await createAdminClient().from("lessons").select("unit_id").eq("id", lessonId).maybeSingle();
+  if (lesson) await refreshMasteryForUnit(userId, lesson.unit_id);
+}
 
-  const [{ count: total }, { data: progress }] = await Promise.all([
-    admin.from("lessons").select("id", { count: "exact", head: true }).eq("unit_id", lesson.unit_id),
+/**
+ * Unit mastery. The unit's result is the better of the average lesson check
+ * score and the best revision quiz score, so a quiz can only raise it.
+ * Mastered = every lesson completed and a result of at least 80%.
+ * Score = share of lessons completed × result.
+ */
+export async function refreshMasteryForUnit(userId: string, unitId: string) {
+  const admin = createAdminClient();
+  const [{ count: total }, { data: progress }, { data: quizzes }] = await Promise.all([
+    admin.from("lessons").select("id", { count: "exact", head: true }).eq("unit_id", unitId),
     admin
       .from("lesson_progress")
       .select("status, best_score, lessons!inner(unit_id)")
       .eq("user_id", userId)
-      .eq("lessons.unit_id", lesson.unit_id),
+      .eq("lessons.unit_id", unitId),
+    admin
+      .from("quiz_attempts")
+      .select("score")
+      .eq("user_id", userId)
+      .eq("unit_id", unitId)
+      .not("completed_at", "is", null),
   ]);
   if (!total) return;
 
   const completed = (progress ?? []).filter((p) => p.status === "completed");
   const scores = completed.map((p) => Number(p.best_score ?? 0));
-  const average = scores.length ? scores.reduce((a, b) => a + b, 0) / scores.length : 0;
-  const score = Math.round((completed.length / total) * average * 100) / 100;
-  const level = completed.length === total && average >= MASTERY_SCORE ? "mastered" : "learning";
+  const lessonAverage = scores.length ? scores.reduce((a, b) => a + b, 0) / scores.length : 0;
+  const bestQuiz = Math.max(0, ...(quizzes ?? []).map((q) => Number(q.score ?? 0)));
+  const result = Math.max(lessonAverage, bestQuiz);
+  const started = (progress ?? []).length > 0 || (quizzes ?? []).length > 0;
+  if (!started) return;
+
+  const score = Math.round((completed.length / total) * result * 100) / 100;
+  const level = completed.length === total && result >= MASTERY_SCORE ? "mastered" : "learning";
 
   await admin
     .from("topic_mastery")
-    .upsert({ user_id: userId, unit_id: lesson.unit_id, level, score }, { onConflict: "user_id,unit_id" });
+    .upsert({ user_id: userId, unit_id: unitId, level, score }, { onConflict: "user_id,unit_id" });
 }
