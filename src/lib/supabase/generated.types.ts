@@ -245,6 +245,8 @@ export type Database = {
           locale: Database["public"]["Enums"]["locale_code"]
           mark_scheme: Json
           marks: number
+          model_answer: string
+          position: number
           prompt: string
           unit_id: string
         }
@@ -254,6 +256,8 @@ export type Database = {
           locale: Database["public"]["Enums"]["locale_code"]
           mark_scheme: Json
           marks: number
+          model_answer?: string
+          position?: number
           prompt: string
           unit_id: string
         }
@@ -263,6 +267,8 @@ export type Database = {
           locale?: Database["public"]["Enums"]["locale_code"]
           mark_scheme?: Json
           marks?: number
+          model_answer?: string
+          position?: number
           prompt?: string
           unit_id?: string
         }
@@ -280,6 +286,7 @@ export type Database = {
         Row: {
           back: string
           created_at: string
+          deck_position: number | null
           due_on: string
           ease: number
           front: string
@@ -293,6 +300,7 @@ export type Database = {
         Insert: {
           back: string
           created_at?: string
+          deck_position?: number | null
           due_on?: string
           ease?: number
           front: string
@@ -306,6 +314,7 @@ export type Database = {
         Update: {
           back?: string
           created_at?: string
+          deck_position?: number | null
           due_on?: string
           ease?: number
           front?: string
@@ -742,6 +751,41 @@ export type Database = {
           },
         ]
       }
+      unit_revision_content: {
+        Row: {
+          content: Json
+          generated_at: string
+          kind: Database["public"]["Enums"]["revision_kind"]
+          locale: Database["public"]["Enums"]["locale_code"]
+          model: string
+          unit_id: string
+        }
+        Insert: {
+          content: Json
+          generated_at?: string
+          kind: Database["public"]["Enums"]["revision_kind"]
+          locale: Database["public"]["Enums"]["locale_code"]
+          model: string
+          unit_id: string
+        }
+        Update: {
+          content?: Json
+          generated_at?: string
+          kind?: Database["public"]["Enums"]["revision_kind"]
+          locale?: Database["public"]["Enums"]["locale_code"]
+          model?: string
+          unit_id?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "unit_revision_content_unit_id_fkey"
+            columns: ["unit_id"]
+            isOneToOne: false
+            referencedRelation: "units"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
       unit_summaries: {
         Row: {
           content: Json
@@ -827,6 +871,7 @@ export type Database = {
       lesson_status: "not_started" | "in_progress" | "completed"
       locale_code: "en" | "fr" | "mfe"
       mastery_level: "not_started" | "learning" | "mastered"
+      revision_kind: "flashcards" | "quiz"
       user_role: "student" | "teacher"
     }
     CompositeTypes: {
@@ -964,6 +1009,7 @@ export const Constants = {
       lesson_status: ["not_started", "in_progress", "completed"],
       locale_code: ["en", "fr", "mfe"],
       mastery_level: ["not_started", "learning", "mastered"],
+      revision_kind: ["flashcards", "quiz"],
       user_role: ["student", "teacher"],
     },
   },

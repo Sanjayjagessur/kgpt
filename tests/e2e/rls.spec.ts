@@ -50,6 +50,32 @@ test("students cannot read or change each other's data", async () => {
       .insert({ user_id: a!.id, unit_id: "7899c924-4998-5184-bbda-1a63f3c18c3b", level: "mastered", score: 100 });
     expect(masteryError).not.toBeNull();
 
+    // Quiz scores, exam marks and shared revision material are written by the server only.
+    const unitId = "7899c924-4998-5184-bbda-1a63f3c18c3b";
+    const { error: quizError } = await client
+      .from("quiz_attempts")
+      .insert({ user_id: a!.id, unit_id: unitId, questions: [], score: 100, completed_at: new Date().toISOString() });
+    expect(quizError).not.toBeNull();
+    const { data: question } = await client.from("exam_questions").select("id").limit(1).single();
+    const { error: examError } = await client
+      .from("exam_attempts")
+      .insert({ user_id: a!.id, question_id: question!.id, answer: "x", awarded_marks: 20, feedback: {} });
+    expect(examError).not.toBeNull();
+    const { error: contentError } = await client
+      .from("unit_revision_content")
+      .upsert({ unit_id: unitId, locale: "en", kind: "quiz", content: {}, model: "fake" });
+    expect(contentError).not.toBeNull();
+
+    // Flashcards are the student's own; another student's cards are out of reach.
+    const { error: cardError } = await client
+      .from("flashcards")
+      .insert({ user_id: a!.id, unit_id: unitId, front: "Q", back: "A" });
+    expect(cardError).toBeNull();
+    const { error: otherCardError } = await client
+      .from("flashcards")
+      .insert({ user_id: b!.id, unit_id: unitId, front: "Q", back: "A" });
+    expect(otherCardError).not.toBeNull();
+
     // Signed-out visitors see no curriculum or profiles.
     const anon = createClient(process.env.NEXT_PUBLIC_SUPABASE_URL!, process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!, {
       auth: { persistSession: false },
