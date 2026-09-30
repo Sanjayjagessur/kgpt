@@ -24,6 +24,9 @@ export default getRequestConfig(async () => {
   return {
     locale,
     timeZone: "Indian/Mauritius",
+    // One reference time per request, inherited by client components, so
+    // relative times ("2 min ago") render the same on server and client.
+    now: new Date(),
     messages: (await import(`../../messages/${locale}.json`)).default,
   };
 });

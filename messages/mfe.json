@@ -257,5 +257,135 @@
     "breadcrumb": "Semin",
     "aiNote": "Ekrir avek IA dapre kourikoulom nasional. Si kiksoz paret pa bon, dimann to profeser ouswa tuter.",
     "unitWithTitle": "Inite {number}: {title}"
+  },
+  "chat": {
+    "untitled": "Nouvo diskisyon",
+    "newChat": "Nouvo diskisyon",
+    "searchChats": "Rod diskisyon",
+    "clearSearch": "Efas rechers",
+    "history": "Istorik",
+    "searching": "Pe rode…",
+    "noResults": "Okenn diskisyon pa koresponn ar “{query}”.",
+    "noChats": "To bann diskisyon pou paret isi.",
+    "chatOptions": "Opsion pou {title}",
+    "rename": "Sanz nom",
+    "delete": "Efase",
+    "renameTitle": "Sanz nom diskisyon",
+    "chatName": "Nom diskisyon",
+    "renameFailed": "Nom-la pa finn anrezistre. Seye ankor.",
+    "deleteFailed": "Diskisyon-la pa finn efase. Seye ankor.",
+    "deleted": "Diskisyon efase",
+    "deleteTitle": "Efas sa diskisyon-la?",
+    "deleteBody": "“{title}” ek so bann fisie pou efase. To pa pou kapav defer sa.",
+    "deleteConfirm": "Efas diskisyon",
+    "equation": "Met enn ekwasion",
+    "equationTitle": "Ekwasion",
+    "equationSymbols": "Senbol",
+    "equationLatex": "Ekrir ouswa konstrir to ekwasion (LaTeX)",
+    "equationPreview": "To ekwasion pou paret isi",
+    "equationInsert": "Met ekwasion",
+    "you": "Twa",
+    "tutor": "Titer",
+    "thinking": "Pe reflesi…",
+    "copy": "Kopie",
+    "copied": "Kopie",
+    "copyFailed": "Kopi-la pa finn marse. Selekte tex-la pou kopie li.",
+    "saveToNotes": "Anrezistre dan mo not",
+    "saved": "Anrezistre",
+    "savedToNotes": "Anrezistre dan to not",
+    "saveFailed": "Not-la pa finn anrezistre. Seye ankor.",
+    "explainAgain": "Explik enn lot fason",
+    "followUp": {
+      "simpler": "Explik pli sinp",
+      "detail": "Donn plis detay",
+      "differently": "Explik enn lot fason",
+      "example": "Montre mwa enn legzanp"
+    },
+    "followUpPrompt": {
+      "simpler": "Eski to kapav explik sa pli sinp?",
+      "detail": "Eski to kapav donn plis detay?",
+      "differently": "Eski to kapav explik sa enn lot fason?",
+      "example": "Eski to kapav montre mwa enn lot legzanp?"
+    },
+    "replying": "Titer-la pe reponn",
+    "replyDone": "Repons fini",
+    "welcomeTitle": "Poz to titer enn kestion",
+    "welcomeBody": "Poz kestion lor nenport ki size. Azout enn foto to devwar ouswa enn PDF, ek servi bouton ekwasion pou ekrir mat.",
+    "suggestions": {
+      "explain": {
+        "title": "Explik enn size",
+        "body": "Etap par etap, dapre to nivo.",
+        "prompt": "Eski to kapav explik mwa "
+      },
+      "practice": {
+        "title": "Pratik ar bann kestion",
+        "body": "Enn kestion alafwa, avek fidbak.",
+        "prompt": "Donn mwa bann kestion pratik lor "
+      },
+      "homework": {
+        "title": "Gagn led pou devwar",
+        "body": "Bann indis pou to trouv repons twa-mem.",
+        "prompt": "Mo bloke lor sa kestion-la: "
+      },
+      "writing": {
+        "title": "Amelior to lekritir",
+        "body": "Fidbak lor to redaksion ek repons.",
+        "prompt": "Eski to kapav donn mwa fidbak lor sa paragraf-la? "
+      }
+    },
+    "conversation": "Diskisyon",
+    "problems": {
+      "rate_limited": "To finn ariv o limit titer pou sa ler-la. Seye ankor dan enn ti moman.",
+      "failed": "Titer-la pa finn kapav reponn. Verifie to koneksion ek avoy to mesaz ankor.",
+      "attachment_type": "Sa kalite fisie-la pa marse. Azout enn foto (PNG, JPG, WebP, GIF) ouswa enn PDF.",
+      "attachment_size": "Sa fisie-la tro gro. Azout fisie mwins ki 10 MB.",
+      "upload_failed": "Enn fisie pa finn monte. Tir li ek seye ankor."
+    },
+    "dismiss": "Ferme",
+    "attachments": "Fisie atase",
+    "uploading": "Pe monte",
+    "uploadError": "Pa finn marse",
+    "removeAttachment": "Tir {name}",
+    "inputLabel": "Ekrir titer-la",
+    "placeholder": {
+      "auto": "Poz nenport ki kestion lor to bann size",
+      "explain": "Ki to anvi mo explike?",
+      "practice": "Lor ki size to anvi pratike?",
+      "homework": "Kol ouswa dekrir kestion to devwar",
+      "writing": "Kol to tex ouswa dekrir travay-la"
+    },
+    "attach": "Atas enn foto ouswa enn PDF",
+    "modeLabel": "Mod titer",
+    "modes": {
+      "auto": {
+        "label": "Oto",
+        "hint": "Titer-la swazir meyer fason pou ed twa."
+      },
+      "explain": {
+        "label": "Explike",
+        "hint": "Bann explikasion kler, etap par etap."
+      },
+      "practice": {
+        "label": "Pratike",
+        "hint": "Enn kestion alafwa, avek fidbak."
+      },
+      "homework": {
+        "label": "Led pou devwar",
+        "hint": "Bann indis ek kestion, pa repons-la."
+      },
+      "writing": {
+        "label": "Kos lekritir",
+        "hint": "Fidbak pou amelior to prop lekritir."
+      }
+    },
+    "subjectLabel": "Size",
+    "anySubject": "Nenport ki size",
+    "stop": "Aret repons",
+    "send": "Avoy mesaz",
+    "disclaimer": "Titer-la kapav fer erer. Verifie bann repons inportan avek to profeser ouswa to leson.",
+    "safety": {
+      "support": "Li paret ki to pe pas par enn moman bien difisil, ek li bien ki to finn dir li. To pa bizin fer fas ar sa tousel. Koz ar enn adilt ki to fer konfians zordi, kouma to paran, to gardien, enn profeser ouswa konseye lekol.\n\nSi to an danze ouswa si to kapav fer twa dimal, apel **999** (lapolis) ouswa **114** (SAMU) aster-la.\n\nKan to pare, mo la pou ed twa ar to travay lekol.",
+      "cantHelp": "Mo pa kapav ed twa ar sa. Anou retourn ar to aprantisaz: lor ki size ouswa ki kestion mo kapav ed twa?"
+    }
   }
 }

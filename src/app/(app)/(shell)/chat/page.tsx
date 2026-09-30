@@ -1,21 +1,29 @@
-import { MessagesSquare } from "lucide-react";
 import type { Metadata } from "next";
 import { getTranslations } from "next-intl/server";
-import { EmptyState } from "@/components/common/empty-state";
-import { PageHeader } from "@/components/common/page-header";
+import { ChatView } from "@/components/chat/chat-view";
+import { isSubjectId } from "@/config/subjects";
+import { requireStudent } from "@/server/session";
 
 export async function generateMetadata(): Promise<Metadata> {
   const t = await getTranslations("nav");
   return { title: t("chat") };
 }
 
-export default async function Page() {
-  const t = await getTranslations("nav");
-  const tc = await getTranslations("common");
+export default async function NewChatPage(props: PageProps<"/chat">) {
+  const student = await requireStudent();
+  const { subject } = await props.searchParams;
+  const initialSubject =
+    typeof subject === "string" && isSubjectId(subject) && student.subjects.includes(subject) ? subject : null;
+
   return (
-    <>
-      <PageHeader title={t("chat")} />
-      <EmptyState icon={MessagesSquare} title={tc("comingSoon")} body={tc("comingSoonBody")} />
-    </>
+    <ChatView
+      userId={student.id}
+      chatId={null}
+      title=""
+      initialMessages={[]}
+      initialMode="auto"
+      subjects={student.subjects}
+      initialSubject={initialSubject}
+    />
   );
 }

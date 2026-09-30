@@ -257,5 +257,135 @@
     "breadcrumb": "Fil d'Ariane",
     "aiNote": "Rédigé avec l'IA selon le programme national. Si quelque chose semble faux, demande à ton enseignant ou au tuteur.",
     "unitWithTitle": "Unité {number} : {title}"
+  },
+  "chat": {
+    "untitled": "Nouvelle discussion",
+    "newChat": "Nouvelle discussion",
+    "searchChats": "Rechercher",
+    "clearSearch": "Effacer la recherche",
+    "history": "Historique",
+    "searching": "Recherche…",
+    "noResults": "Aucune discussion ne correspond à « {query} ».",
+    "noChats": "Tes discussions apparaîtront ici.",
+    "chatOptions": "Options pour {title}",
+    "rename": "Renommer",
+    "delete": "Supprimer",
+    "renameTitle": "Renommer la discussion",
+    "chatName": "Nom de la discussion",
+    "renameFailed": "Le nom n'a pas été enregistré. Réessaie.",
+    "deleteFailed": "La discussion n'a pas été supprimée. Réessaie.",
+    "deleted": "Discussion supprimée",
+    "deleteTitle": "Supprimer cette discussion ?",
+    "deleteBody": "« {title} » et ses fichiers seront supprimés. Cette action est définitive.",
+    "deleteConfirm": "Supprimer",
+    "equation": "Insérer une équation",
+    "equationTitle": "Équation",
+    "equationSymbols": "Symboles",
+    "equationLatex": "Écris ou construis ton équation (LaTeX)",
+    "equationPreview": "Ton équation s'affiche ici",
+    "equationInsert": "Insérer l'équation",
+    "you": "Toi",
+    "tutor": "Tuteur",
+    "thinking": "Réflexion…",
+    "copy": "Copier",
+    "copied": "Copié",
+    "copyFailed": "La copie n'a pas marché. Sélectionne le texte pour le copier.",
+    "saveToNotes": "Enregistrer dans mes notes",
+    "saved": "Enregistré",
+    "savedToNotes": "Enregistré dans tes notes",
+    "saveFailed": "La note n'a pas été enregistrée. Réessaie.",
+    "explainAgain": "Expliquer autrement",
+    "followUp": {
+      "simpler": "Expliquer plus simplement",
+      "detail": "Donner plus de détails",
+      "differently": "Expliquer d'une autre façon",
+      "example": "Montrer un exemple"
+    },
+    "followUpPrompt": {
+      "simpler": "Peux-tu l'expliquer plus simplement ?",
+      "detail": "Peux-tu donner plus de détails ?",
+      "differently": "Peux-tu l'expliquer d'une autre façon ?",
+      "example": "Peux-tu me montrer un autre exemple ?"
+    },
+    "replying": "Le tuteur répond",
+    "replyDone": "Réponse terminée",
+    "welcomeTitle": "Pose ta question au tuteur",
+    "welcomeBody": "Pose une question sur tes matières. Ajoute une photo de tes devoirs ou un PDF, et utilise le bouton équation pour écrire des maths.",
+    "suggestions": {
+      "explain": {
+        "title": "Expliquer une notion",
+        "body": "Étape par étape, à ton niveau.",
+        "prompt": "Peux-tu m'expliquer "
+      },
+      "practice": {
+        "title": "S'entraîner",
+        "body": "Une question à la fois, avec correction.",
+        "prompt": "Donne-moi des exercices sur "
+      },
+      "homework": {
+        "title": "Débloquer un devoir",
+        "body": "Des indices pour trouver par toi-même.",
+        "prompt": "Je bloque sur cette question : "
+      },
+      "writing": {
+        "title": "Améliorer ta rédaction",
+        "body": "Des conseils sur tes textes et réponses.",
+        "prompt": "Peux-tu me donner ton avis sur ce paragraphe ? "
+      }
+    },
+    "conversation": "Conversation",
+    "problems": {
+      "rate_limited": "Tu as atteint la limite horaire du tuteur. Réessaie un peu plus tard.",
+      "failed": "Le tuteur n'a pas pu répondre. Vérifie ta connexion et renvoie ton message.",
+      "attachment_type": "Ce type de fichier n'est pas accepté. Ajoute une photo (PNG, JPG, WebP, GIF) ou un PDF.",
+      "attachment_size": "Ce fichier est trop lourd. Ajoute des fichiers de moins de 10 Mo.",
+      "upload_failed": "Un fichier n'a pas été envoyé. Retire-le et réessaie."
+    },
+    "dismiss": "Fermer",
+    "attachments": "Fichiers joints",
+    "uploading": "Envoi en cours",
+    "uploadError": "Échec",
+    "removeAttachment": "Retirer {name}",
+    "inputLabel": "Écrire au tuteur",
+    "placeholder": {
+      "auto": "Pose une question sur tes matières",
+      "explain": "Que veux-tu que je t'explique ?",
+      "practice": "Sur quel sujet veux-tu t'entraîner ?",
+      "homework": "Colle ou décris la question de ton devoir",
+      "writing": "Colle ton texte ou décris le sujet"
+    },
+    "attach": "Joindre une photo ou un PDF",
+    "modeLabel": "Mode du tuteur",
+    "modes": {
+      "auto": {
+        "label": "Auto",
+        "hint": "Le tuteur choisit la meilleure façon d'aider."
+      },
+      "explain": {
+        "label": "Expliquer",
+        "hint": "Des explications claires, étape par étape."
+      },
+      "practice": {
+        "label": "S'entraîner",
+        "hint": "Une question à la fois, avec correction."
+      },
+      "homework": {
+        "label": "Aide aux devoirs",
+        "hint": "Des indices et des questions, pas la réponse."
+      },
+      "writing": {
+        "label": "Coach d'écriture",
+        "hint": "Des conseils pour améliorer ton propre texte."
+      }
+    },
+    "subjectLabel": "Matière",
+    "anySubject": "Toutes les matières",
+    "stop": "Arrêter la réponse",
+    "send": "Envoyer",
+    "disclaimer": "Le tuteur peut se tromper. Vérifie les réponses importantes avec ton professeur ou tes leçons.",
+    "safety": {
+      "support": "On dirait que tu traverses un moment très difficile, et c'est bien d'en avoir parlé. Tu n'as pas à gérer ça tout seul. Parle aujourd'hui à un adulte de confiance : un parent, un tuteur légal, un professeur ou le conseiller de ton école.\n\nSi tu es en danger ou si tu risques de te faire du mal, appelle tout de suite le **999** (police) ou le **114** (SAMU).\n\nQuand tu te sentiras prêt, je suis là pour t'aider dans ton travail scolaire.",
+      "cantHelp": "Je ne peux pas t'aider avec ça. Revenons à tes études : sur quelle matière ou quelle question puis-je t'aider ?"
+    }
   }
 }

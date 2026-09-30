@@ -257,5 +257,135 @@
     "breadcrumb": "Breadcrumb",
     "aiNote": "Written with AI and based on the national curriculum. If something looks wrong, ask your teacher or the tutor.",
     "unitWithTitle": "Unit {number}: {title}"
+  },
+  "chat": {
+    "untitled": "New chat",
+    "newChat": "New chat",
+    "searchChats": "Search chats",
+    "clearSearch": "Clear search",
+    "history": "History",
+    "searching": "Searching…",
+    "noResults": "No chats match “{query}”.",
+    "noChats": "Your chats will appear here.",
+    "chatOptions": "Options for {title}",
+    "rename": "Rename",
+    "delete": "Delete",
+    "renameTitle": "Rename chat",
+    "chatName": "Chat name",
+    "renameFailed": "The name wasn't saved. Try again.",
+    "deleteFailed": "The chat wasn't deleted. Try again.",
+    "deleted": "Chat deleted",
+    "deleteTitle": "Delete this chat?",
+    "deleteBody": "“{title}” and any files in it will be deleted. You can't undo this.",
+    "deleteConfirm": "Delete chat",
+    "equation": "Insert an equation",
+    "equationTitle": "Equation",
+    "equationSymbols": "Symbols",
+    "equationLatex": "Type or build your equation (LaTeX)",
+    "equationPreview": "Your equation appears here",
+    "equationInsert": "Insert equation",
+    "you": "You",
+    "tutor": "Tutor",
+    "thinking": "Thinking…",
+    "copy": "Copy",
+    "copied": "Copied",
+    "copyFailed": "Copying didn't work. Select the text and copy it instead.",
+    "saveToNotes": "Save to notes",
+    "saved": "Saved",
+    "savedToNotes": "Saved to your notes",
+    "saveFailed": "The note wasn't saved. Try again.",
+    "explainAgain": "Explain differently",
+    "followUp": {
+      "simpler": "Explain it more simply",
+      "detail": "Go into more detail",
+      "differently": "Explain it another way",
+      "example": "Show me an example"
+    },
+    "followUpPrompt": {
+      "simpler": "Can you explain that more simply?",
+      "detail": "Can you go into more detail?",
+      "differently": "Can you explain that in a different way?",
+      "example": "Can you show me another example?"
+    },
+    "replying": "The tutor is replying",
+    "replyDone": "Reply finished",
+    "welcomeTitle": "Ask your tutor",
+    "welcomeBody": "Ask about anything from your subjects. Add a photo of your homework or a PDF, and use the equation button to type maths.",
+    "suggestions": {
+      "explain": {
+        "title": "Explain a topic",
+        "body": "Step by step, at your level.",
+        "prompt": "Can you explain "
+      },
+      "practice": {
+        "title": "Practise with questions",
+        "body": "One question at a time, with feedback.",
+        "prompt": "Give me practice questions on "
+      },
+      "homework": {
+        "title": "Get unstuck on homework",
+        "body": "Hints that help you solve it yourself.",
+        "prompt": "I'm stuck on this question: "
+      },
+      "writing": {
+        "title": "Improve your writing",
+        "body": "Feedback on your essays and answers.",
+        "prompt": "Can you give me feedback on this paragraph? "
+      }
+    },
+    "conversation": "Conversation",
+    "problems": {
+      "rate_limited": "You've reached the hourly limit for the tutor. Try again in a little while.",
+      "failed": "The tutor couldn't reply. Check your connection and send your message again.",
+      "attachment_type": "That file type isn't supported. Add a photo (PNG, JPG, WebP, GIF) or a PDF.",
+      "attachment_size": "That file is too big. Add files under 10 MB.",
+      "upload_failed": "A file didn't upload. Remove it and try again."
+    },
+    "dismiss": "Dismiss",
+    "attachments": "Attached files",
+    "uploading": "Uploading",
+    "uploadError": "Failed",
+    "removeAttachment": "Remove {name}",
+    "inputLabel": "Message the tutor",
+    "placeholder": {
+      "auto": "Ask anything about your subjects",
+      "explain": "What would you like explained?",
+      "practice": "Which topic do you want to practise?",
+      "homework": "Paste or describe your homework question",
+      "writing": "Paste your writing or describe the task"
+    },
+    "attach": "Attach a photo or PDF",
+    "modeLabel": "Tutor mode",
+    "modes": {
+      "auto": {
+        "label": "Auto",
+        "hint": "The tutor picks the best way to help."
+      },
+      "explain": {
+        "label": "Explain",
+        "hint": "Clear step-by-step explanations."
+      },
+      "practice": {
+        "label": "Practice",
+        "hint": "Questions one at a time, with feedback."
+      },
+      "homework": {
+        "label": "Homework help",
+        "hint": "Hints and questions, not the answer."
+      },
+      "writing": {
+        "label": "Writing coach",
+        "hint": "Feedback to improve your own writing."
+      }
+    },
+    "subjectLabel": "Subject",
+    "anySubject": "Any subject",
+    "stop": "Stop replying",
+    "send": "Send message",
+    "disclaimer": "The tutor can make mistakes. Check important answers with your teacher or your lessons.",
+    "safety": {
+      "support": "It sounds like you're going through something really hard, and I'm glad you said something. You don't have to deal with this alone. Please talk to an adult you trust today, like a parent, guardian, teacher or your school counsellor.\n\nIf you are in danger or might hurt yourself, call **999** (police) or **114** (SAMU ambulance) now.\n\nWhenever you're ready, I'm here to help with your school work.",
+      "cantHelp": "I can't help with that. Let's get back to your learning: what subject or question can I help you with?"
+    }
   }
 }

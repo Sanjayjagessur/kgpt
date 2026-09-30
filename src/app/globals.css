@@ -352,6 +352,40 @@
   .md-content .katex {
     font-size: 1.08em;
   }
+
+  /* Student messages sit on the primary colour. */
+  .md-invert li::marker,
+  .md-invert blockquote {
+    color: inherit;
+    border-color: currentColor;
+  }
+  .md-invert code,
+  .md-invert pre,
+  .md-invert th {
+    background: color-mix(in oklch, currentColor 16%, transparent);
+  }
+  .md-invert th,
+  .md-invert td {
+    border-color: color-mix(in oklch, currentColor 30%, transparent);
+  }
+
+  /* Blinking caret at the end of a reply while it streams in. */
+  .streaming-caret > :last-child::after {
+    content: "";
+    display: inline-block;
+    width: 0.5em;
+    height: 1em;
+    margin-left: 0.15em;
+    vertical-align: -0.12em;
+    border-radius: 2px;
+    background: var(--primary);
+    animation: caret-blink 1s steps(2, start) infinite;
+  }
+  @keyframes caret-blink {
+    to {
+      visibility: hidden;
+    }
+  }
 }
 
 @media (prefers-reduced-motion: reduce) {
