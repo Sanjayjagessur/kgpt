@@ -171,7 +171,15 @@
     "subjects": "Matier",
     "saved": "Paramet sove",
     "privacy": "To bann done",
-    "privacyBody": "Nou gard to nom, to grade, to bann matier, to progre ek to bann chat pou aplikasion kapav ed ou. Ou kapav efas to bann chat nimport ki ler."
+    "privacyBody": "Nou gard to nom, to grade, to bann matier, to progre ek to bann chat pou aplikasion kapav ed ou. Ou kapav efas to bann chat nimport ki ler.",
+    "gradeHint": "Kan ou sanz grade, ou trouv bann inite sa grade-la. To progre dan lezot grade reste garde.",
+    "subjectsBody": "Bann matier ki ou fer lekol. Zot paret dan Aprann, Revizion ek Progre.",
+    "save": "Sov sanzman",
+    "unsaved": "Ou ena sanzman ki pa sove.",
+    "upToDate": "Tou finn sove.",
+    "appearanceBody": "Sanz tousuit lor sa aparey-la.",
+    "deleteAccount": "Pou efas to kont ek tou seki ladan, dimann enn paran, enn gardien ouswa enn profeser kontakte nou.",
+    "readPrivacy": "Lir notis konfidansialite"
   },
   "privacy": {
     "title": "Avi konfidansialite",
@@ -602,5 +610,10 @@
     "deleteBody": "Not-la pou disparet pou touzour. Ou pa pou kapav fer retour.",
     "deleteConfirm": "Efas not-la",
     "deleteFailed": "Not-la pa finn efase. Get to koneksion ek esey ankor."
+  },
+  "offline": {
+    "title": "Ou pa konekte",
+    "body": "Get to koneksion internet. To travay sove, ek sa paz-la pou resarze tousel kan ou rekonekte.",
+    "retry": "Esey ankor"
   }
 }

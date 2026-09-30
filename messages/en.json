@@ -171,7 +171,15 @@
     "subjects": "Subjects",
     "saved": "Settings saved",
     "privacy": "Your data",
-    "privacyBody": "We keep your name, grade, subjects, study progress and chats so the app can help you. You can delete your chats at any time."
+    "privacyBody": "We keep your name, grade, subjects, study progress and chats so the app can help you. You can delete your chats at any time.",
+    "gradeHint": "Changing grade shows that grade's units. Your progress in other grades is kept.",
+    "subjectsBody": "The subjects you take at school. They appear in Learning, Revision and Progress.",
+    "save": "Save changes",
+    "unsaved": "You have unsaved changes.",
+    "upToDate": "Everything is saved.",
+    "appearanceBody": "Changes straight away on this device.",
+    "deleteAccount": "To delete your account and everything in it, ask a parent, guardian or teacher to contact us.",
+    "readPrivacy": "Read the privacy notice"
   },
   "privacy": {
     "title": "Privacy notice",
@@ -602,5 +610,10 @@
     "deleteBody": "The note will be removed for good. This can't be undone.",
     "deleteConfirm": "Delete note",
     "deleteFailed": "The note wasn't deleted. Check your connection and try again."
+  },
+  "offline": {
+    "title": "You're offline",
+    "body": "Check your internet connection. Your work is saved, and this page reloads by itself when you're back online.",
+    "retry": "Try again"
   }
 }

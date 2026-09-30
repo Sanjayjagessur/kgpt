@@ -38,7 +38,8 @@ test("sign-in validates the email before calling the server", async ({ page }) =
   await page.getByLabel("Email").fill("not-an-email");
   await page.getByLabel("Password").fill("password123");
   await page.getByRole("button", { name: "Sign in", exact: true }).click();
-  await expect(page.getByRole("alert")).toBeVisible();
+  // Scoped to the form: production builds also have Next.js's route announcer (role="alert").
+  await expect(page.getByRole("alert").filter({ hasText: "Enter a valid email address." })).toBeVisible();
 });
 
 test("interface switches to French from the Accept-Language header", async ({ browser }) => {

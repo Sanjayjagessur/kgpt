@@ -171,7 +171,15 @@
     "subjects": "Matières",
     "saved": "Paramètres enregistrés",
     "privacy": "Tes données",
-    "privacyBody": "Nous gardons ton nom, ton grade, tes matières, tes progrès et tes discussions pour que l'application puisse t'aider. Tu peux supprimer tes discussions à tout moment."
+    "privacyBody": "Nous gardons ton nom, ton grade, tes matières, tes progrès et tes discussions pour que l'application puisse t'aider. Tu peux supprimer tes discussions à tout moment.",
+    "gradeHint": "Changer de grade affiche les unités de ce grade. Ta progression dans les autres grades est conservée.",
+    "subjectsBody": "Les matières que tu suis à l'école. Elles apparaissent dans Apprendre, Révision et Progression.",
+    "save": "Enregistrer",
+    "unsaved": "Tu as des modifications non enregistrées.",
+    "upToDate": "Tout est enregistré.",
+    "appearanceBody": "S'applique tout de suite sur cet appareil.",
+    "deleteAccount": "Pour supprimer ton compte et tout son contenu, demande à un parent, un tuteur légal ou un enseignant de nous contacter.",
+    "readPrivacy": "Lire la politique de confidentialité"
   },
   "privacy": {
     "title": "Avis de confidentialité",
@@ -602,5 +610,10 @@
     "deleteBody": "La note sera supprimée définitivement. C'est irréversible.",
     "deleteConfirm": "Supprimer la note",
     "deleteFailed": "La note n'a pas été supprimée. Vérifie ta connexion et réessaie."
+  },
+  "offline": {
+    "title": "Tu es hors ligne",
+    "body": "Vérifie ta connexion internet. Ton travail est enregistré, et cette page se recharge toute seule quand tu es de nouveau en ligne.",
+    "retry": "Réessayer"
   }
 }

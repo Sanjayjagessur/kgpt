@@ -260,7 +260,7 @@ function GradeStep({ value, onChange }: { value: number | null; onChange: (g: nu
   );
 }
 
-function SubjectStep({
+export function SubjectStep({
   available,
   value,
   onChange,
@@ -331,7 +331,7 @@ function SubjectStep({
   );
 }
 
-function LocaleChoice<T extends "en" | "fr" | "mfe">({
+export function LocaleChoice<T extends "en" | "fr" | "mfe">({
   label,
   options,
   value,
