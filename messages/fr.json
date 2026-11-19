@@ -95,13 +95,68 @@
     "termsNote": "En créant un compte, tu acceptes les <terms>conditions d'utilisation</terms>."
   },
   "landing": {
-    "title": "Tes leçons, un tuteur patient et des révisions qui restent.",
-    "body": "Conçu pour les élèves du secondaire à Maurice, du Grade 7 au Grade 13, selon le programme national.",
+    "navLabel": "Principal",
+    "navSyllabus": "Programme",
+    "navSafety": "Sécurité",
+    "badge": "Grade 7 à 13 · NCF, SC et HSC",
+    "title": "Le tuteur qui connaît ton programme.",
+    "body": "Des leçons, un tuteur patient et des révisions conçus pour les élèves du secondaire à Maurice. Il donne des pistes plutôt que les réponses, parle anglais, français et kreol morisien, et protège les élèves.",
     "start": "Commencer",
-    "signIn": "J'ai un compte",
-    "pointLearn": "Chaque matière, unité par unité, avec des exemples résolus.",
-    "pointChat": "Un tuteur qui donne des indices pour les devoirs, pas les réponses.",
-    "pointRevise": "Des cartes mémoire qui reviennent juste avant que tu oublies."
+    "signIn": "J'ai déjà un compte",
+    "languagesLabel": "Langues",
+    "demo": {
+      "label": "Exemple du tuteur qui aide aux devoirs",
+      "mode": "Aide aux devoirs · des pistes, pas les réponses",
+      "question": "Comment résoudre 5x + 4 = 2x + 19 ?",
+      "unit": "Grade 9 Maths · Équations linéaires",
+      "reply": "Commençons par mettre tous les termes en x d'un côté, et les nombres de l'autre.",
+      "hintLabel": "Piste 1",
+      "hint": "Que pourrais-tu enlever des deux côtés pour que x n'apparaisse qu'à gauche ?",
+      "caption": "Le tuteur indique l'unité de la question, puis guide étape par étape."
+    },
+    "syllabus": {
+      "title": "Organisé autour du programme national",
+      "body": "Chaque matière est découpée par grade et par unité : le tuteur répond à ton niveau, avec les mots de tes professeurs. Les questions hors programme reçoivent aussi une vraie réponse.",
+      "ncfGrades": "Grade 7 à 9",
+      "ncfTitle": "National Curriculum Framework",
+      "ncfBody": "Le premier cycle du secondaire, unité par unité, avec des vérifications à la fin de chaque leçon.",
+      "scGrades": "Grade 10 et 11",
+      "scTitle": "School Certificate",
+      "scBody": "Des questions de type examen corrigées selon un barème, avec ce qui manquait.",
+      "hscGrades": "Grade 12 et 13",
+      "hscTitle": "Higher School Certificate",
+      "hscBody": "Des unités plus poussées, des résumés et des cartes qui reviennent juste avant que tu oublies."
+    },
+    "safety": {
+      "title": "Sûr pour un enfant de 11 ans",
+      "body": "Conçu pour les élèves de moins de 18 ans dès la première ligne de code.",
+      "checkedTitle": "Chaque réponse vérifiée avant",
+      "checkedBody": "Chaque partie d'une réponse est vérifiée avant que l'élève la voie, pas après.",
+      "privateTitle": "Coordonnées retirées",
+      "privateBody": "Les numéros de téléphone, adresses e-mail et numéros d'identité sont retirés avant tout enregistrement.",
+      "hintsTitle": "Des pistes, pas les réponses",
+      "hintsBody": "L'aide aux devoirs avance étape par étape. Les rédactions sont accompagnées, jamais écrites à ta place.",
+      "careTitle": "De l'aide quand il le faut",
+      "careBody": "Si un élève semble inquiet ou en danger, le tuteur arrête la leçon et l'oriente vers un adulte de confiance et les bonnes personnes à appeler."
+    },
+    "language": {
+      "title": "Apprends dans la langue de ta pensée",
+      "body": "Passe de l'anglais au français ou au kreol morisien à tout moment. Les matières de langue sont enseignées dans leur propre langue.",
+      "en": "What are equivalent fractions?",
+      "fr": "C'est quoi des fractions équivalentes ?",
+      "mfe": "Ki ete fraksion ekivalan?"
+    },
+    "cta": {
+      "title": "Prêt pour la leçon du jour ?",
+      "body": "Choisis ton grade et tes matières en moins d'une minute. Les leçons restent toujours gratuites.",
+      "button": "Créer mon compte"
+    },
+    "footer": {
+      "made": "myKPT · Fait à Maurice",
+      "privacy": "Confidentialité",
+      "terms": "Conditions",
+      "help": "Obtenir de l'aide"
+    }
   },
   "onboarding": {
     "step": "Étape {current} sur {total}",

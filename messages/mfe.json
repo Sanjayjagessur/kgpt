@@ -95,13 +95,68 @@
     "termsNote": "Kan ou kreye enn kont, ou dakor avek <terms>kondision itilizasion</terms>."
   },
   "landing": {
-    "title": "To bann leson, enn tuter pasian ek revizion ki res dan latet.",
-    "body": "Fer pou bann elev segonder Moris, depi Grade 7 ziska Grade 13, swiv kourikoulom nasional.",
+    "navLabel": "Prinsipal",
+    "navSyllabus": "Program",
+    "navSafety": "Sekirite",
+    "badge": "Grade 7 ziska 13 · NCF, SC ek HSC",
+    "title": "Tuter ki konn to program.",
+    "body": "Leson, enn tuter pasian ek revizion ki finn fer pou bann elev segonder Moris. Li donn pist olie repons, li koz Angle, Franse ek Kreol Morisien, ek li protez bann elev.",
     "start": "Koumanse",
-    "signIn": "Mo ena enn kont",
-    "pointLearn": "Sak matier, inite par inite, avek bann egzanp rezoud.",
-    "pointChat": "Enn tuter ki donn bann indis pou devwar olie donn repons.",
-    "pointRevise": "Bann flashcard ki retourn zis avan ou bliye."
+    "signIn": "Mo deza ena enn kont",
+    "languagesLabel": "Lang",
+    "demo": {
+      "label": "Egzanp tuter-la pe ed ar devwar",
+      "mode": "Led pou devwar · pist, pa repons",
+      "question": "Kouma pou rezourd 5x + 4 = 2x + 19?",
+      "unit": "Grade 9 Mat · Ekwasyon lineer",
+      "reply": "Anou met tou bann term x enn kote dabor, ek bann nonb lot kote.",
+      "hintLabel": "Pist 1",
+      "hint": "Ki to kapav tir lor toulede kote pou ki x res zis agos?",
+      "caption": "Tuter-la dir dan ki inite kestion-la ete, apre li gid twa pa-a-pa."
+    },
+    "syllabus": {
+      "title": "Organize otour program nasional",
+      "body": "Sak size organize par grade ek par inite, koumsa tuter-la reponn dan to nivo ek servi mem mo ki to bann profeser servi. Kestion ki deor bann inite gagn enn vre repons osi.",
+      "ncfGrades": "Grade 7 ziska 9",
+      "ncfTitle": "National Curriculum Framework",
+      "ncfBody": "Premie sik segonder, inite par inite, avek verifikasion lafin sak leson.",
+      "scGrades": "Grade 10 ek 11",
+      "scTitle": "School Certificate",
+      "scBody": "Kestion kouma lekzamen, koreze dapre enn bareme, avek seki ti manke.",
+      "hscGrades": "Grade 12 ek 13",
+      "hscTitle": "Higher School Certificate",
+      "hscBody": "Inite pli profon, rezime ek kart ki retourne zis avan to bliye."
+    },
+    "safety": {
+      "title": "An sekirite pou enn zanfan 11 an",
+      "body": "Finn fer pou bann elev ki ena mwins ki 18 an depi premie lign kod.",
+      "checkedTitle": "Sak repons verifie avan",
+      "checkedBody": "Sak parti enn repons verifie avan ki elev-la trouv li, pa apre.",
+      "privateTitle": "Detay kontak tire",
+      "privateBody": "Nimero telefonn, ladres imel ek nimero idantite tire avan ki nanye anrezistre.",
+      "hintsTitle": "Pist, pa repons devwar",
+      "hintsBody": "Led pou devwar avanse pa-a-pa. Redaksion akonpagne, zame ekrir pou twa.",
+      "careTitle": "Led kan bizin",
+      "careBody": "Si enn elev paret trakase ouswa an danze, tuter-la aret leson-la ek montre li enn adilt ki li fer konfians ek bann bon dimoun pou apele."
+    },
+    "language": {
+      "title": "Aprann dan lang ki to panse",
+      "body": "Sanz ant Angle, Franse ek Kreol Morisien nenport ki ler. Bann size lang ansegne dan zot prop lang.",
+      "en": "What are equivalent fractions?",
+      "fr": "C'est quoi des fractions équivalentes ?",
+      "mfe": "Ki ete fraksion ekivalan?"
+    },
+    "cta": {
+      "title": "Pare pou leson zordi?",
+      "body": "Swazir to grade ek to bann size an mwins ki enn minit. Leson touletan gratis pou ouver.",
+      "button": "Kre mo kont"
+    },
+    "footer": {
+      "made": "myKPT · Fer dan Moris",
+      "privacy": "Konfidansialite",
+      "terms": "Kondisyon",
+      "help": "Gagn led"
+    }
   },
   "onboarding": {
     "step": "Letap {current} lor {total}",

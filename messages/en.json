@@ -95,13 +95,68 @@
     "termsNote": "By creating an account you agree to the <terms>terms of use</terms>."
   },
   "landing": {
-    "title": "Your lessons, a patient tutor and revision that sticks.",
-    "body": "Built for Mauritian secondary students from Grade 7 to Grade 13, following the national curriculum.",
+    "navLabel": "Main",
+    "navSyllabus": "Curriculum",
+    "navSafety": "Safety",
+    "badge": "Grades 7 to 13 · NCF, SC and HSC",
+    "title": "The tutor that knows your curriculum.",
+    "body": "Lessons, a patient tutor and revision built for Mauritian secondary students. It gives hints instead of answers, speaks English, French and Kreol Morisien, and keeps students safe.",
     "start": "Get started",
     "signIn": "I have an account",
-    "pointLearn": "Every subject, unit by unit, with worked examples.",
-    "pointChat": "A tutor that gives hints for homework instead of answers.",
-    "pointRevise": "Flashcards that come back just before you forget them."
+    "languagesLabel": "Languages",
+    "demo": {
+      "label": "Example of the tutor helping with homework",
+      "mode": "Homework help · hints, not answers",
+      "question": "How do I solve 5x + 4 = 2x + 19?",
+      "unit": "Grade 9 Maths · Linear equations",
+      "reply": "Let's get all the x terms on one side first, then the numbers on the other.",
+      "hintLabel": "Hint 1",
+      "hint": "What could you take away from both sides so that x only appears on the left?",
+      "caption": "The tutor names the unit the question belongs to, then guides one step at a time."
+    },
+    "syllabus": {
+      "title": "Organised around the national curriculum",
+      "body": "Every subject is set out by grade and unit, so the tutor pitches its answers at your level and uses the words your teachers use. Questions outside the units still get a proper answer.",
+      "ncfGrades": "Grades 7 to 9",
+      "ncfTitle": "National Curriculum Framework",
+      "ncfBody": "Lower secondary, unit by unit, with checks at the end of every lesson.",
+      "scGrades": "Grades 10 and 11",
+      "scTitle": "School Certificate",
+      "scBody": "Exam-style questions marked against a mark scheme, with feedback on what was missing.",
+      "hscGrades": "Grades 12 and 13",
+      "hscTitle": "Higher School Certificate",
+      "hscBody": "Deeper units, summaries and flashcards that come back just before you forget them."
+    },
+    "safety": {
+      "title": "Safe for an 11-year-old",
+      "body": "Built for students under 18 from the first line of code.",
+      "checkedTitle": "Every reply checked first",
+      "checkedBody": "Each part of a reply is checked for safety before the student sees it, not after.",
+      "privateTitle": "Contact details removed",
+      "privateBody": "Phone numbers, email addresses and ID numbers are taken out before anything is saved.",
+      "hintsTitle": "Hints, not homework answers",
+      "hintsBody": "Homework help guides one step at a time. Essays are coached, never written for you.",
+      "careTitle": "Help when it matters",
+      "careBody": "If a student seems worried or unsafe, the tutor stops teaching and points them to a trusted adult and the right people to call."
+    },
+    "language": {
+      "title": "Learn in the language you think in",
+      "body": "Switch between English, French and Kreol Morisien at any time. Language subjects are taught in their own language.",
+      "en": "What are equivalent fractions?",
+      "fr": "C'est quoi des fractions équivalentes ?",
+      "mfe": "Ki ete fraksion ekivalan?"
+    },
+    "cta": {
+      "title": "Ready for today's lesson?",
+      "body": "Pick your grade and subjects in under a minute. Lessons are always free to open.",
+      "button": "Create my account"
+    },
+    "footer": {
+      "made": "myKPT · Made in Mauritius",
+      "privacy": "Privacy",
+      "terms": "Terms",
+      "help": "Get help"
+    }
   },
   "onboarding": {
     "step": "Step {current} of {total}",
