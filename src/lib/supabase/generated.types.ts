@@ -1144,6 +1144,7 @@ export type Database = {
           p_grade: number
           p_limit?: number
           p_locale: Database["public"]["Enums"]["locale_code"]
+          p_min_rank?: number
           p_query: string
           p_subjects: string[]
         }

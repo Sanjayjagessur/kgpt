@@ -42,12 +42,10 @@ export class OutputGuard {
     this.pending += delta;
     const min = this.chunks === 0 ? FIRST_CHUNK_CHARS : CHUNK_CHARS;
     if (this.pending.length < min) return;
-    // Cut at the last paragraph break (or line break) so checks see whole thoughts.
-    let cut = this.pending.lastIndexOf("\n\n");
-    if (cut < min / 2) cut = this.pending.lastIndexOf("\n");
-    if (cut < min / 2) return;
-    this.enqueue(this.pending.slice(0, cut + 1));
-    this.pending = this.pending.slice(cut + 1);
+    const cut = cutPoint(this.pending, min);
+    if (cut <= 0) return;
+    this.enqueue(this.pending.slice(0, cut));
+    this.pending = this.pending.slice(cut);
   }
 
   /** Releases whatever is left and waits for every check to finish. */
@@ -72,4 +70,30 @@ export class OutputGuard {
       this.emit(text);
     });
   }
+}
+
+/**
+ * Where to end the next checked piece (exclusive index), or 0 to keep waiting.
+ * Prefers whole paragraphs, then whole lines; for long unbroken text (essays,
+ * long Kreol answers) a sentence end; and past a hard cap, the last space.
+ */
+export function cutPoint(text: string, min: number): number {
+  const lastAfter = (re: RegExp) => {
+    let at = -1;
+    for (const m of text.matchAll(re)) at = m.index + m[0].length;
+    return at;
+  };
+  const paragraph = text.lastIndexOf("\n\n");
+  if (paragraph >= min / 2) return paragraph + 2;
+  const line = text.lastIndexOf("\n");
+  if (line >= min / 2) return line + 1;
+  if (text.length >= min * 2) {
+    const sentence = lastAfter(/[.!?;:](?:["'”»)\]]*)\s+/g);
+    if (sentence >= min / 2) return sentence;
+  }
+  if (text.length >= min * 3) {
+    const space = text.lastIndexOf(" ");
+    return space > 0 ? space + 1 : text.length;
+  }
+  return 0;
 }

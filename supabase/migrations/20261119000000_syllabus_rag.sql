@@ -69,15 +69,18 @@ create policy "syllabus readable" on public.syllabus_chunks for select to authen
 -- No insert/update/delete policies: writes use the service role only.
 
 -- Ranked keyword search for the tutor. Runs as the caller (RLS applies).
--- Matches the student's subject (or any of their subjects when p_subject is null),
+-- Matches the student's subject (or any of their subjects when several are given),
 -- content at or below their grade, in their language plus English as a fallback.
--- Official and teacher material ranks above AI-drafted outlines.
+-- Words are OR-ed (a question rarely shares every word with the syllabus), then
+-- results under p_min_rank are dropped so a single common word doesn't match.
+-- Official and teacher material ranks above AI-drafted outlines; one hit per unit.
 create or replace function public.search_syllabus(
   p_query text,
   p_grade smallint,
   p_locale public.locale_code,
   p_subjects text[],
-  p_limit integer default 4
+  p_limit integer default 4,
+  p_min_rank real default 0.1
 )
 returns table (
   id bigint,
@@ -98,25 +101,37 @@ set search_path = ''
 as $$
   with q as (
     select
-      websearch_to_tsquery('english'::regconfig, p_query) as en,
-      websearch_to_tsquery('french'::regconfig, p_query) as fr,
-      websearch_to_tsquery('simple'::regconfig, p_query) as mfe
+      nullif(replace(plainto_tsquery('english'::regconfig, p_query)::text, ' & ', ' | '), '')::tsquery as en,
+      nullif(replace(plainto_tsquery('french'::regconfig, p_query)::text, ' & ', ' | '), '')::tsquery as fr,
+      nullif(replace(plainto_tsquery('simple'::regconfig, p_query)::text, ' & ', ' | '), '')::tsquery as mfe
+  ),
+  hits as (
+    select
+      c.id, d.title as document_title, c.subject_id, c.grade_min, c.grade_max, c.source, c.unit_id, c.heading, c.content,
+      (ts_rank_cd(c.fts, case c.locale when 'en' then q.en when 'fr' then q.fr else q.mfe end, 1)
+        * case c.source when 'official' then 1.5 when 'teacher' then 1.2 else 1.0 end
+        -- Prefer the student's language; English is a fallback.
+        * case when c.locale = p_locale then 1.2 else 0.8 end
+        -- Prefer content written for the student's own grade.
+        * case when p_grade between c.grade_min and c.grade_max then 1.2 else 1.0 end)::real as rank
+    from public.syllabus_chunks c
+    join public.syllabus_documents d on d.id = c.document_id
+    cross join q
+    where c.subject_id = any (p_subjects)
+      and c.grade_min <= p_grade
+      and c.locale in (p_locale, 'en')
+      and c.fts @@ case c.locale when 'en' then q.en when 'fr' then q.fr else q.mfe end
+  ),
+  best_per_unit as (
+    select distinct on (coalesce(h.unit_id::text, h.id::text)) h.*
+    from hits h
+    where h.rank >= p_min_rank
+    order by coalesce(h.unit_id::text, h.id::text), h.rank desc
   )
-  select
-    c.id, d.title, c.subject_id, c.grade_min, c.grade_max, c.source, c.unit_id, c.heading, c.content,
-    (ts_rank_cd(c.fts, case c.locale when 'en' then q.en when 'fr' then q.fr else q.mfe end)
-      * case c.source when 'official' then 1.5 when 'teacher' then 1.2 else 1.0 end
-      * case when c.locale = p_locale then 1.2 else 1.0 end)::real as rank
-  from public.syllabus_chunks c
-  join public.syllabus_documents d on d.id = c.document_id
-  cross join q
-  where c.subject_id = any (p_subjects)
-    and c.grade_min <= p_grade
-    and c.locale in (p_locale, 'en')
-    and c.fts @@ case c.locale when 'en' then q.en when 'fr' then q.fr else q.mfe end
+  select * from best_per_unit
   order by rank desc
   limit least(greatest(p_limit, 1), 8);
 $$;
 
-revoke execute on function public.search_syllabus(text, smallint, public.locale_code, text[], integer) from public, anon;
-grant execute on function public.search_syllabus(text, smallint, public.locale_code, text[], integer) to authenticated;
+revoke execute on function public.search_syllabus(text, smallint, public.locale_code, text[], integer, real) from public, anon;
+grant execute on function public.search_syllabus(text, smallint, public.locale_code, text[], integer, real) to authenticated;

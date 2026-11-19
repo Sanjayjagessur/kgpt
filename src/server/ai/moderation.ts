@@ -7,7 +7,7 @@ import { createAdminClient } from "@/server/supabase-admin";
 import { anthropic } from "./client";
 import { MODELS } from "./models";
 import { MODERATION_SYSTEM } from "./prompts/tutor";
-import { localSelfHarmScreen } from "./safety";
+import { localSelfHarmScreen } from "@/lib/safety";
 
 const ModerationSchema = z.object({
   category: z.enum(["ok", "self_harm", "sexual", "violence", "hate", "dangerous", "personal_data", "manipulation"]),
@@ -18,6 +18,9 @@ export type ModerationCategory = z.infer<typeof ModerationSchema>["category"];
 const BLOCKING_INPUT = new Set<ModerationCategory>(["self_harm", "sexual", "violence", "hate", "dangerous", "manipulation"]);
 /** Categories that stop a tutor reply from reaching the student. */
 const BLOCKING_OUTPUT = new Set<ModerationCategory>(["sexual", "violence", "hate", "dangerous"]);
+
+/** A stuck safety check must not freeze the tutor: after this, the fallback below runs. */
+const MODERATION_TIMEOUT_MS = 6000;
 
 export type ModerationResult = { category: ModerationCategory; failed: boolean };
 
@@ -39,7 +42,7 @@ export async function moderate(text: string, images: Anthropic.ImageBlockParam[]
       system: [{ type: "text", text: MODERATION_SYSTEM, cache_control: { type: "ephemeral" } }],
       output_config: { format: zodOutputFormat(ModerationSchema) },
       messages: [{ role: "user", content }],
-    });
+    }, { timeout: MODERATION_TIMEOUT_MS, maxRetries: 1 });
     return { category: response.parsed_output?.category ?? "ok", failed: false };
   } catch (err) {
     console.error("moderation failed", (err as Error).message);

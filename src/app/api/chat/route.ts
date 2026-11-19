@@ -7,7 +7,7 @@ import { anthropic } from "@/server/ai/client";
 import { blockingOutputCategory, isBlockingInput, logModeration, moderate, type ModerationCategory } from "@/server/ai/moderation";
 import { OutputGuard } from "@/server/ai/output-guard";
 import { consumeAiQuota, hasAiAccess, PLAN_REQUIRED } from "@/server/ai/quota";
-import { redactPersonalData } from "@/server/ai/safety";
+import { redactPersonalData, stripReservedTags } from "@/lib/safety";
 import { searchSyllabus, syllabusContextBlock } from "@/server/ai/syllabus";
 import { buildTutorRequest, generateTitle, loadAttachmentBlocks, type HistoryMessage } from "@/server/ai/tutor";
 import { parseAttachments } from "@/server/chat";
@@ -45,8 +45,9 @@ export async function POST(req: Request) {
   const supabase = await createClient();
   const t = await getTranslations({ locale: student.profile.tutor_locale, namespace: "chat" });
 
-  // 1. Contact details and ID numbers never reach storage or the AI.
-  const { text } = redactPersonalData(parsed.data.text, t("safety.redacted"));
+  // 1. Contact details and ID numbers never reach storage or the AI, and students
+  // can't type the platform-only markup the tutor trusts.
+  const { text } = redactPersonalData(stripReservedTags(parsed.data.text), t("safety.redacted"));
 
   // 2. Screen the message and its images while the chat is set up.
   const attachmentBlocksJob = loadAttachmentBlocks(supabase, student.id, attachments);

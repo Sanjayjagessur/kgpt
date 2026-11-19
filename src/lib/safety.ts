@@ -1,17 +1,19 @@
-import "server-only";
 
 /**
  * Deterministic safety helpers that work without any AI call.
- * They back up the AI classifier and never replace it.
+ * They back up the AI classifier and never replace it. Pure functions with no
+ * secrets, so they can also run in the browser (e.g. to warn before sending).
  */
 
 const EMAIL = /[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}/g;
-// Phone numbers, written so that numbers in maths working are left alone:
-// - anything after +230 / 00230, or any international "+" number;
+// Phone numbers, written so that numbers in maths and science are left alone:
+// - "+" international numbers ("+230 5765 4321", "+33 6 12 34 56 78"), only when "+" is not part of a sum;
+// - "00 230" Mauritian international prefix;
 // - Mauritian mobiles: 8 digits starting with 5 ("5123 4567", "51234567");
 // - landlines only in the usual 3-4 grouping ("212 3456", "212-3456"), never as a bare 7-digit number.
+// Thousands groups ("1 002 345 678"), decimals and constants (6.02 × 10^23) never match.
 const PHONE =
-  /(?:\+|00)\s?\d{1,3}[\s.-]?\d[\d\s.-]{5,14}\d|(?<![\d.,])(?:5\d{3}[\s.-]?\d{4}|[2-9]\d{2}[\s-]\d{4})(?![\d.,])/g;
+  /(?<![\d.,+\-×*/=(]\s?)(?:\+\d{1,3}|00\s?230)[\s.-]?\d[\d\s.-]{5,14}\d(?![\d.,])|(?<![\d.,+\-×*/=(]\s?)(?:5\d{3}[\s.-]?\d{4}|[2-9]\d{2}[\s-]\d{4})(?![\d.,]|\s\d)/g;
 // Mauritian National Identity Card: letter, 12 digits, letter/digit (14 characters).
 const NIC = /\b[A-Za-z]\d{12}[A-Za-z0-9]\b/g;
 
@@ -51,4 +53,11 @@ const SELF_HARM = [
 /** Local fallback screen. Returns "self_harm" on a clear match, otherwise null. */
 export function localSelfHarmScreen(text: string): "self_harm" | null {
   return SELF_HARM.some((re) => re.test(text)) ? "self_harm" : null;
+}
+
+/** Platform-only markup the tutor trusts. Removed from student text so it can't be forged. */
+const RESERVED_TAGS = /<\s*\/?\s*(syllabus_context|extract)\b[^>]*>/gi;
+
+export function stripReservedTags(text: string): string {
+  return text.replace(RESERVED_TAGS, "");
 }
