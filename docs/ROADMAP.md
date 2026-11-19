@@ -105,7 +105,7 @@ The design system is already strong (lagoon/flamboyant palette, Atkinson Hyperle
 | Phase | Content | Status |
 |---|---|---|
 | A | Roadmap; safety guardrails; help page | **Done** |
-| A2 | RAG foundation and ingestion | **Built, not live**: apply migration, load outlines, check retrieval |
+| A2 | RAG foundation and ingestion | **Search live** (19 Nov): migrations applied, 57 draft outline documents loaded, retrieval checked on 14 questions in en/fr/mfe. A full live tutor chat is still to be checked (blocked: the Anthropic API key in `.env.local` returns 401) |
 | B | Parental consent gate; data export/delete; CSP/HSTS; red-team suite; security.txt | Next |
 | C | Load official syllabi; embeddings; ground lessons and summaries; past papers | Next (needs your source documents and an embeddings key) |
 | D | Study planner and exam countdown; check-my-working; parent digest; offline unit packs | Next |
