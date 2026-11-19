@@ -82,3 +82,18 @@ test("signed-in students are sent from sign-in to learning", async ({ page }) =>
   await page.goto("/sign-in");
   await expect(page).toHaveURL(/\/learn$/);
 });
+
+test("with billing switched off, an ended trial shows no trial or plan screens", async ({ page }) => {
+  test.skip(process.env.BILLING_ENABLED === "true", "billing is switched on in this environment");
+  await signIn(page);
+  await onboard(page);
+  await adminClient()!
+    .from("profiles")
+    .update({ trial_ends_at: new Date(Date.now() - 86_400_000).toISOString() })
+    .eq("id", student!.id);
+
+  await page.goto("/learn");
+  await expect(page.getByText(/free trial/i)).toHaveCount(0);
+  await page.goto("/settings");
+  await expect(page.getByRole("heading", { name: "Plan", exact: true })).toHaveCount(0);
+});

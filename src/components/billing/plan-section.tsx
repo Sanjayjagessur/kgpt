@@ -1,10 +1,12 @@
 import { CreditCard } from "lucide-react";
 import { getFormatter, getTranslations } from "next-intl/server";
+import { billingEnabled } from "@/server/billing/enabled";
 import { getEntitlement } from "@/server/billing/entitlement";
 import { ParentLink } from "./parent-link";
 
 /** Settings → Plan: what the student has now, and a link for a parent when they need a plan. */
 export async function PlanSection() {
+  if (!billingEnabled()) return null;
   const entitlement = await getEntitlement();
   if (!entitlement) return null;
   const [t, format] = await Promise.all([getTranslations("billing"), getFormatter()]);

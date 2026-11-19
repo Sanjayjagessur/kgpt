@@ -1,6 +1,7 @@
 import "server-only";
 
 import { createClient } from "@/lib/supabase/server";
+import { billingEnabled } from "@/server/billing/enabled";
 
 /** Requests per student per rolling hour, across all AI features. */
 export const AI_REQUESTS_PER_HOUR = 60;
@@ -28,6 +29,7 @@ export async function consumeAiQuota(): Promise<boolean> {
  * exam marking: trial still running or a paid plan. Lessons are not gated.
  */
 export async function hasAiAccess(): Promise<boolean> {
+  if (!billingEnabled()) return true;
   const supabase = await createClient();
   const { data, error } = await supabase.rpc("has_ai_access");
   if (error) {

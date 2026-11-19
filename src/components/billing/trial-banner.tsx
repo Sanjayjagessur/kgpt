@@ -2,10 +2,12 @@ import { CircleAlert, Clock } from "lucide-react";
 import Link from "next/link";
 import { getTranslations } from "next-intl/server";
 import { billingConfig } from "@/config/billing";
+import { billingEnabled } from "@/server/billing/enabled";
 import { getEntitlement } from "@/server/billing/entitlement";
 
 /** Slim notice under the header: last days of the trial, trial over, or a failed payment. */
 export async function TrialBanner() {
+  if (!billingEnabled()) return null;
   const entitlement = await getEntitlement();
   if (!entitlement) return null;
   const t = await getTranslations("billing");
