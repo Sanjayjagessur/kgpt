@@ -84,10 +84,11 @@ export async function recordLessonCompletion(userId: string, lessonId: string, s
   return !error;
 }
 
-/** Recalculates mastery for the unit a lesson belongs to. */
-export async function refreshUnitMastery(userId: string, lessonId: string) {
+/** Recalculates mastery for the unit a lesson belongs to. Returns the unit id when it has just been mastered. */
+export async function refreshUnitMastery(userId: string, lessonId: string): Promise<string | null> {
   const { data: lesson } = await createAdminClient().from("lessons").select("unit_id").eq("id", lessonId).maybeSingle();
-  if (lesson) await refreshMasteryForUnit(userId, lesson.unit_id);
+  if (!lesson) return null;
+  return (await refreshMasteryForUnit(userId, lesson.unit_id)) ? lesson.unit_id : null;
 }
 
 /**
@@ -95,10 +96,12 @@ export async function refreshUnitMastery(userId: string, lessonId: string) {
  * score and the best revision quiz score, so a quiz can only raise it.
  * Mastered = every lesson completed and a result of at least 80%.
  * Score = share of lessons completed × result.
+ * Returns true only when this call moved the unit to "mastered" (so the
+ * celebration shows once, never on a reload or a repeat).
  */
-export async function refreshMasteryForUnit(userId: string, unitId: string) {
+export async function refreshMasteryForUnit(userId: string, unitId: string): Promise<boolean> {
   const admin = createAdminClient();
-  const [{ count: total }, { data: progress }, { data: quizzes }] = await Promise.all([
+  const [{ count: total }, { data: progress }, { data: quizzes }, { data: previous }] = await Promise.all([
     admin.from("lessons").select("id", { count: "exact", head: true }).eq("unit_id", unitId),
     admin
       .from("lesson_progress")
@@ -111,8 +114,9 @@ export async function refreshMasteryForUnit(userId: string, unitId: string) {
       .eq("user_id", userId)
       .eq("unit_id", unitId)
       .not("completed_at", "is", null),
+    admin.from("topic_mastery").select("level").eq("user_id", userId).eq("unit_id", unitId).maybeSingle(),
   ]);
-  if (!total) return;
+  if (!total) return false;
 
   const completed = (progress ?? []).filter((p) => p.status === "completed");
   const scores = completed.map((p) => Number(p.best_score ?? 0));
@@ -120,12 +124,13 @@ export async function refreshMasteryForUnit(userId: string, unitId: string) {
   const bestQuiz = Math.max(0, ...(quizzes ?? []).map((q) => Number(q.score ?? 0)));
   const result = Math.max(lessonAverage, bestQuiz);
   const started = (progress ?? []).length > 0 || (quizzes ?? []).length > 0;
-  if (!started) return;
+  if (!started) return false;
 
   const score = Math.round((completed.length / total) * result * 100) / 100;
   const level = completed.length === total && result >= MASTERY_SCORE ? "mastered" : "learning";
 
-  await admin
+  const { error } = await admin
     .from("topic_mastery")
     .upsert({ user_id: userId, unit_id: unitId, level, score }, { onConflict: "user_id,unit_id" });
+  return !error && level === "mastered" && previous?.level !== "mastered";
 }

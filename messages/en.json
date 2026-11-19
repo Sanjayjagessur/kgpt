@@ -820,5 +820,13 @@
     "examSave": "Save exam",
     "examDateError": "Pick a date between today and two years from now.",
     "examError": "That didn't save. Check your connection and try again."
+  },
+  "mastery": {
+    "eyebrow": "Unit mastered",
+    "unitOf": "{subject} · Grade {grade} · Unit {unit}",
+    "progress": "{mastered} of {total} units mastered",
+    "keepFresh": "Your flashcards for this unit will come back to keep it fresh.",
+    "next": "Next: {title}",
+    "backToToday": "Back to today"
   }
 }

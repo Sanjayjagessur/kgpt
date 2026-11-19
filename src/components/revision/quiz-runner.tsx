@@ -9,6 +9,8 @@ import { Button } from "@/components/ui/button";
 import { ButtonLink } from "@/components/ui/button-link";
 import { QUIZ_LENGTH } from "@/lib/revision";
 import { cn } from "@/lib/utils";
+import { MasteryDialog } from "@/components/progress/mastery-dialog";
+import type { MasteryMoment } from "@/lib/mastery";
 import { startQuiz, submitQuiz } from "@/server/actions/revision";
 
 type Question = { question: string; options: string[] };
@@ -39,6 +41,7 @@ export function QuizRunner({
   const [answers, setAnswers] = useState<(number | null)[]>([]);
   const [results, setResults] = useState<{ correct: number; score: number; items: Result[] } | null>(null);
   const [error, setError] = useState<"start" | "submit" | null>(null);
+  const [mastered, setMastered] = useState<MasteryMoment | null>(null);
   const [pending, startTransition] = useTransition();
   const topRef = useRef<HTMLDivElement>(null);
 
@@ -61,6 +64,7 @@ export function QuizRunner({
       const res = await submitQuiz({ attemptId: quiz.attemptId, answers });
       if (!res.ok) return setError("submit");
       setResults({ correct: res.correct, score: res.score, items: res.results });
+      setMastered(res.mastered);
       topRef.current?.scrollIntoView({ block: "start", behavior: "smooth" });
       topRef.current?.focus({ preventScroll: true });
     });
@@ -70,6 +74,7 @@ export function QuizRunner({
 
   return (
     <div ref={topRef} tabIndex={-1} className="scroll-mt-28 space-y-4 outline-none">
+      <MasteryDialog moment={mastered} onClose={() => setMastered(null)} />
       {!quiz ? (
         <div className="rounded-xl bg-card p-5 shadow-sm sm:p-6">
           <div className="flex items-start gap-4">

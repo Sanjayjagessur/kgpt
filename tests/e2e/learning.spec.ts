@@ -111,3 +111,54 @@ test("the lesson API rejects signed-out requests", async ({ request }) => {
   const res = await request.post(`/api/lessons/${LESSON}/content`);
   expect(res.status()).toBe(401);
 });
+
+test("mastering a unit shows the celebration once", async ({ page }) => {
+  const admin = adminClient()!;
+  // Every other lesson in the unit is done and a quiz scored 100%, so finishing this lesson masters the unit.
+  const { data: lessons } = await admin.from("lessons").select("id").eq("unit_id", UNIT).neq("id", LESSON);
+  const now = new Date().toISOString();
+  await admin.from("lesson_progress").insert(
+    lessons!.map((l) => ({
+      user_id: student!.id,
+      lesson_id: l.id,
+      status: "completed" as const,
+      best_score: 100,
+      last_viewed_at: now,
+      completed_at: now,
+    })),
+  );
+  await admin
+    .from("quiz_attempts")
+    .insert({ user_id: student!.id, unit_id: UNIT, questions: [], answers: [], score: 100, completed_at: now });
+
+  await page.goto(LESSON_URL);
+  const checks = page.locator('section[aria-labelledby="checks-title"] article');
+  const count = await checks.count();
+  for (let i = 0; i < count; i++) {
+    const q = checks.nth(i);
+    if ((await q.getByRole("radio").count()) > 0) {
+      await q.locator("label").first().click();
+      await q.getByRole("button", { name: "Check answer" }).click();
+    } else {
+      await q.getByRole("button", { name: "Show model answer" }).click();
+      await q.getByRole("button", { name: "Yes, I got it" }).click();
+    }
+  }
+  await page.getByRole("button", { name: "Mark lesson as complete" }).click();
+
+  const dialog = page.getByRole("dialog");
+  await expect(dialog).toBeVisible();
+  await expect(dialog.getByRole("heading", { name: "Numbers and number systems" })).toBeVisible();
+  await expect(dialog).toContainText("Unit mastered");
+  await expect(dialog).toContainText(/1 of \d+ units mastered/);
+  await expect(dialog.getByRole("link", { name: /^Next: / })).toBeVisible();
+
+  const results = await new AxeBuilder({ page }).include('[role="dialog"]').withTags(["wcag2a", "wcag2aa"]).analyze();
+  expect(results.violations.map((v) => v.id)).toEqual([]);
+
+  await page.keyboard.press("Escape");
+  await expect(dialog).toBeHidden();
+  await page.reload();
+  await expect(page.getByText("Lesson complete").or(page.getByRole("heading", { name: "Check your understanding" })).first()).toBeVisible();
+  await expect(page.getByRole("dialog")).toHaveCount(0);
+});

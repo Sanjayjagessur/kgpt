@@ -820,5 +820,13 @@
     "examSave": "Anrezistre",
     "examDateError": "Swazir enn dat ant zordi ek de an.",
     "examError": "Pa finn kapav anrezistre. Get to koneksion ek reseye."
+  },
+  "mastery": {
+    "eyebrow": "Inite metrize",
+    "unitOf": "{subject} · Grade {grade} · Inite {unit}",
+    "progress": "{mastered} lor {total} inite metrize",
+    "keepFresh": "To bann kart pou sa inite-la pou retourne pou ki li res fre.",
+    "next": "Swivan: {title}",
+    "backToToday": "Retourn ar zordi"
   }
 }

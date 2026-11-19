@@ -9,6 +9,8 @@ import { ButtonLink } from "@/components/ui/button-link";
 import { Label } from "@/components/ui/label";
 import { Textarea } from "@/components/ui/textarea";
 import { cn } from "@/lib/utils";
+import { MasteryDialog } from "@/components/progress/mastery-dialog";
+import type { MasteryMoment } from "@/lib/mastery";
 import { completeLesson } from "@/server/actions/progress";
 
 export type RenderedCheck = {
@@ -42,6 +44,7 @@ export function LessonChecks({
   const [answers, setAnswers] = useState<Answer[]>(() => checks.map(() => null));
   const [completed, setCompleted] = useState(false);
   const [failed, setFailed] = useState(false);
+  const [mastered, setMastered] = useState<MasteryMoment | null>(null);
   const [pending, startTransition] = useTransition();
 
   const answered = results.filter((r) => r !== null).length;
@@ -63,11 +66,13 @@ export function LessonChecks({
         return;
       }
       setCompleted(true);
+      setMastered(res.mastered);
     });
   }
 
   return (
     <section aria-labelledby="checks-title" className="space-y-4">
+      <MasteryDialog moment={mastered} onClose={() => setMastered(null)} />
       <div className="flex items-end justify-between gap-3">
         <h2 id="checks-title" className="text-2xl font-bold">
           {t("checkTitle")}

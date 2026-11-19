@@ -1,11 +1,11 @@
 "use server";
 
-import { after } from "next/server";
 import { z } from "zod";
 import { QUIZ_LENGTH, QuizBankSchema } from "@/lib/revision";
 import { RATINGS, schedule } from "@/lib/sm2";
 import { isoDay } from "@/lib/streak";
 import { createClient } from "@/lib/supabase/server";
+import { getMasteryMoment } from "@/server/mastery";
 import { refreshMasteryForUnit } from "@/server/progress-core";
 import { getFlashcardDeck, getQuizBank, getRevisionUnit, revisionLocale } from "@/server/revision";
 import { requireStudent } from "@/server/session";
@@ -149,12 +149,15 @@ export async function submitQuiz(input: z.input<typeof submitSchema>) {
   if (!saved?.length) return { ok: false as const };
   // A good quiz can raise the unit's mastery.
   const unitId = attempt!.unit_id;
-  after(() => refreshMasteryForUnit(student.id, unitId));
+  const mastered = (await refreshMasteryForUnit(student.id, unitId))
+    ? await getMasteryMoment(student.id, unitId, student.profile.ui_locale)
+    : null;
 
   return {
     ok: true as const,
     score,
     correct,
+    mastered,
     results: questions.data.map((q) => ({ correctOption: q.correctOption, explanation: q.explanation })),
   };
 }

@@ -1,10 +1,10 @@
 "use server";
 
-import { after } from "next/server";
 import { z } from "zod";
 import { contentLocale, LessonContentSchema } from "@/lib/lesson-content";
 import { createClient } from "@/lib/supabase/server";
 import { recordLessonCompletion, refreshUnitMastery, scoreAnswers } from "@/server/progress-core";
+import { getMasteryMoment } from "@/server/mastery";
 import { getStudent } from "@/server/session";
 
 const completeSchema = z.object({
@@ -43,7 +43,8 @@ export async function completeLesson(input: z.input<typeof completeSchema>) {
 
   if (!(await recordLessonCompletion(student.id, lessonId, score))) return { ok: false as const };
 
-  // Mastery is recalculated after the response so the student sees completion immediately.
-  after(() => refreshUnitMastery(student.id, lessonId));
-  return { ok: true as const };
+  // Mastery is recalculated now so a newly mastered unit can be celebrated in the response.
+  const masteredUnit = await refreshUnitMastery(student.id, lessonId);
+  const mastered = masteredUnit ? await getMasteryMoment(student.id, masteredUnit, student.profile.ui_locale) : null;
+  return { ok: true as const, mastered };
 }

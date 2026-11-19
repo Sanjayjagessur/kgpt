@@ -820,5 +820,13 @@
     "examSave": "Enregistrer",
     "examDateError": "Choisis une date entre aujourd'hui et dans deux ans.",
     "examError": "L'enregistrement a échoué. Vérifie ta connexion et réessaie."
+  },
+  "mastery": {
+    "eyebrow": "Unité maîtrisée",
+    "unitOf": "{subject} · Grade {grade} · Unité {unit}",
+    "progress": "{mastered} unités maîtrisées sur {total}",
+    "keepFresh": "Tes cartes de cette unité reviendront pour l'entretenir.",
+    "next": "Suivant : {title}",
+    "backToToday": "Retour à aujourd'hui"
   }
 }
