@@ -109,6 +109,7 @@ export type Database = {
           id: number
           mode: Database["public"]["Enums"]["chat_mode"]
           role: Database["public"]["Enums"]["chat_role"]
+          unit_id: string | null
           user_id: string
         }
         Insert: {
@@ -119,6 +120,7 @@ export type Database = {
           id?: never
           mode?: Database["public"]["Enums"]["chat_mode"]
           role: Database["public"]["Enums"]["chat_role"]
+          unit_id?: string | null
           user_id: string
         }
         Update: {
@@ -129,6 +131,7 @@ export type Database = {
           id?: never
           mode?: Database["public"]["Enums"]["chat_mode"]
           role?: Database["public"]["Enums"]["chat_role"]
+          unit_id?: string | null
           user_id?: string
         }
         Relationships: [
@@ -137,6 +140,13 @@ export type Database = {
             columns: ["chat_id"]
             isOneToOne: false
             referencedRelation: "chats"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "chat_messages_unit_id_fkey"
+            columns: ["unit_id"]
+            isOneToOne: false
+            referencedRelation: "units"
             referencedColumns: ["id"]
           },
           {
@@ -695,6 +705,38 @@ export type Database = {
           },
         ]
       }
+      student_exams: {
+        Row: {
+          created_at: string
+          exam_date: string
+          id: string
+          label: string
+          user_id: string
+        }
+        Insert: {
+          created_at?: string
+          exam_date: string
+          id?: string
+          label: string
+          user_id: string
+        }
+        Update: {
+          created_at?: string
+          exam_date?: string
+          id?: string
+          label?: string
+          user_id?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "student_exams_user_id_fkey"
+            columns: ["user_id"]
+            isOneToOne: false
+            referencedRelation: "profiles"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
       student_subjects: {
         Row: {
           created_at: string
@@ -1141,6 +1183,7 @@ export type Database = {
       }
       has_ai_access: { Args: never; Returns: boolean }
       log_study_time: { Args: { p_seconds: number }; Returns: undefined }
+      mfe_normalize: { Args: { p: string }; Returns: string }
       search_syllabus: {
         Args: {
           p_grade: number
@@ -1148,6 +1191,7 @@ export type Database = {
           p_locale: Database["public"]["Enums"]["locale_code"]
           p_min_rank?: number
           p_query: string
+          p_relative_floor?: number
           p_subjects: string[]
         }
         Returns: {

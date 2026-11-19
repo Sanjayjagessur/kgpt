@@ -13,8 +13,9 @@ import {
   DropdownMenuItem,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
+import { stripCalloutMarkers } from "@/lib/callouts";
 import type { UiMessage } from "@/lib/chat";
-import { cn } from "@/lib/utils";
+import { TutorAnswer } from "./tutor-answer";
 import { saveMessageToNotes } from "@/server/actions/chat";
 
 export const FOLLOW_UPS = ["simpler", "detail", "differently", "example"] as const;
@@ -60,7 +61,7 @@ export const ChatMessage = memo(function ChatMessage({ message, streaming, onFol
       <div className="min-w-0 flex-1">
         <h3 className="sr-only">{t("tutor")}</h3>
         {message.content ? (
-          <Markdown className={cn(streaming && "streaming-caret")}>{message.content}</Markdown>
+          <TutorAnswer content={message.content} unit={message.unit} streaming={streaming} />
         ) : (
           <p className="flex items-center gap-2 text-sm text-muted-foreground">
             <Sparkles className="size-4 animate-pulse" aria-hidden="true" />
@@ -83,7 +84,7 @@ function MessageActions({ message, onFollowUp }: { message: UiMessage; onFollowU
 
   const copy = async () => {
     try {
-      await navigator.clipboard.writeText(message.content);
+      await navigator.clipboard.writeText(stripCalloutMarkers(message.content));
       setCopied(true);
       window.setTimeout(() => setCopied(false), 2000);
     } catch {

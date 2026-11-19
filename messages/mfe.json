@@ -463,7 +463,10 @@
       "cantHelp": "Mo pa kapav ed twa ar sa. Anou retourn ar to aprantisaz: lor ki size ouswa ki kestion mo kapav ed twa?",
       "redacted": "[tire pou to sekirite]",
       "manipulation": "Mo to tuter pou letid, ek fason mo travay pa kapav sanze depi dan diskisyon-la. Anou retourn ar to aprantisaz: lor ki size ouswa ki kestion mo kapav ed twa?"
-    }
+    },
+    "unitChip": "Grade {grade} · {title}",
+    "keyIdea": "Lide prinsipal",
+    "checkYourself": "Verifie twa-mem"
   },
   "revision": {
     "subtitle": "Revoir seki ou finn aprann, enn tigit sak zour. Koumsa li res dan latet.",

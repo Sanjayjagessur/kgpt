@@ -1,5 +1,7 @@
 import "server-only";
 
+import type { UnitRef } from "@/lib/chat";
+import { localized } from "@/lib/supabase/database.types";
 import type { createClient } from "@/lib/supabase/server";
 import { SUBJECT_NAMES } from "./prompts/names";
 
@@ -11,6 +13,7 @@ export type SyllabusExtract = {
   gradeMin: number;
   gradeMax: number;
   source: "official" | "teacher" | "generated";
+  unitId: string | null;
   heading: string;
   content: string;
 };
@@ -52,6 +55,7 @@ export async function searchSyllabus(input: {
       gradeMin: r.grade_min,
       gradeMax: r.grade_max,
       source: r.source,
+      unitId: r.unit_id,
       heading: r.heading,
       content: r.content,
     }));
@@ -82,4 +86,24 @@ export function syllabusContextBlock(extracts: SyllabusExtract[]): string | null
 
 function escapeAttr(s: string) {
   return s.replace(/["<>]/g, "");
+}
+
+/**
+ * The unit to show as a chip on the reply: the best extract written for the
+ * student's own grade (and the chat's subject, if it has one). A hit from an
+ * earlier grade is still useful context but would mislabel the answer, so it
+ * gives no chip.
+ */
+export function pickUnit(extracts: SyllabusExtract[], grade: number, subjectId: string | null): string | null {
+  const hit = extracts.find(
+    (e) => e.unitId && e.gradeMin <= grade && grade <= e.gradeMax && (!subjectId || e.subjectId === subjectId),
+  );
+  return hit?.unitId ?? null;
+}
+
+/** The chip's label data, in the student's interface language. */
+export async function loadUnitRef(supabase: Supabase, unitId: string, locale: string): Promise<UnitRef | null> {
+  const { data } = await supabase.from("units").select("id, subject_id, grade, title").eq("id", unitId).maybeSingle();
+  if (!data) return null;
+  return { id: data.id, subjectId: data.subject_id, grade: data.grade, title: localized(data.title, locale) };
 }

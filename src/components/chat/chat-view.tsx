@@ -195,8 +195,14 @@ export function ChatView(props: Props) {
                 reply += event.text;
                 frame ||= requestAnimationFrame(paint);
                 break;
+              case "unit": {
+                const unit = event.unit;
+                setMessages((m) => m.map((msg) => (msg.id === replyTemp ? { ...msg, unit } : msg)));
+                break;
+              }
               case "replace":
                 reply = event.text;
+                setMessages((m) => m.map((msg) => (msg.id === replyTemp ? { ...msg, unit: null } : msg)));
                 frame ||= requestAnimationFrame(paint);
                 break;
               case "title":

@@ -2,7 +2,8 @@ import "server-only";
 
 import { cache } from "react";
 import { AttachmentSchema, type Attachment, type ChatSummary, type UiMessage } from "@/lib/chat";
-import type { Json } from "@/lib/supabase/database.types";
+import { getLocale } from "next-intl/server";
+import { localized, type Json } from "@/lib/supabase/database.types";
 import { createClient } from "@/lib/supabase/server";
 
 const HISTORY_LIMIT = 100;
@@ -29,12 +30,12 @@ export const listChats = cache(async (): Promise<ChatSummary[]> => {
 
 /** A chat with its messages; attachment previews get short-lived signed URLs. */
 export async function getChat(chatId: string) {
-  const supabase = await createClient();
+  const [supabase, locale] = await Promise.all([createClient(), getLocale()]);
   const [{ data: chat }, { data: rows }] = await Promise.all([
     supabase.from("chats").select("id, title, subject_id, mode").eq("id", chatId).maybeSingle(),
     supabase
       .from("chat_messages")
-      .select("id, role, content, attachments")
+      .select("id, role, content, attachments, units(id, subject_id, grade, title)")
       .eq("chat_id", chatId)
       .order("id", { ascending: true })
       .limit(500),
@@ -57,6 +58,11 @@ export async function getChat(chatId: string) {
         role: m.role,
         content: m.content,
         attachments: m.attachments.map((a) => ({ ...a, url: urls.get(a.path) ?? null })),
+        // Units are shown on tutor replies only (the database also enforces this).
+        unit:
+          m.role === "assistant" && m.units
+            ? { id: m.units.id, subjectId: m.units.subject_id, grade: m.units.grade, title: localized(m.units.title, locale) }
+            : null,
       }),
     ),
   };

@@ -463,7 +463,10 @@
       "cantHelp": "I can't help with that. Let's get back to your learning: what subject or question can I help you with?",
       "redacted": "[removed for your safety]",
       "manipulation": "I'm your study tutor, and the way I work can't be changed from the chat. Let's get back to learning: what subject or question can I help you with?"
-    }
+    },
+    "unitChip": "Grade {grade} · {title}",
+    "keyIdea": "Key idea",
+    "checkYourself": "Check yourself"
   },
   "revision": {
     "subtitle": "Go over what you've learned, a little every day. It sticks better that way.",

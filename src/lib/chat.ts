@@ -43,6 +43,7 @@ export type SendMessage = z.infer<typeof SendMessageSchema>;
 /** One line of the NDJSON stream returned by POST /api/chat. */
 export type ChatStreamEvent =
   | { t: "start"; chatId: string; userMessageId: number }
+  | { t: "unit"; unit: UnitRef }
   | { t: "delta"; text: string }
   | { t: "replace"; text: string }
   | { t: "title"; title: string }
@@ -56,12 +57,17 @@ export type ChatSummary = {
   updated_at: string;
 };
 
+/** The curriculum unit a tutor reply was matched to (shown as a chip linking to it). */
+export type UnitRef = { id: string; subjectId: string; grade: number; title: string };
+
 export type UiMessage = {
   /** Database id, or a temporary negative id while sending. */
   id: number;
   role: "user" | "assistant";
   content: string;
   attachments: (Attachment & { url: string | null })[];
+  /** Tutor replies only. */
+  unit?: UnitRef | null;
 };
 
 /** First line of a message, shortened for a provisional chat title. */

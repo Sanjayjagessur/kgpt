@@ -1,6 +1,7 @@
 "use server";
 
 import { z } from "zod";
+import { stripCalloutMarkers } from "@/lib/callouts";
 import type { ChatSummary } from "@/lib/chat";
 import { createClient } from "@/lib/supabase/server";
 import { parseAttachments } from "@/server/chat";
@@ -87,7 +88,7 @@ export async function saveMessageToNotes(messageId: number) {
   const { error } = await supabase.from("notes").insert({
     user_id: student.id,
     title: message.chats.title.slice(0, 160),
-    body: message.content,
+    body: stripCalloutMarkers(message.content),
     subject_id: message.chats.subject_id,
     source: { chat_id: message.chat_id, message_id: message.id },
   });

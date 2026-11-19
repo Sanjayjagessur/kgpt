@@ -1,6 +1,7 @@
 import { expect, test } from "@playwright/test";
 import { localSelfHarmScreen, redactPersonalData, stripReservedTags } from "../../src/lib/safety";
 import { cutPoint, OutputGuard } from "../../src/server/ai/output-guard";
+import { splitCallouts, stripCalloutMarkers } from "../../src/lib/callouts";
 
 // Pure logic: no browser or server needed, so run it once.
 test.beforeEach(({}, testInfo) => {
@@ -147,5 +148,29 @@ test.describe("OutputGuard", () => {
   test("cutPoint falls back to a hard cap on text with no breaks", () => {
     expect(cutPoint("a".repeat(100), 240)).toBe(0);
     expect(cutPoint("a".repeat(800), 240)).toBe(800);
+  });
+});
+
+test.describe("splitCallouts", () => {
+  test("turns marked blockquotes into callouts and keeps the rest", () => {
+    const md = "Intro text.\n\n> [!KEY]\n> $F = ma$\n> force = mass × acceleration\n\nMore text.\n\n> [!CHECK]\n> Double the mass?";
+    expect(splitCallouts(md)).toEqual([
+      { kind: "markdown", text: "Intro text.\n" },
+      { kind: "key", text: "$F = ma$\nforce = mass × acceleration" },
+      { kind: "markdown", text: "\nMore text.\n" },
+      { kind: "check", text: "Double the mass?" },
+    ]);
+  });
+
+  test("leaves ordinary blockquotes, code fences and partial streams alone", () => {
+    expect(splitCallouts("> just a quote")).toEqual([{ kind: "markdown", text: "> just a quote" }]);
+    const fenced = "```\n> [!KEY]\n```";
+    expect(splitCallouts(fenced)).toEqual([{ kind: "markdown", text: fenced }]);
+    expect(splitCallouts("Text\n\n> [!CHE")).toEqual([{ kind: "markdown", text: "Text\n\n> [!CHE" }]);
+    expect(splitCallouts("> [!check] Inline question?")).toEqual([{ kind: "check", text: "Inline question?" }]);
+  });
+
+  test("stripCalloutMarkers keeps the content for notes and copies", () => {
+    expect(stripCalloutMarkers("> [!KEY]\n> x = 6")).toBe("> \n> x = 6");
   });
 });

@@ -463,7 +463,10 @@
       "cantHelp": "Je ne peux pas t'aider avec ça. Revenons à tes études : sur quelle matière ou quelle question puis-je t'aider ?",
       "redacted": "[retiré pour ta sécurité]",
       "manipulation": "Je suis ton tuteur pour les études, et ma façon de fonctionner ne peut pas être modifiée depuis la discussion. Revenons à tes études : sur quelle matière ou quelle question puis-je t'aider ?"
-    }
+    },
+    "unitChip": "Grade {grade} · {title}",
+    "keyIdea": "L’essentiel",
+    "checkYourself": "Vérifie-toi"
   },
   "revision": {
     "subtitle": "Revois ce que tu as appris, un peu chaque jour. C'est comme ça que ça reste.",

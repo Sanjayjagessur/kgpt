@@ -1,3 +1,5 @@
+import { stripCalloutMarkers } from "./callouts";
+
 const SYMBOLS: Record<string, string> = {
   times: "×",
   div: "÷",
@@ -26,7 +28,7 @@ const SYMBOLS: Record<string, string> = {
 
 /** A one-line, readable preview of Markdown with LaTeX (for lists and search results). */
 export function plainPreview(markdown: string, max = 180) {
-  return markdown
+  return stripCalloutMarkers(markdown)
     .replace(/\\(?:frac)\{([^{}]*)\}\{([^{}]*)\}/g, "$1/$2")
     .replace(/\\([a-zA-Z]+)/g, (_, cmd: string) => SYMBOLS[cmd] ?? "")
     .replace(/[{}$]/g, "")

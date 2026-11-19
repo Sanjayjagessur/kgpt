@@ -8,7 +8,7 @@ import { blockingOutputCategory, isBlockingInput, logModeration, moderate, type 
 import { OutputGuard } from "@/server/ai/output-guard";
 import { consumeAiQuota, hasAiAccess, PLAN_REQUIRED } from "@/server/ai/quota";
 import { redactPersonalData, stripReservedTags } from "@/lib/safety";
-import { searchSyllabus, syllabusContextBlock } from "@/server/ai/syllabus";
+import { loadUnitRef, pickUnit, searchSyllabus, syllabusContextBlock } from "@/server/ai/syllabus";
 import { buildTutorRequest, generateTitle, loadAttachmentBlocks, type HistoryMessage } from "@/server/ai/tutor";
 import { parseAttachments } from "@/server/chat";
 import { getStudent } from "@/server/session";
@@ -112,6 +112,10 @@ export async function POST(req: Request) {
     .reverse()
     .map((m) => ({ role: m.role, content: m.content, attachments: parseAttachments(m.attachments) }));
 
+  // The unit chip: only from content written for the student's own grade.
+  const chipUnitId = pickUnit(extracts, grade, chat.subject_id);
+  const unitRef = chipUnitId ? await loadUnitRef(supabase, chipUnitId, student.profile.ui_locale) : null;
+
   const admin = createAdminClient();
   const encoder = new TextEncoder();
 
@@ -127,10 +131,10 @@ export async function POST(req: Request) {
         }
       };
 
-      const saveReply = async (content: string) => {
+      const saveReply = async (content: string, unitId: string | null = null) => {
         const { data, error } = await admin
           .from("chat_messages")
-          .insert({ chat_id: chat.id, user_id: student.id, role: "assistant", content, mode })
+          .insert({ chat_id: chat.id, user_id: student.id, role: "assistant", content, mode, unit_id: unitId })
           .select("id")
           .single();
         if (error) console.error("assistant message save failed", error.message);
@@ -188,6 +192,8 @@ export async function POST(req: Request) {
           blockingOutputCategory,
         );
 
+        if (unitRef) send({ t: "unit", unit: unitRef });
+
         let stopReason: string | null = null;
         const usage = { input: 0, cacheRead: 0, cacheWrite: 0, output: 0 };
         try {
@@ -218,13 +224,15 @@ export async function POST(req: Request) {
         );
 
         let reply = guard.released;
+        let replyUnit = unitRef?.id ?? null;
         if (guard.blocked || stopReason === "refusal" || (!reply.trim() && !req.signal.aborted)) {
           reply = t("safety.cantHelp");
+          replyUnit = null; // "replace" also clears the chip on the client
           send({ t: "replace", text: reply });
         }
 
         await titleJob;
-        send({ t: "done", messageId: reply.trim() ? await saveReply(reply) : null });
+        send({ t: "done", messageId: reply.trim() ? await saveReply(reply, replyUnit) : null });
       } catch (err) {
         console.error("tutor reply failed", (err as Error).message);
         send({ t: "error", code: "generation_failed" });
