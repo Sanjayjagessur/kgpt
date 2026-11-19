@@ -4,10 +4,11 @@ import { CloudOff, Sparkles } from "lucide-react";
 import { useRouter } from "next/navigation";
 import { useTranslations } from "next-intl";
 import { useCallback, useEffect, useRef, useState } from "react";
+import { PlanRequired } from "@/components/billing/plan-required";
 import { Button } from "@/components/ui/button";
 import { Skeleton } from "@/components/ui/skeleton";
 
-type State = "working" | "error" | "rate_limited";
+type State = "working" | "error" | "rate_limited" | "plan_required";
 
 const REFRESH_GRACE_MS = 15_000;
 
@@ -39,6 +40,7 @@ export function ContentPreparing({
     try {
       const res = await fetch(endpoint, { method: "POST" });
       if (res.status === 429) return setState("rate_limited");
+      if (res.status === 402) return setState("plan_required");
       if (!res.ok) return setState("error");
       router.refresh();
       // A successful refresh replaces this component with the content. If we are
@@ -56,6 +58,8 @@ export function ContentPreparing({
     }
     return () => window.clearTimeout(refreshTimer.current);
   }, [run]);
+
+  if (state === "plan_required") return <PlanRequired />;
 
   if (state !== "working") {
     return (

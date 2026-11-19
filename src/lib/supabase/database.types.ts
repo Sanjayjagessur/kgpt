@@ -17,6 +17,8 @@ export type MasteryLevel = Enums["mastery_level"];
 export type ChatMode = Enums["chat_mode"];
 export type ChatRole = Enums["chat_role"];
 export type BookmarkKind = Enums["bookmark_kind"];
+export type SubscriptionStatus = Enums["subscription_status"];
+export type BillingPlan = Enums["billing_plan"];
 
 export type ProfileRow = Row<"profiles">;
 export type UnitRow = Row<"units">;
@@ -26,6 +28,7 @@ export type ChatMessageRow = Row<"chat_messages">;
 export type NoteRow = Row<"notes">;
 export type FlashcardRow = Row<"flashcards">;
 export type ExamQuestionRow = Row<"exam_questions">;
+export type SubscriptionRow = Row<"subscriptions">;
 
 /** Localised text stored as jsonb: {"en": "...", "fr": "...", "mfe": "..."}. */
 export type Localized = Partial<Record<LocaleCode, string>>;

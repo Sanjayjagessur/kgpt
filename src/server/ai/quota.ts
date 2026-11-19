@@ -22,3 +22,20 @@ export async function consumeAiQuota(): Promise<boolean> {
   }
   return data !== -1;
 }
+
+/**
+ * Whether the signed-in student may use the tutor, revision generation and
+ * exam marking: trial still running or a paid plan. Lessons are not gated.
+ */
+export async function hasAiAccess(): Promise<boolean> {
+  const supabase = await createClient();
+  const { data, error } = await supabase.rpc("has_ai_access");
+  if (error) {
+    console.error("has_ai_access failed", error.message);
+    return false;
+  }
+  return data === true;
+}
+
+/** Response for AI routes when the trial is over and there is no plan. */
+export const PLAN_REQUIRED = { error: "plan_required" } as const;

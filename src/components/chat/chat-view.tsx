@@ -14,6 +14,7 @@ import {
   Square,
   X,
 } from "lucide-react";
+import Link from "next/link";
 import { useTranslations } from "next-intl";
 import { useCallback, useEffect, useId, useRef, useState } from "react";
 import { ReefLine } from "@/components/common/reef-line";
@@ -50,7 +51,7 @@ type Pending = {
   attachment?: Attachment;
 };
 
-type Problem = "rate_limited" | "failed" | "attachment_type" | "attachment_size" | "upload_failed" | null;
+type Problem = "rate_limited" | "plan_required" | "failed" | "attachment_type" | "attachment_size" | "upload_failed" | null;
 
 type Props = {
   userId: string;
@@ -67,6 +68,7 @@ const ANY_SUBJECT = "any";
 export function ChatView(props: Props) {
   const t = useTranslations("chat");
   const ts = useTranslations("subjects");
+  const tb = useTranslations("billing.required");
   const history = useChatHistory();
 
   const [chatId, setChatId] = useState(props.chatId);
@@ -159,7 +161,7 @@ export function ChatView(props: Props) {
         });
         if (!res.ok || !res.body) {
           restore();
-          setProblem(res.status === 429 ? "rate_limited" : "failed");
+          setProblem(res.status === 429 ? "rate_limited" : res.status === 402 ? "plan_required" : "failed");
           return;
         }
 
@@ -389,7 +391,17 @@ export function ChatView(props: Props) {
           {problem && (
             <p role="alert" className="mb-2 flex items-start gap-2 rounded-lg bg-destructive/10 px-3 py-2 text-sm text-destructive">
               <CircleAlert className="mt-0.5 size-4 shrink-0" aria-hidden="true" />
-              <span className="flex-1">{t(`problems.${problem}`)}</span>
+              <span className="flex-1">
+                {t(`problems.${problem}`)}
+                {problem === "plan_required" && (
+                  <>
+                    {" "}
+                    <Link href="/settings#plan" className="font-semibold underline underline-offset-4">
+                      {tb("action")}
+                    </Link>
+                  </>
+                )}
+              </span>
               <button type="button" onClick={() => setProblem(null)} aria-label={t("dismiss")} className="rounded-sm">
                 <X className="size-4" aria-hidden="true" />
               </button>

@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { getTranslations } from "next-intl/server";
 import { signOut } from "@/app/(auth)/actions";
+import { PlanSection } from "@/components/billing/plan-section";
 import { PageHeader } from "@/components/common/page-header";
 import { SettingsForm } from "@/components/settings/settings-form";
 import { Button } from "@/components/ui/button";
@@ -34,6 +35,8 @@ export default async function SettingsPage() {
           tutorLocale,
         }}
       />
+
+      <PlanSection />
 
       <section aria-labelledby="data-title" className="mt-10 rounded-xl border p-5">
         <h2 id="data-title" className="flex items-center gap-2 text-xl font-bold">

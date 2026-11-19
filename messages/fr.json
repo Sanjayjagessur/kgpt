@@ -90,7 +90,8 @@
       "generic": "La connexion n'a pas marché. Réessaie dans un instant."
     },
     "privacyNote": "Nous ne montrons jamais ton e-mail et nous ne vendons pas de données. Lis comment nous l'utilisons dans l'avis de confidentialité.",
-    "privacyLink": "Avis de confidentialité"
+    "privacyLink": "Avis de confidentialité",
+    "termsNote": "En créant un compte, tu acceptes les <terms>conditions d'utilisation</terms>."
   },
   "landing": {
     "title": "Tes leçons, un tuteur patient et des révisions qui restent.",
@@ -195,7 +196,10 @@
     "ai1": "Tes messages sont envoyés à notre fournisseur d'IA pour écrire une réponse. Ils ne servent pas à entraîner des modèles d'IA.",
     "ai2": "Les messages sont vérifiés pour ta sécurité. Si quelque chose semble dangereux, le tuteur t'oriente vers quelqu'un qui peut t'aider.",
     "controlTitle": "Tu gardes le contrôle",
-    "control1": "Supprime n'importe quelle discussion depuis l'historique. Demande à un parent, tuteur ou enseignant de nous contacter pour supprimer ton compte."
+    "control1": "Supprime n'importe quelle discussion depuis l'historique. Demande à un parent, tuteur ou enseignant de nous contacter pour supprimer ton compte.",
+    "paymentTitle": "Paiements et accord parental",
+    "payment1": "Un parent ou tuteur paie via Paddle, notre revendeur. Paddle conserve le nom, l'e-mail et la carte du payeur ; nous ne voyons jamais les numéros de carte.",
+    "payment2": "Quand un parent donne son accord, nous gardons son nom et la date, comme preuve du consentement."
   },
   "meta": {
     "description": "Plateforme d'apprentissage IA pour les élèves du secondaire à Maurice, selon le programme national."
@@ -353,7 +357,8 @@
       "failed": "Le tuteur n'a pas pu répondre. Vérifie ta connexion et renvoie ton message.",
       "attachment_type": "Ce type de fichier n'est pas accepté. Ajoute une photo (PNG, JPG, WebP, GIF) ou un PDF.",
       "attachment_size": "Ce fichier est trop lourd. Ajoute des fichiers de moins de 10 Mo.",
-      "upload_failed": "Un fichier n'a pas été envoyé. Retire-le et réessaie."
+      "upload_failed": "Un fichier n'a pas été envoyé. Retire-le et réessaie.",
+      "plan_required": "Ton essai gratuit est terminé. Demande à un parent de choisir un abonnement dans Paramètres."
     },
     "dismiss": "Fermer",
     "attachments": "Fichiers joints",
@@ -523,7 +528,8 @@
       "rate_limited": "Tu as atteint la limite horaire de demandes à l'IA. Réessaie dans un petit moment.",
       "unsafe": "Cette réponse ne peut pas être corrigée. Réponds à la question et réessaie.",
       "support": "On dirait que les choses sont difficiles en ce moment. Parles-en à quelqu'un de confiance : un parent, un enseignant ou le conseiller de l'école. À Maurice, tu peux appeler Befrienders Mauritius au 800 93 93 (gratuit).",
-      "failed": "Ta réponse n'a pas été corrigée. Vérifie ta connexion et réessaie."
+      "failed": "Ta réponse n'a pas été corrigée. Vérifie ta connexion et réessaie.",
+      "plan_required": "Ton essai gratuit est terminé. Demande à un parent de choisir un abonnement dans Paramètres."
     },
     "marksAwarded": "{awarded} points sur {marks}",
     "yourAnswerWas": "Ta réponse",
@@ -615,5 +621,96 @@
     "title": "Tu es hors ligne",
     "body": "Vérifie ta connexion internet. Ton travail est enregistré, et cette page se recharge toute seule quand tu es de nouveau en ligne.",
     "retry": "Réessayer"
+  },
+  "billing": {
+    "bannerTrial": "Il te reste {days, plural, one {# jour} other {# jours}} d'essai gratuit.",
+    "bannerExpired": "Ton essai gratuit est terminé. Les leçons restent ouvertes ; le tuteur et les révisions demandent un abonnement.",
+    "bannerPastDue": "Le dernier paiement n'est pas passé. Demande à un parent de mettre à jour la carte depuis l'e-mail de Paddle.",
+    "bannerAction": "Voir l'abonnement",
+    "planTitle": "Abonnement",
+    "planBody": "Un parent ou tuteur légal choisit l'abonnement et donne son accord. Envoie-lui un lien : il peut tout faire depuis son téléphone.",
+    "statusTrial": "Essai gratuit : {days, plural, one {# jour restant} other {# jours restants}}, jusqu'au {date}.",
+    "statusActive": "Abonnement {plan}. Renouvellement le {date}.",
+    "statusActiveNoDate": "L'abonnement {plan} est actif.",
+    "statusEnding": "Abonnement {plan}. Se termine le {date}.",
+    "statusPastDue": "Le dernier paiement n'est pas passé. Demande à un parent de mettre à jour la carte depuis l'e-mail de Paddle.",
+    "statusExpired": "Ton essai gratuit est terminé. Les leçons restent ouvertes.",
+    "plans": {
+      "monthly": "mensuel",
+      "yearly": "annuel"
+    },
+    "askParent": "Envoyer un lien à un parent",
+    "making": "Création du lien…",
+    "linkReady": "Lien prêt. Il fonctionne pendant {days} jours.",
+    "copyLink": "Copier le lien",
+    "share": "Partager",
+    "copied": "Lien copié. Envoie-le à un parent ou tuteur.",
+    "shareTitle": "Abonnement myKPT",
+    "shareText": "Tu peux activer mon abonnement myKPT ? Ça prend deux minutes :",
+    "linkFailed": "Impossible de créer un lien. Réessaie dans un moment.",
+    "linkLabel": "Lien pour un parent",
+    "required": {
+      "title": "Ton essai gratuit est terminé",
+      "body": "Les leçons restent ouvertes. Pour utiliser le tuteur, les révisions et la correction d'examens, demande à un parent de choisir un abonnement.",
+      "action": "Voir l'abonnement"
+    },
+    "parent": {
+      "title": "Activer l'abonnement de {name}",
+      "titleNoName": "Activer l'abonnement de votre enfant",
+      "intro": "{app} est un tuteur d'étude pour le programme mauricien, de la Grade 7 à la Grade 13. Votre enfant vous demande de choisir un abonnement.",
+      "includesTitle": "Chaque abonnement comprend",
+      "includes1": "Un tuteur IA qui explique pas à pas, en anglais, en français ou en kreol",
+      "includes2": "Résumés, cartes mémoire, quiz et questions d'examen corrigées",
+      "includes3": "Aucune publicité, et nous ne vendons jamais de données",
+      "choosePlan": "Choisir un abonnement",
+      "perMonth": "par mois",
+      "perYear": "par an",
+      "priceLoading": "Chargement du prix",
+      "priceAtCheckout": "Prix affiché au paiement",
+      "consentTitle": "Votre accord",
+      "nameLabel": "Votre nom complet",
+      "nameHint": "Pour savoir qui a donné son accord.",
+      "consent": "Je suis le parent ou le tuteur légal de {name}. Je l'autorise à utiliser {app}, y compris le tuteur IA, et j'accepte les <terms>conditions d'utilisation</terms> et la <privacy>politique de confidentialité</privacy>.",
+      "consentNoName": "Je suis le parent ou le tuteur légal de cet élève. Je l'autorise à utiliser {app}, y compris le tuteur IA, et j'accepte les <terms>conditions d'utilisation</terms> et la <privacy>politique de confidentialité</privacy>.",
+      "pay": "Passer au paiement",
+      "paying": "Ouverture du paiement…",
+      "payNote": "Le paiement est géré par Paddle, notre revendeur. Les prix sont en dollars américains ; votre banque fait la conversion. Résiliez à tout moment depuis l'e-mail de reçu.",
+      "successTitle": "Merci. L'abonnement est actif.",
+      "successBody": "L'activation peut prendre une minute. Paddle vous a envoyé le reçu et un lien pour gérer ou résilier l'abonnement.",
+      "invalidTitle": "Ce lien ne fonctionne pas",
+      "invalidBody": "Demandez à votre enfant d'envoyer un nouveau lien depuis les Paramètres de {app}.",
+      "expiredTitle": "Ce lien a expiré",
+      "paidTitle": "Cet abonnement est déjà actif",
+      "paidBody": "Rien à faire. Les e-mails de Paddle vous permettent de le gérer ou de le résilier.",
+      "notConfigured": "Les paiements ne sont pas encore en place. Réessayez plus tard.",
+      "errors": {
+        "name": "Indiquez votre nom.",
+        "agree": "Cochez la case pour donner votre accord.",
+        "save": "L'enregistrement n'a pas marché. Réessayez.",
+        "checkout": "La fenêtre de paiement ne s'est pas ouverte. Réessayez."
+      }
+    }
+  },
+  "terms": {
+    "title": "Conditions d'utilisation",
+    "intro": "Ces conditions couvrent l'utilisation de {app} et le paiement d'un abonnement. Pour un élève de moins de 18 ans, un parent ou tuteur légal les accepte.",
+    "updated": "Dernière mise à jour : {date}.",
+    "useTitle": "Utiliser {app}",
+    "use1": "{app} aide les élèves de la Grade 7 à la Grade 13 à apprendre et réviser le programme mauricien.",
+    "use2": "Utilise-le pour ton propre apprentissage. Ne partage pas ton compte, n'essaie pas de casser l'application et ne demande pas de contenu dangereux au tuteur.",
+    "use3": "Nous pouvons suspendre un compte qui ne respecte pas ces règles.",
+    "aiTitle": "Réponses de l'IA",
+    "ai1": "Les leçons et les réponses du tuteur sont écrites par une IA. Elles peuvent contenir des erreurs : vérifie les faits importants avec ton professeur ou ton manuel.",
+    "ai2": "{app} aide à apprendre ; il ne remplace ni l'école, ni les professeurs, ni les consignes officielles d'examen.",
+    "plansTitle": "Essai gratuit et abonnements",
+    "plans1": "Chaque nouveau compte a {days} jours d'accès complet gratuit.",
+    "plans2": "Après l'essai, les leçons restent ouvertes. Le tuteur, les révisions et la correction d'examens demandent un abonnement.",
+    "plans3": "Les abonnements sont mensuels ou annuels et se renouvellent automatiquement jusqu'à résiliation.",
+    "paymentTitle": "Paiement, résiliation et remboursements",
+    "payment1": "Notre revendeur en ligne Paddle.com est le Merchant of Record de toutes les commandes. Paddle gère le paiement, les taxes, les reçus et les remboursements.",
+    "payment2": "Résiliez à tout moment depuis le lien de l'e-mail de reçu de Paddle. L'abonnement fonctionne jusqu'à la fin de la période déjà payée.",
+    "payment3": "Les remboursements suivent les conditions acheteur de Paddle. Écrivez via l'e-mail de reçu en cas de problème.",
+    "changesTitle": "Modifications",
+    "changes1": "Si ces conditions changent, la nouvelle date apparaît ici. Pour un changement de prix d'un abonnement actif, Paddle prévient le payeur avant le prochain renouvellement."
   }
 }

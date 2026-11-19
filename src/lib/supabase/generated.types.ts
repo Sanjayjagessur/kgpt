@@ -528,6 +528,83 @@ export type Database = {
           },
         ]
       }
+      parent_consents: {
+        Row: {
+          consented_at: string
+          id: string
+          invite_id: string | null
+          parent_name: string
+          student_id: string
+          terms_version: string
+        }
+        Insert: {
+          consented_at?: string
+          id?: string
+          invite_id?: string | null
+          parent_name: string
+          student_id: string
+          terms_version: string
+        }
+        Update: {
+          consented_at?: string
+          id?: string
+          invite_id?: string | null
+          parent_name?: string
+          student_id?: string
+          terms_version?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "parent_consents_invite_id_fkey"
+            columns: ["invite_id"]
+            isOneToOne: false
+            referencedRelation: "parent_invites"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "parent_consents_student_id_fkey"
+            columns: ["student_id"]
+            isOneToOne: false
+            referencedRelation: "profiles"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      parent_invites: {
+        Row: {
+          created_at: string
+          expires_at: string
+          id: string
+          student_id: string
+          token_hash: string
+          used_at: string | null
+        }
+        Insert: {
+          created_at?: string
+          expires_at?: string
+          id?: string
+          student_id: string
+          token_hash: string
+          used_at?: string | null
+        }
+        Update: {
+          created_at?: string
+          expires_at?: string
+          id?: string
+          student_id?: string
+          token_hash?: string
+          used_at?: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "parent_invites_student_id_fkey"
+            columns: ["student_id"]
+            isOneToOne: false
+            referencedRelation: "profiles"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
       profiles: {
         Row: {
           created_at: string
@@ -537,6 +614,7 @@ export type Database = {
           onboarded_at: string | null
           role: Database["public"]["Enums"]["user_role"]
           school_id: string | null
+          trial_ends_at: string
           tutor_locale: Database["public"]["Enums"]["locale_code"]
           ui_locale: Database["public"]["Enums"]["locale_code"]
           updated_at: string
@@ -549,6 +627,7 @@ export type Database = {
           onboarded_at?: string | null
           role?: Database["public"]["Enums"]["user_role"]
           school_id?: string | null
+          trial_ends_at?: string
           tutor_locale?: Database["public"]["Enums"]["locale_code"]
           ui_locale?: Database["public"]["Enums"]["locale_code"]
           updated_at?: string
@@ -561,6 +640,7 @@ export type Database = {
           onboarded_at?: string | null
           role?: Database["public"]["Enums"]["user_role"]
           school_id?: string | null
+          trial_ends_at?: string
           tutor_locale?: Database["public"]["Enums"]["locale_code"]
           ui_locale?: Database["public"]["Enums"]["locale_code"]
           updated_at?: string
@@ -712,6 +792,63 @@ export type Database = {
         }
         Relationships: []
       }
+      subscriptions: {
+        Row: {
+          cancel_at: string | null
+          consent_id: string | null
+          current_period_end: string | null
+          last_event_at: string
+          plan: Database["public"]["Enums"]["billing_plan"] | null
+          provider: string
+          provider_customer_id: string | null
+          provider_subscription_id: string
+          status: Database["public"]["Enums"]["subscription_status"]
+          student_id: string
+          updated_at: string
+        }
+        Insert: {
+          cancel_at?: string | null
+          consent_id?: string | null
+          current_period_end?: string | null
+          last_event_at: string
+          plan?: Database["public"]["Enums"]["billing_plan"] | null
+          provider?: string
+          provider_customer_id?: string | null
+          provider_subscription_id: string
+          status: Database["public"]["Enums"]["subscription_status"]
+          student_id: string
+          updated_at?: string
+        }
+        Update: {
+          cancel_at?: string | null
+          consent_id?: string | null
+          current_period_end?: string | null
+          last_event_at?: string
+          plan?: Database["public"]["Enums"]["billing_plan"] | null
+          provider?: string
+          provider_customer_id?: string | null
+          provider_subscription_id?: string
+          status?: Database["public"]["Enums"]["subscription_status"]
+          student_id?: string
+          updated_at?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "subscriptions_consent_id_fkey"
+            columns: ["consent_id"]
+            isOneToOne: false
+            referencedRelation: "parent_consents"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "subscriptions_student_id_fkey"
+            columns: ["student_id"]
+            isOneToOne: true
+            referencedRelation: "profiles"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
       topic_mastery: {
         Row: {
           level: Database["public"]["Enums"]["mastery_level"]
@@ -858,13 +995,29 @@ export type Database = {
       [_ in never]: never
     }
     Functions: {
+      apply_subscription_event: {
+        Args: {
+          p_cancel_at?: string
+          p_consent_id: string
+          p_customer_id?: string
+          p_occurred_at: string
+          p_period_end?: string
+          p_plan?: Database["public"]["Enums"]["billing_plan"]
+          p_status: Database["public"]["Enums"]["subscription_status"]
+          p_student_id: string
+          p_subscription_id: string
+        }
+        Returns: boolean
+      }
       consume_ai_quota: {
         Args: { p_limit?: number; p_window_seconds?: number }
         Returns: number
       }
+      has_ai_access: { Args: never; Returns: boolean }
       log_study_time: { Args: { p_seconds: number }; Returns: undefined }
     }
     Enums: {
+      billing_plan: "monthly" | "yearly"
       bookmark_kind: "lesson" | "unit" | "message"
       chat_mode: "auto" | "explain" | "practice" | "homework" | "writing"
       chat_role: "user" | "assistant"
@@ -872,6 +1025,12 @@ export type Database = {
       locale_code: "en" | "fr" | "mfe"
       mastery_level: "not_started" | "learning" | "mastered"
       revision_kind: "flashcards" | "quiz"
+      subscription_status:
+        | "trialing"
+        | "active"
+        | "past_due"
+        | "paused"
+        | "canceled"
       user_role: "student" | "teacher"
     }
     CompositeTypes: {
@@ -1003,6 +1162,7 @@ export const Constants = {
   },
   public: {
     Enums: {
+      billing_plan: ["monthly", "yearly"],
       bookmark_kind: ["lesson", "unit", "message"],
       chat_mode: ["auto", "explain", "practice", "homework", "writing"],
       chat_role: ["user", "assistant"],
@@ -1010,6 +1170,13 @@ export const Constants = {
       locale_code: ["en", "fr", "mfe"],
       mastery_level: ["not_started", "learning", "mastered"],
       revision_kind: ["flashcards", "quiz"],
+      subscription_status: [
+        "trialing",
+        "active",
+        "past_due",
+        "paused",
+        "canceled",
+      ],
       user_role: ["student", "teacher"],
     },
   },

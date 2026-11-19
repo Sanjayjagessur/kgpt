@@ -13,7 +13,7 @@ import { MAX_EXAM_ANSWER, type ExamFeedback, type ExamQuestionView } from "@/lib
 import { cn } from "@/lib/utils";
 
 type Marked = { answer: string; awarded: number; feedback: ExamFeedback };
-type ErrorCode = "rate_limited" | "unsafe" | "support" | "failed";
+type ErrorCode = "rate_limited" | "plan_required" | "unsafe" | "support" | "failed";
 
 /** One exam-style question: write an answer, have it marked against the mark scheme, see the feedback. */
 export function ExamQuestion({ question, total }: { question: ExamQuestionView; total: number }) {
@@ -40,7 +40,7 @@ export function ExamQuestion({ question, total }: { question: ExamQuestionView; 
       const data = await res.json().catch(() => null);
       if (!res.ok || !data) {
         const code = data?.error;
-        setError(res.status === 429 ? "rate_limited" : code === "unsafe" || code === "support" ? code : "failed");
+        setError(res.status === 429 ? "rate_limited" : res.status === 402 ? "plan_required" : code === "unsafe" || code === "support" ? code : "failed");
         return;
       }
       setMarked({ answer: text, awarded: data.awarded, feedback: data.feedback });

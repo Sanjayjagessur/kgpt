@@ -90,7 +90,8 @@
       "generic": "Koneksion pa finn marse. Esey ankor dan enn ti moman."
     },
     "privacyNote": "Nou pa zame montre to email ek nou pa vann done. Lir kouma nou servi li dan avi konfidansialite.",
-    "privacyLink": "Avi konfidansialite"
+    "privacyLink": "Avi konfidansialite",
+    "termsNote": "Kan ou kreye enn kont, ou dakor avek <terms>kondision itilizasion</terms>."
   },
   "landing": {
     "title": "To bann leson, enn tuter pasian ek revizion ki res dan latet.",
@@ -195,7 +196,10 @@
     "ai1": "To bann mesaz avoy kot nou founiser IA pou ekrir enn repons. Zot pa servi pou antrenn model IA.",
     "ai2": "Bann mesaz verifye pou to sekirite. Si kiksoz paret danzere, tuter montre ou kot enn dimounn ki kapav ed ou.",
     "controlTitle": "To kontrol",
-    "control1": "Efas nimport ki chat depi listorik. Dimann enn paran, gardien ouswa profeser kontakte nou pou efas to kont."
+    "control1": "Efas nimport ki chat depi listorik. Dimann enn paran, gardien ouswa profeser kontakte nou pou efas to kont.",
+    "paymentTitle": "Peyman ek permision paran",
+    "payment1": "Enn paran ou gardien peye atraver Paddle, nou revander. Paddle gard nom, email ek lakart peyer-la; nou zame trouv nimero lakart.",
+    "payment2": "Kan enn paran donn so permision, nou gard so nom ek dat-la, kouma prev konsantman."
   },
   "meta": {
     "description": "Platform aprantisaz IA pou bann elev segonder Moris, swiv kourikoulom nasional."
@@ -353,7 +357,8 @@
       "failed": "Titer-la pa finn kapav reponn. Verifie to koneksion ek avoy to mesaz ankor.",
       "attachment_type": "Sa kalite fisie-la pa marse. Azout enn foto (PNG, JPG, WebP, GIF) ouswa enn PDF.",
       "attachment_size": "Sa fisie-la tro gro. Azout fisie mwins ki 10 MB.",
-      "upload_failed": "Enn fisie pa finn monte. Tir li ek seye ankor."
+      "upload_failed": "Enn fisie pa finn monte. Tir li ek seye ankor.",
+      "plan_required": "Ou lesse gratis fini. Dimann enn paran swazir enn abonnman dan Paramet."
     },
     "dismiss": "Ferme",
     "attachments": "Fisie atase",
@@ -523,7 +528,8 @@
       "rate_limited": "Ou finn ariv lor limit par ler pou demann IA. Esey ankor dan enn ti moman.",
       "unsafe": "Nou pa kapav korize sa repons-la. Reponn kestion-la ek esey ankor.",
       "support": "Paret kouma zafer pe difisil pou ou aster. Koz ar enn dimoun ki ou fer konfians, kouma enn paran, enn profeser ouswa konseye lekol. Dan Moris ou kapav apel Befrienders Mauritius lor 800 93 93 (gratis).",
-      "failed": "To repons pa finn korize. Get to koneksion ek esey ankor."
+      "failed": "To repons pa finn korize. Get to koneksion ek esey ankor.",
+      "plan_required": "Ou lesse gratis fini. Dimann enn paran swazir enn abonnman dan Paramet."
     },
     "marksAwarded": "{awarded} mark lor {marks}",
     "yourAnswerWas": "To repons",
@@ -615,5 +621,96 @@
     "title": "Ou pa konekte",
     "body": "Get to koneksion internet. To travay sove, ek sa paz-la pou resarze tousel kan ou rekonekte.",
     "retry": "Esey ankor"
+  },
+  "billing": {
+    "bannerTrial": "Ou ena {days, plural, one {# zour} other {# zour}} ankor dan ou lesse gratis.",
+    "bannerExpired": "Ou lesse gratis fini. Bann leson res ouver; titer ek revizion bizin enn abonnman.",
+    "bannerPastDue": "Dernie peyman pa'nn pase. Dimann enn paran met lakart azour depi email Paddle.",
+    "bannerAction": "Get abonnman",
+    "planTitle": "Abonnman",
+    "planBody": "Enn paran ou gardien swazir abonnman-la ek donn so permision. Avoy li enn lien, li kapav fer tou lor so telefonn.",
+    "statusTrial": "Lesse gratis: {days, plural, one {# zour} other {# zour}} ankor, ziska {date}.",
+    "statusActive": "Abonnman {plan}. Renouvle le {date}.",
+    "statusActiveNoDate": "Abonnman {plan} aktif.",
+    "statusEnding": "Abonnman {plan}. Fini le {date}.",
+    "statusPastDue": "Dernie peyman pa'nn pase. Dimann enn paran met lakart azour depi email Paddle.",
+    "statusExpired": "Ou lesse gratis fini. Bann leson res ouver.",
+    "plans": {
+      "monthly": "par mwa",
+      "yearly": "par lane"
+    },
+    "askParent": "Avoy enn lien enn paran",
+    "making": "Pe fer lien…",
+    "linkReady": "Lien pare. Li marse pandan {days} zour.",
+    "copyLink": "Kopi lien",
+    "share": "Partaz",
+    "copied": "Lien kopie. Avoy li enn paran ou gardien.",
+    "shareTitle": "Abonnman myKPT",
+    "shareText": "Eski ou kapav aktiv mo abonnman myKPT? Pran de minit:",
+    "linkFailed": "Pa'nn kapav fer enn lien. Esey ankor dan enn ti moman.",
+    "linkLabel": "Lien pou enn paran",
+    "required": {
+      "title": "Ou lesse gratis fini",
+      "body": "Bann leson res ouver. Pou servi titer, revizion ek koreksion legzame, dimann enn paran swazir enn abonnman.",
+      "action": "Get abonnman"
+    },
+    "parent": {
+      "title": "Aktiv abonnman {name}",
+      "titleNoName": "Aktiv abonnman ou zanfan",
+      "intro": "{app} enn titer pou etidie pou program morisien, Grade 7 ziska Grade 13. Ou zanfan dimann ou swazir enn abonnman.",
+      "includesTitle": "Sak abonnman ena",
+      "includes1": "Enn titer IA ki explik pa-a-pa, an angle, franse ou kreol",
+      "includes2": "Rezime, kart memwar, kiz ek kestion legzame avek koreksion",
+      "includes3": "Okenn piblisite, ek nou zame vann done",
+      "choosePlan": "Swazir enn abonnman",
+      "perMonth": "par mwa",
+      "perYear": "par lane",
+      "priceLoading": "Pe sarz pri",
+      "priceAtCheckout": "Pri afise kan ou pe peye",
+      "consentTitle": "Ou permision",
+      "nameLabel": "Ou nom konple",
+      "nameHint": "Pou nou kone kisannla finn donn permision.",
+      "consent": "Mo paran ou gardien legal {name}. Mo donn li permision pou servi {app}, avek titer IA, ek mo dakor avek <terms>kondision itilizasion</terms> ek <privacy>avi lor konfidansialite</privacy>.",
+      "consentNoName": "Mo paran ou gardien legal sa elev-la. Mo donn li permision pou servi {app}, avek titer IA, ek mo dakor avek <terms>kondision itilizasion</terms> ek <privacy>avi lor konfidansialite</privacy>.",
+      "pay": "Al lor peyman",
+      "paying": "Pe ouver peyman…",
+      "payNote": "Paddle, nou revander, okip peyman. Pri an dolar amerikin; ou labank konverti li. Ou kapav aret kan ou anvi depi email resi.",
+      "successTitle": "Mersi. Abonnman-la aktif.",
+      "successBody": "Kapav pran enn minit pou li mars. Paddle finn avoy ou resi ek enn lien pou zer ou aret abonnman-la.",
+      "invalidTitle": "Sa lien-la pa marse",
+      "invalidBody": "Dimann ou zanfan avoy enn nouvo lien depi Paramet dan {app}.",
+      "expiredTitle": "Sa lien-la finn expire",
+      "paidTitle": "Sa abonnman-la deza aktif",
+      "paidBody": "Pena nanye pou fer. Email Paddle les ou zer ou aret li.",
+      "notConfigured": "Peyman pa ankor pare. Esey ankor plitar.",
+      "errors": {
+        "name": "Ekrir ou nom.",
+        "agree": "Tik bwat-la pou donn ou permision.",
+        "save": "Pa'nn kapav anrezistre. Esey ankor.",
+        "checkout": "Fenet peyman pa'nn ouver. Esey ankor."
+      }
+    }
+  },
+  "terms": {
+    "title": "Kondision itilizasion",
+    "intro": "Sa bann kondision-la konsern itilizasion {app} ek peyman enn abonnman. Pou enn elev ki ena mwins ki 18 an, enn paran ou gardien legal aksepte zot.",
+    "updated": "Dernie mizazour: {date}.",
+    "useTitle": "Servi {app}",
+    "use1": "{app} ed bann elev Grade 7 ziska Grade 13 aprann ek revize program morisien.",
+    "use2": "Servi li pou ou prop aprantisaz. Pa partaz ou kont, pa esey kas aplikasion-la, ek pa dimann titer kiksoz danzere.",
+    "use3": "Nou kapav sispann enn kont ki pa respekte sa bann regleman-la.",
+    "aiTitle": "Repons IA",
+    "ai1": "Enn IA ki ekrir bann leson ek repons titer. Zot kapav ena erer, alor verifie bann fe inportan avek ou profeser ou ou liv.",
+    "ai2": "{app} ed ou aprann; li pa ranplas lekol, profeser ou bann konsign ofisiel legzame.",
+    "plansTitle": "Lesse gratis ek abonnman",
+    "plans1": "Sak nouvo kont gagn {days} zour akse konple gratis.",
+    "plans2": "Apre lesse-la, bann leson res ouver. Titer, revizion ek koreksion legzame bizin enn abonnman.",
+    "plans3": "Abonnman par mwa ou par lane, ek li renouvle tousel ziska ou aret li.",
+    "paymentTitle": "Peyman, aret ek ranbourseman",
+    "payment1": "Nou revander anligne Paddle.com se Merchant of Record pou tou komann. Paddle okip peyman, tax, resi ek ranbourseman.",
+    "payment2": "Aret kan ou anvi depi lien dan email resi Paddle. Abonnman-la kontinie mars ziska lafin peryod ki finn deza peye.",
+    "payment3": "Ranbourseman swiv kondision aseter Paddle. Ekrir atraver email resi si ena enn problem.",
+    "changesTitle": "Sanzman",
+    "changes1": "Si sa bann kondision-la sanze, nouvo dat-la parett isi. Pou enn sanzman pri lor enn abonnman aktif, Paddle averti peyer-la avan prosenn renouvelman."
   }
 }

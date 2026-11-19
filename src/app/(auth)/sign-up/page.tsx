@@ -18,6 +18,13 @@ export default async function Page() {
       <p className="mb-8 text-muted-foreground">{t("signUpBody")}</p>
       <AuthForm mode="sign-up" />
       <p className="mt-10 text-xs leading-relaxed text-muted-foreground">
+        {t.rich("termsNote", {
+          terms: (chunks) => (
+            <Link href="/terms" className="font-semibold text-foreground underline underline-offset-4">
+              {chunks}
+            </Link>
+          ),
+        })}{" "}
         {t("privacyNote")}{" "}
         <Link href="/privacy" className="font-semibold text-foreground underline underline-offset-4">
           {t("privacyLink")}

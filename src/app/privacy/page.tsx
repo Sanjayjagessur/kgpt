@@ -15,6 +15,7 @@ export default async function PrivacyPage() {
     { title: t("collectTitle"), items: [t("collect1"), t("collect2"), t("collect3")] },
     { title: t("notTitle"), items: [t("not1"), t("not2")] },
     { title: t("aiTitle"), items: [t("ai1"), t("ai2")] },
+    { title: t("paymentTitle"), items: [t("payment1"), t("payment2")] },
     { title: t("controlTitle"), items: [t("control1")] },
   ];
 

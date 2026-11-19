@@ -2,7 +2,7 @@ import { NextResponse } from "next/server";
 import { z } from "zod";
 import { REVISION_KINDS } from "@/lib/revision";
 import { createClient } from "@/lib/supabase/server";
-import { consumeAiQuota } from "@/server/ai/quota";
+import { consumeAiQuota, hasAiAccess, PLAN_REQUIRED } from "@/server/ai/quota";
 import { ensureRevisionContent, isRevisionCached } from "@/server/ai/revision";
 import { revisionLocale } from "@/server/revision";
 import { getStudent } from "@/server/session";
@@ -28,6 +28,7 @@ export async function POST(_req: Request, ctx: RouteContext<"/api/revision/[unit
   const locale = revisionLocale(student, unit.subject_id);
   if (await isRevisionCached(supabase, unitId, locale, parsedKind.data)) return NextResponse.json({ ok: true });
 
+  if (!(await hasAiAccess())) return NextResponse.json(PLAN_REQUIRED, { status: 402 });
   if (!(await consumeAiQuota())) return NextResponse.json({ error: "rate_limited" }, { status: 429 });
 
   try {

@@ -4,7 +4,7 @@ import { provisionalTitle, SendMessageSchema, type ChatStreamEvent } from "@/lib
 import { createClient } from "@/lib/supabase/server";
 import { anthropic } from "@/server/ai/client";
 import { isBlocking, logModeration, moderate } from "@/server/ai/moderation";
-import { consumeAiQuota } from "@/server/ai/quota";
+import { consumeAiQuota, hasAiAccess, PLAN_REQUIRED } from "@/server/ai/quota";
 import { buildTutorRequest, generateTitle, type HistoryMessage } from "@/server/ai/tutor";
 import { parseAttachments } from "@/server/chat";
 import { getStudent } from "@/server/session";
@@ -24,6 +24,7 @@ export async function POST(req: Request) {
     return NextResponse.json({ error: "onboarding" }, { status: 403 });
   }
   const grade = student.profile.grade;
+  if (!(await hasAiAccess())) return NextResponse.json(PLAN_REQUIRED, { status: 402 });
 
   const parsed = SendMessageSchema.safeParse(await req.json().catch(() => null));
   if (!parsed.success) return NextResponse.json({ error: "invalid" }, { status: 400 });

@@ -90,7 +90,8 @@
       "generic": "Sign-in didn't work. Try again in a moment."
     },
     "privacyNote": "We never show your email to anyone and we don't sell data. Read how we use it in the privacy notice.",
-    "privacyLink": "Privacy notice"
+    "privacyLink": "Privacy notice",
+    "termsNote": "By creating an account you agree to the <terms>terms of use</terms>."
   },
   "landing": {
     "title": "Your lessons, a patient tutor and revision that sticks.",
@@ -195,7 +196,10 @@
     "ai1": "Your messages are sent to our AI provider to write a reply. They are not used to train AI models.",
     "ai2": "Messages are checked for safety. If something looks harmful, the tutor points you to someone who can help.",
     "controlTitle": "Your control",
-    "control1": "Delete any chat from the chat history. Ask a parent, guardian or teacher to contact us to delete your account."
+    "control1": "Delete any chat from the chat history. Ask a parent, guardian or teacher to contact us to delete your account.",
+    "paymentTitle": "Payments and parent permission",
+    "payment1": "A parent or guardian pays through Paddle, our reseller. Paddle keeps the payer's name, email and card details; we never see card numbers.",
+    "payment2": "When a parent gives permission we keep their name and the date, as a record of consent."
   },
   "meta": {
     "description": "AI learning platform for Mauritian secondary students, following the national curriculum."
@@ -353,7 +357,8 @@
       "failed": "The tutor couldn't reply. Check your connection and send your message again.",
       "attachment_type": "That file type isn't supported. Add a photo (PNG, JPG, WebP, GIF) or a PDF.",
       "attachment_size": "That file is too big. Add files under 10 MB.",
-      "upload_failed": "A file didn't upload. Remove it and try again."
+      "upload_failed": "A file didn't upload. Remove it and try again.",
+      "plan_required": "Your free trial has ended. Ask a parent to choose a plan in Settings."
     },
     "dismiss": "Dismiss",
     "attachments": "Attached files",
@@ -523,7 +528,8 @@
       "rate_limited": "You've reached the hourly limit for AI requests. Try again in a little while.",
       "unsafe": "This answer can't be marked. Write an answer to the question and try again.",
       "support": "It sounds like things might be hard right now. Please talk to someone you trust, like a parent, teacher or school counsellor. In Mauritius you can call Befrienders Mauritius on 800 93 93 (free).",
-      "failed": "Your answer wasn't marked. Check your connection and try again."
+      "failed": "Your answer wasn't marked. Check your connection and try again.",
+      "plan_required": "Your free trial has ended. Ask a parent to choose a plan in Settings."
     },
     "marksAwarded": "{awarded} out of {marks} marks",
     "yourAnswerWas": "Your answer",
@@ -615,5 +621,96 @@
     "title": "You're offline",
     "body": "Check your internet connection. Your work is saved, and this page reloads by itself when you're back online.",
     "retry": "Try again"
+  },
+  "billing": {
+    "bannerTrial": "{days, plural, one {# day} other {# days}} left in your free trial.",
+    "bannerExpired": "Your free trial has ended. Lessons stay open; the tutor and revision need a plan.",
+    "bannerPastDue": "The last payment didn't go through. Ask a parent to update the card from Paddle's email.",
+    "bannerAction": "See plan",
+    "planTitle": "Plan",
+    "planBody": "A parent or guardian chooses the plan and gives permission. Send them a link and they can finish it on their phone.",
+    "statusTrial": "Free trial: {days, plural, one {# day} other {# days}} left, until {date}.",
+    "statusActive": "{plan} plan. Renews on {date}.",
+    "statusActiveNoDate": "{plan} plan is active.",
+    "statusEnding": "{plan} plan. Ends on {date}.",
+    "statusPastDue": "The last payment didn't go through. Ask a parent to update the card from Paddle's email.",
+    "statusExpired": "Your free trial has ended. Lessons are still open.",
+    "plans": {
+      "monthly": "Monthly",
+      "yearly": "Yearly"
+    },
+    "askParent": "Send a link to a parent",
+    "making": "Making a link…",
+    "linkReady": "Link ready. It works for {days} days.",
+    "copyLink": "Copy link",
+    "share": "Share",
+    "copied": "Link copied. Send it to a parent or guardian.",
+    "shareTitle": "myKPT plan",
+    "shareText": "Can you set up my myKPT study plan? It takes two minutes:",
+    "linkFailed": "Couldn't make a link. Try again in a moment.",
+    "linkLabel": "Link for a parent",
+    "required": {
+      "title": "Your free trial has ended",
+      "body": "Lessons are still open. To use the tutor, revision and exam marking, ask a parent to choose a plan.",
+      "action": "See plan"
+    },
+    "parent": {
+      "title": "Set up {name}'s plan",
+      "titleNoName": "Set up your child's plan",
+      "intro": "{app} is a study tutor for the Mauritian curriculum, Grades 7 to 13. Your child asked you to choose a plan.",
+      "includesTitle": "Every plan includes",
+      "includes1": "An AI tutor that explains step by step, in English, French or Kreol",
+      "includes2": "Revision summaries, flashcards, quizzes and exam questions with marking",
+      "includes3": "No adverts, and we never sell data",
+      "choosePlan": "Choose a plan",
+      "perMonth": "per month",
+      "perYear": "per year",
+      "priceLoading": "Loading price",
+      "priceAtCheckout": "Price shown at payment",
+      "consentTitle": "Your permission",
+      "nameLabel": "Your full name",
+      "nameHint": "So we know who gave permission.",
+      "consent": "I am {name}'s parent or legal guardian. I allow them to use {app}, including the AI tutor, and I agree to the <terms>terms</terms> and the <privacy>privacy notice</privacy>.",
+      "consentNoName": "I am this student's parent or legal guardian. I allow them to use {app}, including the AI tutor, and I agree to the <terms>terms</terms> and the <privacy>privacy notice</privacy>.",
+      "pay": "Continue to payment",
+      "paying": "Opening payment…",
+      "payNote": "Payment is handled by Paddle, our reseller. Prices are in US dollars; your bank converts them. Cancel any time from the receipt email.",
+      "successTitle": "Thank you. The plan is active.",
+      "successBody": "It can take a minute to switch on. Paddle has emailed your receipt and a link to manage or cancel the plan.",
+      "invalidTitle": "This link doesn't work",
+      "invalidBody": "Ask your child to send a new link from Settings in {app}.",
+      "expiredTitle": "This link has expired",
+      "paidTitle": "This plan is already active",
+      "paidBody": "There's nothing to do. Paddle's emails let you manage or cancel it.",
+      "notConfigured": "Payments aren't set up yet. Try again later.",
+      "errors": {
+        "name": "Enter your name.",
+        "agree": "Tick the box to give permission.",
+        "save": "That didn't save. Try again.",
+        "checkout": "The payment window didn't open. Try again."
+      }
+    }
+  },
+  "terms": {
+    "title": "Terms of use",
+    "intro": "These terms cover using {app} and paying for a plan. A parent or guardian agrees to them for a student under 18.",
+    "updated": "Last updated {date}.",
+    "useTitle": "Using {app}",
+    "use1": "{app} helps students in Grades 7 to 13 learn and revise the Mauritian curriculum.",
+    "use2": "Use it for your own learning. Don't share your account, try to break the app, or ask the tutor for harmful content.",
+    "use3": "We may suspend an account that breaks these rules.",
+    "aiTitle": "AI answers",
+    "ai1": "Lessons and tutor replies are written by AI. They can contain mistakes, so check important facts with your teacher or textbook.",
+    "ai2": "{app} supports learning; it does not replace school, teachers or official exam guidance.",
+    "plansTitle": "Free trial and plans",
+    "plans1": "Every new account gets {days} days of full access for free.",
+    "plans2": "After the trial, lessons stay open. The tutor, revision material and exam marking need a paid plan.",
+    "plans3": "Plans are monthly or yearly and renew automatically until cancelled.",
+    "paymentTitle": "Payment, cancelling and refunds",
+    "payment1": "Our online reseller Paddle.com is the Merchant of Record for all orders. Paddle handles payment, tax, receipts and refunds.",
+    "payment2": "Cancel any time from the link in Paddle's receipt email. The plan keeps working until the end of the period already paid.",
+    "payment3": "Refunds follow Paddle's buyer terms. Ask through the receipt email if something went wrong.",
+    "changesTitle": "Changes",
+    "changes1": "If these terms change, we show the new date here. For price changes on an active plan, Paddle tells the payer before the next renewal."
   }
 }

@@ -3,7 +3,7 @@ import { z } from "zod";
 import { MarkSchemeSchema, MAX_EXAM_ANSWER } from "@/lib/revision";
 import { createClient } from "@/lib/supabase/server";
 import { isBlocking, logModeration, moderate } from "@/server/ai/moderation";
-import { consumeAiQuota } from "@/server/ai/quota";
+import { consumeAiQuota, hasAiAccess, PLAN_REQUIRED } from "@/server/ai/quota";
 import { markExamAnswer } from "@/server/ai/revision";
 import { revisionLocale } from "@/server/revision";
 import { getStudent } from "@/server/session";
@@ -40,6 +40,7 @@ export async function POST(req: Request, ctx: RouteContext<"/api/revision/exam/[
     return NextResponse.json({ error: "not_found" }, { status: 404 });
   }
 
+  if (!(await hasAiAccess())) return NextResponse.json(PLAN_REQUIRED, { status: 402 });
   if (!(await consumeAiQuota())) return NextResponse.json({ error: "rate_limited" }, { status: 429 });
 
   const answer = body.data.answer;

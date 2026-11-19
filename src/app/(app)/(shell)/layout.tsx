@@ -1,4 +1,5 @@
 import { getTranslations } from "next-intl/server";
+import { TrialBanner } from "@/components/billing/trial-banner";
 import { AppHeader } from "@/components/shell/app-header";
 import { CommandMenuProvider } from "@/components/shell/command-menu";
 import { MobileTabBar } from "@/components/shell/mobile-tab-bar";
@@ -19,6 +20,7 @@ export default async function ShellLayout({ children }: { children: React.ReactN
         {t("skipToContent")}
       </a>
       <AppHeader name={name} />
+      <TrialBanner />
       <main id="main" tabIndex={-1} className="mx-auto w-full max-w-6xl px-4 pt-6 pb-28 outline-none sm:px-6 sm:pt-10 md:pb-16">
         {children}
       </main>
