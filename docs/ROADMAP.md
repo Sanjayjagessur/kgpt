@@ -24,8 +24,8 @@ Status key: **Done** (built and tested on branch `feat/safety-and-syllabus-rag`)
 
 Ordered by value to students and evaluators.
 
-1. **Grounded but never gated answers.** The tutor uses official syllabus extracts when they exist and still answers when they don't. *Built, not live: see §4.*
-2. **Syllabus-aware tutor.** Answers name where the topic sits ("This is part of Grade 10 Physics: forces and motion") without showing internal machinery. *Built, not live.*
+1. **Grounded but never gated answers.** The tutor uses syllabus extracts when they exist and still answers when they don't. *Done: see §4 (official documents still to be loaded).*
+2. **Syllabus-aware tutor.** Answers name where the topic sits (live example: "this is part of Grade 10 Physics: Dynamics and forces") without showing internal machinery. *Done.*
 3. **Real safeguarding, not just filters.** Screening before anything is stored, chunked checking of replies before students see them, prompt-injection detection, age bands, verified Mauritian helplines. *Done: see §3.*
 4. **Past-paper practice by SC/HSC syllabus code**, marked against mark schemes with partial credit (exam marking exists; past papers need licensed sources). *Next.*
 5. **Exam countdown and study planner.** The student enters exam dates; the platform builds a weekly plan from weak units and spaced repetition. *Next.*
@@ -105,7 +105,7 @@ The design system is already strong (lagoon/flamboyant palette, Atkinson Hyperle
 | Phase | Content | Status |
 |---|---|---|
 | A | Roadmap; safety guardrails; help page | **Done** |
-| A2 | RAG foundation and ingestion | **Search live** (19 Nov): migrations applied, 57 draft outline documents loaded, retrieval checked on 14 questions in en/fr/mfe. A full live tutor chat is still to be checked (blocked: the Anthropic API key in `.env.local` returns 401) |
+| A2 | RAG foundation and ingestion | **Done, live** (19 Nov): migrations applied, 57 draft outline documents loaded, retrieval checked on 14 questions in en/fr/mfe; live tutor chats confirmed grounding (names the unit, never mentions extracts), prompt caching (turn 2 reads 1,383 cached tokens), jailbreak redirect, phone-number redaction and the self-harm reply with 113 |
 | B | Parental consent gate; data export/delete; CSP/HSTS; red-team suite; security.txt | Next |
 | C | Load official syllabi; embeddings; ground lessons and summaries; past papers | Next (needs your source documents and an embeddings key) |
 | D | Study planner and exam countdown; check-my-working; parent digest; offline unit packs | Next |

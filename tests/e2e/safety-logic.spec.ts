@@ -12,6 +12,9 @@ const M = "[removed]";
 test.describe("redactPersonalData", () => {
   const redacted = [
     "call me on 5123 4567",
+    "My number is 5123 4567, text me the answer",
+    "ring 212 3456.",
+    "WhatsApp +230 5765 4321!",
     "my number is 57654321",
     "+230 5765 4321 thanks",
     "00 230 5765 4321",
@@ -32,6 +35,7 @@ test.describe("redactPersonalData", () => {
     "6.02 × 10^23 particles",
     "Work out 12 + 345 6789",
     "calculate 512 × 34",
+    "the price is Rs 5123,45 today",
   ];
   for (const text of redacted) {
     test(`removes contact details: ${text}`, () => {

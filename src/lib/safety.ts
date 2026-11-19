@@ -13,7 +13,7 @@ const EMAIL = /[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}/g;
 // - landlines only in the usual 3-4 grouping ("212 3456", "212-3456"), never as a bare 7-digit number.
 // Thousands groups ("1 002 345 678"), decimals and constants (6.02 × 10^23) never match.
 const PHONE =
-  /(?<![\d.,+\-×*/=(]\s?)(?:\+\d{1,3}|00\s?230)[\s.-]?\d[\d\s.-]{5,14}\d(?![\d.,])|(?<![\d.,+\-×*/=(]\s?)(?:5\d{3}[\s.-]?\d{4}|[2-9]\d{2}[\s-]\d{4})(?![\d.,]|\s\d)/g;
+  /(?<![\d.,+\-×*/=(]\s?)(?:\+\d{1,3}|00\s?230)[\s.-]?\d[\d\s.-]{5,14}\d(?!\d|[.,]\d)|(?<![\d.,+\-×*/=(]\s?)(?:5\d{3}[\s.-]?\d{4}|[2-9]\d{2}[\s-]\d{4})(?!\d|[.,]\d|\s\d)/g;
 // Mauritian National Identity Card: letter, 12 digits, letter/digit (14 characters).
 const NIC = /\b[A-Za-z]\d{12}[A-Za-z0-9]\b/g;
 
