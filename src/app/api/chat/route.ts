@@ -189,13 +189,19 @@ export async function POST(req: Request) {
         );
 
         let stopReason: string | null = null;
+        const usage = { input: 0, cacheRead: 0, cacheWrite: 0, output: 0 };
         try {
           const stream = anthropic().messages.stream(request, { signal: stop.signal });
           for await (const event of stream) {
             if (event.type === "content_block_delta" && event.delta.type === "text_delta") {
               guard.push(event.delta.text);
+            } else if (event.type === "message_start") {
+              usage.input = event.message.usage.input_tokens;
+              usage.cacheRead = event.message.usage.cache_read_input_tokens ?? 0;
+              usage.cacheWrite = event.message.usage.cache_creation_input_tokens ?? 0;
             } else if (event.type === "message_delta") {
               stopReason = event.delta.stop_reason;
+              usage.output = event.usage.output_tokens;
             }
           }
         } catch (err) {
@@ -205,6 +211,11 @@ export async function POST(req: Request) {
           req.signal.removeEventListener("abort", onClientAbort);
         }
         await guard.finish();
+        // Counts only, never content: for cost tracking and cache-hit checks.
+        console.info(
+          "tutor_usage",
+          JSON.stringify({ ...usage, extracts: extracts.length, blocked: guard.blocked ?? undefined }),
+        );
 
         let reply = guard.released;
         if (guard.blocked || stopReason === "refusal" || (!reply.trim() && !req.signal.aborted)) {
