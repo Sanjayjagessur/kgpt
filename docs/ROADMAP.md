@@ -92,13 +92,29 @@ Ordered by value to students and evaluators.
 
 ## 5. Look and ease of use
 
-The design system is already strong (lagoon/flamboyant palette, Atkinson Hyperlegible, subject art, light and dark, 360 px-first). The next pass should polish rather than restyle:
-- **Home as a "today" plan:** one primary action (due flashcards, or continue lesson, or exam countdown task) instead of several equal cards.
-- **Tutor answers with structure:** collapsible "Steps", "Check yourself" and "Syllabus link" blocks rendered from the answer, not raw Markdown alone.
-- **Immediate feedback in quizzes** (myt Learn's W9) and celebration moments on mastery (one animation, reduced-motion aware).
-- **Explain weak areas:** show *why* a unit is weak (quiz 2/5 on 12 Nov, 3 flashcards overdue).
+The design system is already strong (lagoon/flamboyant palette, Atkinson Hyperlegible, subject art, light and dark, 360 px-first), so this pass evolves it rather than restyling. Design previews: the "myKPT look evolution" canvas.
+
+**Focus (decided 19 Nov 2026):** Grade 9 students and the MIE curriculum (NCF). New screens work for every grade; Grade 9 is the path that is polished, tested and demoed. Other grades stay as they are.
+
+Done (19 Nov, tested on 360 px and desktop, light and dark, axe WCAG AA):
+- **Landing page:** a static Grade 9 maths homework example with the unit label and a hint, a curriculum section, a safety section (no phone numbers, by decision), and English/French/Kreol side by side. Claims are limited to what is built.
+- **Home as a "Today" plan:** one primary step (due flashcards, then the lesson to continue, then the weakest unit with its last quiz score and date) and an exam countdown. Grade 9 students get "NCE" (National Certificate of Education) pre-filled; every student sets their own date.
+- **Tutor answers with structure:** a unit chip (only from the student's own grade, linking to the unit) plus "Key idea" and "Check yourself" cards. Homework mode never puts the answer in a card. Live Grade 9 checks passed in English, French and Kreol.
+- **Mastery moment:** a one-time celebration when a unit becomes mastered (from a lesson or a quiz), showing subject progress and the next unit.
+- **Explain weak areas:** the Today plan names the weak unit and why.
+
+Departures from the approved mockup:
+- Worked-example steps are numbered lists, not collapsible blocks (collapsing text while it streams is unreliable).
+- "Today" is the Learning home, not a new navigation tab.
+- The mastery screen shows lessons and quiz-based progress but no "cards learnt" count.
+- The unit chip shows the unit name in the interface language, not the tutor's reply language.
+
+Still to do:
+- **Local subject illustrations** (dodo, lagoon, Seven Cascades, ravanne, Le Morne, salt pans): the brief is on the design canvas; needs a real illustrator.
+- **Weekly study planner** built from weak units and exam dates.
+- **Immediate per-question feedback in revision quizzes** (myt Learn's W9).
 - **Laptop widths 900–1100 px:** keep every tool visible (myt Learn hid its tools panel).
-- Usability test with 5 students per stage (Grade 7, Grade 10, Grade 12) before the next judging round.
+- Usability test with 5 Grade 9 students before the next judging round.
 
 ## 6. Phases
 
@@ -108,8 +124,8 @@ The design system is already strong (lagoon/flamboyant palette, Atkinson Hyperle
 | A2 | RAG foundation and ingestion | **Done, live** (19 Nov): migrations applied, 57 draft outline documents loaded, retrieval checked on 14 questions in en/fr/mfe; live tutor chats confirmed grounding (names the unit, never mentions extracts), prompt caching (turn 2 reads 1,383 cached tokens), jailbreak redirect, phone-number redaction and the self-harm reply with 113 |
 | B | Parental consent gate; data export/delete; CSP/HSTS; red-team suite; security.txt | Next |
 | C | Load official syllabi; embeddings; ground lessons and summaries; past papers | Next (needs your source documents and an embeddings key) |
-| D | Study planner and exam countdown; check-my-working; parent digest; offline unit packs | Next |
-| E | UX polish pass (§5) with student usability tests | Next |
+| D | Exam countdown (**done**); weekly study planner; check-my-working; parent digest; offline unit packs | Next |
+| E | Look and ease of use (§5): landing page, Today home, structured tutor answers, mastery moment | **Done** (19 Nov); illustrations, planner and Grade 9 usability tests still to do |
 | F | Teacher app, safeguarding inbox, Ministry dashboard | Later |
 
 ## Sources
