@@ -1,0 +1,87 @@
+myKPT: TO-DO LIST
+Written 19 November 2026. Branch: feat/safety-and-syllabus-rag (committed, NOT pushed).
+Full detail and reasons: docs/ROADMAP.md
+
+=====================================================================
+YOU (only you can do these)
+=====================================================================
+[ ] Update ANTHROPIC_API_KEY in Vercel's environment settings (the old key was rejected;
+    the live site's tutor is probably failing until this is done).
+[ ] Collect official syllabus documents and put them in syllabus/inbox/ (see syllabus/README.md):
+      - MIE Teaching and Learning Syllabi, Grades 7-9, every subject
+      - Cambridge SC (O Level) and HSC (AS/A Level) syllabuses used in Mauritius
+      - MES past papers and mark schemes (check the licence for each)
+[ ] Ask a native Kreol Morisien speaker to review the new Kreol text
+    (messages/mfe.json: chat.safety, help, nav.help).
+[ ] Ask a lawyer to confirm the parental consent design meets DPA 2017 s.30, and start the
+    data protection impact assessment (DPA s.34).
+[ ] Decide when to merge and push the branch (a push to GitHub deploys to Vercel).
+[ ] Add the extra Haiku safety-check cost to the costing report (about 3-5 small calls per reply).
+[ ] Optional: get an embeddings API key (e.g. VOYAGE_API_KEY) to turn on meaning-based search.
+
+=====================================================================
+PHASE B: SAFETY AND PRIVACY (recommended next)
+=====================================================================
+[ ] Parental consent gate for students under 16 (DPA s.30): the parent confirms by email link;
+    the tutor stays locked until confirmed; lessons stay open.
+[ ] Data controls in Settings: export my data, delete my account.
+[ ] Publish retention periods in the privacy notice (e.g. chats 12 months, moderation events 90 days)
+    and add a scheduled clean-up job.
+[ ] Security headers: HSTS, and a Content-Security-Policy (report-only first, because of Paddle).
+[ ] Cache-Control: no-store on all signed-in pages and API responses.
+[ ] /.well-known/security.txt with a contact and a responsible disclosure policy.
+[ ] Red-team test set: about 50 jailbreak and injection prompts in en/fr/mfe, run before each release.
+[ ] Safeguarding alerts: repeated self-harm flags notify the parent (category and time only,
+    never chat content).
+[ ] Authorised penetration test before national rollout (Computer Misuse and Cybercrime Act).
+
+=====================================================================
+PHASE C: SYLLABUS KNOWLEDGE BASE
+=====================================================================
+[ ] Load the official documents (after you supply them) and re-check search on real questions.
+[ ] Vector (meaning-based) search when an embeddings key is available; blend it with keyword search.
+[ ] Ground lesson generation and revision summaries in the same syllabus extracts.
+[ ] Improve Kreol matching (e.g. "fotosintez" only found plant nutrition).
+[ ] Past-paper practice by SC/HSC syllabus code, marked against the mark schemes.
+[ ] Teacher upload page for school notes (source = teacher).
+
+=====================================================================
+PHASE D: LEARNING FEATURES RIVALS LACK
+=====================================================================
+[ ] Study planner and exam countdown: weekly plan built from weak units and due flashcards.
+[ ] "Check my working": photo of homework -> the tutor finds the first wrong step (hints, not answers).
+[ ] Weekly parent summary email: time studied, units mastered (never chat content).
+[ ] Offline unit packs: "download this unit" for students with poor data at home.
+[ ] Immediate right/wrong feedback on each quiz question.
+[ ] Explain weak areas ("quiz 2/5 on 12 Nov, 3 flashcards overdue").
+
+=====================================================================
+PHASE E: LOOK AND EASE OF USE
+=====================================================================
+[ ] Home as a "today" plan: one main action instead of several equal cards.
+[ ] Structured tutor answers: collapsible Steps, Check yourself and Syllabus link blocks.
+[ ] Celebration moment on mastery (one animation, respects reduced motion).
+[ ] Make sure every tool stays visible at laptop widths of 900-1100 px.
+[ ] Usability tests with 5 students each from Grade 7, Grade 10 and Grade 12.
+[ ] Accessibility extras: read-aloud (text to speech) and a dyslexia-friendly line-focus mode.
+
+=====================================================================
+PHASE F: LATER
+=====================================================================
+[ ] Teacher app: class codes, assignments, a safeguarding inbox for the school's safeguarding lead.
+[ ] Ministry usage dashboard (monthly active students, cost per active student).
+[ ] Kreol quality loop: native-speaker review queue, and a one-tap "awkward Kreol" flag for students.
+
+=====================================================================
+DONE THIS SESSION (for reference)
+=====================================================================
+[x] Competitor research and docs/ROADMAP.md
+[x] Paid-plan work committed separately (with a type fix)
+[x] Safety: contact details removed before storage, messages and images screened before saving,
+    replies checked paragraph by paragraph, jailbreak redirect, age band for Grades 7-9,
+    6-second safety-check timeout with fallback, 113/999/114 in the support reply
+[x] Public Get help page (en/fr/mfe) with tap-to-call numbers
+[x] Syllabus knowledge base live: 2 migrations applied, 57 draft outline documents loaded,
+    search tested in en/fr/mfe, ingest script for official documents
+[x] Live tutor test passed: grounding, prompt caching, jailbreak, redaction, self-harm reply
+[x] Token usage logging per reply (counts only)
