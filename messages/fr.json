@@ -54,7 +54,8 @@
     "searchNotes": "Notes",
     "searchChats": "Chats",
     "untitledNote": "Note sans titre",
-    "searching": "Recherche…"
+    "searching": "Recherche…",
+    "help": "Obtenir de l'aide"
   },
   "languages": {
     "en": "English",
@@ -403,8 +404,10 @@
     "send": "Envoyer",
     "disclaimer": "Le tuteur peut se tromper. Vérifie les réponses importantes avec ton professeur ou tes leçons.",
     "safety": {
-      "support": "On dirait que tu traverses un moment très difficile, et c'est bien d'en avoir parlé. Tu n'as pas à gérer ça tout seul. Parle aujourd'hui à un adulte de confiance : un parent, un tuteur légal, un professeur ou le conseiller de ton école.\n\nSi tu es en danger ou si tu risques de te faire du mal, appelle tout de suite le **999** (police) ou le **114** (SAMU).\n\nQuand tu te sentiras prêt, je suis là pour t'aider dans ton travail scolaire.",
-      "cantHelp": "Je ne peux pas t'aider avec ça. Revenons à tes études : sur quelle matière ou quelle question puis-je t'aider ?"
+      "support": "On dirait que tu traverses un moment très difficile, et c'est bien d'en avoir parlé. Tu n'as pas à gérer ça tout seul. Parle aujourd'hui à un adulte de confiance : un parent, un tuteur légal, un professeur ou le conseiller de ton école.\n\nÀ Maurice, tu peux appeler le **113** à tout moment (hotline de la Child Development Unit, gratuite, 24 h/24) si quelqu'un te fait du mal ou si tu ne te sens pas en sécurité. Si tu es en danger ou si tu risques de te faire du mal, appelle tout de suite le **999** (police) ou le **114** (SAMU).\n\nLa page **Obtenir de l'aide**, dans ton menu de profil, liste les personnes qui peuvent t'aider. Quand tu te sentiras prêt, je suis là pour t'aider dans ton travail scolaire.",
+      "cantHelp": "Je ne peux pas t'aider avec ça. Revenons à tes études : sur quelle matière ou quelle question puis-je t'aider ?",
+      "redacted": "[retiré pour ta sécurité]",
+      "manipulation": "Je suis ton tuteur pour les études, et ma façon de fonctionner ne peut pas être modifiée depuis la discussion. Revenons à tes études : sur quelle matière ou quelle question puis-je t'aider ?"
     }
   },
   "revision": {
@@ -712,5 +715,24 @@
     "payment3": "Les remboursements suivent les conditions acheteur de Paddle. Écrivez via l'e-mail de reçu en cas de problème.",
     "changesTitle": "Modifications",
     "changes1": "Si ces conditions changent, la nouvelle date apparaît ici. Pour un changement de prix d'un abonnement actif, Paddle prévient le payeur avant le prochain renouvellement."
+  },
+  "help": {
+    "title": "Obtenir de l'aide",
+    "intro": "Si quelque chose t'inquiète, tu n'as pas à le gérer seul. Ces personnes peuvent t'aider, gratuitement.",
+    "urgentTitle": "Si tu es en danger maintenant",
+    "police": "Police",
+    "samu": "SAMU (ambulance)",
+    "childTitle": "Si quelqu'un te fait du mal, ou si tu ne te sens pas en sécurité à la maison ou ailleurs",
+    "child": "Hotline de la Child Development Unit : gratuite, 24 h/24, 7 j/7",
+    "talkTitle": "Parle à quelqu'un de confiance",
+    "talk1": "Un parent, un tuteur légal ou un autre adulte de ta famille",
+    "talk2": "Un professeur, ton titulaire de classe ou le conseiller de l'école",
+    "talk3": "Le recteur ou le recteur adjoint de ton école",
+    "tutorTitle": "À propos du tuteur",
+    "tutor1": "Le tuteur est un programme informatique, pas une personne. Il ne peut appeler personne pour toi ni te protéger.",
+    "tutor2": "Ne partage jamais ton numéro de téléphone, ton adresse, ton école ou des photos de toi dans la discussion. Le tuteur retire les coordonnées qu'il repère.",
+    "tutor3": "Si le tuteur dit quelque chose qui te dérange ou qui semble faux, parles-en à un professeur ou à un parent.",
+    "call": "Appeler le {number}",
+    "back": "Retour aux études"
   }
 }

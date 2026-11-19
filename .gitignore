@@ -26,3 +26,9 @@ playwright-report/
 .DS_Store
 Thumbs.db
 npm-debug.log*
+
+# Syllabus source documents (copyrighted; only manifests and examples are committed)
+syllabus/inbox/**/*.pdf
+syllabus/inbox/**/*.txt
+syllabus/inbox/*/*.md
+!syllabus/inbox/_*/*.md

@@ -54,7 +54,8 @@
     "searchNotes": "Not",
     "searchChats": "Chat",
     "untitledNote": "Not san tit",
-    "searching": "Pe rode…"
+    "searching": "Pe rode…",
+    "help": "Gagn led"
   },
   "languages": {
     "en": "English",
@@ -403,8 +404,10 @@
     "send": "Avoy mesaz",
     "disclaimer": "Titer-la kapav fer erer. Verifie bann repons inportan avek to profeser ouswa to leson.",
     "safety": {
-      "support": "Li paret ki to pe pas par enn moman bien difisil, ek li bien ki to finn dir li. To pa bizin fer fas ar sa tousel. Koz ar enn adilt ki to fer konfians zordi, kouma to paran, to gardien, enn profeser ouswa konseye lekol.\n\nSi to an danze ouswa si to kapav fer twa dimal, apel **999** (lapolis) ouswa **114** (SAMU) aster-la.\n\nKan to pare, mo la pou ed twa ar to travay lekol.",
-      "cantHelp": "Mo pa kapav ed twa ar sa. Anou retourn ar to aprantisaz: lor ki size ouswa ki kestion mo kapav ed twa?"
+      "support": "Li paret ki to pe pas par enn moman bien difisil, ek li bien ki to finn dir li. To pa bizin fer fas ar sa tousel. Koz ar enn adilt ki to fer konfians zordi, kouma to paran, to gardien, enn profeser ouswa konseye lekol.\n\nDan Moris, to kapav apel **113** nenport ki ler (hotline Child Development Unit, gratis, 24 ler lor 24) si enn kikenn pe fer twa dimal ouswa si to pa santi twa an sekirite. Si to an danze ouswa si to kapav fer twa dimal, apel **999** (lapolis) ouswa **114** (SAMU) aster-la.\n\nLapaz **Gagn led** dan to menu profil ena lalis dimoun ki kapav ed twa. Kan to pare, mo la pou ed twa ar to travay lekol.",
+      "cantHelp": "Mo pa kapav ed twa ar sa. Anou retourn ar to aprantisaz: lor ki size ouswa ki kestion mo kapav ed twa?",
+      "redacted": "[tire pou to sekirite]",
+      "manipulation": "Mo to tuter pou letid, ek fason mo travay pa kapav sanze depi dan diskisyon-la. Anou retourn ar to aprantisaz: lor ki size ouswa ki kestion mo kapav ed twa?"
     }
   },
   "revision": {
@@ -712,5 +715,24 @@
     "payment3": "Ranbourseman swiv kondision aseter Paddle. Ekrir atraver email resi si ena enn problem.",
     "changesTitle": "Sanzman",
     "changes1": "Si sa bann kondision-la sanze, nouvo dat-la parett isi. Pou enn sanzman pri lor enn abonnman aktif, Paddle averti peyer-la avan prosenn renouvelman."
+  },
+  "help": {
+    "title": "Gagn led",
+    "intro": "Si enn zafer pe trakas twa, to pa bizin fer fas ar li tousel. Sa bann dimoun-la kapav ed twa, gratis.",
+    "urgentTitle": "Si to an danze aster-la",
+    "police": "Lapolis",
+    "samu": "Anbilans SAMU",
+    "childTitle": "Si enn kikenn pe fer twa dimal, ouswa si to pa santi twa an sekirite lakaz ouswa okenn lot plas",
+    "child": "Hotline Child Development Unit: gratis, 24 ler lor 24, 7 zour lor 7",
+    "talkTitle": "Koz ar enn dimoun ki to fer konfians",
+    "talk1": "Enn paran, enn gardien ouswa enn lot adilt dan to fami",
+    "talk2": "Enn profeser, to titiler klas ouswa konseye lekol",
+    "talk3": "Rekter ouswa depite rekter to lekol",
+    "tutorTitle": "Konsernan tuter-la",
+    "tutor1": "Tuter-la enn program lordinater, li pa enn dimoun. Li pa kapav apel personn pou twa ni protez twa.",
+    "tutor2": "Zame partaz to nimero telefonn, to ladres, to lekol ouswa foto twa dan diskisyon-la. Tuter-la tir bann detay kontak ki li trouve.",
+    "tutor3": "Si tuter-la dir enn zafer ki fer twa lapenn ouswa ki paret fos, dir enn profeser ouswa enn paran.",
+    "call": "Apel {number}",
+    "back": "Retourn ar letid"
   }
 }

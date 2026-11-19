@@ -28,6 +28,10 @@ export async function buildTutorRequest(input: {
   history: HistoryMessage[];
   mode: ChatMode;
   subjectId: string | null;
+  /** The latest message's attachments, already loaded (see loadAttachmentBlocks). */
+  latestAttachmentBlocks: Anthropic.ContentBlockParam[];
+  /** Syllabus extracts for this turn (see syllabusContextBlock), or null. */
+  syllabusContext: string | null;
 }): Promise<Anthropic.MessageCreateParamsStreaming> {
   const { student, mode, subjectId } = input;
   const recent = input.history.slice(-CONTEXT_MESSAGES);
@@ -39,12 +43,7 @@ export async function buildTutorRequest(input: {
     const isLatest = i === recent.length - 1;
     const blocks: Anthropic.ContentBlockParam[] = [];
 
-    if (isLatest && m.role === "user") {
-      for (const a of m.attachments) {
-        const block = await attachmentBlock(input.supabase, student.id, a);
-        if (block) blocks.push(block);
-      }
-    }
+    if (isLatest && m.role === "user") blocks.push(...input.latestAttachmentBlocks);
     const note =
       !isLatest && m.attachments.length ? `\n\n[Attached earlier: ${m.attachments.map((a) => a.name).join(", ")}]` : "";
     const text = (m.content + note).trim();
@@ -63,6 +62,11 @@ export async function buildTutorRequest(input: {
     const block = last.content.at(-1)!;
     if (block.type === "text" || block.type === "image" || block.type === "document") {
       block.cache_control = { type: "ephemeral" };
+    }
+    // Syllabus extracts go after the cache breakpoint: they change every turn and are
+    // not stored, so the cached prefix (system + stored conversation) stays reusable.
+    if (last.role === "user" && input.syllabusContext) {
+      last.content.push({ type: "text", text: input.syllabusContext });
     }
   }
 
@@ -89,6 +93,16 @@ export async function buildTutorRequest(input: {
     ],
     messages,
   };
+}
+
+/** Loads the student's attachments as Claude content blocks (images and PDFs). */
+export async function loadAttachmentBlocks(
+  supabase: Supabase,
+  userId: string,
+  attachments: Attachment[],
+): Promise<Anthropic.ContentBlockParam[]> {
+  const blocks = await Promise.all(attachments.map((a) => attachmentBlock(supabase, userId, a)));
+  return blocks.filter((b): b is Anthropic.ContentBlockParam => b !== null);
 }
 
 async function attachmentBlock(

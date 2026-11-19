@@ -849,6 +849,130 @@ export type Database = {
           },
         ]
       }
+      syllabus_chunks: {
+        Row: {
+          content: string
+          document_id: string
+          embedding: string | null
+          fts: unknown
+          grade_max: number
+          grade_min: number
+          heading: string
+          id: number
+          locale: Database["public"]["Enums"]["locale_code"]
+          position: number
+          source: Database["public"]["Enums"]["syllabus_source"]
+          subject_id: string
+          unit_id: string | null
+        }
+        Insert: {
+          content: string
+          document_id: string
+          embedding?: string | null
+          grade_max: number
+          grade_min: number
+          heading?: string
+          id?: never
+          locale: Database["public"]["Enums"]["locale_code"]
+          position: number
+          source: Database["public"]["Enums"]["syllabus_source"]
+          subject_id: string
+          unit_id?: string | null
+        }
+        Update: {
+          content?: string
+          document_id?: string
+          embedding?: string | null
+          grade_max?: number
+          grade_min?: number
+          heading?: string
+          id?: never
+          locale?: Database["public"]["Enums"]["locale_code"]
+          position?: number
+          source?: Database["public"]["Enums"]["syllabus_source"]
+          subject_id?: string
+          unit_id?: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "syllabus_chunks_document_id_fkey"
+            columns: ["document_id"]
+            isOneToOne: false
+            referencedRelation: "syllabus_documents"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "syllabus_chunks_subject_id_fkey"
+            columns: ["subject_id"]
+            isOneToOne: false
+            referencedRelation: "subjects"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "syllabus_chunks_unit_id_fkey"
+            columns: ["unit_id"]
+            isOneToOne: false
+            referencedRelation: "units"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      syllabus_documents: {
+        Row: {
+          created_at: string
+          grade_max: number
+          grade_min: number
+          id: string
+          licence: string | null
+          locale: Database["public"]["Enums"]["locale_code"]
+          publisher: string | null
+          slug: string
+          source: Database["public"]["Enums"]["syllabus_source"]
+          subject_id: string
+          title: string
+          updated_at: string
+          url: string | null
+        }
+        Insert: {
+          created_at?: string
+          grade_max: number
+          grade_min: number
+          id?: string
+          licence?: string | null
+          locale: Database["public"]["Enums"]["locale_code"]
+          publisher?: string | null
+          slug: string
+          source: Database["public"]["Enums"]["syllabus_source"]
+          subject_id: string
+          title: string
+          updated_at?: string
+          url?: string | null
+        }
+        Update: {
+          created_at?: string
+          grade_max?: number
+          grade_min?: number
+          id?: string
+          licence?: string | null
+          locale?: Database["public"]["Enums"]["locale_code"]
+          publisher?: string | null
+          slug?: string
+          source?: Database["public"]["Enums"]["syllabus_source"]
+          subject_id?: string
+          title?: string
+          updated_at?: string
+          url?: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "syllabus_documents_subject_id_fkey"
+            columns: ["subject_id"]
+            isOneToOne: false
+            referencedRelation: "subjects"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
       topic_mastery: {
         Row: {
           level: Database["public"]["Enums"]["mastery_level"]
@@ -1015,6 +1139,27 @@ export type Database = {
       }
       has_ai_access: { Args: never; Returns: boolean }
       log_study_time: { Args: { p_seconds: number }; Returns: undefined }
+      search_syllabus: {
+        Args: {
+          p_grade: number
+          p_limit?: number
+          p_locale: Database["public"]["Enums"]["locale_code"]
+          p_query: string
+          p_subjects: string[]
+        }
+        Returns: {
+          content: string
+          document_title: string
+          grade_max: number
+          grade_min: number
+          heading: string
+          id: number
+          rank: number
+          source: Database["public"]["Enums"]["syllabus_source"]
+          subject_id: string
+          unit_id: string
+        }[]
+      }
     }
     Enums: {
       billing_plan: "monthly" | "yearly"
@@ -1031,6 +1176,7 @@ export type Database = {
         | "past_due"
         | "paused"
         | "canceled"
+      syllabus_source: "official" | "teacher" | "generated"
       user_role: "student" | "teacher"
     }
     CompositeTypes: {
@@ -1177,6 +1323,7 @@ export const Constants = {
         "paused",
         "canceled",
       ],
+      syllabus_source: ["official", "teacher", "generated"],
       user_role: ["student", "teacher"],
     },
   },

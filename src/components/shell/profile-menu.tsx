@@ -1,6 +1,6 @@
 "use client";
 
-import { ChartNoAxesColumnIncreasing, Languages, LogOut, Monitor, Moon, NotebookPen, Settings, Sun } from "lucide-react";
+import { ChartNoAxesColumnIncreasing, Languages, LifeBuoy, LogOut, Monitor, Moon, NotebookPen, Settings, Sun } from "lucide-react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { useLocale, useTranslations } from "next-intl";
@@ -59,6 +59,10 @@ export function ProfileMenu({ name }: { name: string }) {
         <DropdownMenuItem render={<Link href="/settings" />}>
           <Settings aria-hidden="true" />
           {t("settings")}
+        </DropdownMenuItem>
+        <DropdownMenuItem render={<Link href="/help" />}>
+          <LifeBuoy aria-hidden="true" />
+          {t("help")}
         </DropdownMenuItem>
         <DropdownMenuSeparator />
         <DropdownMenuSub>

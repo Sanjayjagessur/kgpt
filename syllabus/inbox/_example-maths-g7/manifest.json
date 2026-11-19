@@ -1,0 +1,11 @@
+{
+  "slug": "example-maths-g7",
+  "title": "Example: Grade 7 Mathematics notes (replace with the MIE Teaching and Learning Syllabus)",
+  "subject": "mathematics",
+  "gradeMin": 7,
+  "gradeMax": 7,
+  "locale": "en",
+  "source": "teacher",
+  "publisher": "Example only",
+  "licence": "Example content written for testing the ingest script"
+}

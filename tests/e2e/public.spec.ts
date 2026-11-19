@@ -1,7 +1,7 @@
 import AxeBuilder from "@axe-core/playwright";
 import { expect, test } from "@playwright/test";
 
-const PUBLIC_PAGES = ["/", "/sign-in", "/sign-up", "/privacy"];
+const PUBLIC_PAGES = ["/", "/sign-in", "/sign-up", "/privacy", "/help"];
 
 for (const path of PUBLIC_PAGES) {
   test(`${path} has no WCAG A/AA violations (light and dark)`, async ({ page }) => {
@@ -47,5 +47,22 @@ test("interface switches to French from the Accept-Language header", async ({ br
   const page = await context.newPage();
   await page.goto("/sign-in");
   await expect(page.getByRole("heading", { level: 1 })).toHaveText("Bon retour");
+  await context.close();
+});
+
+test("help page is public and lists tap-to-call Mauritian helplines", async ({ page }) => {
+  await page.goto("/help");
+  await expect(page).toHaveURL(/\/help$/);
+  for (const number of ["999", "114", "113"]) {
+    await expect(page.locator(`a[href="tel:${number}"]`)).toBeVisible();
+  }
+});
+
+test("help page is translated into Kreol Morisien", async ({ browser }) => {
+  const context = await browser.newContext();
+  await context.addCookies([{ name: "NEXT_LOCALE", value: "mfe", url: "http://localhost:3000" }]);
+  const page = await context.newPage();
+  await page.goto("/help");
+  await expect(page.getByRole("heading", { level: 1 })).toHaveText("Gagn led");
   await context.close();
 });

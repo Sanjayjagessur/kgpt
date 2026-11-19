@@ -2,7 +2,7 @@ import { NextResponse } from "next/server";
 import { z } from "zod";
 import { MarkSchemeSchema, MAX_EXAM_ANSWER } from "@/lib/revision";
 import { createClient } from "@/lib/supabase/server";
-import { isBlocking, logModeration, moderate } from "@/server/ai/moderation";
+import { isBlockingInput, logModeration, moderate } from "@/server/ai/moderation";
 import { consumeAiQuota, hasAiAccess, PLAN_REQUIRED } from "@/server/ai/quota";
 import { markExamAnswer } from "@/server/ai/revision";
 import { revisionLocale } from "@/server/revision";
@@ -45,7 +45,7 @@ export async function POST(req: Request, ctx: RouteContext<"/api/revision/exam/[
 
   const answer = body.data.answer;
   try {
-    const [category, result] = await Promise.all([
+    const [{ category }, result] = await Promise.all([
       moderate(answer),
       markExamAnswer({
         subjectId: question.units.subject_id,
@@ -56,7 +56,7 @@ export async function POST(req: Request, ctx: RouteContext<"/api/revision/exam/[
         locale: revisionLocale(student, question.units.subject_id),
       }),
     ]);
-    if (isBlocking(category)) {
+    if (isBlockingInput(category)) {
       void logModeration(student.id, category, "input");
       return NextResponse.json({ error: category === "self_harm" ? "support" : "unsafe" }, { status: 422 });
     }

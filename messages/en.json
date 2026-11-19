@@ -54,7 +54,8 @@
     "searchNotes": "Notes",
     "searchChats": "Chats",
     "untitledNote": "Untitled note",
-    "searching": "Searching…"
+    "searching": "Searching…",
+    "help": "Get help"
   },
   "languages": {
     "en": "English",
@@ -403,8 +404,10 @@
     "send": "Send message",
     "disclaimer": "The tutor can make mistakes. Check important answers with your teacher or your lessons.",
     "safety": {
-      "support": "It sounds like you're going through something really hard, and I'm glad you said something. You don't have to deal with this alone. Please talk to an adult you trust today, like a parent, guardian, teacher or your school counsellor.\n\nIf you are in danger or might hurt yourself, call **999** (police) or **114** (SAMU ambulance) now.\n\nWhenever you're ready, I'm here to help with your school work.",
-      "cantHelp": "I can't help with that. Let's get back to your learning: what subject or question can I help you with?"
+      "support": "It sounds like you're going through something really hard, and I'm glad you said something. You don't have to deal with this alone. Please talk to an adult you trust today, like a parent, guardian, teacher or your school counsellor.\n\nIn Mauritius you can call **113** at any time (Child Development Unit hotline, free, 24 hours) if someone is hurting you or you don't feel safe. If you are in danger or might hurt yourself, call **999** (police) or **114** (SAMU ambulance) now.\n\nThere is a list of people who can help on the **Get help** page in your profile menu. Whenever you're ready, I'm here to help with your school work.",
+      "cantHelp": "I can't help with that. Let's get back to your learning: what subject or question can I help you with?",
+      "redacted": "[removed for your safety]",
+      "manipulation": "I'm your study tutor, and the way I work can't be changed from the chat. Let's get back to learning: what subject or question can I help you with?"
     }
   },
   "revision": {
@@ -712,5 +715,24 @@
     "payment3": "Refunds follow Paddle's buyer terms. Ask through the receipt email if something went wrong.",
     "changesTitle": "Changes",
     "changes1": "If these terms change, we show the new date here. For price changes on an active plan, Paddle tells the payer before the next renewal."
+  },
+  "help": {
+    "title": "Get help",
+    "intro": "If something is worrying you, you don't have to deal with it alone. These people can help, for free.",
+    "urgentTitle": "If you are in danger right now",
+    "police": "Police",
+    "samu": "SAMU ambulance",
+    "childTitle": "If someone is hurting you, or you don't feel safe at home or anywhere",
+    "child": "Child Development Unit hotline: free, 24 hours, 7 days a week",
+    "talkTitle": "Talk to someone you trust",
+    "talk1": "A parent, guardian or another adult in your family",
+    "talk2": "A teacher, your form tutor or the school counsellor",
+    "talk3": "Your school's rector or deputy rector",
+    "tutorTitle": "About the tutor",
+    "tutor1": "The tutor is a computer program, not a person. It can't call anyone for you or keep you safe.",
+    "tutor2": "Never share your phone number, address, school or photos of yourself in the chat. The tutor removes contact details it spots.",
+    "tutor3": "If the tutor says something that upsets you or seems wrong, tell a teacher or parent.",
+    "call": "Call {number}",
+    "back": "Back to learning"
   }
 }
