@@ -48,19 +48,19 @@ PHASE C: SYLLABUS KNOWLEDGE BASE
 =====================================================================
 PHASE D: LEARNING FEATURES RIVALS LACK
 =====================================================================
-[ ] Study planner and exam countdown: weekly plan built from weak units and due flashcards.
+[~] Study planner and exam countdown: Today plan + countdown done; a full weekly plan is still to do.
 [ ] "Check my working": photo of homework -> the tutor finds the first wrong step (hints, not answers).
 [ ] Weekly parent summary email: time studied, units mastered (never chat content).
 [ ] Offline unit packs: "download this unit" for students with poor data at home.
 [ ] Immediate right/wrong feedback on each quiz question.
-[ ] Explain weak areas ("quiz 2/5 on 12 Nov, 3 flashcards overdue").
+[x] Explain weak areas: the Today plan shows the weak unit with its last quiz score and date.
 
 =====================================================================
 PHASE E: LOOK AND EASE OF USE
 =====================================================================
-[ ] Home as a "today" plan: one main action instead of several equal cards.
-[ ] Structured tutor answers: collapsible Steps, Check yourself and Syllabus link blocks.
-[ ] Celebration moment on mastery (one animation, respects reduced motion).
+[x] Home as a "today" plan: one main action, exam countdown (NCE pre-filled for Grade 9).
+[x] Structured tutor answers: unit chip, Key idea and Check yourself cards (steps as numbered lists).
+[x] Celebration moment on mastery (one animation, respects reduced motion).
 [ ] Make sure every tool stays visible at laptop widths of 900-1100 px.
 [ ] Usability tests with 5 students each from Grade 7, Grade 10 and Grade 12.
 [ ] Accessibility extras: read-aloud (text to speech) and a dyslexia-friendly line-focus mode.
@@ -71,6 +71,18 @@ PHASE F: LATER
 [ ] Teacher app: class codes, assignments, a safeguarding inbox for the school's safeguarding lead.
 [ ] Ministry usage dashboard (monthly active students, cost per active student).
 [ ] Kreol quality loop: native-speaker review queue, and a one-tap "awkward Kreol" flag for students.
+
+=====================================================================
+FOCUS (decided 19 Nov 2026)
+=====================================================================
+- Current focus: Grade 9 students and the MIE curriculum (NCF). Other grades stay as they are.
+- New screens work for every grade; Grade 9 is the path we polish, test and demo.
+- Waiting on: MIE Teaching and Learning Syllabus Grade 7-9 files (official flipbooks:
+  https://web.mie.ac.mu/curriculum_books/ -> "Teaching and Learning Syllabi Grades 7-11"),
+  and MIE permission before launch (the site says "All Rights Reserved").
+- Open question for later: NCF Grades 7-9 may teach Science as one subject; the app splits it
+  into Biology, Chemistry and Physics. Check against the TLS when it arrives.
+- Local subject illustrations: brief is on the design canvas; needs a real illustrator.
 
 =====================================================================
 DONE THIS SESSION (for reference)
@@ -85,3 +97,5 @@ DONE THIS SESSION (for reference)
     search tested in en/fr/mfe, ingest script for official documents
 [x] Live tutor test passed: grounding, prompt caching, jailbreak, redaction, self-harm reply
 [x] Token usage logging per reply (counts only)
+[x] New landing page (tutor example, curriculum, safety without phone numbers, 3 languages)
+[x] Today home, structured tutor answers, mastery moment (all tested; live Grade 9 check passed)

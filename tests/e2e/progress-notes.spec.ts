@@ -83,6 +83,11 @@ test("a strong quiz raises unit mastery", async ({ page }) => {
   const answers = (attempt!.questions as { correctOption: number }[]).map((q) => q.correctOption);
   for (let i = 0; i < 6; i++) await questions.nth(i).locator("label").nth(answers[i]).click();
   await page.getByRole("button", { name: "Submit answers" }).click();
+  // Mastering the unit through the quiz opens the celebration first.
+  const dialog = page.getByRole("dialog");
+  await expect(dialog).toContainText("Unit mastered");
+  await page.keyboard.press("Escape");
+  await expect(dialog).toBeHidden();
   await expect(page.getByRole("status")).toContainText("6 of 6 correct");
 
   await expect
