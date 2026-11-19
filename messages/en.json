@@ -189,7 +189,8 @@
     "greetingMorning": "Good morning, {name}",
     "greetingAfternoon": "Good afternoon, {name}",
     "greetingEvening": "Good evening, {name}",
-    "subtitle": "Here's your week so far."
+    "subtitle": "Here's your week so far.",
+    "examSuggestionGrade9": "NCE"
   },
   "streak": {
     "title": "This week",
@@ -792,5 +793,32 @@
     "tutor3": "If the tutor says something that upsets you or seems wrong, tell a teacher or parent.",
     "call": "Call {number}",
     "back": "Back to learning"
+  },
+  "today": {
+    "planTitle": "Today's plan",
+    "planTime": "About {minutes} min",
+    "stepLabel": "Step {step} · about {minutes} min",
+    "minutes": "{minutes} min",
+    "start": "Start",
+    "cardsTitle": "{count, plural, one {Review # flashcard} other {Review # flashcards}}",
+    "cardsDetail": "Cards that are due today, a few minutes now saves hours before the exam.",
+    "lessonTitle": "Finish: {title}",
+    "lessonStartTitle": "Start: {title}",
+    "weakTitle": "Practise your weak spot: {title}",
+    "weakQuiz": "{subject} · quiz {score}% on {date}",
+    "weakNoQuiz": "{subject} · started but not mastered yet",
+    "emptyTitle": "Nothing planned yet",
+    "emptyBody": "Open any subject below and start a lesson. Your plan for tomorrow builds from there.",
+    "examTitle": "Next exam",
+    "examDays": "{count, plural, =0 {today} one {day to go} other {days to go}}",
+    "examOn": "{label} on {date}",
+    "examRemove": "Remove {label}",
+    "examAddTitle": "Add your next exam",
+    "examAddBody": "We'll count down the days and put your weak units first.",
+    "examLabel": "Exam name",
+    "examDate": "Date",
+    "examSave": "Save exam",
+    "examDateError": "Pick a date between today and two years from now.",
+    "examError": "That didn't save. Check your connection and try again."
   }
 }

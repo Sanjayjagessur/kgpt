@@ -189,7 +189,8 @@
     "greetingMorning": "Bonzour, {name}",
     "greetingAfternoon": "Bonn apremidi, {name}",
     "greetingEvening": "Bonswar, {name}",
-    "subtitle": "Guet kouma to semenn pe ale."
+    "subtitle": "Guet kouma to semenn pe ale.",
+    "examSuggestionGrade9": "NCE"
   },
   "streak": {
     "title": "Sa semenn-la",
@@ -792,5 +793,32 @@
     "tutor3": "Si tuter-la dir enn zafer ki fer twa lapenn ouswa ki paret fos, dir enn profeser ouswa enn paran.",
     "call": "Apel {number}",
     "back": "Retourn ar letid"
+  },
+  "today": {
+    "planTitle": "Plan zordi",
+    "planTime": "Apepre {minutes} min",
+    "stepLabel": "Etap {step} · apepre {minutes} min",
+    "minutes": "{minutes} min",
+    "start": "Koumanse",
+    "cardsTitle": "{count, plural, one {Revoir # kart} other {Revoir # kart}}",
+    "cardsDetail": "Bann kart pou revoir zordi: enn tigit minit aster fer twa gagn plizier ler avan lekzamen.",
+    "lessonTitle": "Fini: {title}",
+    "lessonStartTitle": "Koumanse: {title}",
+    "weakTitle": "Pratik to pwin feb: {title}",
+    "weakQuiz": "{subject} · quiz {score}% le {date}",
+    "weakNoQuiz": "{subject} · koumanse me pa ankor metrize",
+    "emptyTitle": "Nanye pa ankor plani",
+    "emptyBody": "Ouver enn size anba ek koumanse enn leson. To plan pou demin pou konstrir depi la.",
+    "examTitle": "Prosen lekzamen",
+    "examDays": "{count, plural, =0 {zordi} one {zour ki reste} other {zour ki reste}}",
+    "examOn": "{label} le {date}",
+    "examRemove": "Tir {label}",
+    "examAddTitle": "Azout to prosen lekzamen",
+    "examAddBody": "Nou pou konte bann zour ek met to bann inite feb an premie.",
+    "examLabel": "Non lekzamen",
+    "examDate": "Dat",
+    "examSave": "Anrezistre",
+    "examDateError": "Swazir enn dat ant zordi ek de an.",
+    "examError": "Pa finn kapav anrezistre. Get to koneksion ek reseye."
   }
 }

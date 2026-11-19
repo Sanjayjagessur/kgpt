@@ -7,12 +7,12 @@ export async function signIn(page: Page, student: { email: string; password: str
   await page.getByRole("button", { name: "Sign in", exact: true }).click();
 }
 
-/** Completes onboarding as a Grade 10 student taking the given subjects. */
-export async function onboard(page: Page, subjects = ["Mathematics", "Physics"]) {
+/** Completes onboarding as a student in the given grade (default Grade 10) taking the given subjects. */
+export async function onboard(page: Page, subjects = ["Mathematics", "Physics"], grade = 10) {
   await expect(page).toHaveURL(/\/onboarding$/);
   await page.getByLabel("Name").fill("Aisha");
   await page.getByRole("button", { name: "Continue" }).click();
-  await page.getByRole("radio", { name: /Grade 10/ }).click();
+  await page.getByRole("radio", { name: new RegExp(`Grade ${grade}\\b`) }).click();
   await page.getByRole("button", { name: "Continue" }).click();
   await page.getByRole("button", { name: "Clear" }).click();
   for (const s of subjects) await page.getByRole("checkbox", { name: s, exact: true }).click();

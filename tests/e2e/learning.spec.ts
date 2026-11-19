@@ -39,7 +39,7 @@ test("browse from subject to unit to lesson", async ({ page }) => {
   await expect(page.locator(".katex").first()).toBeVisible();
 });
 
-test("completing a lesson updates progress and the continue card", async ({ page }) => {
+test("completing a lesson updates progress and the Today plan", async ({ page }) => {
   await page.goto(LESSON_URL);
   const checks = page.locator('section[aria-labelledby="checks-title"] article');
   const count = await checks.count();
@@ -62,10 +62,10 @@ test("completing a lesson updates progress and the continue card", async ({ page
   await expect(page.getByText("Lesson complete")).toBeVisible();
   await expect(page.getByRole("link", { name: "Next lesson" })).toBeVisible();
 
+  // The Today plan now points to the next lesson in the unit.
   await page.goto("/learn");
-  const cont = page.getByRole("region", { name: "Continue where you left off" });
-  await expect(cont).toContainText("Indices and laws of indices");
-  await expect(cont).toContainText("1 of 4 lessons done");
+  const plan = page.getByRole("region", { name: "Today's plan" });
+  await expect(plan).toContainText("Start: Indices and laws of indices");
 });
 
 test("worked examples reveal one step at a time", async ({ page }) => {
